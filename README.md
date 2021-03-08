@@ -1,5 +1,5 @@
 # tiktok-trending-data
-Repo that scrapes discover data from TikTok!
+Repo that scrapes discovery data from TikTok!
 
 This repo scrapes TikTok's Web Discovery API every 1 hour and makes commit whenever it detects any change.
 It scrapes data from "t.tiktok.com", there are 2 more domains which show different data. I'll add it on request.
