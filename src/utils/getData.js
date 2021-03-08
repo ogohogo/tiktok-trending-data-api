@@ -19,17 +19,16 @@ module.exports = async () => {
 
     data.body[0].exploreList.forEach(user => {
         user = user.cardItem
-        user.cover = convertAvatar(user.cover)
         user.subTitle = user.subTitle
 
         tempArray.user.push({
             userId: user.id,
             secUserId: user.extraInfo.secUid,
-            avatar: user.cover,
             id: user.subTitle,
             name: user.title,
             bio: user.description,
             verified: user.extraInfo.verified,
+            avatar: convertAvatar(user.cover),
             stats: {
                 followers: parseInt(user.extraInfo.fans),
                 likes: parseInt(user.extraInfo.likes)
@@ -42,9 +41,9 @@ module.exports = async () => {
 
         tempArray.hashtag.push({
             challengeId: tag.id,
-            avatar: convertAvatar(tag.cover),
             description: tag.description,
             name: tag.title,
+            avatar: tag.cover,
             stats: {
                 views: parseInt(tag.extraInfo.views)
             }
