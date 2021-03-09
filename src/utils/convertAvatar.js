@@ -1,8 +1,11 @@
+let avatarURL = 'https://p16.tiktokcdn.com'
+
 module.exports = (avatar) => {
-    avatar = avatar.replace("-sign", "")
+    avatar = avatar.replace("-sign", "");
+    avatar = avatar.replace(/.*tiktokcdn.com/, avatarURL)
     avatar = avatar.replace(/\?.*/,'');
 
-    let avatarWebp = avatar.replace(".jpeg", ".webp")
+    let avatarWebp = avatar.replace(".jpeg", ".webp");
 
     return {
 
