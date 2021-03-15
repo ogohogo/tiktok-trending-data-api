@@ -4,12 +4,7 @@ const fetch = require("node-fetch")
 const convertAvatar = require("./convertAvatar");
 
 module.exports = async () => {
-    const data = await fetch("https://t.tiktok.com/node/share/discover/", {
-        headers: {
-            'Cookie': 'tt_webid=6975244404352881414; tt_webid_v2=6975244404352881414; adblock=0',
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36'
-        }
-    }).then(res => res.json())
+    const data = await fetch("https://tiktok-discovery-data.glitch.me/").then(res => res.json())
 
     let tempArray = {
         user: [],
