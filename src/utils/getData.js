@@ -4,7 +4,7 @@ const fetch = require("node-fetch")
 const convertAvatar = require("./convertAvatar");
 
 module.exports = async () => {
-    const data = await fetch("https://tiktok-discovery-data.glitch.me/").then(res => res.json())
+    const data = await fetch("https://tiktok-discovery-data.glitch.me").then(res => res.json())
 
     let tempArray = {
         user: [],
