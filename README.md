@@ -12,3 +12,9 @@ Inspired by antiops' TikTok Trending Data (https://github.com/antiops/tiktok-tre
 * Avatars never expire! (TikTok made user avatars expire after 24 hours)
 * Nice JSON formatting
 * Shows trending users, hashtags and songs!
+
+# Usage
+Feel free to use this API without providing any credit.
+
+Currently used by:
+* https://tiktokcounter.com/
