@@ -48,8 +48,8 @@
         }
       },
       "stats": {
-        "followers": 50000000,
-        "likes": 294300000
+        "followers": 50100000,
+        "likes": 294400000
       }
     },
     {
@@ -757,12 +757,39 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1592238930108417",
+      "description": "We're putting the spotlight on our incredible community of creators on TikTok. Here's to the #ArabTikTok community that celebrates the culture, drives progress, and inspires us each and every day.",
+      "name": "#arabtiktok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b01eecad02afdcd67bd5b701a4886e73",
+      "stats": {
+        "views": 4400000000
+      }
+    },
+    {
+      "challengeId": "34295",
+      "description": "Happy #AprilFools Day!",
+      "name": "#aprilfools",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a99f47658a6459e1c087a8d5dfedec9e",
+      "stats": {
+        "views": 2200000000
+      }
+    },
+    {
+      "challengeId": "9978784",
+      "description": "Major League Baseball is back! So whether you're warming up in the bullpen, sitting in the bleachers, or just watching at home, show us how you're celebrating the return of baseball!",
+      "name": "#baseballisback",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c45fbf1d49a9835d77adbf6b0e1f00bf",
+      "stats": {
+        "views": 16000000
+      }
+    },
+    {
       "challengeId": "9922588",
       "description": "#TransVisibilityDay is here, and we're celebrating our incredible Trans community on TikTok. From artists to advocates, fashion icons and role models, here's to Trans joy and love.",
       "name": "#transvisibilityday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/575b9123ce2688b39ddce12f1d3148e3",
       "stats": {
-        "views": 105500000
+        "views": 106200000
       }
     },
     {
@@ -780,7 +807,7 @@
       "name": "#givethanksnotpranks",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f2917106d6ead3638631629ca25a9116",
       "stats": {
-        "views": 50800000
+        "views": 52500000
       }
     },
     {
@@ -789,7 +816,7 @@
       "name": "#doctorsoftiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0c4080d78318c04a66bfa24d62b1501e",
       "stats": {
-        "views": 747000000
+        "views": 747900000
       }
     },
     {
@@ -798,7 +825,7 @@
       "name": "#gettheretogether",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b5ef7d3b0f0d93d71d0abafaaf644d0f",
       "stats": {
-        "views": 143800000
+        "views": 146800000
       }
     },
     {
@@ -817,24 +844,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f675e9bc89387a955323589b8a3f3017",
       "stats": {
         "views": 3700000000
-      }
-    },
-    {
-      "challengeId": "4245066",
-      "description": "Happy Passover!",
-      "name": "#passover",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2af640055a3d3a21781feb027a83034d",
-      "stats": {
-        "views": 250500000
-      }
-    },
-    {
-      "challengeId": "74753222",
-      "description": "Who are you #PassingThePhone to?",
-      "name": "#passingthephone",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3f58180efe58f433cb7e4f85d138ca38",
-      "stats": {
-        "views": 145300000
       }
     }
   ],
