@@ -776,12 +776,21 @@
         }
       },
       "stats": {
-        "followers": 656300,
+        "followers": 656400,
         "likes": 1400000
       }
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "351604",
+      "description": "World Autism Day is here, and we're teaming up with our creator community to highlight amazing creators, support one another's journeys, and raise #AutismAwareness.",
+      "name": "#autismawareness",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ce988baf0d1d98571c1bd9babea84a3b",
+      "stats": {
+        "views": 1100000000
+      }
+    },
     {
       "challengeId": "1592238930108417",
       "description": "We're putting the spotlight on our incredible community of creators on TikTok. Here's to the #ArabTikTok community that celebrates the culture, drives progress, and inspires us each and every day.",
@@ -806,7 +815,7 @@
       "name": "#baseballisback",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c45fbf1d49a9835d77adbf6b0e1f00bf",
       "stats": {
-        "views": 24600000
+        "views": 25200000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#transvisibilityday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/575b9123ce2688b39ddce12f1d3148e3",
       "stats": {
-        "views": 121700000
+        "views": 122200000
       }
     },
     {
@@ -828,21 +837,12 @@
       }
     },
     {
-      "challengeId": "1662783915866118",
-      "description": "It's *ahem* NOT the year for pranks. That's why we're leaving behind the April Fools pranks and stepping up the THANKS with T-Mobile. Join the community in paying it forward by thanking someone who's made a difference in your life with #GiveThanksNotPranks. More thanks happening at www.givethanksnotpranks.com",
-      "name": "#givethanksnotpranks",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f2917106d6ead3638631629ca25a9116",
-      "stats": {
-        "views": 78700000
-      }
-    },
-    {
       "challengeId": "1631166000149526",
       "description": "Here's to all the #DoctorsOfTikTok.",
       "name": "#doctorsoftiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0c4080d78318c04a66bfa24d62b1501e",
       "stats": {
-        "views": 764400000
+        "views": 765000000
       }
     },
     {
@@ -851,7 +851,7 @@
       "name": "#gettheretogether",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b5ef7d3b0f0d93d71d0abafaaf644d0f",
       "stats": {
-        "views": 183200000
+        "views": 184600000
       }
     },
     {
@@ -861,15 +861,6 @@
       "avatar": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/ef57ec6d8d6824054741ff5e58776a7a",
       "stats": {
         "views": 83500000000
-      }
-    },
-    {
-      "challengeId": "727747",
-      "description": "Happy Holi!",
-      "name": "#happyholi",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f675e9bc89387a955323589b8a3f3017",
-      "stats": {
-        "views": 3700000000
       }
     }
   ],
@@ -996,7 +987,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/22edbf1cc1a90a50152172c36f729e8f.mp3"
       },
       "stats": {
-        "posts": 489700
+        "posts": 489600
       }
     },
     {
@@ -1021,7 +1012,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 853200
+        "posts": 853100
       }
     },
     {
