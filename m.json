@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 51500000,
-        "likes": 308800000
+        "likes": 308900000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 27600000,
-        "likes": 81500000
+        "likes": 81600000
       }
     },
     {
@@ -781,61 +781,7 @@
       }
     }
   ],
-  "hashtag": [
-    {
-      "challengeId": "467758",
-      "description": "Finally, #WrestleMania is back in business! So whether you're perfecting your ring entrance, impersonating your favorite Superstar or settling in for a watch party, show us how you're celebrating #WrestleMania Weekend.",
-      "name": "#wrestlemania",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/68f021d7e29e9eea5fa5cf0de63a6833",
-      "stats": {
-        "views": 1100000000
-      }
-    },
-    {
-      "challengeId": "1430012",
-      "description": "Share your tips for #HealthyLiving and check out the TikTok #WellnessHub: https://vm.tiktok.com/ZMefB1eUg/",
-      "name": "#healthyliving",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/800c5438d2b88eaf8b9b5fdbb93d20b5",
-      "stats": {
-        "views": 4100000000
-      }
-    },
-    {
-      "challengeId": "7418590",
-      "description": "We're here for warm weather, so show us those #SpringVibes.",
-      "name": "#springvibes",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/96d83a0bb9ac16fd380879f15854b459",
-      "stats": {
-        "views": 135900000
-      }
-    },
-    {
-      "challengeId": "498988",
-      "description": "Whether you're a bonafide expert or just learned something new, teach us everything you know.",
-      "name": "#learnwithme",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1221b2c3f288480529c7e844337b1e08",
-      "stats": {
-        "views": 643300000
-      }
-    },
-    {
-      "challengeId": "15803",
-      "description": "Happy Easter!",
-      "name": "#happyeaster",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8edd267aefbac3e6f5d4efa5837ffffd",
-      "stats": {
-        "views": 5800000000
-      }
-    },
-    {
-      "challengeId": "1005682",
-      "description": "",
-      "name": "#blankkiss",
-      "stats": {
-        "views": 135300
-      }
-    }
-  ],
+  "hashtag": [],
   "music": [
     {
       "musicId": "6808287098886424577",
@@ -959,7 +905,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/22edbf1cc1a90a50152172c36f729e8f.mp3"
       },
       "stats": {
-        "posts": 487400
+        "posts": 487300
       }
     },
     {
@@ -984,7 +930,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 844300
+        "posts": 844200
       }
     },
     {
@@ -1009,7 +955,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/72bc6715e0b6726f3806f1bce1b0630f.mp3"
       },
       "stats": {
-        "posts": 567900
+        "posts": 567800
       }
     },
     {
