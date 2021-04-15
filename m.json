@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 22600000,
-        "likes": 334700000
+        "likes": 334800000
       }
     },
     {
@@ -152,7 +152,7 @@
         }
       },
       "stats": {
-        "followers": 21000000,
+        "followers": 21100000,
         "likes": 72800000
       }
     },
@@ -204,8 +204,8 @@
         }
       },
       "stats": {
-        "followers": 35900000,
-        "likes": 198900000
+        "followers": 36000000,
+        "likes": 199100000
       }
     },
     {
@@ -724,7 +724,7 @@
         }
       },
       "stats": {
-        "followers": 269700,
+        "followers": 269800,
         "likes": 383800
       }
     },
@@ -783,6 +783,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1686254040412161",
+      "description": "Who would win? The version of you from 2018 or your 2021 self?",
+      "name": "#2018vs2021",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1c46bbd777472f888af78e29d5c10059",
+      "stats": {
+        "views": 58200000
+      }
+    },
+    {
+      "challengeId": "5776861",
+      "description": "Which #DIYProjects are you working on these days?",
+      "name": "#diyprojects",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/55035a324d009118213e5368709a1f7b",
+      "stats": {
+        "views": 699400000
+      }
+    },
+    {
       "challengeId": "11057235",
       "description": "Charge your battery and stock up on extra lives, because we're celebrating the #MobileGame community. Show us what you're playing, where you play, and your top recommendations!",
       "name": "#mobilegame",
@@ -806,7 +824,7 @@
       "name": "#takeabite",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/69283ed1565f8f40e938d21ea5a5fd44",
       "stats": {
-        "views": 138200000
+        "views": 142900000
       }
     },
     {
@@ -815,7 +833,7 @@
       "name": "#petsontiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f06d64fbfa2bc2fc35f31cded7e48363",
       "stats": {
-        "views": 226000000
+        "views": 229900000
       }
     },
     {
@@ -834,24 +852,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/833076ad5863da1cc3029f6d919bfc0e",
       "stats": {
         "views": 3200000000
-      }
-    },
-    {
-      "challengeId": "1655901564084230",
-      "description": "We're all about sustainability, so show us those #EcoHacks that make all the difference. For every #EcoHacks video posted between 4/9/21-4/22/21, @OneTreePlanted will plant one tree up to 10,000 trees! Learn more: onetreeplanted.org",
-      "name": "#ecohacks",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f647d61fb811b7d055e82dee248b000e",
-      "stats": {
-        "views": 168200000
-      }
-    },
-    {
-      "challengeId": "1652355189616642",
-      "description": "Whether you're playing sold-out stadiums or just learning a few chords, here's to the entire #GuitarTok community.",
-      "name": "#guitartok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0c5ef8e23e56cc0e4930aa42ab9c67e7",
-      "stats": {
-        "views": 365600000
       }
     }
   ],
@@ -1003,7 +1003,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 839400
+        "posts": 839300
       }
     },
     {
