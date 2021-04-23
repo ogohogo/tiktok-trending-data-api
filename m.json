@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 12100000,
-        "likes": 103100000
+        "likes": 103200000
       }
     },
     {
@@ -783,6 +783,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "21517909",
+      "description": "Spanish Language Day is here, so we're celebrating la belleza del idioma Español. So show us que #SeHablaEspañol.",
+      "name": "#sehablaespañol",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/243c5a9f100651812068d5c0a9770826",
+      "stats": {
+        "views": 22800000
+      }
+    },
+    {
       "challengeId": "18031",
       "description": "Earth Day is here, and we're celebrating the planet we call home. So whether it's recycling tips or sharing conservation efforts around the world, show us how you're supporting our planet.",
       "name": "#earthday",
@@ -806,7 +815,7 @@
       "name": "#baseballtiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/46f6cc53ac0278c8fb43f76832748c08",
       "stats": {
-        "views": 45600000
+        "views": 47800000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#lookbook",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a14feb4e594fac10814fb6425127ee9",
       "stats": {
-        "views": 602600000
+        "views": 604100000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#tiktokcars",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0b147fbddb9a98191357e570e4351946",
       "stats": {
-        "views": 818700000
+        "views": 819300000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#vinylclub",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3ff3d1702b77118e84ea175fcd4c9313",
       "stats": {
-        "views": 147700000
+        "views": 148300000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#itwasntaphase",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ceece2bc227fe1e56c506b9200115dc3",
       "stats": {
-        "views": 289000000
-      }
-    },
-    {
-      "challengeId": "1479818",
-      "description": "Whether it's an everyday life hack or a pro-tip everyone needs to know, show us your #TipsAndTricks.",
-      "name": "#tipsandtricks",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ab69f737fa4fe5547d3386f2fd150f8b",
-      "stats": {
-        "views": 3200000000
+        "views": 290200000
       }
     }
   ],
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 831300
+        "posts": 831200
       }
     },
     {
