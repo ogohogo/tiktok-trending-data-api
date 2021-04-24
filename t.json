@@ -22,7 +22,7 @@
         }
       },
       "stats": {
-        "followers": 113700000,
+        "followers": 0,
         "likes": 9200000000
       }
     },
@@ -48,7 +48,7 @@
         }
       },
       "stats": {
-        "followers": 79800000,
+        "followers": 0,
         "likes": 5100000000
       }
     },
@@ -74,7 +74,7 @@
         }
       },
       "stats": {
-        "followers": 63500000,
+        "followers": 0,
         "likes": 1400000000
       }
     },
@@ -100,7 +100,7 @@
         }
       },
       "stats": {
-        "followers": 12100000,
+        "followers": 0,
         "likes": 103600000
       }
     },
@@ -126,7 +126,7 @@
         }
       },
       "stats": {
-        "followers": 33300000,
+        "followers": 0,
         "likes": 2400000000
       }
     },
@@ -152,8 +152,8 @@
         }
       },
       "stats": {
-        "followers": 29400000,
-        "likes": 318600000
+        "followers": 0,
+        "likes": 318700000
       }
     },
     {
@@ -178,8 +178,8 @@
         }
       },
       "stats": {
-        "followers": 15100000,
-        "likes": 959700000
+        "followers": 0,
+        "likes": 960000000
       }
     },
     {
@@ -204,8 +204,8 @@
         }
       },
       "stats": {
-        "followers": 15000000,
-        "likes": 484900000
+        "followers": 0,
+        "likes": 485000000
       }
     },
     {
@@ -230,7 +230,7 @@
         }
       },
       "stats": {
-        "followers": 16000000,
+        "followers": 0,
         "likes": 1100000000
       }
     },
@@ -256,8 +256,8 @@
         }
       },
       "stats": {
-        "followers": 16300000,
-        "likes": 186500000
+        "followers": 0,
+        "likes": 186600000
       }
     },
     {
@@ -282,8 +282,8 @@
         }
       },
       "stats": {
-        "followers": 14800000,
-        "likes": 434500000
+        "followers": 0,
+        "likes": 434600000
       }
     },
     {
@@ -308,8 +308,8 @@
         }
       },
       "stats": {
-        "followers": 5200000,
-        "likes": 59400000
+        "followers": 0,
+        "likes": 59700000
       }
     },
     {
@@ -334,8 +334,8 @@
         }
       },
       "stats": {
-        "followers": 20500000,
-        "likes": 626600000
+        "followers": 0,
+        "likes": 626800000
       }
     },
     {
@@ -360,8 +360,8 @@
         }
       },
       "stats": {
-        "followers": 7300000,
-        "likes": 284600000
+        "followers": 0,
+        "likes": 284700000
       }
     },
     {
@@ -386,8 +386,8 @@
         }
       },
       "stats": {
-        "followers": 17300000,
-        "likes": 682800000
+        "followers": 0,
+        "likes": 683000000
       }
     },
     {
@@ -412,8 +412,8 @@
         }
       },
       "stats": {
-        "followers": 15500000,
-        "likes": 380500000
+        "followers": 0,
+        "likes": 380800000
       }
     },
     {
@@ -438,7 +438,7 @@
         }
       },
       "stats": {
-        "followers": 9400000,
+        "followers": 0,
         "likes": 265600000
       }
     },
@@ -464,8 +464,8 @@
         }
       },
       "stats": {
-        "followers": 4000000,
-        "likes": 216000000
+        "followers": 0,
+        "likes": 216700000
       }
     },
     {
@@ -490,8 +490,8 @@
         }
       },
       "stats": {
-        "followers": 8000000,
-        "likes": 340100000
+        "followers": 0,
+        "likes": 340200000
       }
     },
     {
@@ -516,8 +516,8 @@
         }
       },
       "stats": {
-        "followers": 11100000,
-        "likes": 221500000
+        "followers": 0,
+        "likes": 221700000
       }
     },
     {
@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 9700000,
-        "likes": 962500000
+        "likes": 962700000
       }
     },
     {
@@ -595,7 +595,7 @@
       },
       "stats": {
         "followers": 20300000,
-        "likes": 999300000
+        "likes": 999400000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 8800000,
-        "likes": 699500000
+        "likes": 699700000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 7300000,
-        "likes": 304900000
+        "likes": 305200000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 5000000,
-        "likes": 115500000
+        "likes": 115600000
       }
     },
     {
@@ -725,7 +725,7 @@
       },
       "stats": {
         "followers": 18100000,
-        "likes": 450200000
+        "likes": 450500000
       }
     },
     {
@@ -751,7 +751,7 @@
       },
       "stats": {
         "followers": 14900000,
-        "likes": 675700000
+        "likes": 675800000
       }
     },
     {
@@ -777,18 +777,36 @@
       },
       "stats": {
         "followers": 23000000,
-        "likes": 346400000
+        "likes": 346600000
       }
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "1690527243398146",
+      "description": "Whether you're dreaming of spending time with family or just doing your part to stay safe, show us what you're getting #VaccinatedFor.",
+      "name": "#vaccinatedfor",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/eb6c3e72009828d1d9d1b1d28636e941",
+      "stats": {
+        "views": 14000000
+      }
+    },
+    {
+      "challengeId": "21407676",
+      "description": "Tell us a fact about your favorite song.",
+      "name": "#songfacts",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0c6a5282e529c436771698548d349717",
+      "stats": {
+        "views": 5000000
+      }
+    },
     {
       "challengeId": "21517909",
       "description": "Spanish Language Day is here, so we're celebrating la belleza del idioma Español. So show us que #SeHablaEspañol.",
       "name": "#sehablaespañol",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/243c5a9f100651812068d5c0a9770826",
       "stats": {
-        "views": 34700000
+        "views": 35700000
       }
     },
     {
@@ -815,7 +833,7 @@
       "name": "#baseballtiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/46f6cc53ac0278c8fb43f76832748c08",
       "stats": {
-        "views": 64000000
+        "views": 65700000
       }
     },
     {
@@ -833,7 +851,7 @@
       "name": "#lookbook",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a14feb4e594fac10814fb6425127ee9",
       "stats": {
-        "views": 620100000
+        "views": 621100000
       }
     },
     {
@@ -842,7 +860,7 @@
       "name": "#tiktokcars",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0b147fbddb9a98191357e570e4351946",
       "stats": {
-        "views": 827900000
+        "views": 828500000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#vinylclub",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3ff3d1702b77118e84ea175fcd4c9313",
       "stats": {
-        "views": 157300000
-      }
-    },
-    {
-      "challengeId": "130314",
-      "description": "Show us your best #Thrifting finds.",
-      "name": "#thrifting",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bd62c42ba7a034881b3ff87631334e35",
-      "stats": {
-        "views": 1400000000
-      }
-    },
-    {
-      "challengeId": "73909119",
-      "description": "Mom, it was never a phase! Whether you're still a scene kid, or just never grew up, show us that #ItWasntAPhase.",
-      "name": "#itwasntaphase",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ceece2bc227fe1e56c506b9200115dc3",
-      "stats": {
-        "views": 304100000
+        "views": 158200000
       }
     }
   ],
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 830200
+        "posts": 830100
       }
     },
     {
@@ -1046,7 +1046,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/72bc6715e0b6726f3806f1bce1b0630f.mp3"
       },
       "stats": {
-        "posts": 563200
+        "posts": 563100
       }
     },
     {

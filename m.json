@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 23000000,
-        "likes": 346400000
+        "likes": 346600000
       }
     },
     {
@@ -783,12 +783,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1690527243398146",
+      "description": "Whether you're dreaming of spending time with family or just doing your part to stay safe, show us what you're getting #VaccinatedFor.",
+      "name": "#vaccinatedfor",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/eb6c3e72009828d1d9d1b1d28636e941",
+      "stats": {
+        "views": 14000000
+      }
+    },
+    {
+      "challengeId": "21407676",
+      "description": "Tell us a fact about your favorite song.",
+      "name": "#songfacts",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0c6a5282e529c436771698548d349717",
+      "stats": {
+        "views": 5000000
+      }
+    },
+    {
       "challengeId": "21517909",
       "description": "Spanish Language Day is here, so we're celebrating la belleza del idioma Español. So show us que #SeHablaEspañol.",
       "name": "#sehablaespañol",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/243c5a9f100651812068d5c0a9770826",
       "stats": {
-        "views": 34400000
+        "views": 35400000
       }
     },
     {
@@ -815,7 +833,7 @@
       "name": "#baseballtiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/46f6cc53ac0278c8fb43f76832748c08",
       "stats": {
-        "views": 64000000
+        "views": 65800000
       }
     },
     {
@@ -833,7 +851,7 @@
       "name": "#lookbook",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a14feb4e594fac10814fb6425127ee9",
       "stats": {
-        "views": 618900000
+        "views": 620000000
       }
     },
     {
@@ -842,7 +860,7 @@
       "name": "#tiktokcars",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0b147fbddb9a98191357e570e4351946",
       "stats": {
-        "views": 827100000
+        "views": 827700000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#vinylclub",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3ff3d1702b77118e84ea175fcd4c9313",
       "stats": {
-        "views": 157200000
-      }
-    },
-    {
-      "challengeId": "130314",
-      "description": "Show us your best #Thrifting finds.",
-      "name": "#thrifting",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bd62c42ba7a034881b3ff87631334e35",
-      "stats": {
-        "views": 1400000000
-      }
-    },
-    {
-      "challengeId": "73909119",
-      "description": "Mom, it was never a phase! Whether you're still a scene kid, or just never grew up, show us that #ItWasntAPhase.",
-      "name": "#itwasntaphase",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ceece2bc227fe1e56c506b9200115dc3",
-      "stats": {
-        "views": 304100000
+        "views": 158100000
       }
     }
   ],
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 830200
+        "posts": 830100
       }
     },
     {
