@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 23100000,
-        "likes": 347900000
+        "likes": 348000000
       }
     },
     {
@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 52600000,
-        "likes": 314900000
+        "likes": 315000000
       }
     },
     {
@@ -783,12 +783,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "749528",
+      "description": "Whether it's ranking your favorites movies of all time, or filling out your ballot for this year, show us how you're getting ready for the 93rd Academy Awards.",
+      "name": "#oscars",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b15cff8e60269141ba40b0c63efb2943",
+      "stats": {
+        "views": 370100000
+      }
+    },
+    {
+      "challengeId": "65631962",
+      "description": "Whether you found the perfect outfit or wish you could go back to your golden years, show us how you're getting ready for #PromSzn.",
+      "name": "#promszn",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4bb004a09f01597f26dfde8c9c571787",
+      "stats": {
+        "views": 10700000
+      }
+    },
+    {
       "challengeId": "1690527243398146",
       "description": "Whether you're dreaming of spending time with family or just doing your part to stay safe, show us what you're getting #VaccinatedFor.",
       "name": "#vaccinatedfor",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/eb6c3e72009828d1d9d1b1d28636e941",
       "stats": {
-        "views": 30900000
+        "views": 33000000
       }
     },
     {
@@ -797,7 +815,7 @@
       "name": "#songfacts",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0c6a5282e529c436771698548d349717",
       "stats": {
-        "views": 32000000
+        "views": 35400000
       }
     },
     {
@@ -806,7 +824,7 @@
       "name": "#sehablaespañol",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/243c5a9f100651812068d5c0a9770826",
       "stats": {
-        "views": 45800000
+        "views": 47000000
       }
     },
     {
@@ -833,7 +851,7 @@
       "name": "#baseballtiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/46f6cc53ac0278c8fb43f76832748c08",
       "stats": {
-        "views": 78400000
+        "views": 79000000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#lookbook",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a14feb4e594fac10814fb6425127ee9",
       "stats": {
-        "views": 632300000
-      }
-    },
-    {
-      "challengeId": "1599962671484933",
-      "description": "Start your engines because we're here for the #TikTokCars community.",
-      "name": "#tiktokcars",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0b147fbddb9a98191357e570e4351946",
-      "stats": {
-        "views": 835300000
-      }
-    },
-    {
-      "challengeId": "1661498744999941",
-      "description": "From digging through crates to buying your first record player, here's your official invitation to the TikTok #VinylClub.",
-      "name": "#vinylclub",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3ff3d1702b77118e84ea175fcd4c9313",
-      "stats": {
-        "views": 166700000
+        "views": 633500000
       }
     }
   ],
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 829100
+        "posts": 829000
       }
     },
     {
@@ -1046,7 +1046,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/72bc6715e0b6726f3806f1bce1b0630f.mp3"
       },
       "stats": {
-        "posts": 562900
+        "posts": 562800
       }
     },
     {
