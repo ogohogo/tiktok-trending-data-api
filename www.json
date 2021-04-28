@@ -22,8 +22,8 @@
         }
       },
       "stats": {
-        "followers": 23100000,
-        "likes": 348900000
+        "followers": 23200000,
+        "likes": 349000000
       }
     },
     {
@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 24000000,
-        "likes": 120000000
+        "likes": 120100000
       }
     },
     {
@@ -204,7 +204,7 @@
         }
       },
       "stats": {
-        "followers": 36200000,
+        "followers": 36300000,
         "likes": 200600000
       }
     },
@@ -360,8 +360,8 @@
         }
       },
       "stats": {
-        "followers": 12200000,
-        "likes": 104700000
+        "followers": 12300000,
+        "likes": 104900000
       }
     },
     {
@@ -413,7 +413,7 @@
       },
       "stats": {
         "followers": 4000000,
-        "likes": 14300000
+        "likes": 14400000
       }
     },
     {
@@ -724,7 +724,7 @@
         }
       },
       "stats": {
-        "followers": 274500,
+        "followers": 274800,
         "likes": 384100
       }
     },
@@ -776,19 +776,37 @@
         }
       },
       "stats": {
-        "followers": 663600,
+        "followers": 663800,
         "likes": 1400000
       }
     }
   ],
   "hashtag": [
     {
+      "challengeId": "74466322",
+      "description": "What are you #BusyThinkingAbout?",
+      "name": "#busythinkingabout",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2530b38e8b68a171d898e2bc243f5e4c",
+      "stats": {
+        "views": 117800000
+      }
+    },
+    {
+      "challengeId": "46460273",
+      "description": "Whether you have the perfect setup or you're still searching for a graphics card, show us your #GamingPC.",
+      "name": "#gamingpc",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c655999ae4d77e129fbd8457bdcf6231",
+      "stats": {
+        "views": 1400000000
+      }
+    },
+    {
       "challengeId": "3181857",
       "description": "Don't be surprised if one day I just...",
       "name": "#dontbesurprised",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c32e503a748d2fb3fd9be97643fc57bd",
       "stats": {
-        "views": 56300000
+        "views": 98500000
       }
     },
     {
@@ -797,7 +815,7 @@
       "name": "#simplerecipe",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3a66c9604ba18b4d2fa761817b2a26f2",
       "stats": {
-        "views": 147300000
+        "views": 166900000
       }
     },
     {
@@ -806,7 +824,7 @@
       "name": "#neontwin",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5b870b20a98909ce09cd28950cc7f792",
       "stats": {
-        "views": 123200000
+        "views": 153100000
       }
     },
     {
@@ -815,7 +833,7 @@
       "name": "#springoutfit",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d18c1a8b9aec3eacd0482c81b4089398",
       "stats": {
-        "views": 111000000
+        "views": 139500000
       }
     },
     {
@@ -824,7 +842,7 @@
       "name": "#oscars",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b15cff8e60269141ba40b0c63efb2943",
       "stats": {
-        "views": 576000000
+        "views": 610400000
       }
     },
     {
@@ -833,7 +851,7 @@
       "name": "#promszn",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4bb004a09f01597f26dfde8c9c571787",
       "stats": {
-        "views": 94900000
+        "views": 112000000
       }
     },
     {
@@ -842,7 +860,7 @@
       "name": "#vaccinatedfor",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/eb6c3e72009828d1d9d1b1d28636e941",
       "stats": {
-        "views": 82500000
+        "views": 90500000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#songfacts",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0c6a5282e529c436771698548d349717",
       "stats": {
-        "views": 112400000
-      }
-    },
-    {
-      "challengeId": "21517909",
-      "description": "Spanish Language Day is here, so we're celebrating la belleza del idioma Español. So show us que #SeHablaEspañol.",
-      "name": "#sehablaespañol",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/243c5a9f100651812068d5c0a9770826",
-      "stats": {
-        "views": 72500000
-      }
-    },
-    {
-      "challengeId": "18031",
-      "description": "Earth Day is here, and we're celebrating the planet we call home. So whether it's recycling tips or sharing conservation efforts around the world, show us how you're supporting our planet.",
-      "name": "#earthday",
-      "avatar": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/37b2101920ab806e272c97f22179c723",
-      "stats": {
-        "views": 4300000000
+        "views": 126200000
       }
     }
   ],
@@ -946,7 +946,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/387d7b4519e3eb6af28a07160fa5f75f.mp3"
       },
       "stats": {
-        "posts": 14100000
+        "posts": 14000000
       }
     },
     {
@@ -996,7 +996,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/22edbf1cc1a90a50152172c36f729e8f.mp3"
       },
       "stats": {
-        "posts": 482000
+        "posts": 481600
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 826400
+        "posts": 825700
       }
     },
     {
@@ -1046,7 +1046,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/72bc6715e0b6726f3806f1bce1b0630f.mp3"
       },
       "stats": {
-        "posts": 561900
+        "posts": 561600
       }
     },
     {
