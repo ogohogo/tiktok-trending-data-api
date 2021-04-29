@@ -781,98 +781,7 @@
       }
     }
   ],
-  "hashtag": [
-    {
-      "challengeId": "1632257433551874",
-      "description": "We're teaming up with The Berrics to celebrate Do a Kickflip Day, so answer the question: can you #DoAKickFlip?",
-      "name": "#doakickflip",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/52118b4aa17a7044e646da263b013f76",
-      "stats": {
-        "views": 2000000000
-      }
-    },
-    {
-      "challengeId": "17848650",
-      "description": "Whether you're drafting your future QB, or just ranking your favorite foods, show us your top #DraftPicks as you get ready for the NFL Draft.",
-      "name": "#draftpicks",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9b0c63dc1b4a9479c3f046ba69d071cb",
-      "stats": {
-        "views": 1800000
-      }
-    },
-    {
-      "challengeId": "74466322",
-      "description": "What are you #BusyThinkingAbout?",
-      "name": "#busythinkingabout",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2530b38e8b68a171d898e2bc243f5e4c",
-      "stats": {
-        "views": 184800000
-      }
-    },
-    {
-      "challengeId": "46460273",
-      "description": "Whether you have the perfect setup or you're still searching for a graphics card, show us your #GamingPC.",
-      "name": "#gamingpc",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c655999ae4d77e129fbd8457bdcf6231",
-      "stats": {
-        "views": 1400000000
-      }
-    },
-    {
-      "challengeId": "3181857",
-      "description": "Don't be surprised if one day I just...",
-      "name": "#dontbesurprised",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c32e503a748d2fb3fd9be97643fc57bd",
-      "stats": {
-        "views": 162700000
-      }
-    },
-    {
-      "challengeId": "15404541",
-      "description": "We love an easy meal, so show us your #SimpleRecipe.",
-      "name": "#simplerecipe",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3a66c9604ba18b4d2fa761817b2a26f2",
-      "stats": {
-        "views": 192600000
-      }
-    },
-    {
-      "challengeId": "74325168",
-      "description": "Use our new Creative Effect and show us your #NeonTwin.",
-      "name": "#neontwin",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5b870b20a98909ce09cd28950cc7f792",
-      "stats": {
-        "views": 182300000
-      }
-    },
-    {
-      "challengeId": "8830068",
-      "description": "What are you wearing this spring?",
-      "name": "#springoutfit",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d18c1a8b9aec3eacd0482c81b4089398",
-      "stats": {
-        "views": 175900000
-      }
-    },
-    {
-      "challengeId": "749528",
-      "description": "Whether it's ranking your favorites movies of all time, or filling out your ballot for this year, show us how you're getting ready for the 93rd Academy Awards.",
-      "name": "#oscars",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b15cff8e60269141ba40b0c63efb2943",
-      "stats": {
-        "views": 640200000
-      }
-    },
-    {
-      "challengeId": "65631962",
-      "description": "Whether you found the perfect outfit or wish you could go back to your golden years, show us how you're getting ready for #PromSzn.",
-      "name": "#promszn",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4bb004a09f01597f26dfde8c9c571787",
-      "stats": {
-        "views": 130000000
-      }
-    }
-  ],
+  "hashtag": [],
   "music": [
     {
       "musicId": "6808287098886424577",
@@ -996,7 +905,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/22edbf1cc1a90a50152172c36f729e8f.mp3"
       },
       "stats": {
-        "posts": 481400
+        "posts": 481300
       }
     },
     {
@@ -1021,7 +930,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 824800
+        "posts": 824700
       }
     },
     {
