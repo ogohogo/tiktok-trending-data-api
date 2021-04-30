@@ -776,12 +776,30 @@
         }
       },
       "stats": {
-        "followers": 664300,
+        "followers": 664400,
         "likes": 1400000
       }
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "21062566",
+      "description": "Make people think it's a picture because this is #NotAPhoto.",
+      "name": "#notaphoto",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/12cd983100d2cd2b57cd5b2b7d400963",
+      "stats": {
+        "views": 60500000
+      }
+    },
+    {
+      "challengeId": "39063",
+      "description": "Combine two songs and let's see how these #Mashups sound.",
+      "name": "#mashup",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3a98343099cfc9697f051ba33866e759",
+      "stats": {
+        "views": 3900000000
+      }
+    },
     {
       "challengeId": "1632257433551874",
       "description": "We're teaming up with The Berrics to celebrate Do a Kickflip Day, so answer the question: can you #DoAKickFlip?",
@@ -797,7 +815,7 @@
       "name": "#draftpicks",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9b0c63dc1b4a9479c3f046ba69d071cb",
       "stats": {
-        "views": 13900000
+        "views": 15500000
       }
     },
     {
@@ -806,7 +824,7 @@
       "name": "#busythinkingabout",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2530b38e8b68a171d898e2bc243f5e4c",
       "stats": {
-        "views": 277100000
+        "views": 282700000
       }
     },
     {
@@ -824,7 +842,7 @@
       "name": "#dontbesurprised",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c32e503a748d2fb3fd9be97643fc57bd",
       "stats": {
-        "views": 233300000
+        "views": 237700000
       }
     },
     {
@@ -833,7 +851,7 @@
       "name": "#simplerecipe",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3a66c9604ba18b4d2fa761817b2a26f2",
       "stats": {
-        "views": 215700000
+        "views": 217200000
       }
     },
     {
@@ -842,7 +860,7 @@
       "name": "#neontwin",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5b870b20a98909ce09cd28950cc7f792",
       "stats": {
-        "views": 208400000
+        "views": 209700000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#springoutfit",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d18c1a8b9aec3eacd0482c81b4089398",
       "stats": {
-        "views": 203400000
-      }
-    },
-    {
-      "challengeId": "749528",
-      "description": "Whether it's ranking your favorites movies of all time, or filling out your ballot for this year, show us how you're getting ready for the 93rd Academy Awards.",
-      "name": "#oscars",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b15cff8e60269141ba40b0c63efb2943",
-      "stats": {
-        "views": 667800000
-      }
-    },
-    {
-      "challengeId": "65631962",
-      "description": "Whether you found the perfect outfit or wish you could go back to your golden years, show us how you're getting ready for #PromSzn.",
-      "name": "#promszn",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4bb004a09f01597f26dfde8c9c571787",
-      "stats": {
-        "views": 145800000
+        "views": 204700000
       }
     }
   ],
