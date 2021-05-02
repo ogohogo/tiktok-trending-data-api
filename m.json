@@ -48,8 +48,8 @@
         }
       },
       "stats": {
-        "followers": 52800000,
-        "likes": 317400000
+        "followers": 52900000,
+        "likes": 317500000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 36300000,
-        "likes": 200900000
+        "likes": 201000000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 12400000,
-        "likes": 106000000
+        "likes": 106100000
       }
     },
     {
@@ -783,12 +783,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "3256198",
+      "description": "Let's come together as a community and put mental health first. From checking in on friends to sharing resources that make a difference, here's to ending stigmas and raising #MentalHealthAwareness.",
+      "name": "#mentalhealthawareness",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9484cea0fc44c8c66e38bde03e6f619e",
+      "stats": {
+        "views": 3200000000
+      }
+    },
+    {
+      "challengeId": "14562",
+      "description": "Whether you're hitting the trail or hitting the gym, show us how you #GetFit.",
+      "name": "#getfit",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/18f23fa80a42dfcbecf79e38c1eb4151",
+      "stats": {
+        "views": 3800000000
+      }
+    },
+    {
       "challengeId": "1698141903079429",
       "description": "May is Asian and Pacific Islander Heritage Month and we're putting the spotlight on our incredible community of creators on TikTok who represent diversity, pride and strength. #WeAreAPI.",
       "name": "#weareapi",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a346492eb5b6b8ba26f355b3d892b835",
       "stats": {
-        "views": 52600000
+        "views": 53900000
       }
     },
     {
@@ -797,7 +815,7 @@
       "name": "#supportsmallbusiness",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/055ef0ce0a5fbf54a299b7ee5a41d7fd",
       "stats": {
-        "views": 2000000000
+        "views": 2100000000
       }
     },
     {
@@ -806,7 +824,7 @@
       "name": "#notaphoto",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/12cd983100d2cd2b57cd5b2b7d400963",
       "stats": {
-        "views": 164200000
+        "views": 168900000
       }
     },
     {
@@ -833,7 +851,7 @@
       "name": "#draftpicks",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9b0c63dc1b4a9479c3f046ba69d071cb",
       "stats": {
-        "views": 48800000
+        "views": 50600000
       }
     },
     {
@@ -842,7 +860,7 @@
       "name": "#busythinkingabout",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2530b38e8b68a171d898e2bc243f5e4c",
       "stats": {
-        "views": 410600000
+        "views": 413800000
       }
     },
     {
@@ -852,24 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c655999ae4d77e129fbd8457bdcf6231",
       "stats": {
         "views": 1500000000
-      }
-    },
-    {
-      "challengeId": "3181857",
-      "description": "Don't be surprised if one day I just...",
-      "name": "#dontbesurprised",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c32e503a748d2fb3fd9be97643fc57bd",
-      "stats": {
-        "views": 342500000
-      }
-    },
-    {
-      "challengeId": "15404541",
-      "description": "We love an easy meal, so show us your #SimpleRecipe.",
-      "name": "#simplerecipe",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3a66c9604ba18b4d2fa761817b2a26f2",
-      "stats": {
-        "views": 261700000
       }
     }
   ],
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 821500
+        "posts": 821400
       }
     },
     {
@@ -1046,7 +1046,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/72bc6715e0b6726f3806f1bce1b0630f.mp3"
       },
       "stats": {
-        "posts": 560200
+        "posts": 560100
       }
     },
     {
