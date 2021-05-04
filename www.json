@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 53000000,
-        "likes": 318300000
+        "likes": 318400000
       }
     },
     {
@@ -781,98 +781,7 @@
       }
     }
   ],
-  "hashtag": [
-    {
-      "challengeId": "2513794",
-      "description": "#StarWarsDay is officially here, so whether you're scouring the Outer Rim or celebrating in a galaxy not so far away, May the 4th be with you!",
-      "name": "#starwarsday",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6ee0bd76d59a56fe6c46db056498047e",
-      "stats": {
-        "views": 61800000
-      }
-    },
-    {
-      "challengeId": "1607493519937537",
-      "description": "Here's to all the #TeachersOfTikTok.",
-      "name": "#teachersoftiktok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/97af55030db356d82dd0e8ddfd5a1613",
-      "stats": {
-        "views": 9200000000
-      }
-    },
-    {
-      "challengeId": "1698498533699590",
-      "description": "Jewish Heritage Month is officially here! Here's to recognizing and celebrating Jewish communities and creators who make a difference each and every day.",
-      "name": "#myjewishheritage",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4bd82df123d44837399c0483683999b2",
-      "stats": {
-        "views": 8300000
-      }
-    },
-    {
-      "challengeId": "1626918357326854",
-      "description": "They're #NotTheMainCharacter, they're the.....",
-      "name": "#notthemaincharacter",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/393f5f17838ffddbd4e4b9766777bb52",
-      "stats": {
-        "views": 48700000
-      }
-    },
-    {
-      "challengeId": "3256198",
-      "description": "Let's come together as a community and put mental health first. From checking in on friends to sharing resources that make a difference, here's to ending stigmas and raising #MentalHealthAwareness.",
-      "name": "#mentalhealthawareness",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9484cea0fc44c8c66e38bde03e6f619e",
-      "stats": {
-        "views": 3300000000
-      }
-    },
-    {
-      "challengeId": "14562",
-      "description": "Whether you're hitting the trail or hitting the gym, show us how you #GetFit.",
-      "name": "#getfit",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/18f23fa80a42dfcbecf79e38c1eb4151",
-      "stats": {
-        "views": 3800000000
-      }
-    },
-    {
-      "challengeId": "1698141903079429",
-      "description": "May is Asian and Pacific Islander Heritage Month and we're putting the spotlight on our incredible community of creators on TikTok who represent diversity, pride and strength. #WeAreAPI.",
-      "name": "#weareapi",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a346492eb5b6b8ba26f355b3d892b835",
-      "stats": {
-        "views": 80900000
-      }
-    },
-    {
-      "challengeId": "1602529982146565",
-      "description": "Small businesses are the souls of our communities, and we're committed to helping them bounce back after a difficult year. Whether you're a business owner looking back at the past year, or just want to give some love to your favorite local shop, join us and #SupportSmallBusiness.",
-      "name": "#supportsmallbusiness",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/055ef0ce0a5fbf54a299b7ee5a41d7fd",
-      "stats": {
-        "views": 2100000000
-      }
-    },
-    {
-      "challengeId": "21062566",
-      "description": "Make people think it's a picture because this is #NotAPhoto.",
-      "name": "#notaphoto",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/12cd983100d2cd2b57cd5b2b7d400963",
-      "stats": {
-        "views": 297400000
-      }
-    },
-    {
-      "challengeId": "39063",
-      "description": "Combine two songs and let's see how these #Mashups sound.",
-      "name": "#mashup",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3a98343099cfc9697f051ba33866e759",
-      "stats": {
-        "views": 4100000000
-      }
-    }
-  ],
+  "hashtag": [],
   "music": [
     {
       "musicId": "6808287098886424577",
@@ -1071,7 +980,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/a7c68545b238686d79179e25ee990183.m4a"
       },
       "stats": {
-        "posts": 8000000
+        "posts": 8100000
       }
     },
     {
