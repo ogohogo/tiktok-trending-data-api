@@ -783,12 +783,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "30170",
+      "description": "Whether you're singing along to the classics, embracing the honky-tonk life, or looking for the perfect song for the summer, here's to all things #CountryMusic.",
+      "name": "#countrymusic",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dc62d00ae458c707272f6c2770929226",
+      "stats": {
+        "views": 2800000000
+      }
+    },
+    {
+      "challengeId": "1697892531094534",
+      "description": "Shh, we work at the bank too.",
+      "name": "#iworkatthebank",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/acb3aeb1c4a4d1df21a31477ab3976b0",
+      "stats": {
+        "views": 44100000
+      }
+    },
+    {
       "challengeId": "1661779146513413",
       "description": "Take a stand for justice and equality in solidarity with all of our Asian and Pacific Islander communities because #HateIsAVirus. Learn more at hateisavirus.org",
       "name": "#hateisavirus",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7c0bf02cca02b54e306a24ee49564605",
       "stats": {
-        "views": 72500000
+        "views": 73600000
       }
     },
     {
@@ -797,7 +815,7 @@
       "name": "#goodmemories",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/19b155885b31fc411cc241925ed3001e",
       "stats": {
-        "views": 171600000
+        "views": 175900000
       }
     },
     {
@@ -806,7 +824,7 @@
       "name": "#dinnerrecipe",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/42b762638f3934953813a8c4163a3488",
       "stats": {
-        "views": 42200000
+        "views": 43100000
       }
     },
     {
@@ -815,7 +833,7 @@
       "name": "#starwarsday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6ee0bd76d59a56fe6c46db056498047e",
       "stats": {
-        "views": 210300000
+        "views": 211400000
       }
     },
     {
@@ -833,7 +851,7 @@
       "name": "#myjewishheritage",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4bd82df123d44837399c0483683999b2",
       "stats": {
-        "views": 18600000
+        "views": 18700000
       }
     },
     {
@@ -842,7 +860,7 @@
       "name": "#notthemaincharacter",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/393f5f17838ffddbd4e4b9766777bb52",
       "stats": {
-        "views": 108400000
+        "views": 108900000
       }
     },
     {
@@ -852,24 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9484cea0fc44c8c66e38bde03e6f619e",
       "stats": {
         "views": 3300000000
-      }
-    },
-    {
-      "challengeId": "14562",
-      "description": "Whether you're hitting the trail or hitting the gym, show us how you #GetFit.",
-      "name": "#getfit",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/18f23fa80a42dfcbecf79e38c1eb4151",
-      "stats": {
-        "views": 3900000000
-      }
-    },
-    {
-      "challengeId": "1698141903079429",
-      "description": "May is Asian and Pacific Islander Heritage Month and we're putting the spotlight on our incredible community of creators on TikTok who represent diversity, pride and strength. #WeAreAPI. Find out more: https://vm.tiktok.com/ZMeVP68FU/",
-      "name": "#weareapi",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a346492eb5b6b8ba26f355b3d892b835",
-      "stats": {
-        "views": 113700000
       }
     }
   ],
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 814800
+        "posts": 814700
       }
     },
     {
