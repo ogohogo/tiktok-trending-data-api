@@ -783,6 +783,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "20200825",
+      "description": "Whether it's your friends, family, or even your pets, give us an introduction to your group.",
+      "name": "#meetthegroup",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/06bbf87b0c6fc1864b0772c13f936a9e",
+      "stats": {
+        "views": 13400000
+      }
+    },
+    {
       "challengeId": "30170",
       "description": "Whether you're singing along to the classics, embracing the honky-tonk life, or looking for the perfect song for the summer, here's to all things #CountryMusic.",
       "name": "#countrymusic",
@@ -797,7 +806,7 @@
       "name": "#iworkatthebank",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/acb3aeb1c4a4d1df21a31477ab3976b0",
       "stats": {
-        "views": 74000000
+        "views": 75900000
       }
     },
     {
@@ -806,7 +815,7 @@
       "name": "#hateisavirus",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7c0bf02cca02b54e306a24ee49564605",
       "stats": {
-        "views": 96500000
+        "views": 97400000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#goodmemories",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/19b155885b31fc411cc241925ed3001e",
       "stats": {
-        "views": 247100000
+        "views": 249500000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#dinnerrecipe",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/42b762638f3934953813a8c4163a3488",
       "stats": {
-        "views": 57400000
+        "views": 57900000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#starwarsday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6ee0bd76d59a56fe6c46db056498047e",
       "stats": {
-        "views": 229700000
+        "views": 230400000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#notthemaincharacter",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/393f5f17838ffddbd4e4b9766777bb52",
       "stats": {
-        "views": 119400000
-      }
-    },
-    {
-      "challengeId": "3256198",
-      "description": "Let's come together as a community and put mental health first. From checking in on friends to sharing resources that make a difference, here's to ending stigmas and raising #MentalHealthAwareness.",
-      "name": "#mentalhealthawareness",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9484cea0fc44c8c66e38bde03e6f619e",
-      "stats": {
-        "views": 3400000000
+        "views": 119800000
       }
     }
   ],
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 813800
+        "posts": 813700
       }
     },
     {
