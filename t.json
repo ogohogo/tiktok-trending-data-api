@@ -74,7 +74,7 @@
         }
       },
       "stats": {
-        "followers": 80200000,
+        "followers": 80300000,
         "likes": 5200000000
       }
     },
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 6000000,
-        "likes": 362800000
+        "likes": 363600000
       }
     },
     {
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 18000000,
-        "likes": 731100000
+        "likes": 731200000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 8600000,
-        "likes": 366700000
+        "likes": 366800000
       }
     },
     {
@@ -256,8 +256,8 @@
         }
       },
       "stats": {
-        "followers": 59600000,
-        "likes": 737600000
+        "followers": 59700000,
+        "likes": 737700000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 10900000,
-        "likes": 182900000
+        "likes": 183000000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 9100000,
-        "likes": 739000000
+        "likes": 739200000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 11100000,
-        "likes": 430200000
+        "likes": 430300000
       }
     },
     {
@@ -387,7 +387,7 @@
       },
       "stats": {
         "followers": 20600000,
-        "likes": 252300000
+        "likes": 252400000
       }
     },
     {
@@ -439,7 +439,7 @@
       },
       "stats": {
         "followers": 8300000,
-        "likes": 593100000
+        "likes": 593500000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 16100000,
-        "likes": 399300000
+        "likes": 399400000
       }
     },
     {
@@ -595,7 +595,7 @@
       },
       "stats": {
         "followers": 12700000,
-        "likes": 502800000
+        "likes": 502900000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 10000000,
-        "likes": 66600000
+        "likes": 66700000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 12500000,
-        "likes": 305700000
+        "likes": 305800000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 8600000,
-        "likes": 114400000
+        "likes": 114500000
       }
     },
     {
@@ -751,7 +751,7 @@
       },
       "stats": {
         "followers": 20300000,
-        "likes": 367800000
+        "likes": 367900000
       }
     },
     {
@@ -777,18 +777,27 @@
       },
       "stats": {
         "followers": 4800000,
-        "likes": 113800000
+        "likes": 113900000
       }
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "1673205781101573",
+      "description": "The WNBA is back and better than ever! In its 25th season, the W is celebrating its journey over the last 25 years and where its headed for the next 25. So show us how far you've come in your own personal journey with #WNBAisBack!",
+      "name": "#wnbaisback",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7e158ad5e7f6e811fe0ce66606fc8997",
+      "stats": {
+        "views": 383900
+      }
+    },
     {
       "challengeId": "5165018",
       "description": "Every story has twist and turns, so tell us your #DramaticStory.",
       "name": "#dramaticstory",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6b705b9cb693521959192f09e7a36ef3",
       "stats": {
-        "views": 44200000
+        "views": 47000000
       }
     },
     {
@@ -797,7 +806,7 @@
       "name": "#fashionschool",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d1af7436f610843d88a41aae1132d9a5",
       "stats": {
-        "views": 246000000
+        "views": 246900000
       }
     },
     {
@@ -806,7 +815,7 @@
       "name": "#letsplay",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7c1b565aa48a9ad17fe31f1aa9ed82a7",
       "stats": {
-        "views": 717800000
+        "views": 724500000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#finalsszn",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/493a783ed61fc74b2e9285f47bcf283f",
       "stats": {
-        "views": 32600000
+        "views": 33300000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#jazztok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d44b68ecd63455ce4a2ed3a3d06a3561",
       "stats": {
-        "views": 148100000
+        "views": 150400000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#pestoeggs",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b3a97a032d5d093b079194faa0adad08",
       "stats": {
-        "views": 81600000
+        "views": 83700000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#meetthegroup",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/06bbf87b0c6fc1864b0772c13f936a9e",
       "stats": {
-        "views": 171800000
-      }
-    },
-    {
-      "challengeId": "30170",
-      "description": "Whether you're singing along to the classics, embracing the honky-tonk life, or looking for the perfect song for the summer, here's to all things #CountryMusic.",
-      "name": "#countrymusic",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dc62d00ae458c707272f6c2770929226",
-      "stats": {
-        "views": 3000000000
+        "views": 174900000
       }
     }
   ],
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 808000
+        "posts": 807900
       }
     },
     {
