@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 6200000,
-        "likes": 376300000
+        "likes": 376900000
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 28900000,
-        "likes": 117700000
+        "likes": 117800000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 18100000,
-        "likes": 732500000
+        "likes": 732600000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 11000000,
-        "likes": 184200000
+        "likes": 184300000
       }
     },
     {
@@ -334,8 +334,8 @@
         }
       },
       "stats": {
-        "followers": 20700000,
-        "likes": 255200000
+        "followers": 20800000,
+        "likes": 256100000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 8400000,
-        "likes": 598700000
+        "likes": 598900000
       }
     },
     {
@@ -387,7 +387,7 @@
       },
       "stats": {
         "followers": 9100000,
-        "likes": 742400000
+        "likes": 742600000
       }
     },
     {
@@ -439,7 +439,7 @@
       },
       "stats": {
         "followers": 23000000,
-        "likes": 713600000
+        "likes": 713700000
       }
     },
     {
@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 6200000,
-        "likes": 425100000
+        "likes": 425400000
       }
     },
     {
@@ -595,7 +595,7 @@
       },
       "stats": {
         "followers": 4900000,
-        "likes": 116300000
+        "likes": 116400000
       }
     },
     {
@@ -783,12 +783,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "35423",
+      "description": "The #StanleyCup Playoffs are officially underway, so grab your sticks, pull on your jersey, and show us how you're celebrating all things hockey.",
+      "name": "#stanleycup",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1e32b807c20522612d2de8284541175e",
+      "stats": {
+        "views": 2000000000
+      }
+    },
+    {
       "challengeId": "1673205781101573",
       "description": "The WNBA is back and better than ever! In its 25th season, the W is celebrating its journey over the last 25 years and where its headed for the next 25. So show us how far you've come in your own personal journey with #WNBAisBack!",
       "name": "#wnbaisback",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7e158ad5e7f6e811fe0ce66606fc8997",
       "stats": {
-        "views": 12700000
+        "views": 13600000
       }
     },
     {
@@ -806,7 +815,7 @@
       "name": "#dramaticstory",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6b705b9cb693521959192f09e7a36ef3",
       "stats": {
-        "views": 101000000
+        "views": 104100000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#fashionschool",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d1af7436f610843d88a41aae1132d9a5",
       "stats": {
-        "views": 265700000
+        "views": 266600000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#letsplay",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7c1b565aa48a9ad17fe31f1aa9ed82a7",
       "stats": {
-        "views": 811800000
+        "views": 816900000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#finalsszn",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/493a783ed61fc74b2e9285f47bcf283f",
       "stats": {
-        "views": 43000000
+        "views": 43500000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#jazztok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d44b68ecd63455ce4a2ed3a3d06a3561",
       "stats": {
-        "views": 163800000
+        "views": 164300000
       }
     },
     {
@@ -861,15 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/83b956de469e0c5dcdc51f9c324043c1",
       "stats": {
         "views": 4400000000
-      }
-    },
-    {
-      "challengeId": "1698129112441862",
-      "description": "Grab your ingredients and try #PestoEggs.",
-      "name": "#pestoeggs",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b3a97a032d5d093b079194faa0adad08",
-      "stats": {
-        "views": 94000000
       }
     }
   ],
@@ -996,7 +996,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/22edbf1cc1a90a50152172c36f729e8f.mp3"
       },
       "stats": {
-        "posts": 475900
+        "posts": 475800
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 806600
+        "posts": 806500
       }
     },
     {
@@ -1046,7 +1046,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/72bc6715e0b6726f3806f1bce1b0630f.mp3"
       },
       "stats": {
-        "posts": 554300
+        "posts": 554200
       }
     },
     {
