@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 53600000,
-        "likes": 321300000
+        "likes": 321400000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 28000000,
-        "likes": 83100000
+        "likes": 83200000
       }
     },
     {
@@ -391,32 +391,6 @@
       }
     },
     {
-      "userId": "6693590239291917318",
-      "secUserId": "MS4wLjABAAAAG3YiXquuv2-O3z4OJpF1-cVHMKpx_JYmOsprbBrmY_MolxRsfK-gkZ4evQpTptGk",
-      "id": "@theweeknd",
-      "name": "The Weeknd",
-      "bio": "ACCOUNT RUN BY CAESAR THE DOG",
-      "verified": true,
-      "avatar": {
-        "jpeg": {
-          "small": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/e0de4be4cac1d55a37c452a4c8287ffc~c5_100x100.jpeg",
-          "medium": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/e0de4be4cac1d55a37c452a4c8287ffc~c5_300x300.jpeg",
-          "big": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/e0de4be4cac1d55a37c452a4c8287ffc~c5_720x720.jpeg",
-          "large": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/e0de4be4cac1d55a37c452a4c8287ffc~c5_1080x1080.jpeg"
-        },
-        "webp": {
-          "small": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/e0de4be4cac1d55a37c452a4c8287ffc~c5_100x100.webp",
-          "medium": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/e0de4be4cac1d55a37c452a4c8287ffc~c5_300x300.webp",
-          "big": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/e0de4be4cac1d55a37c452a4c8287ffc~c5_720x720.webp",
-          "large": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/e0de4be4cac1d55a37c452a4c8287ffc~c5_1080x1080.webp"
-        }
-      },
-      "stats": {
-        "followers": 4000000,
-        "likes": 14800000
-      }
-    },
-    {
       "userId": "6653097460997521414",
       "secUserId": "MS4wLjABAAAALoMs_1FxFHHnkPE6B8ZjTGsca2zm60Xi_xW1qRt6duyJllmKfA1O0gxgn7UtySfz",
       "id": "@steveharvey",
@@ -438,7 +412,7 @@
         }
       },
       "stats": {
-        "followers": 5400000,
+        "followers": 5500000,
         "likes": 37200000
       }
     },
@@ -776,7 +750,7 @@
         }
       },
       "stats": {
-        "followers": 669000,
+        "followers": 669100,
         "likes": 1400000
       }
     }
@@ -788,7 +762,7 @@
       "name": "#thegreatuntold",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ca6c364f8b6a732a7360094ba4d45dcb",
       "stats": {
-        "views": 9200000
+        "views": 16600000
       }
     },
     {
@@ -797,7 +771,7 @@
       "name": "#workoutmotivation",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a302ebaff658e353373183bed91868c6",
       "stats": {
-        "views": 430700000
+        "views": 436500000
       }
     },
     {
@@ -806,7 +780,7 @@
       "name": "#behindthisdoor",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5c3bd3d2e5c13ef8418c41ef0cba9ba6",
       "stats": {
-        "views": 44300000
+        "views": 49400000
       }
     },
     {
@@ -815,7 +789,7 @@
       "name": "#mosaic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/83a1a0de62bfeab694b1febd984da80d",
       "stats": {
-        "views": 287200000
+        "views": 292900000
       }
     },
     {
@@ -851,7 +825,7 @@
       "name": "#wnbaisback",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7e158ad5e7f6e811fe0ce66606fc8997",
       "stats": {
-        "views": 49800000
+        "views": 50800000
       }
     },
     {
@@ -860,7 +834,7 @@
       "name": "#dramaticstory",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6b705b9cb693521959192f09e7a36ef3",
       "stats": {
-        "views": 223900000
+        "views": 227400000
       }
     },
     {
@@ -869,7 +843,7 @@
       "name": "#fashionschool",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d1af7436f610843d88a41aae1132d9a5",
       "stats": {
-        "views": 301300000
+        "views": 302300000
       }
     }
   ],
@@ -1021,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 802900
+        "posts": 802800
       }
     },
     {
