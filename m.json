@@ -447,7 +447,7 @@
       "secUserId": "MS4wLjABAAAAs5jkeWdu5hM55BndQETUnl4rll7H8fthkyz5JmF3P5qKdh_mLcAUVGJ16WPpEI_M",
       "id": "@nickiminaj",
       "name": "Nicki Minaj",
-      "bio": "",
+      "bio": "#SeeingGreen",
       "verified": true,
       "avatar": {
         "jpeg": {
@@ -757,12 +757,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1675003588502533",
+      "description": "May 20th is #MentalHealthAction Day, so how are you taking action to support your mental health? It looks different for everyone, so whether you're focusing on wellness or supporting friends, do what feels right for you. Show us your #MentalHealthAction and help inspire others!",
+      "name": "#mentalhealthaction",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ecb00dfa19a41e76358372ac034a0362",
+      "stats": {
+        "views": 309300
+      }
+    },
+    {
+      "challengeId": "1650758230114309",
+      "description": "Calling all the #FilmmakersOfTikTok! Whether you've spent decades behind the camera or are just getting started, take us behind the scenes and show us your craft.",
+      "name": "#filmmakersoftiktok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ae892a5b0adde9c5f7195f9ec904e42f",
+      "stats": {
+        "views": 95400000
+      }
+    },
+    {
       "challengeId": "373195",
       "description": "No matter the situation, sometimes you want to spend time #JustVibing.",
       "name": "#justvibing",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f6f29fc48051bceac7e526c11a273538",
       "stats": {
-        "views": 185800000
+        "views": 193100000
       }
     },
     {
@@ -780,7 +798,7 @@
       "name": "#imgettingrippedtonight",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2872c113c17642bfc89b7ba70254305e",
       "stats": {
-        "views": 276100000
+        "views": 280900000
       }
     },
     {
@@ -789,7 +807,7 @@
       "name": "#cookingtiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f58524f4e6e0f0dd85ead4d44a3edacb",
       "stats": {
-        "views": 327700000
+        "views": 329100000
       }
     },
     {
@@ -798,7 +816,7 @@
       "name": "#thegreatuntold",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ca6c364f8b6a732a7360094ba4d45dcb",
       "stats": {
-        "views": 272800000
+        "views": 275500000
       }
     },
     {
@@ -807,7 +825,7 @@
       "name": "#workoutmotivation",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a302ebaff658e353373183bed91868c6",
       "stats": {
-        "views": 557400000
+        "views": 559800000
       }
     },
     {
@@ -816,7 +834,7 @@
       "name": "#behindthisdoor",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5c3bd3d2e5c13ef8418c41ef0cba9ba6",
       "stats": {
-        "views": 120700000
+        "views": 122200000
       }
     },
     {
@@ -825,25 +843,7 @@
       "name": "#mosaic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/83a1a0de62bfeab694b1febd984da80d",
       "stats": {
-        "views": 358700000
-      }
-    },
-    {
-      "challengeId": "10133652",
-      "description": "Start your engines and join the #CarTok community.",
-      "name": "#cartok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/18b7414fba9ae6b895173cc5016e2e6f",
-      "stats": {
-        "views": 2500000000
-      }
-    },
-    {
-      "challengeId": "35423",
-      "description": "The #StanleyCup Playoffs are officially underway, so grab your sticks, pull on your jersey, and show us how you're celebrating all things hockey.",
-      "name": "#stanleycup",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1e32b807c20522612d2de8284541175e",
-      "stats": {
-        "views": 2100000000
+        "views": 360200000
       }
     }
   ],
@@ -970,7 +970,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/22edbf1cc1a90a50152172c36f729e8f.mp3"
       },
       "stats": {
-        "posts": 473700
+        "posts": 473600
       }
     },
     {
@@ -995,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 800700
+        "posts": 800600
       }
     },
     {

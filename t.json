@@ -22,7 +22,7 @@
         }
       },
       "stats": {
-        "followers": 68500000,
+        "followers": 68600000,
         "likes": 1500000000
       }
     },
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 6700000,
-        "likes": 421300000
+        "likes": 421900000
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 21800000,
-        "likes": 270700000
+        "likes": 270900000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 16600000,
-        "likes": 413400000
+        "likes": 413500000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 9200000,
-        "likes": 757800000
+        "likes": 758000000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 8400000,
-        "likes": 607900000
+        "likes": 608000000
       }
     },
     {
@@ -387,7 +387,7 @@
       },
       "stats": {
         "followers": 8700000,
-        "likes": 373000000
+        "likes": 373100000
       }
     },
     {
@@ -413,7 +413,7 @@
       },
       "stats": {
         "followers": 3000000,
-        "likes": 45900000
+        "likes": 46100000
       }
     },
     {
@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 6600000,
-        "likes": 350600000
+        "likes": 350700000
       }
     },
     {
@@ -568,8 +568,8 @@
         }
       },
       "stats": {
-        "followers": 6100000,
-        "likes": 153000000
+        "followers": 6200000,
+        "likes": 153200000
       }
     },
     {
@@ -594,8 +594,8 @@
         }
       },
       "stats": {
-        "followers": 9000000,
-        "likes": 161800000
+        "followers": 9100000,
+        "likes": 162000000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 18100000,
-        "likes": 738200000
+        "likes": 738300000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 18600000,
-        "likes": 502800000
+        "likes": 502900000
       }
     },
     {
@@ -672,8 +672,8 @@
         }
       },
       "stats": {
-        "followers": 9200000,
-        "likes": 515300000
+        "followers": 9300000,
+        "likes": 515500000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 12900000,
-        "likes": 508800000
+        "likes": 508900000
       }
     },
     {
@@ -725,7 +725,7 @@
       },
       "stats": {
         "followers": 8400000,
-        "likes": 353900000
+        "likes": 354000000
       }
     },
     {
@@ -783,12 +783,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1675003588502533",
+      "description": "May 20th is #MentalHealthAction Day, so how are you taking action to support your mental health? It looks different for everyone, so whether you're focusing on wellness or supporting friends, do what feels right for you. Show us your #MentalHealthAction and help inspire others!",
+      "name": "#mentalhealthaction",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ecb00dfa19a41e76358372ac034a0362",
+      "stats": {
+        "views": 315000
+      }
+    },
+    {
+      "challengeId": "1650758230114309",
+      "description": "Calling all the #FilmmakersOfTikTok! Whether you've spent decades behind the camera or are just getting started, take us behind the scenes and show us your craft.",
+      "name": "#filmmakersoftiktok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ae892a5b0adde9c5f7195f9ec904e42f",
+      "stats": {
+        "views": 95400000
+      }
+    },
+    {
       "challengeId": "373195",
       "description": "No matter the situation, sometimes you want to spend time #JustVibing.",
       "name": "#justvibing",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f6f29fc48051bceac7e526c11a273538",
       "stats": {
-        "views": 185300000
+        "views": 192600000
       }
     },
     {
@@ -806,7 +824,7 @@
       "name": "#imgettingrippedtonight",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2872c113c17642bfc89b7ba70254305e",
       "stats": {
-        "views": 276600000
+        "views": 281300000
       }
     },
     {
@@ -815,7 +833,7 @@
       "name": "#cookingtiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f58524f4e6e0f0dd85ead4d44a3edacb",
       "stats": {
-        "views": 328000000
+        "views": 329400000
       }
     },
     {
@@ -824,7 +842,7 @@
       "name": "#thegreatuntold",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ca6c364f8b6a732a7360094ba4d45dcb",
       "stats": {
-        "views": 273000000
+        "views": 275700000
       }
     },
     {
@@ -833,7 +851,7 @@
       "name": "#workoutmotivation",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a302ebaff658e353373183bed91868c6",
       "stats": {
-        "views": 558100000
+        "views": 560400000
       }
     },
     {
@@ -842,7 +860,7 @@
       "name": "#behindthisdoor",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5c3bd3d2e5c13ef8418c41ef0cba9ba6",
       "stats": {
-        "views": 120800000
+        "views": 122300000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#mosaic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/83a1a0de62bfeab694b1febd984da80d",
       "stats": {
-        "views": 358600000
-      }
-    },
-    {
-      "challengeId": "10133652",
-      "description": "Start your engines and join the #CarTok community.",
-      "name": "#cartok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/18b7414fba9ae6b895173cc5016e2e6f",
-      "stats": {
-        "views": 2500000000
-      }
-    },
-    {
-      "challengeId": "35423",
-      "description": "The #StanleyCup Playoffs are officially underway, so grab your sticks, pull on your jersey, and show us how you're celebrating all things hockey.",
-      "name": "#stanleycup",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1e32b807c20522612d2de8284541175e",
-      "stats": {
-        "views": 2100000000
+        "views": 360100000
       }
     }
   ],
@@ -996,7 +996,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/22edbf1cc1a90a50152172c36f729e8f.mp3"
       },
       "stats": {
-        "posts": 473700
+        "posts": 473600
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 800600
+        "posts": 800500
       }
     },
     {
@@ -1046,7 +1046,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/72bc6715e0b6726f3806f1bce1b0630f.mp3"
       },
       "stats": {
-        "posts": 552300
+        "posts": 552200
       }
     },
     {
