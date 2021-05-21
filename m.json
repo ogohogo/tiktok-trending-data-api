@@ -569,7 +569,7 @@
       },
       "stats": {
         "followers": 3000000,
-        "likes": 26100000
+        "likes": 26200000
       }
     },
     {
@@ -757,12 +757,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1607173416896517",
+      "description": "#CityPop vibes are the best vibes.",
+      "name": "#citypop",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ae732fd2dbaf8ddc6f74cf9f8534fbfc",
+      "stats": {
+        "views": 39900000
+      }
+    },
+    {
       "challengeId": "1675003588502533",
       "description": "May 20th is #MentalHealthAction Day, so how are you taking action to support your mental health? It looks different for everyone, so whether you're focusing on wellness or supporting friends, do what feels right for you. Show us your #MentalHealthAction and help inspire others!",
       "name": "#mentalhealthaction",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ecb00dfa19a41e76358372ac034a0362",
       "stats": {
-        "views": 15200000
+        "views": 16000000
       }
     },
     {
@@ -771,7 +780,7 @@
       "name": "#filmmakersoftiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ae892a5b0adde9c5f7195f9ec904e42f",
       "stats": {
-        "views": 103100000
+        "views": 103600000
       }
     },
     {
@@ -780,7 +789,7 @@
       "name": "#justvibing",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f6f29fc48051bceac7e526c11a273538",
       "stats": {
-        "views": 287700000
+        "views": 292000000
       }
     },
     {
@@ -798,7 +807,7 @@
       "name": "#imgettingrippedtonight",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2872c113c17642bfc89b7ba70254305e",
       "stats": {
-        "views": 336800000
+        "views": 339500000
       }
     },
     {
@@ -807,7 +816,7 @@
       "name": "#cookingtiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f58524f4e6e0f0dd85ead4d44a3edacb",
       "stats": {
-        "views": 350400000
+        "views": 351200000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#thegreatuntold",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ca6c364f8b6a732a7360094ba4d45dcb",
       "stats": {
-        "views": 305400000
+        "views": 307100000
       }
     },
     {
@@ -825,7 +834,7 @@
       "name": "#workoutmotivation",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a302ebaff658e353373183bed91868c6",
       "stats": {
-        "views": 585800000
+        "views": 587000000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#behindthisdoor",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5c3bd3d2e5c13ef8418c41ef0cba9ba6",
       "stats": {
-        "views": 134200000
-      }
-    },
-    {
-      "challengeId": "2017361",
-      "description": "Everyone is a #Mosaic of the people around them, so tell us where you come from.",
-      "name": "#mosaic",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/83a1a0de62bfeab694b1febd984da80d",
-      "stats": {
-        "views": 372600000
+        "views": 134600000
       }
     }
   ],
@@ -1020,7 +1020,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/72bc6715e0b6726f3806f1bce1b0630f.mp3"
       },
       "stats": {
-        "posts": 552000
+        "posts": 551900
       }
     },
     {
