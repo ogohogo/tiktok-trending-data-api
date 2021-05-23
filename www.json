@@ -757,12 +757,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "8067737",
+      "description": "#Castaways, we are #Castaways. Ahoy there!",
+      "name": "#castaways",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c4e84c8299901cf7b918a253a59dac3e",
+      "stats": {
+        "views": 145400000
+      }
+    },
+    {
+      "challengeId": "186563",
+      "description": "We're here for everything #Gardening.",
+      "name": "#gardening",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e45a5688d7c2e43f5afa9019f6ef02dc",
+      "stats": {
+        "views": 1900000000
+      }
+    },
+    {
       "challengeId": "118914",
       "description": "Whether you're handy with tools or have worked for years to be an artist, show us how you're #SelfTaught.",
       "name": "#selftaught",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d1fd8fadb21c2188b4b31d188f498aaa",
       "stats": {
-        "views": 388200000
+        "views": 390500000
       }
     },
     {
@@ -771,7 +789,7 @@
       "name": "#citypop",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ae732fd2dbaf8ddc6f74cf9f8534fbfc",
       "stats": {
-        "views": 101200000
+        "views": 102500000
       }
     },
     {
@@ -780,7 +798,7 @@
       "name": "#mentalhealthaction",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ecb00dfa19a41e76358372ac034a0362",
       "stats": {
-        "views": 46000000
+        "views": 46300000
       }
     },
     {
@@ -789,7 +807,7 @@
       "name": "#filmmakersoftiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ae892a5b0adde9c5f7195f9ec904e42f",
       "stats": {
-        "views": 119700000
+        "views": 119900000
       }
     },
     {
@@ -798,7 +816,7 @@
       "name": "#justvibing",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f6f29fc48051bceac7e526c11a273538",
       "stats": {
-        "views": 453200000
+        "views": 456000000
       }
     },
     {
@@ -816,7 +834,7 @@
       "name": "#imgettingrippedtonight",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2872c113c17642bfc89b7ba70254305e",
       "stats": {
-        "views": 435200000
+        "views": 436700000
       }
     },
     {
@@ -825,25 +843,7 @@
       "name": "#cookingtiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f58524f4e6e0f0dd85ead4d44a3edacb",
       "stats": {
-        "views": 410800000
-      }
-    },
-    {
-      "challengeId": "1699500925510661",
-      "description": "Netflix and Adobe are searching for the next great filmmaker. Create a trailer for the chance to produce a short film. Use #TheGreatUntold + #Contest, and follow and tag @Netflix + @Adobe. \n\nAll music used must be from the TikTok commercial sounds library. Official rules: WhatsYourGreatUntold.com. Submission Period: begins at 12:00 PM ET on May 17, 2021 and ends at 11:59:59 PM ET on June 13, 2021. Entrants must be residents of the USA.",
-      "name": "#thegreatuntold",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ca6c364f8b6a732a7360094ba4d45dcb",
-      "stats": {
-        "views": 352600000
-      }
-    },
-    {
-      "challengeId": "1263531",
-      "description": "What gets you motivated to work out?",
-      "name": "#workoutmotivation",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a302ebaff658e353373183bed91868c6",
-      "stats": {
-        "views": 630000000
+        "views": 411900000
       }
     }
   ],
@@ -995,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 797300
+        "posts": 797200
       }
     },
     {
