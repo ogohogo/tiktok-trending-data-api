@@ -757,12 +757,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "32688640",
+      "description": "Celebrate Africa Month with TikTok, Trace and the African Union. Africa is a culturally rich and diverse continent. Share your thoughts and views on what makes you African through food, music, fashion, dance, art and entertainment. Inspire Africans across the world to get involved and share what makes them African. \n\nLet's celebrate Africa.",
+      "name": "#iamafrican",
+      "avatar": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/dd93a39db271a29637b88b3f404b13ae",
+      "stats": {
+        "views": 38900000
+      }
+    },
+    {
+      "challengeId": "1596469701878790",
+      "description": "Show us your best #KitchenHacks!",
+      "name": "#KitchenHacks",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/56f7a8356db983265bd269b1c4f06117",
+      "stats": {
+        "views": 1500000000
+      }
+    },
+    {
       "challengeId": "57671",
       "description": "Whether it's living at home, moving overseas, or dealing with your siblings, show us #WhatItsLike.",
       "name": "#whatitslike",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/02eb4067d34cbcdb33189be8fe7b83c6",
       "stats": {
-        "views": 79700000
+        "views": 82000000
       }
     },
     {
@@ -771,7 +789,7 @@
       "name": "#castaways",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c4e84c8299901cf7b918a253a59dac3e",
       "stats": {
-        "views": 241200000
+        "views": 243400000
       }
     },
     {
@@ -789,7 +807,7 @@
       "name": "#selftaught",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d1fd8fadb21c2188b4b31d188f498aaa",
       "stats": {
-        "views": 515200000
+        "views": 517300000
       }
     },
     {
@@ -798,7 +816,7 @@
       "name": "#citypop",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ae732fd2dbaf8ddc6f74cf9f8534fbfc",
       "stats": {
-        "views": 158500000
+        "views": 159200000
       }
     },
     {
@@ -807,7 +825,7 @@
       "name": "#mentalhealthaction",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ecb00dfa19a41e76358372ac034a0362",
       "stats": {
-        "views": 68000000
+        "views": 68300000
       }
     },
     {
@@ -816,7 +834,7 @@
       "name": "#filmmakersoftiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ae892a5b0adde9c5f7195f9ec904e42f",
       "stats": {
-        "views": 129800000
+        "views": 130000000
       }
     },
     {
@@ -825,25 +843,7 @@
       "name": "#justvibing",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f6f29fc48051bceac7e526c11a273538",
       "stats": {
-        "views": 578500000
-      }
-    },
-    {
-      "challengeId": "7905957",
-      "description": "#BeautyReview - Whether it's a new product or a classic favorite, share your essentials with #BeautyReview.",
-      "name": "#BeautyReview",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dfc04f2fc136fa759e9df921e03e9793",
-      "stats": {
-        "views": 2800000000
-      }
-    },
-    {
-      "challengeId": "1690810304966661",
-      "description": "Whether it's a movie quote or a perfect impression, show us how you finish the sentence.",
-      "name": "#imgettingrippedtonight",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2872c113c17642bfc89b7ba70254305e",
-      "stats": {
-        "views": 512800000
+        "views": 581100000
       }
     }
   ],
