@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 116400000,
-        "likes": 9300000000
+        "likes": 9400000000
       }
     },
     {
@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 7400000,
-        "likes": 477300000
+        "likes": 477700000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 16500000,
-        "likes": 536100000
+        "likes": 536200000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 10900000,
-        "likes": 307500000
+        "likes": 307600000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 23700000,
-        "likes": 429500000
+        "likes": 429600000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 9000000,
-        "likes": 386100000
+        "likes": 386200000
       }
     },
     {
@@ -387,7 +387,7 @@
       },
       "stats": {
         "followers": 4500000,
-        "likes": 65300000
+        "likes": 65400000
       }
     },
     {
@@ -569,7 +569,7 @@
       },
       "stats": {
         "followers": 8500000,
-        "likes": 622500000
+        "likes": 622600000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 18200000,
-        "likes": 745700000
+        "likes": 745800000
       }
     },
     {
@@ -725,7 +725,7 @@
       },
       "stats": {
         "followers": 6500000,
-        "likes": 164500000
+        "likes": 164700000
       }
     },
     {
@@ -751,7 +751,7 @@
       },
       "stats": {
         "followers": 9300000,
-        "likes": 769200000
+        "likes": 769300000
       }
     },
     {
@@ -783,6 +783,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1626448872785926",
+      "description": "Grab your camera, find the perfect angle, and show us your #3DPhotos.",
+      "name": "#3dphotos",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a9ffc01d47d95575e34654246fad628",
+      "stats": {
+        "views": 27600000
+      }
+    },
+    {
+      "challengeId": "1610064931767302",
+      "description": "From perfect photos to essential tutorials, we're here for all things #TikTokPhotography.",
+      "name": "#tiktokphotography",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4277b97e3f6e3962323ba56dc02c24d0",
+      "stats": {
+        "views": 39300000
+      }
+    },
+    {
       "challengeId": "30170",
       "description": "Whether you're singing along to the classics, embracing the honky-tonk life, or looking for the perfect song for the summer, here's to all things #CountryMusic.",
       "name": "#countrymusic",
@@ -805,7 +823,7 @@
       "name": "#iamafrican",
       "avatar": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/dd93a39db271a29637b88b3f404b13ae",
       "stats": {
-        "views": 65600000
+        "views": 66500000
       }
     },
     {
@@ -823,7 +841,7 @@
       "name": "#whatitslike",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/02eb4067d34cbcdb33189be8fe7b83c6",
       "stats": {
-        "views": 232900000
+        "views": 236700000
       }
     },
     {
@@ -832,7 +850,7 @@
       "name": "#castaways",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c4e84c8299901cf7b918a253a59dac3e",
       "stats": {
-        "views": 347600000
+        "views": 349500000
       }
     },
     {
@@ -850,25 +868,7 @@
       "name": "#selftaught",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d1fd8fadb21c2188b4b31d188f498aaa",
       "stats": {
-        "views": 605100000
-      }
-    },
-    {
-      "challengeId": "1607173416896517",
-      "description": "#CityPop vibes are the best vibes.",
-      "name": "#citypop",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ae732fd2dbaf8ddc6f74cf9f8534fbfc",
-      "stats": {
-        "views": 194700000
-      }
-    },
-    {
-      "challengeId": "1675003588502533",
-      "description": "May 20th is #MentalHealthAction Day, so how are you taking action to support your mental health? It looks different for everyone, so whether you're focusing on wellness or supporting friends, do what feels right for you. Show us your #MentalHealthAction and help inspire others!",
-      "name": "#mentalhealthaction",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ecb00dfa19a41e76358372ac034a0362",
-      "stats": {
-        "views": 90700000
+        "views": 606700000
       }
     }
   ],
