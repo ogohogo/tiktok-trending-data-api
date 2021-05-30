@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 23600000,
-        "likes": 356700000
+        "likes": 356800000
       }
     },
     {
@@ -48,8 +48,8 @@
         }
       },
       "stats": {
-        "followers": 54600000,
-        "likes": 330800000
+        "followers": 54700000,
+        "likes": 330900000
       }
     },
     {
@@ -757,12 +757,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "4174123",
+      "description": "Whether you're celebrating online or just partying with friends and family, pull on your cap and gown because this one is for the #ClassOf2021.",
+      "name": "#classof2021",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/71740d8716cfab8428deb2c51864e0a4",
+      "stats": {
+        "views": 969400000
+      }
+    },
+    {
+      "challengeId": "12106204",
+      "description": "#TodayIsLove! We love today.",
+      "name": "#todayislove",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0f0c379fc02a5bb9d27c29521193f6e3",
+      "stats": {
+        "views": 13200000
+      }
+    },
+    {
       "challengeId": "15290423",
       "description": "The 2020/21 Champions League final is here! Use the official Champions League anthem and show your passion for Europe's premier club competition!",
       "name": "#uclfinal",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/50110c34444c21d9642abced6b1d0242",
       "stats": {
-        "views": 248500000
+        "views": 258000000
       }
     },
     {
@@ -771,7 +789,7 @@
       "name": "#diyhomedecor",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b17ea177e3f9de69a0f7e1ef26a6e07c",
       "stats": {
-        "views": 757000000
+        "views": 758400000
       }
     },
     {
@@ -789,7 +807,7 @@
       "name": "#wrongdoor",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2bfe9cdb47faf1604119beffaeb29139",
       "stats": {
-        "views": 69500000
+        "views": 70900000
       }
     },
     {
@@ -798,7 +816,7 @@
       "name": "#3dphotos",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a9ffc01d47d95575e34654246fad628",
       "stats": {
-        "views": 110900000
+        "views": 112000000
       }
     },
     {
@@ -807,7 +825,7 @@
       "name": "#tiktokphotography",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4277b97e3f6e3962323ba56dc02c24d0",
       "stats": {
-        "views": 104400000
+        "views": 105000000
       }
     },
     {
@@ -825,24 +843,6 @@
       "name": "#blacklivesmatter",
       "stats": {
         "views": 26700000000
-      }
-    },
-    {
-      "challengeId": "32688640",
-      "description": "Celebrate Africa Month with TikTok, Trace and the African Union. Africa is a culturally rich and diverse continent. Share your thoughts and views on what makes you African through food, music, fashion, dance, art and entertainment. Inspire Africans across the world to get involved and share what makes them African. \n\nLet's celebrate Africa.",
-      "name": "#iamafrican",
-      "avatar": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/dd93a39db271a29637b88b3f404b13ae",
-      "stats": {
-        "views": 92500000
-      }
-    },
-    {
-      "challengeId": "1596469701878790",
-      "description": "Show us your best #KitchenHacks!",
-      "name": "#KitchenHacks",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7ce9874509181071d0cd8dcbf3bac70d",
-      "stats": {
-        "views": 1700000000
       }
     }
   ],
