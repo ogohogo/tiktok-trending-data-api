@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 23700000,
-        "likes": 357600000
+        "likes": 357700000
       }
     },
     {
@@ -757,12 +757,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1637138684632070",
+      "description": "Pride Month is here, and TikTok is celebrating our amazing LGBTQIA+ community. From trailblazing creators pushing for progress to organizations making a difference, here's to a community where everyone is free to be themselves and create great things.",
+      "name": "#foryourpride",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/122a03e3613c21fe96e51a8617085f23",
+      "stats": {
+        "views": 45700000
+      }
+    },
+    {
+      "challengeId": "1587934459506690",
+      "description": "From painters to sculptures and everything in between, here's to the entire #TikTokArt community.",
+      "name": "#tiktokart",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f11b6340c85e5de56f5d2ab8d032af78",
+      "stats": {
+        "views": 5600000000
+      }
+    },
+    {
       "challengeId": "27892",
       "description": "Commemorating #MemorialDay.",
       "name": "#memorialday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1d40fef503944b6108e3d510ff7ca663",
       "stats": {
-        "views": 596200000
+        "views": 611400000
       }
     },
     {
@@ -771,7 +789,7 @@
       "name": "#dreamaesthetic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9eef2407a0753c29079ee17815ee472b",
       "stats": {
-        "views": 36000000
+        "views": 40200000
       }
     },
     {
@@ -789,7 +807,7 @@
       "name": "#todayislove",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0f0c379fc02a5bb9d27c29521193f6e3",
       "stats": {
-        "views": 116900000
+        "views": 123400000
       }
     },
     {
@@ -798,7 +816,7 @@
       "name": "#uclfinal",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/50110c34444c21d9642abced6b1d0242",
       "stats": {
-        "views": 414500000
+        "views": 419600000
       }
     },
     {
@@ -807,7 +825,7 @@
       "name": "#diyhomedecor",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b17ea177e3f9de69a0f7e1ef26a6e07c",
       "stats": {
-        "views": 835600000
+        "views": 836800000
       }
     },
     {
@@ -825,25 +843,7 @@
       "name": "#wrongdoor",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2bfe9cdb47faf1604119beffaeb29139",
       "stats": {
-        "views": 120500000
-      }
-    },
-    {
-      "challengeId": "1626448872785926",
-      "description": "Grab your camera, find the perfect angle, and show us your #3DPhotos.",
-      "name": "#3dphotos",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a9ffc01d47d95575e34654246fad628",
-      "stats": {
-        "views": 146200000
-      }
-    },
-    {
-      "challengeId": "1610064931767302",
-      "description": "From perfect photos to essential tutorials, we're here for all things #TikTokPhotography.",
-      "name": "#tiktokphotography",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4277b97e3f6e3962323ba56dc02c24d0",
-      "stats": {
-        "views": 122000000
+        "views": 122100000
       }
     }
   ],
@@ -995,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 788000
+        "posts": 787900
       }
     },
     {
