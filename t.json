@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 12300000,
-        "likes": 214400000
+        "likes": 214500000
       }
     },
     {
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 19700000,
-        "likes": 421400000
+        "likes": 421500000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 11700000,
-        "likes": 326400000
+        "likes": 326600000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 13300000,
-        "likes": 170400000
+        "likes": 170500000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 15900000,
-        "likes": 492800000
+        "likes": 492900000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 32000000,
-        "likes": 368500000
+        "likes": 368800000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 17400000,
-        "likes": 438500000
+        "likes": 438600000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 5300000,
-        "likes": 77100000
+        "likes": 77200000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 24200000,
-        "likes": 442500000
+        "likes": 442700000
       }
     },
     {
@@ -439,7 +439,7 @@
       },
       "stats": {
         "followers": 6900000,
-        "likes": 181600000
+        "likes": 182100000
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 8700000,
-        "likes": 329100000
+        "likes": 329300000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 8700000,
-        "likes": 640200000
+        "likes": 640400000
       }
     },
     {
@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 10200000,
-        "likes": 62100000
+        "likes": 62200000
       }
     },
     {
@@ -569,7 +569,7 @@
       },
       "stats": {
         "followers": 11300000,
-        "likes": 215700000
+        "likes": 215800000
       }
     },
     {
@@ -595,7 +595,7 @@
       },
       "stats": {
         "followers": 9200000,
-        "likes": 392600000
+        "likes": 392700000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 4500000,
-        "likes": 80100000
+        "likes": 80200000
       }
     },
     {
@@ -646,8 +646,8 @@
         }
       },
       "stats": {
-        "followers": 22900000,
-        "likes": 286200000
+        "followers": 23000000,
+        "likes": 286800000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 18300000,
-        "likes": 753200000
+        "likes": 753300000
       }
     },
     {
@@ -725,7 +725,7 @@
       },
       "stats": {
         "followers": 13600000,
-        "likes": 846100000
+        "likes": 846300000
       }
     },
     {
@@ -751,18 +751,18 @@
       },
       "stats": {
         "followers": 4800000,
-        "likes": 49700000
+        "likes": 49900000
       }
     }
   ],
   "hashtag": [
     {
-      "challengeId": "1662027712917510",
-      "description": "Whether it's an iconic bop that's been an essential part of queer history or a personal fav that means a lot, tell us your favorite #PrideAnthems.",
-      "name": "#prideanthems",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3b8b6ea02effee53e1afcf2e880ecf57",
+      "challengeId": "400318",
+      "description": "Use our Creative Effect and show us what happens when you start #Buffering.",
+      "name": "#buffering",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/47ff8b0629173c0a092ec64f310b8029",
       "stats": {
-        "views": 27500000
+        "views": 422300000
       }
     },
     {
@@ -775,12 +775,21 @@
       }
     },
     {
+      "challengeId": "1662027712917510",
+      "description": "Whether it's an iconic bop that's been an essential part of queer history or a personal fav that means a lot, tell us your favorite #PrideAnthems.",
+      "name": "#prideanthems",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3b8b6ea02effee53e1afcf2e880ecf57",
+      "stats": {
+        "views": 29800000
+      }
+    },
+    {
       "challengeId": "1637138684632070",
       "description": "Pride Month is here, and TikTok is celebrating our amazing LGBTQIA+ community. From trailblazing creators pushing for progress to organizations making a difference, here's to a community where everyone is free to be themselves and create great things.",
       "name": "#foryourpride",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/122a03e3613c21fe96e51a8617085f23",
       "stats": {
-        "views": 419900000
+        "views": 430700000
       }
     },
     {
@@ -798,7 +807,7 @@
       "name": "#memorialday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1d40fef503944b6108e3d510ff7ca663",
       "stats": {
-        "views": 814000000
+        "views": 818400000
       }
     },
     {
@@ -807,7 +816,7 @@
       "name": "#dreamaesthetic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9eef2407a0753c29079ee17815ee472b",
       "stats": {
-        "views": 131500000
+        "views": 135200000
       }
     },
     {
@@ -825,7 +834,7 @@
       "name": "#todayislove",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0f0c379fc02a5bb9d27c29521193f6e3",
       "stats": {
-        "views": 266200000
+        "views": 271300000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#uclfinal",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/50110c34444c21d9642abced6b1d0242",
       "stats": {
-        "views": 516300000
-      }
-    },
-    {
-      "challengeId": "84217102",
-      "description": "Whether you love thrifting, decorating or making your own decor from scratch, show us your #DIYHomeDecor.",
-      "name": "#diyhomedecor",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b17ea177e3f9de69a0f7e1ef26a6e07c",
-      "stats": {
-        "views": 865600000
+        "views": 520000000
       }
     }
   ],
@@ -995,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 785500
+        "posts": 785400
       }
     },
     {
