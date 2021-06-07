@@ -438,7 +438,7 @@
         }
       },
       "stats": {
-        "followers": 3700000,
+        "followers": 3800000,
         "likes": 12500000
       }
     },
@@ -757,6 +757,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "47560",
+      "description": "",
+      "name": "#summerschool",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f10399e2e2743864159b62c104bcc9a6",
+      "stats": {
+        "views": 37500000
+      }
+    },
+    {
+      "challengeId": "310374",
+      "description": "That's a really #GoodPoint Diane, thank you so much for bringing that up. Thank you.",
+      "name": "#goodpoint",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/cb74604fed96194d36d8de329ff7fec9",
+      "stats": {
+        "views": 36000000
+      }
+    },
+    {
       "challengeId": "1599163184670722",
       "description": "Your one-stop shop for perfect recipes, delicious desserts, and food inspiration.",
       "name": "#foodtiktok",
@@ -771,7 +789,7 @@
       "name": "#intothethickofit",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/30e1e67d20653eb841a02a480419b696",
       "stats": {
-        "views": 563300000
+        "views": 570300000
       }
     },
     {
@@ -789,7 +807,7 @@
       "name": "#blackmusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9c3478389e03eebd24110b04e8a8c53e",
       "stats": {
-        "views": 312100000
+        "views": 312500000
       }
     },
     {
@@ -798,7 +816,7 @@
       "name": "#buffering",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/47ff8b0629173c0a092ec64f310b8029",
       "stats": {
-        "views": 730800000
+        "views": 735800000
       }
     },
     {
@@ -816,7 +834,7 @@
       "name": "#prideanthems",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3b8b6ea02effee53e1afcf2e880ecf57",
       "stats": {
-        "views": 83800000
+        "views": 84300000
       }
     },
     {
@@ -825,25 +843,7 @@
       "name": "#foryourpride",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/122a03e3613c21fe96e51a8617085f23",
       "stats": {
-        "views": 775000000
-      }
-    },
-    {
-      "challengeId": "1587934459506690",
-      "description": "From painters to sculptures and everything in between, here's to the entire #TikTokArt community.",
-      "name": "#tiktokart",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f11b6340c85e5de56f5d2ab8d032af78",
-      "stats": {
-        "views": 6000000000
-      }
-    },
-    {
-      "challengeId": "27892",
-      "description": "Commemorating #MemorialDay.",
-      "name": "#memorialday",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1d40fef503944b6108e3d510ff7ca663",
-      "stats": {
-        "views": 917800000
+        "views": 780400000
       }
     }
   ],
@@ -970,7 +970,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/22edbf1cc1a90a50152172c36f729e8f.mp3"
       },
       "stats": {
-        "posts": 467100
+        "posts": 467000
       }
     },
     {
@@ -995,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 781500
+        "posts": 781400
       }
     },
     {
@@ -1020,7 +1020,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/72bc6715e0b6726f3806f1bce1b0630f.mp3"
       },
       "stats": {
-        "posts": 545600
+        "posts": 545500
       }
     },
     {
