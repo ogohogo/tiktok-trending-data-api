@@ -308,8 +308,8 @@
         }
       },
       "stats": {
-        "followers": 6100000,
-        "likes": 68500000
+        "followers": 6200000,
+        "likes": 68800000
       }
     },
     {
@@ -413,7 +413,7 @@
       },
       "stats": {
         "followers": 18400000,
-        "likes": 759400000
+        "likes": 759500000
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 7200000,
-        "likes": 191800000
+        "likes": 191900000
       }
     },
     {
@@ -491,7 +491,7 @@
       },
       "stats": {
         "followers": 9300000,
-        "likes": 398400000
+        "likes": 398500000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 12700000,
-        "likes": 298800000
+        "likes": 298900000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 9800000,
-        "likes": 556800000
+        "likes": 556900000
       }
     },
     {
@@ -777,18 +777,36 @@
       },
       "stats": {
         "followers": 11000000,
-        "likes": 275100000
+        "likes": 275200000
       }
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "35608",
+      "description": "Show us those moments where #LifeIsGood.",
+      "name": "#lifeisgood",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f2fab1e13aa1ceb93f294d267e08b14d",
+      "stats": {
+        "views": 961000000
+      }
+    },
+    {
+      "challengeId": "8669",
+      "description": "Whether you've known each other from day 1, or you've just met, here's to all the #Besties.",
+      "name": "#besties",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/62a800dc0abb8e479cdd4532553d04a0",
+      "stats": {
+        "views": 8600000000
+      }
+    },
     {
       "challengeId": "47560",
       "description": "Whether you're hitting the books or picking up a new hobby, #SummerSchool is in session, so teach us something new!",
       "name": "#summerschool",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f10399e2e2743864159b62c104bcc9a6",
       "stats": {
-        "views": 39500000
+        "views": 39800000
       }
     },
     {
@@ -797,7 +815,7 @@
       "name": "#goodpoint",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/cb74604fed96194d36d8de329ff7fec9",
       "stats": {
-        "views": 41400000
+        "views": 42100000
       }
     },
     {
@@ -815,7 +833,7 @@
       "name": "#intothethickofit",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/30e1e67d20653eb841a02a480419b696",
       "stats": {
-        "views": 576100000
+        "views": 578700000
       }
     },
     {
@@ -833,7 +851,7 @@
       "name": "#blackmusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9c3478389e03eebd24110b04e8a8c53e",
       "stats": {
-        "views": 314100000
+        "views": 314300000
       }
     },
     {
@@ -842,7 +860,7 @@
       "name": "#buffering",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/47ff8b0629173c0a092ec64f310b8029",
       "stats": {
-        "views": 741900000
+        "views": 744600000
       }
     },
     {
@@ -852,24 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9a36e9338aab09921819dfdb0057a7a6",
       "stats": {
         "views": 2900000000
-      }
-    },
-    {
-      "challengeId": "1662027712917510",
-      "description": "Whether it's an iconic bop that's been an essential part of queer history or a personal fav that means a lot, tell us your favorite #PrideAnthems.",
-      "name": "#prideanthems",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3b8b6ea02effee53e1afcf2e880ecf57",
-      "stats": {
-        "views": 88600000
-      }
-    },
-    {
-      "challengeId": "1637138684632070",
-      "description": "Pride Month is here, and TikTok is celebrating our amazing LGBTQIA+ community. From trailblazing creators pushing for progress to organizations making a difference, here's to a community where everyone is free to be themselves and create great things.",
-      "name": "#foryourpride",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/122a03e3613c21fe96e51a8617085f23",
-      "stats": {
-        "views": 832200000
       }
     }
   ],
