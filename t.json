@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 32400000,
-        "likes": 373500000
+        "likes": 373600000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 6400000,
-        "likes": 73600000
+        "likes": 73700000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 12200000,
-        "likes": 338800000
+        "likes": 338900000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 6700000,
-        "likes": 68800000
+        "likes": 68900000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 30400000,
-        "likes": 131300000
+        "likes": 131400000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 17700000,
-        "likes": 448700000
+        "likes": 448800000
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 7400000,
-        "likes": 195900000
+        "likes": 196100000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 9400000,
-        "likes": 400000000
+        "likes": 400100000
       }
     },
     {
@@ -595,7 +595,7 @@
       },
       "stats": {
         "followers": 12700000,
-        "likes": 299800000
+        "likes": 299900000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 9900000,
-        "likes": 560300000
+        "likes": 560400000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 9500000,
-        "likes": 788300000
+        "likes": 788400000
       }
     },
     {
@@ -777,18 +777,18 @@
       },
       "stats": {
         "followers": 16400000,
-        "likes": 295000000
+        "likes": 295100000
       }
     }
   ],
   "hashtag": [
     {
-      "challengeId": "35608",
-      "description": "Show us those moments where #LifeIsGood.",
-      "name": "#lifeisgood",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f2fab1e13aa1ceb93f294d267e08b14d",
+      "challengeId": "38868542",
+      "description": "Each day, we have the power to inspire others through kindness. We are all one community, so join us in celebrating all the ways you've been inspired to #CreateKindness.",
+      "name": "#createkindness",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a5f82f785d30e5112ef2f30a6ef78707",
       "stats": {
-        "views": 1000000000
+        "views": 17900000
       }
     },
     {
@@ -797,7 +797,16 @@
       "name": "#measking",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a0a81cfc66a58a0875154e67eed7e94c",
       "stats": {
-        "views": 53300
+        "views": 65400
+      }
+    },
+    {
+      "challengeId": "35608",
+      "description": "Show us those moments where #LifeIsGood.",
+      "name": "#lifeisgood",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f2fab1e13aa1ceb93f294d267e08b14d",
+      "stats": {
+        "views": 1000000000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#summerschool",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f10399e2e2743864159b62c104bcc9a6",
       "stats": {
-        "views": 60700000
+        "views": 63500000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#goodpoint",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/cb74604fed96194d36d8de329ff7fec9",
       "stats": {
-        "views": 92300000
+        "views": 94700000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#foodtiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0ed99567ad854c6a37960d0c97f7b79e",
       "stats": {
-        "views": 18500000000
+        "views": 18600000000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#intothethickofit",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/30e1e67d20653eb841a02a480419b696",
       "stats": {
-        "views": 668100000
+        "views": 676600000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#blackmusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9c3478389e03eebd24110b04e8a8c53e",
       "stats": {
-        "views": 321200000
-      }
-    },
-    {
-      "challengeId": "400318",
-      "description": "Use our Creative Effect and show us what happens when you start #Buffering.",
-      "name": "#buffering",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/47ff8b0629173c0a092ec64f310b8029",
-      "stats": {
-        "views": 826800000
+        "views": 321600000
       }
     }
   ],
