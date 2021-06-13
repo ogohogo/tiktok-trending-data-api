@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 24000000,
-        "likes": 364000000
+        "likes": 364100000
       }
     },
     {
@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 55200000,
-        "likes": 334300000
+        "likes": 334400000
       }
     },
     {
@@ -757,12 +757,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1621258776588293",
+      "description": "From project cars to weekly beaters, we're here to celebrate the entire #CarCommunity.",
+      "name": "#carcommunity",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a3601e2a1598bf456147a1faa21e9f78",
+      "stats": {
+        "views": 1500000000
+      }
+    },
+    {
       "challengeId": "144557",
       "description": "Share your #TalkToMe moments",
       "name": "#talktome",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e966aefed761690512dc41971557e187",
       "stats": {
-        "views": 303900000
+        "views": 306600000
       }
     },
     {
@@ -807,7 +816,7 @@
       "name": "#bucketlist",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/30738ebf714a4cb3fa200b00bcb386be",
       "stats": {
-        "views": 985000000
+        "views": 986600000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#createkindness",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a5f82f785d30e5112ef2f30a6ef78707",
       "stats": {
-        "views": 323500000
+        "views": 325500000
       }
     },
     {
@@ -825,7 +834,7 @@
       "name": "#measking",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a0a81cfc66a58a0875154e67eed7e94c",
       "stats": {
-        "views": 152300000
+        "views": 153200000
       }
     },
     {
@@ -835,15 +844,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f2fab1e13aa1ceb93f294d267e08b14d",
       "stats": {
         "views": 1500000000
-      }
-    },
-    {
-      "challengeId": "8669",
-      "description": "Whether you've known each other from day 1, or you've just met, here's to all the #Besties.",
-      "name": "#besties",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/62a800dc0abb8e479cdd4532553d04a0",
-      "stats": {
-        "views": 9200000000
       }
     }
   ],
