@@ -757,6 +757,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1668529204085765",
+      "description": "In the spirit of Cannes Lions, TikTok For Business is celebrating the power and impact of creativity. Show us how you give back and use #CreativityForGood. Learn more here: https://bit.ly/TikTokCreativityForGood  \n\nTo do our part, TikTok has identified and will be donating to 4 international non-profit organizations that are working to make the world a better place, including Malala Fund, It Gets Better Project, One Tree Planted and The International Federation of Red Cross and Red Crescent Societies.",
+      "name": "#creativityforgood",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1c21d3cca484521b9f19386c60a0cf77",
+      "stats": {
+        "views": 1100000
+      }
+    },
+    {
+      "challengeId": "106384",
+      "description": "Believe us, #BeenThereDoneThat.",
+      "name": "#beentheredonethat",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e18085952516491af2d76e3003cebf59",
+      "stats": {
+        "views": 35800000
+      }
+    },
+    {
       "challengeId": "1621258776588293",
       "description": "From project cars to weekly beaters, we're here to celebrate the entire #CarCommunity.",
       "name": "#carcommunity",
@@ -771,7 +789,7 @@
       "name": "#talktome",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e966aefed761690512dc41971557e187",
       "stats": {
-        "views": 380000000
+        "views": 383300000
       }
     },
     {
@@ -798,7 +816,7 @@
       "name": "#adultswim",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9faaaf0ec9d495713300e8c5ad5af302",
       "stats": {
-        "views": 2400000000
+        "views": 2500000000
       }
     },
     {
@@ -825,25 +843,7 @@
       "name": "#createkindness",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a5f82f785d30e5112ef2f30a6ef78707",
       "stats": {
-        "views": 372300000
-      }
-    },
-    {
-      "challengeId": "38511993",
-      "description": "What you ask for isn’t always what you get.",
-      "name": "#measking",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a0a81cfc66a58a0875154e67eed7e94c",
-      "stats": {
-        "views": 172100000
-      }
-    },
-    {
-      "challengeId": "35608",
-      "description": "Show us those moments where #LifeIsGood.",
-      "name": "#lifeisgood",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f2fab1e13aa1ceb93f294d267e08b14d",
-      "stats": {
-        "views": 1500000000
+        "views": 374200000
       }
     }
   ],
