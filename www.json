@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 24100000,
-        "likes": 365300000
+        "likes": 365400000
       }
     },
     {
@@ -569,7 +569,7 @@
       },
       "stats": {
         "followers": 3000000,
-        "likes": 26300000
+        "likes": 26400000
       }
     },
     {
@@ -757,12 +757,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1667889786649606",
+      "description": "Whether you're playing vintage classics, tuning in for the latest announcements, or just gaming with friends, share your love for all things gaming with #SummerOfGaming. Claim sweet rewards from some of your favorite gaming brands: https://vm.tiktok.com/am7v6a/",
+      "name": "#summerofgaming",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0accb086590053e4c7613dd56e315fb6",
+      "stats": {
+        "views": 2600000000
+      }
+    },
+    {
       "challengeId": "1668529204085765",
       "description": "In the spirit of Cannes Lions, TikTok For Business is celebrating the power and impact of creativity. Show us how you give back and use #CreativityForGood. Learn more here: https://bit.ly/TikTokCreativityForGood  \n\nTo do our part, TikTok has identified and will be donating to 4 international non-profit organizations that are working to make the world a better place, including Malala Fund, It Gets Better Project, One Tree Planted and The International Federation of Red Cross and Red Crescent Societies.",
       "name": "#creativityforgood",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1c21d3cca484521b9f19386c60a0cf77",
       "stats": {
-        "views": 53800000
+        "views": 54800000
       }
     },
     {
@@ -771,7 +780,7 @@
       "name": "#realizations",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7ca1eca4752442845e64a81e62caf711",
       "stats": {
-        "views": 16400000
+        "views": 16500000
       }
     },
     {
@@ -780,7 +789,7 @@
       "name": "#beentheredonethat",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e18085952516491af2d76e3003cebf59",
       "stats": {
-        "views": 67600000
+        "views": 68400000
       }
     },
     {
@@ -798,7 +807,7 @@
       "name": "#talktome",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e966aefed761690512dc41971557e187",
       "stats": {
-        "views": 453600000
+        "views": 454500000
       }
     },
     {
@@ -835,15 +844,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/122a03e3613c21fe96e51a8617085f23",
       "stats": {
         "views": 1400000000
-      }
-    },
-    {
-      "challengeId": "260248",
-      "description": "Whether it's starting a new hobby or planning a dream trip, show us what's on your #BucketList.",
-      "name": "#bucketlist",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/30738ebf714a4cb3fa200b00bcb386be",
-      "stats": {
-        "views": 1100000000
       }
     }
   ],
