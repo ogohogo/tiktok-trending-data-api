@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 55600000,
-        "likes": 338300000
+        "likes": 338500000
       }
     },
     {
@@ -757,6 +757,14 @@
   ],
   "hashtag": [
     {
+      "challengeId": "22607679",
+      "description": "From rooftop escapes to incredible local restaurants, show us your favorite #HiddenGem.",
+      "name": "#hiddengem",
+      "stats": {
+        "views": 331700000
+      }
+    },
+    {
       "challengeId": "1667889786649606",
       "description": "Whether you're playing vintage classics, tuning in for the latest announcements, or just gaming with friends, share your love for all things gaming with #SummerOfGaming. Claim sweet rewards from some of your favorite gaming brands: https://vm.tiktok.com/am7v6a/",
       "name": "#summerofgaming",
@@ -771,7 +779,7 @@
       "name": "#realizations",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7ca1eca4752442845e64a81e62caf711",
       "stats": {
-        "views": 142100000
+        "views": 146000000
       }
     },
     {
@@ -780,7 +788,7 @@
       "name": "#creativityforgood",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1c21d3cca484521b9f19386c60a0cf77",
       "stats": {
-        "views": 174000000
+        "views": 176200000
       }
     },
     {
@@ -789,7 +797,7 @@
       "name": "#beentheredonethat",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e18085952516491af2d76e3003cebf59",
       "stats": {
-        "views": 164600000
+        "views": 166700000
       }
     },
     {
@@ -807,7 +815,7 @@
       "name": "#talktome",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e966aefed761690512dc41971557e187",
       "stats": {
-        "views": 571300000
+        "views": 573500000
       }
     },
     {
@@ -835,15 +843,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9faaaf0ec9d495713300e8c5ad5af302",
       "stats": {
         "views": 2900000000
-      }
-    },
-    {
-      "challengeId": "1637138684632070",
-      "description": "Pride Month is here, and TikTok is celebrating our amazing LGBTQIA+ community. From trailblazing creators pushing for progress to organizations making a difference, here's to a community where everyone is free to be themselves and create great things.",
-      "name": "#foryourpride",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/122a03e3613c21fe96e51a8617085f23",
-      "stats": {
-        "views": 1500000000
       }
     }
   ],
