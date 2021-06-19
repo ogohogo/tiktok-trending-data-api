@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 24200000,
-        "likes": 367800000
+        "likes": 367900000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 290300,
-        "likes": 385100
+        "likes": 385200
       }
     },
     {
@@ -757,12 +757,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "17725261",
+      "description": "June 19th is the 156th anniversary of Juneteenth, a day of recognition, remembrance and commemoration, marking the day in which slavery was ended in the United States. Learn about the importance of Juneteenth and celebrate with the TikTok community.",
+      "name": "#juneteenth",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/55c25e838458c08990cf0105d4cb7ec4",
+      "stats": {
+        "views": 295300000
+      }
+    },
+    {
       "challengeId": "1640808079430661",
       "description": "From local favorites to chic pop-ups, give us your #RestaurantReview.",
       "name": "#RestaurantReview",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/293afdabd1b27bb6fd329accf067f3be",
       "stats": {
-        "views": 67900000
+        "views": 69400000
       }
     },
     {
@@ -780,7 +789,7 @@
       "name": "#hiddengem",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d67d4aee52beb79f2428416d05e9ae87",
       "stats": {
-        "views": 396400000
+        "views": 399000000
       }
     },
     {
@@ -798,7 +807,7 @@
       "name": "#realizations",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7ca1eca4752442845e64a81e62caf711",
       "stats": {
-        "views": 248400000
+        "views": 251400000
       }
     },
     {
@@ -807,7 +816,7 @@
       "name": "#creativityforgood",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1c21d3cca484521b9f19386c60a0cf77",
       "stats": {
-        "views": 229200000
+        "views": 231300000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#beentheredonethat",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e18085952516491af2d76e3003cebf59",
       "stats": {
-        "views": 215600000
+        "views": 217000000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#talktome",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e966aefed761690512dc41971557e187",
       "stats": {
-        "views": 644800000
-      }
-    },
-    {
-      "challengeId": "11493242",
-      "description": "What's your #SummerWorkout plan?",
-      "name": "#summerworkout",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/03ac269724f8d6c2fbbfe302e54bd1fa",
-      "stats": {
-        "views": 3200000000
+        "views": 646900000
       }
     }
   ],
@@ -970,7 +970,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/22edbf1cc1a90a50152172c36f729e8f.mp3"
       },
       "stats": {
-        "posts": 463500
+        "posts": 463400
       }
     },
     {
@@ -995,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 770800
+        "posts": 770700
       }
     },
     {
