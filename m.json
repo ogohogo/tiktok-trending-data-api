@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 24300000,
-        "likes": 368300000
+        "likes": 368400000
       }
     },
     {
@@ -698,7 +698,7 @@
         }
       },
       "stats": {
-        "followers": 290800,
+        "followers": 290900,
         "likes": 385200
       }
     },
@@ -757,6 +757,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "18055421",
+      "description": "June 21st is #GoSkateboarding Day, so whether you're learning a new trick or just getting started, grab your board and celebrate with Tony Hawk and his nonprofit, The Skatepark Project.",
+      "name": "#goskateboarding",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/cc1374185ea1add26ea04c9b5d84ae88",
+      "stats": {
+        "views": 2100000
+      }
+    },
+    {
       "challengeId": "49649",
       "description": "Happy #FathersDay!",
       "name": "#fathersday",
@@ -780,7 +789,7 @@
       "name": "#juneteenth",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/55c25e838458c08990cf0105d4cb7ec4",
       "stats": {
-        "views": 407600000
+        "views": 408900000
       }
     },
     {
@@ -789,7 +798,7 @@
       "name": "#blackmusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9c3478389e03eebd24110b04e8a8c53e",
       "stats": {
-        "views": 390500000
+        "views": 391000000
       }
     },
     {
@@ -798,7 +807,7 @@
       "name": "#RestaurantReview",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/293afdabd1b27bb6fd329accf067f3be",
       "stats": {
-        "views": 109900000
+        "views": 110400000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#hiddengem",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d67d4aee52beb79f2428416d05e9ae87",
       "stats": {
-        "views": 478500000
+        "views": 480200000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#realizations",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7ca1eca4752442845e64a81e62caf711",
       "stats": {
-        "views": 317800000
-      }
-    },
-    {
-      "challengeId": "1668529204085765",
-      "description": "In the spirit of Cannes Lions, TikTok For Business is celebrating the power and impact of creativity. Show us how you give back and use #CreativityForGood. Learn more here: https://bit.ly/TikTokCreativityForGood  \n\nTo do our part, TikTok has identified and will be donating to 4 international non-profit organizations that are working to make the world a better place, including Malala Fund, It Gets Better Project, One Tree Planted and The International Federation of Red Cross and Red Crescent Societies.",
-      "name": "#creativityforgood",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1c21d3cca484521b9f19386c60a0cf77",
-      "stats": {
-        "views": 282100000
+        "views": 319100000
       }
     }
   ],
