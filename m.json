@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 24400000,
-        "likes": 369600000
+        "likes": 369700000
       }
     },
     {
@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 56200000,
-        "likes": 344100000
+        "likes": 344200000
       }
     },
     {
@@ -757,12 +757,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "160145",
+      "description": "#BananaPhone - Ring, ring, ring, ring, ring, ring, ring...",
+      "name": "#bananaphone",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6b4e58acecc70d825bbc905f2f69234d",
+      "stats": {
+        "views": 59000000
+      }
+    },
+    {
       "challengeId": "1122241",
       "description": "Whether you're searching for graphics cards or starting as a streamer, we're here for all things #OnlineGaming.",
       "name": "#onlinegaming",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2db437d0b7ce10cbc29f194c297a8db8",
       "stats": {
-        "views": 165500000
+        "views": 166700000
       }
     },
     {
@@ -771,7 +780,7 @@
       "name": "#goskateboarding",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/cc1374185ea1add26ea04c9b5d84ae88",
       "stats": {
-        "views": 52300000
+        "views": 52900000
       }
     },
     {
@@ -798,7 +807,7 @@
       "name": "#juneteenth",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/55c25e838458c08990cf0105d4cb7ec4",
       "stats": {
-        "views": 459000000
+        "views": 459700000
       }
     },
     {
@@ -807,7 +816,7 @@
       "name": "#blackmusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9c3478389e03eebd24110b04e8a8c53e",
       "stats": {
-        "views": 409800000
+        "views": 410000000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#RestaurantReview",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/293afdabd1b27bb6fd329accf067f3be",
       "stats": {
-        "views": 133500000
+        "views": 133800000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#hiddengem",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d67d4aee52beb79f2428416d05e9ae87",
       "stats": {
-        "views": 545500000
-      }
-    },
-    {
-      "challengeId": "1667889786649606",
-      "description": "Whether you're playing vintage classics, tuning in for the latest announcements, or just gaming with friends, share your love for all things gaming with #SummerOfGaming. Claim sweet rewards from some of your favorite gaming brands: https://vm.tiktok.com/am7v6a/",
-      "name": "#summerofgaming",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0accb086590053e4c7613dd56e315fb6",
-      "stats": {
-        "views": 3000000000
+        "views": 546300000
       }
     }
   ],

@@ -48,7 +48,7 @@
         }
       },
       "stats": {
-        "followers": 73800000,
+        "followers": 73900000,
         "likes": 1600000000
       }
     },
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 56200000,
-        "likes": 343100000
+        "likes": 343200000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 18400000,
-        "likes": 474900000
+        "likes": 475100000
       }
     },
     {
@@ -439,7 +439,7 @@
       },
       "stats": {
         "followers": 7500000,
-        "likes": 97300000
+        "likes": 97500000
       }
     },
     {
@@ -447,7 +447,7 @@
       "secUserId": "MS4wLjABAAAAVxmYdOl_eFeO33ncZdPWDlm_8D9q6-83E6nBPDyKuwGFo6IbysNalj_sgNVpRXR0",
       "id": "@bentellect",
       "name": "bentellect",
-      "bio": "😂 The Facts Man 😂\n✨Daily Content✨\nIG - @Bentellect\n⬇️ Merch & More ⬇️",
+      "bio": "😂 The Facts Man 😂\n✨Daily Content✨\nIG - @Bentellect\n⬇️ Merch & Socials ⬇️",
       "verified": false,
       "avatar": {
         "jpeg": {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 6700000,
-        "likes": 512800000
+        "likes": 512900000
       }
     },
     {
@@ -595,7 +595,7 @@
       },
       "stats": {
         "followers": 6700000,
-        "likes": 137100000
+        "likes": 137200000
       }
     },
     {
@@ -751,7 +751,7 @@
       },
       "stats": {
         "followers": 8100000,
-        "likes": 220800000
+        "likes": 220900000
       }
     },
     {
@@ -777,18 +777,27 @@
       },
       "stats": {
         "followers": 18700000,
-        "likes": 781300000
+        "likes": 781400000
       }
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "160145",
+      "description": "#BananaPhone - Ring, ring, ring, ring, ring, ring, ring...",
+      "name": "#bananaphone",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6b4e58acecc70d825bbc905f2f69234d",
+      "stats": {
+        "views": 42000000
+      }
+    },
     {
       "challengeId": "1122241",
       "description": "Whether you're searching for graphics cards or starting as a streamer, we're here for all things #OnlineGaming.",
       "name": "#onlinegaming",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2db437d0b7ce10cbc29f194c297a8db8",
       "stats": {
-        "views": 153100000
+        "views": 153600000
       }
     },
     {
@@ -797,7 +806,7 @@
       "name": "#goskateboarding",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/cc1374185ea1add26ea04c9b5d84ae88",
       "stats": {
-        "views": 45900000
+        "views": 47100000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#juneteenth",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/55c25e838458c08990cf0105d4cb7ec4",
       "stats": {
-        "views": 457800000
+        "views": 458400000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#blackmusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9c3478389e03eebd24110b04e8a8c53e",
       "stats": {
-        "views": 388900000
+        "views": 389200000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#RestaurantReview",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/293afdabd1b27bb6fd329accf067f3be",
       "stats": {
-        "views": 118300000
+        "views": 118500000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#hiddengem",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d67d4aee52beb79f2428416d05e9ae87",
       "stats": {
-        "views": 487800000
-      }
-    },
-    {
-      "challengeId": "1667889786649606",
-      "description": "Whether you're playing vintage classics, tuning in for the latest announcements, or just gaming with friends, share your love for all things gaming with #SummerOfGaming. Claim sweet rewards from some of your favorite gaming brands: https://vm.tiktok.com/am7v6a/",
-      "name": "#summerofgaming",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0accb086590053e4c7613dd56e315fb6",
-      "stats": {
-        "views": 2900000000
+        "views": 488800000
       }
     }
   ],
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 765900
+        "posts": 765800
       }
     },
     {
