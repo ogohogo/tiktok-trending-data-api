@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 24400000,
-        "likes": 369700000
+        "likes": 369800000
       }
     },
     {
@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 56200000,
-        "likes": 344300000
+        "likes": 344500000
       }
     },
     {
@@ -256,8 +256,8 @@
         }
       },
       "stats": {
-        "followers": 14500000,
-        "likes": 62600000
+        "followers": 14600000,
+        "likes": 62700000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 12900000,
-        "likes": 112600000
+        "likes": 112700000
       }
     },
     {
@@ -698,7 +698,7 @@
         }
       },
       "stats": {
-        "followers": 291400,
+        "followers": 291500,
         "likes": 385300
       }
     },
@@ -757,12 +757,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1662027712917510",
+      "description": "Whether it's an iconic bop that's been an essential part of queer history or a personal fav that means a lot, tell us your favorite #PrideAnthems.",
+      "name": "#prideanthems",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3b8b6ea02effee53e1afcf2e880ecf57",
+      "stats": {
+        "views": 159400000
+      }
+    },
+    {
       "challengeId": "160145",
       "description": "#BananaPhone - Ring, ring, ring, ring, ring, ring, ring...",
       "name": "#bananaphone",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6b4e58acecc70d825bbc905f2f69234d",
       "stats": {
-        "views": 59400000
+        "views": 59700000
       }
     },
     {
@@ -771,7 +780,7 @@
       "name": "#onlinegaming",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2db437d0b7ce10cbc29f194c297a8db8",
       "stats": {
-        "views": 169700000
+        "views": 171400000
       }
     },
     {
@@ -780,7 +789,7 @@
       "name": "#goskateboarding",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/cc1374185ea1add26ea04c9b5d84ae88",
       "stats": {
-        "views": 54800000
+        "views": 55600000
       }
     },
     {
@@ -807,7 +816,7 @@
       "name": "#juneteenth",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/55c25e838458c08990cf0105d4cb7ec4",
       "stats": {
-        "views": 461400000
+        "views": 462400000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#blackmusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9c3478389e03eebd24110b04e8a8c53e",
       "stats": {
-        "views": 410500000
+        "views": 410800000
       }
     },
     {
@@ -825,7 +834,7 @@
       "name": "#RestaurantReview",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/293afdabd1b27bb6fd329accf067f3be",
       "stats": {
-        "views": 134400000
+        "views": 134700000
       }
     },
     {
@@ -835,15 +844,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/122a03e3613c21fe96e51a8617085f23",
       "stats": {
         "views": 2300000000
-      }
-    },
-    {
-      "challengeId": "22607679",
-      "description": "From rooftop escapes to incredible local restaurants, show us your favorite #HiddenGem.",
-      "name": "#hiddengem",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d67d4aee52beb79f2428416d05e9ae87",
-      "stats": {
-        "views": 548300000
       }
     }
   ],
@@ -995,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 766600
+        "posts": 766500
       }
     },
     {
