@@ -698,7 +698,7 @@
         }
       },
       "stats": {
-        "followers": 294400,
+        "followers": 294500,
         "likes": 385400
       }
     },
@@ -766,12 +766,21 @@
       }
     },
     {
+      "challengeId": "633901",
+      "description": "Whether it's a kitchen, bathroom or something else, show us what you're restocking.",
+      "name": "#restock",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e81509546bba11b70380af8609c9c7e4",
+      "stats": {
+        "views": 1800000000
+      }
+    },
+    {
       "challengeId": "1612330118626310",
       "description": "Breathe in the fresh air and enjoy #NatureTikTok.",
       "name": "#naturetiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4cefd82e2cfa02ca1393555a89243bf0",
       "stats": {
-        "views": 24400000
+        "views": 25500000
       }
     },
     {
@@ -780,7 +789,7 @@
       "name": "#cleanbeauty",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3925228cd3feae11313add95e4913582",
       "stats": {
-        "views": 237300000
+        "views": 238500000
       }
     },
     {
@@ -798,7 +807,7 @@
       "name": "#romanticizeyourlife",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fb34633200685db58108570588f215b7",
       "stats": {
-        "views": 140200000
+        "views": 141100000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#prideanthems",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3b8b6ea02effee53e1afcf2e880ecf57",
       "stats": {
-        "views": 242000000
+        "views": 242400000
       }
     },
     {
@@ -825,7 +834,7 @@
       "name": "#bananaphone",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6b4e58acecc70d825bbc905f2f69234d",
       "stats": {
-        "views": 134100000
+        "views": 134700000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#onlinegaming",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2db437d0b7ce10cbc29f194c297a8db8",
       "stats": {
-        "views": 249700000
-      }
-    },
-    {
-      "challengeId": "18055421",
-      "description": "June 21st is #GoSkateboarding Day, so whether you're learning a new trick or just getting started, grab your board and celebrate with Tony Hawk and his nonprofit, The Skatepark Project.",
-      "name": "#goskateboarding",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/cc1374185ea1add26ea04c9b5d84ae88",
-      "stats": {
-        "views": 118700000
+        "views": 250200000
       }
     }
   ],
