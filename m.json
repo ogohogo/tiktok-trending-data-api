@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 56700000,
-        "likes": 348500000
+        "likes": 348600000
       }
     },
     {
@@ -757,6 +757,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1665536611094534",
+      "description": "Show us your best #TipsDeEjercicio!",
+      "name": "#tipsdeejercicio",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/aafa4809d53402473bafb9b1ecc5cb8f",
+      "stats": {
+        "views": 14800000
+      }
+    },
+    {
       "challengeId": "1637138684632070",
       "description": "Pride Month is here, and TikTok is celebrating our amazing LGBTQIA+ community. From trailblazing creators pushing for progress to organizations making a difference, here's to a community where everyone is free to be themselves and create great things.",
       "name": "#foryourpride",
@@ -780,7 +789,7 @@
       "name": "#naturetiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4cefd82e2cfa02ca1393555a89243bf0",
       "stats": {
-        "views": 29600000
+        "views": 30300000
       }
     },
     {
@@ -789,7 +798,7 @@
       "name": "#cleanbeauty",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3925228cd3feae11313add95e4913582",
       "stats": {
-        "views": 242900000
+        "views": 243800000
       }
     },
     {
@@ -807,7 +816,7 @@
       "name": "#romanticizeyourlife",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fb34633200685db58108570588f215b7",
       "stats": {
-        "views": 144200000
+        "views": 144800000
       }
     },
     {
@@ -825,7 +834,7 @@
       "name": "#prideanthems",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3b8b6ea02effee53e1afcf2e880ecf57",
       "stats": {
-        "views": 244000000
+        "views": 244400000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#bananaphone",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6b4e58acecc70d825bbc905f2f69234d",
       "stats": {
-        "views": 137100000
-      }
-    },
-    {
-      "challengeId": "1122241",
-      "description": "Whether you're searching for graphics cards or starting as a streamer, we're here for all things #OnlineGaming.",
-      "name": "#onlinegaming",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2db437d0b7ce10cbc29f194c297a8db8",
-      "stats": {
-        "views": 252100000
+        "views": 137500000
       }
     }
   ],

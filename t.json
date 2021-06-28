@@ -48,7 +48,7 @@
         }
       },
       "stats": {
-        "followers": 74500000,
+        "followers": 74600000,
         "likes": 1600000000
       }
     },
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 9800000,
-        "likes": 364800000
+        "likes": 364900000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 61700000,
-        "likes": 764500000
+        "likes": 764600000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 8000000,
-        "likes": 110800000
+        "likes": 110900000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 6900000,
-        "likes": 162900000
+        "likes": 163000000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 20500000,
-        "likes": 439200000
+        "likes": 439300000
       }
     },
     {
@@ -387,7 +387,7 @@
       },
       "stats": {
         "followers": 56700000,
-        "likes": 347500000
+        "likes": 347600000
       }
     },
     {
@@ -491,7 +491,7 @@
       },
       "stats": {
         "followers": 8500000,
-        "likes": 231500000
+        "likes": 231600000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 11600000,
-        "likes": 295900000
+        "likes": 296100000
       }
     },
     {
@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 7100000,
-        "likes": 105500000
+        "likes": 105600000
       }
     },
     {
@@ -595,7 +595,7 @@
       },
       "stats": {
         "followers": 8300000,
-        "likes": 195300000
+        "likes": 195400000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 10200000,
-        "likes": 462400000
+        "likes": 462500000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 9700000,
-        "likes": 817500000
+        "likes": 817600000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 21900000,
-        "likes": 403400000
+        "likes": 403600000
       }
     },
     {
@@ -750,8 +750,8 @@
         }
       },
       "stats": {
-        "followers": 24400000,
-        "likes": 316400000
+        "followers": 24500000,
+        "likes": 316700000
       }
     },
     {
@@ -783,6 +783,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1665536611094534",
+      "description": "Show us your best #TipsDeEjercicio!",
+      "name": "#tipsdeejercicio",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/aafa4809d53402473bafb9b1ecc5cb8f",
+      "stats": {
+        "views": 14800000
+      }
+    },
+    {
       "challengeId": "1637138684632070",
       "description": "Pride Month is here, and TikTok is celebrating our amazing LGBTQIA+ community. From trailblazing creators pushing for progress to organizations making a difference, here's to a community where everyone is free to be themselves and create great things.",
       "name": "#foryourpride",
@@ -806,7 +815,7 @@
       "name": "#naturetiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4cefd82e2cfa02ca1393555a89243bf0",
       "stats": {
-        "views": 29300000
+        "views": 30000000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#cleanbeauty",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3925228cd3feae11313add95e4913582",
       "stats": {
-        "views": 241200000
+        "views": 242200000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#romanticizeyourlife",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fb34633200685db58108570588f215b7",
       "stats": {
-        "views": 130300000
+        "views": 130900000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#prideanthems",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3b8b6ea02effee53e1afcf2e880ecf57",
       "stats": {
-        "views": 216800000
+        "views": 217200000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#bananaphone",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6b4e58acecc70d825bbc905f2f69234d",
       "stats": {
-        "views": 105600000
-      }
-    },
-    {
-      "challengeId": "1122241",
-      "description": "Whether you're searching for graphics cards or starting as a streamer, we're here for all things #OnlineGaming.",
-      "name": "#onlinegaming",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2db437d0b7ce10cbc29f194c297a8db8",
-      "stats": {
-        "views": 231700000
+        "views": 106000000
       }
     }
   ],
