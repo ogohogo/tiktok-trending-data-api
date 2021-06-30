@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 56800000,
-        "likes": 349600000
+        "likes": 349700000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 13100000,
-        "likes": 118000000
+        "likes": 118100000
       }
     },
     {
@@ -757,12 +757,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1645470754884614",
+      "description": "Share your essential #SmallBusinessTips.",
+      "name": "#smallbusinesstips",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/240d3e05c96690615cc2aed350de854e",
+      "stats": {
+        "views": 345900000
+      }
+    },
+    {
       "challengeId": "32040882",
       "description": "Sometimes you find the perfect photo.",
       "name": "#thisphoto",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9192ef929e2aa513c776286405849508",
       "stats": {
-        "views": 66600000
+        "views": 69900000
       }
     },
     {
@@ -780,7 +789,7 @@
       "name": "#tipsdeejercicio",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/aafa4809d53402473bafb9b1ecc5cb8f",
       "stats": {
-        "views": 24400000
+        "views": 24600000
       }
     },
     {
@@ -807,7 +816,7 @@
       "name": "#naturetiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4cefd82e2cfa02ca1393555a89243bf0",
       "stats": {
-        "views": 50000000
+        "views": 51100000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#cleanbeauty",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3925228cd3feae11313add95e4913582",
       "stats": {
-        "views": 273300000
+        "views": 274000000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#romanticizeyourlife",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fb34633200685db58108570588f215b7",
       "stats": {
-        "views": 166400000
-      }
-    },
-    {
-      "challengeId": "419560",
-      "description": "Show us those #WeekendVibes.\n",
-      "name": "#WeekendVibes",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2aec6f8e125e0a2d95d1307ed230d67e",
-      "stats": {
-        "views": 7900000000
+        "views": 167200000
       }
     }
   ],
@@ -995,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 759800
+        "posts": 759700
       }
     },
     {
