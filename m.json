@@ -757,12 +757,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1635629406093318",
+      "description": "Show us how you make #PastaChips.",
+      "name": "#pastachips",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8a5e922e1df89b2a03699e9b6b48686d",
+      "stats": {
+        "views": 48000000
+      }
+    },
+    {
+      "challengeId": "6502446",
+      "description": "Hit the road and show us where you're headed on your #WeekendTrip.",
+      "name": "#weekendtrip",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/02e835a686b75a703c5d1dc801cb4e3f",
+      "stats": {
+        "views": 17600000
+      }
+    },
+    {
       "challengeId": "32843869",
       "description": "Disability Pride Month is here, so let's lift one another up, end stigmas and amplify the experiences of people with disabilities.",
       "name": "#disabilitypride",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bc6ed4cbcc5c3a5ea336315dbcf6228b",
       "stats": {
-        "views": 25400000
+        "views": 27100000
       }
     },
     {
@@ -771,7 +789,7 @@
       "name": "#itcostthatmuch",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/618707e8b67694aeca9055c586827a63",
       "stats": {
-        "views": 49100000
+        "views": 54600000
       }
     },
     {
@@ -780,7 +798,7 @@
       "name": "#smallbusinesstips",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/240d3e05c96690615cc2aed350de854e",
       "stats": {
-        "views": 400700000
+        "views": 402900000
       }
     },
     {
@@ -789,7 +807,7 @@
       "name": "#thisphoto",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9192ef929e2aa513c776286405849508",
       "stats": {
-        "views": 202200000
+        "views": 206700000
       }
     },
     {
@@ -807,7 +825,7 @@
       "name": "#tipsdeejercicio",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/aafa4809d53402473bafb9b1ecc5cb8f",
       "stats": {
-        "views": 31000000
+        "views": 31200000
       }
     },
     {
@@ -825,25 +843,7 @@
       "name": "#restock",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e81509546bba11b70380af8609c9c7e4",
       "stats": {
-        "views": 2000000000
-      }
-    },
-    {
-      "challengeId": "1612330118626310",
-      "description": "Breathe in the fresh air and enjoy #NatureTikTok.",
-      "name": "#naturetiktok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4cefd82e2cfa02ca1393555a89243bf0",
-      "stats": {
-        "views": 75600000
-      }
-    },
-    {
-      "challengeId": "1561429",
-      "description": "We're all about #CleanBeauty, so whether it's your perfect morning routine or incredible business to support, we want to see all things clean and conscious.",
-      "name": "#cleanbeauty",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3925228cd3feae11313add95e4913582",
-      "stats": {
-        "views": 294400000
+        "views": 2100000000
       }
     }
   ],
