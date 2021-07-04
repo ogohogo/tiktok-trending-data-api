@@ -22,7 +22,7 @@
         }
       },
       "stats": {
-        "followers": 119000000,
+        "followers": 119100000,
         "likes": 9600000000
       }
     },
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 31300000,
-        "likes": 147700000
+        "likes": 147800000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 57300000,
-        "likes": 351900000
+        "likes": 352000000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 19000000,
-        "likes": 492300000
+        "likes": 492400000
       }
     },
     {
@@ -360,7 +360,7 @@
         }
       },
       "stats": {
-        "followers": 7400000,
+        "followers": 7500000,
         "likes": 112800000
       }
     },
@@ -491,7 +491,7 @@
       },
       "stats": {
         "followers": 8900000,
-        "likes": 241600000
+        "likes": 241700000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 8800000,
-        "likes": 224400000
+        "likes": 224500000
       }
     },
     {
@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 19400000,
-        "likes": 553300000
+        "likes": 553400000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 19000000,
-        "likes": 794800000
+        "likes": 794900000
       }
     },
     {
@@ -725,7 +725,7 @@
       },
       "stats": {
         "followers": 17900000,
-        "likes": 324600000
+        "likes": 324700000
       }
     },
     {
@@ -783,6 +783,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "59802",
+      "description": "Happy #4thOfJuly!",
+      "name": "#4thofjuly",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4b2cddfc498f15f24ba0f276c31d65fd",
+      "stats": {
+        "views": 4800000000
+      }
+    },
+    {
+      "challengeId": "17611",
+      "description": "Head outside and start grilling.",
+      "name": "#bbq",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/07ea67224587f9431653b9edb2d370c2",
+      "stats": {
+        "views": 5100000000
+      }
+    },
+    {
       "challengeId": "11510",
       "description": "Whether you're heading home for the weekend or need a break, we're here for all things #FamilyTime.",
       "name": "#familytime",
@@ -797,7 +815,7 @@
       "name": "#pastachips",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8a5e922e1df89b2a03699e9b6b48686d",
       "stats": {
-        "views": 182900000
+        "views": 185900000
       }
     },
     {
@@ -806,7 +824,7 @@
       "name": "#weekendtrip",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/17b11da0d23d8805cd8ee92d5077c9e9",
       "stats": {
-        "views": 158600000
+        "views": 161000000
       }
     },
     {
@@ -815,7 +833,7 @@
       "name": "#disabilitypride",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bc6ed4cbcc5c3a5ea336315dbcf6228b",
       "stats": {
-        "views": 54800000
+        "views": 55200000
       }
     },
     {
@@ -824,7 +842,7 @@
       "name": "#itcostthatmuch",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/618707e8b67694aeca9055c586827a63",
       "stats": {
-        "views": 152100000
+        "views": 153500000
       }
     },
     {
@@ -833,7 +851,7 @@
       "name": "#smallbusinesstips",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/240d3e05c96690615cc2aed350de854e",
       "stats": {
-        "views": 439700000
+        "views": 440300000
       }
     },
     {
@@ -842,7 +860,7 @@
       "name": "#thisphoto",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9192ef929e2aa513c776286405849508",
       "stats": {
-        "views": 320900000
+        "views": 322200000
       }
     },
     {
@@ -852,24 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2162c5d38fa9445069366117006ca9cc",
       "stats": {
         "views": 6100000000
-      }
-    },
-    {
-      "challengeId": "1665536611094534",
-      "description": "Show us your best #TipsDeEjercicio!",
-      "name": "#tipsdeejercicio",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/aafa4809d53402473bafb9b1ecc5cb8f",
-      "stats": {
-        "views": 38300000
-      }
-    },
-    {
-      "challengeId": "1637138684632070",
-      "description": "Pride Month is here, and TikTok is celebrating our amazing LGBTQIA+ community. From trailblazing creators pushing for progress to organizations making a difference, here's to a community where everyone is free to be themselves and create great things.",
-      "name": "#foryourpride",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/122a03e3613c21fe96e51a8617085f23",
-      "stats": {
-        "views": 3600000000
       }
     }
   ],
@@ -996,7 +996,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/22edbf1cc1a90a50152172c36f729e8f.mp3"
       },
       "stats": {
-        "posts": 458600
+        "posts": 458500
       }
     },
     {
