@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 57400000,
-        "likes": 353500000
+        "likes": 353600000
       }
     },
     {
@@ -750,19 +750,37 @@
         }
       },
       "stats": {
-        "followers": 680300,
+        "followers": 680400,
         "likes": 1400000
       }
     }
   ],
   "hashtag": [
     {
+      "challengeId": "4669388",
+      "description": "Sometimes you need to send a message.",
+      "name": "#wedonotcare",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/07d350c3f2249e3bf346acd0fa201352",
+      "stats": {
+        "views": 120800000
+      }
+    },
+    {
+      "challengeId": "188757",
+      "description": "Show us a day in your life.",
+      "name": "#adayinmylife",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/937d9e801943131d131291edfe4ff7dc",
+      "stats": {
+        "views": 759700000
+      }
+    },
+    {
       "challengeId": "59802",
       "description": "Happy #4thOfJuly!",
       "name": "#4thofjuly",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4b2cddfc498f15f24ba0f276c31d65fd",
       "stats": {
-        "views": 5200000000
+        "views": 5300000000
       }
     },
     {
@@ -789,7 +807,7 @@
       "name": "#pastachips",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8a5e922e1df89b2a03699e9b6b48686d",
       "stats": {
-        "views": 260600000
+        "views": 264700000
       }
     },
     {
@@ -798,7 +816,7 @@
       "name": "#weekendtrip",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/17b11da0d23d8805cd8ee92d5077c9e9",
       "stats": {
-        "views": 224200000
+        "views": 228500000
       }
     },
     {
@@ -807,7 +825,7 @@
       "name": "#disabilitypride",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bc6ed4cbcc5c3a5ea336315dbcf6228b",
       "stats": {
-        "views": 67900000
+        "views": 68400000
       }
     },
     {
@@ -816,7 +834,7 @@
       "name": "#itcostthatmuch",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/618707e8b67694aeca9055c586827a63",
       "stats": {
-        "views": 192500000
+        "views": 194600000
       }
     },
     {
@@ -825,25 +843,7 @@
       "name": "#smallbusinesstips",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/240d3e05c96690615cc2aed350de854e",
       "stats": {
-        "views": 464200000
-      }
-    },
-    {
-      "challengeId": "32040882",
-      "description": "Sometimes you find the perfect photo.",
-      "name": "#thisphoto",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9192ef929e2aa513c776286405849508",
-      "stats": {
-        "views": 358900000
-      }
-    },
-    {
-      "challengeId": "398693",
-      "description": "What's your #SideHustle?",
-      "name": "#sidehustle",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2162c5d38fa9445069366117006ca9cc",
-      "stats": {
-        "views": 6200000000
+        "views": 465300000
       }
     }
   ],
