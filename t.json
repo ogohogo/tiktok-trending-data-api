@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 31600000,
-        "likes": 150400000
+        "likes": 150600000
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 25000000,
-        "likes": 336000000
+        "likes": 336100000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 12000000,
-        "likes": 312600000
+        "likes": 312700000
       }
     },
     {
@@ -256,7 +256,7 @@
         }
       },
       "stats": {
-        "followers": 28500000,
+        "followers": 28600000,
         "likes": 1800000000
       }
     },
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 57500000,
-        "likes": 353000000
+        "likes": 353100000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 7500000,
-        "likes": 174200000
+        "likes": 174300000
       }
     },
     {
@@ -413,7 +413,7 @@
       },
       "stats": {
         "followers": 8900000,
-        "likes": 227800000
+        "likes": 227900000
       }
     },
     {
@@ -725,7 +725,7 @@
       },
       "stats": {
         "followers": 9900000,
-        "likes": 427800000
+        "likes": 427900000
       }
     },
     {
@@ -783,12 +783,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "13057",
+      "description": "What are you reading?",
+      "name": "#bookworm",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ccc890e0e5b324d1d621d6a20a6095ed",
+      "stats": {
+        "views": 3400000000
+      }
+    },
+    {
+      "challengeId": "1603145030081542",
+      "description": "Grab your gear and hit the gym with #GymTikTok.",
+      "name": "#gymtiktok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/012d50ea444c660a22323358d0d1e90d",
+      "stats": {
+        "views": 495600000
+      }
+    },
+    {
       "challengeId": "4669388",
       "description": "Sometimes you need to send a message.",
       "name": "#wedonotcare",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/07d350c3f2249e3bf346acd0fa201352",
       "stats": {
-        "views": 204800000
+        "views": 208900000
       }
     },
     {
@@ -797,7 +815,7 @@
       "name": "#adayinmylife",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/937d9e801943131d131291edfe4ff7dc",
       "stats": {
-        "views": 845400000
+        "views": 849700000
       }
     },
     {
@@ -815,7 +833,7 @@
       "name": "#bbq",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/07ea67224587f9431653b9edb2d370c2",
       "stats": {
-        "views": 5200000000
+        "views": 5300000000
       }
     },
     {
@@ -833,7 +851,7 @@
       "name": "#pastachips",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8a5e922e1df89b2a03699e9b6b48686d",
       "stats": {
-        "views": 323500000
+        "views": 325500000
       }
     },
     {
@@ -842,7 +860,7 @@
       "name": "#weekendtrip",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/17b11da0d23d8805cd8ee92d5077c9e9",
       "stats": {
-        "views": 201400000
+        "views": 201500000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#disabilitypride",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bc6ed4cbcc5c3a5ea336315dbcf6228b",
       "stats": {
-        "views": 78300000
-      }
-    },
-    {
-      "challengeId": "1703677319672837",
-      "description": "It cost that much because it takes hours! Whether you're an artist, cook, or just putting in work, show us your creative process.",
-      "name": "#itcostthatmuch",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/618707e8b67694aeca9055c586827a63",
-      "stats": {
-        "views": 220100000
-      }
-    },
-    {
-      "challengeId": "1645470754884614",
-      "description": "Share your essential #SmallBusinessTips.",
-      "name": "#smallbusinesstips",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/240d3e05c96690615cc2aed350de854e",
-      "stats": {
-        "views": 474500000
+        "views": 78500000
       }
     }
   ],
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/55660f79de9e40bc8356df5d9ece9b2d.mp3"
       },
       "stats": {
-        "posts": 753200
+        "posts": 753100
       }
     },
     {

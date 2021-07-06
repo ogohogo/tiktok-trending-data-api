@@ -757,12 +757,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "13057",
+      "description": "What are you reading?",
+      "name": "#bookworm",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ccc890e0e5b324d1d621d6a20a6095ed",
+      "stats": {
+        "views": 3500000000
+      }
+    },
+    {
+      "challengeId": "1603145030081542",
+      "description": "Grab your gear and hit the gym with #GymTikTok.",
+      "name": "#gymtiktok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/012d50ea444c660a22323358d0d1e90d",
+      "stats": {
+        "views": 495700000
+      }
+    },
+    {
       "challengeId": "4669388",
       "description": "Sometimes you need to send a message.",
       "name": "#wedonotcare",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/07d350c3f2249e3bf346acd0fa201352",
       "stats": {
-        "views": 204600000
+        "views": 208500000
       }
     },
     {
@@ -771,7 +789,7 @@
       "name": "#adayinmylife",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/937d9e801943131d131291edfe4ff7dc",
       "stats": {
-        "views": 842400000
+        "views": 846500000
       }
     },
     {
@@ -807,7 +825,7 @@
       "name": "#pastachips",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8a5e922e1df89b2a03699e9b6b48686d",
       "stats": {
-        "views": 324900000
+        "views": 326800000
       }
     },
     {
@@ -816,7 +834,7 @@
       "name": "#weekendtrip",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/17b11da0d23d8805cd8ee92d5077c9e9",
       "stats": {
-        "views": 282600000
+        "views": 284000000
       }
     },
     {
@@ -825,25 +843,7 @@
       "name": "#disabilitypride",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bc6ed4cbcc5c3a5ea336315dbcf6228b",
       "stats": {
-        "views": 78300000
-      }
-    },
-    {
-      "challengeId": "1703677319672837",
-      "description": "It cost that much because it takes hours! Whether you're an artist, cook, or just putting in work, show us your creative process.",
-      "name": "#itcostthatmuch",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/618707e8b67694aeca9055c586827a63",
-      "stats": {
-        "views": 220300000
-      }
-    },
-    {
-      "challengeId": "1645470754884614",
-      "description": "Share your essential #SmallBusinessTips.",
-      "name": "#smallbusinesstips",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/240d3e05c96690615cc2aed350de854e",
-      "stats": {
-        "views": 481500000
+        "views": 78500000
       }
     }
   ],
