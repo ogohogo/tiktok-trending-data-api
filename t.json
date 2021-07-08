@@ -48,8 +48,8 @@
         }
       },
       "stats": {
-        "followers": 25400000,
-        "likes": 342200000
+        "followers": 25500000,
+        "likes": 342500000
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 9800000,
-        "likes": 145600000
+        "likes": 145900000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 57900000,
-        "likes": 355000000
+        "likes": 355100000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 9300000,
-        "likes": 249300000
+        "likes": 249400000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 8900000,
-        "likes": 229500000
+        "likes": 229600000
       }
     },
     {
@@ -413,7 +413,7 @@
       },
       "stats": {
         "followers": 18300000,
-        "likes": 329500000
+        "likes": 329600000
       }
     },
     {
@@ -439,7 +439,7 @@
       },
       "stats": {
         "followers": 13300000,
-        "likes": 377700000
+        "likes": 377800000
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 19500000,
-        "likes": 557900000
+        "likes": 558000000
       }
     },
     {
@@ -491,7 +491,7 @@
       },
       "stats": {
         "followers": 19200000,
-        "likes": 498000000
+        "likes": 498100000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 9800000,
-        "likes": 833300000
+        "likes": 833400000
       }
     },
     {
@@ -569,7 +569,7 @@
       },
       "stats": {
         "followers": 10800000,
-        "likes": 624600000
+        "likes": 624700000
       }
     },
     {
@@ -595,7 +595,7 @@
       },
       "stats": {
         "followers": 7600000,
-        "likes": 176100000
+        "likes": 176200000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 10200000,
-        "likes": 377100000
+        "likes": 377200000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 7500000,
-        "likes": 114600000
+        "likes": 114700000
       }
     },
     {
@@ -724,8 +724,8 @@
         }
       },
       "stats": {
-        "followers": 22400000,
-        "likes": 413800000
+        "followers": 22500000,
+        "likes": 413900000
       }
     },
     {
@@ -751,18 +751,36 @@
       },
       "stats": {
         "followers": 19100000,
-        "likes": 799600000
+        "likes": 799800000
       }
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "36297",
+      "description": "The #NBAFinals are officially here, so pull on your jersey, practice your jumper, and show us your love of all things basketball.",
+      "name": "#nbafinals",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dec68b77ecb7db02b53613756520e253",
+      "stats": {
+        "views": 587200000
+      }
+    },
+    {
+      "challengeId": "1600171688547329",
+      "description": "Grab your headset, press start, and join #GamerTikTok.",
+      "name": "#gamertiktok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3df5f89774603cd0cac590885a58fbbe",
+      "stats": {
+        "views": 955000000
+      }
+    },
     {
       "challengeId": "1676308707947525",
       "description": "Find your dream job with TikTok Resumes! Just create a video resume highlighting your work experience and post your video with #TikTokResumes. Head to tiktokresumes.com to connect with your favorite brands accepting TikTok Resumes. Good luck!",
       "name": "#tiktokresumes",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7d6cbbcb64b004ec66026eebfcbe65ad",
       "stats": {
-        "views": 51300000
+        "views": 55100000
       }
     },
     {
@@ -789,7 +807,7 @@
       "name": "#gymtiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/aa0bfbf2a5955b011dcd9206cd759e34",
       "stats": {
-        "views": 541500000
+        "views": 544300000
       }
     },
     {
@@ -798,7 +816,7 @@
       "name": "#wedonotcare",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/07d350c3f2249e3bf346acd0fa201352",
       "stats": {
-        "views": 439300000
+        "views": 446000000
       }
     },
     {
@@ -827,24 +845,6 @@
       "stats": {
         "views": 5300000000
       }
-    },
-    {
-      "challengeId": "11510",
-      "description": "Whether you're heading home for the weekend or need a break, we're here for all things #FamilyTime.",
-      "name": "#familytime",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d98586ea72fe32e5d2e7b88227afccf9",
-      "stats": {
-        "views": 9800000000
-      }
-    },
-    {
-      "challengeId": "1635629406093318",
-      "description": "Show us how you make #PastaChips.",
-      "name": "#pastachips",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8a5e922e1df89b2a03699e9b6b48686d",
-      "stats": {
-        "views": 389000000
-      }
     }
   ],
   "music": [
@@ -870,7 +870,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/faac6d7869ea59561bfc2227d88110e6.mp3"
       },
       "stats": {
-        "posts": 998000
+        "posts": 998300
       }
     },
     {
