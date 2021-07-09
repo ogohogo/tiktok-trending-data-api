@@ -48,8 +48,8 @@
         }
       },
       "stats": {
-        "followers": 25700000,
-        "likes": 351700000
+        "followers": 25800000,
+        "likes": 352000000
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 10000000,
-        "likes": 151300000
+        "likes": 151700000
       }
     },
     {
@@ -204,8 +204,8 @@
         }
       },
       "stats": {
-        "followers": 58100000,
-        "likes": 362400000
+        "followers": 58200000,
+        "likes": 362700000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 12200000,
-        "likes": 318500000
+        "likes": 318600000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 9400000,
-        "likes": 251200000
+        "likes": 251300000
       }
     },
     {
@@ -308,7 +308,7 @@
         }
       },
       "stats": {
-        "followers": 17300000,
+        "followers": 17400000,
         "likes": 1200000000
       }
     },
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 19100000,
-        "likes": 803900000
+        "likes": 804100000
       }
     },
     {
@@ -387,7 +387,7 @@
       },
       "stats": {
         "followers": 29600000,
-        "likes": 96600000
+        "likes": 96700000
       }
     },
     {
@@ -413,7 +413,7 @@
       },
       "stats": {
         "followers": 13400000,
-        "likes": 379700000
+        "likes": 379800000
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 18400000,
-        "likes": 331100000
+        "likes": 331200000
       }
     },
     {
@@ -491,7 +491,7 @@
       },
       "stats": {
         "followers": 9800000,
-        "likes": 834400000
+        "likes": 834700000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 19200000,
-        "likes": 499400000
+        "likes": 499500000
       }
     },
     {
@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 8900000,
-        "likes": 230300000
+        "likes": 230400000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 10800000,
-        "likes": 629500000
+        "likes": 629600000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 7800000,
-        "likes": 325600000
+        "likes": 325700000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 7700000,
-        "likes": 177800000
+        "likes": 178000000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 7800000,
-        "likes": 98600000
+        "likes": 98700000
       }
     },
     {
@@ -751,18 +751,27 @@
       },
       "stats": {
         "followers": 10500000,
-        "likes": 478000000
+        "likes": 478100000
       }
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "126766",
+      "description": "What's your #SongOfTheSummer?",
+      "name": "#songofthesummer",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b142690440bef75f103b66f20504691b",
+      "stats": {
+        "views": 2500000000
+      }
+    },
     {
       "challengeId": "36297",
       "description": "The #NBAFinals are officially here, so pull on your jersey, practice your jumper, and show us your love of all things basketball.",
       "name": "#nbafinals",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2a85b1ca2f559b69a58d4948eab875f8",
       "stats": {
-        "views": 649200000
+        "views": 654100000
       }
     },
     {
@@ -780,7 +789,7 @@
       "name": "#tiktokresumes",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7d6cbbcb64b004ec66026eebfcbe65ad",
       "stats": {
-        "views": 94400000
+        "views": 96500000
       }
     },
     {
@@ -807,7 +816,7 @@
       "name": "#gymtiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/aa0bfbf2a5955b011dcd9206cd759e34",
       "stats": {
-        "views": 583200000
+        "views": 585400000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#wedonotcare",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/07d350c3f2249e3bf346acd0fa201352",
       "stats": {
-        "views": 537500000
+        "views": 542300000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#4thofjuly",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4b2cddfc498f15f24ba0f276c31d65fd",
       "stats": {
-        "views": 6100000000
-      }
-    },
-    {
-      "challengeId": "17611",
-      "description": "Head outside and start grilling.",
-      "name": "#bbq",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/07ea67224587f9431653b9edb2d370c2",
-      "stats": {
-        "views": 5400000000
+        "views": 6200000000
       }
     }
   ],
@@ -870,7 +870,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/faac6d7869ea59561bfc2227d88110e6.mp3"
       },
       "stats": {
-        "posts": 996600
+        "posts": 996400
       }
     },
     {
