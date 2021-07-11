@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 4800000,
-        "likes": 15000000
+        "likes": 15100000
       }
     },
     {
@@ -757,12 +757,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1690173633533958",
+      "description": "Show us those moments where #ThisOpportunity is standing right in front of you.",
+      "name": "#thisopportunity",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8b2f386a4e4c4620998ce0391fd38a3a",
+      "stats": {
+        "views": 19800000
+      }
+    },
+    {
+      "challengeId": "271132",
+      "description": "Whether you're going on a hike or heading to the beach, #GoOutside and show us how you're enjoying nature.",
+      "name": "#gooutside",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/105946572f1777d9cfd055f739215c11",
+      "stats": {
+        "views": 475700000
+      }
+    },
+    {
       "challengeId": "30794",
       "description": "Where are you going #OnVacation?",
       "name": "#onvacation",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e5cba7e837480824804e1fcf567b69f7",
       "stats": {
-        "views": 131700000
+        "views": 134400000
       }
     },
     {
@@ -789,7 +807,7 @@
       "name": "#nbafinals",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2a85b1ca2f559b69a58d4948eab875f8",
       "stats": {
-        "views": 761600000
+        "views": 762700000
       }
     },
     {
@@ -807,7 +825,7 @@
       "name": "#tiktokresumes",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7d6cbbcb64b004ec66026eebfcbe65ad",
       "stats": {
-        "views": 136800000
+        "views": 137400000
       }
     },
     {
@@ -826,24 +844,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ccc890e0e5b324d1d621d6a20a6095ed",
       "stats": {
         "views": 3700000000
-      }
-    },
-    {
-      "challengeId": "1603145030081542",
-      "description": "Grab your gear and hit the gym with #GymTikTok.",
-      "name": "#gymtiktok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/aa0bfbf2a5955b011dcd9206cd759e34",
-      "stats": {
-        "views": 629700000
-      }
-    },
-    {
-      "challengeId": "4669388",
-      "description": "Sometimes you need to send a message.",
-      "name": "#wedonotcare",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/07d350c3f2249e3bf346acd0fa201352",
-      "stats": {
-        "views": 641900000
       }
     }
   ],
@@ -995,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 749900
+        "posts": 749800
       }
     },
     {
