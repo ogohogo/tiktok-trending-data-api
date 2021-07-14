@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 58700000,
-        "likes": 368500000
+        "likes": 368600000
       }
     },
     {
@@ -698,7 +698,7 @@
         }
       },
       "stats": {
-        "followers": 299400,
+        "followers": 299500,
         "likes": 386200
       }
     },
@@ -750,19 +750,37 @@
         }
       },
       "stats": {
-        "followers": 682800,
+        "followers": 682900,
         "likes": 1400000
       }
     }
   ],
   "hashtag": [
     {
+      "challengeId": "17369859",
+      "description": "Show us what happens when you’re on #XGamesMode, and tune into X Games, LIVE on @xgames and TikTok, July 14-17.",
+      "name": "#xgamesmode",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e6fc79350fbffecf1e9a8b3f83f19976",
+      "stats": {
+        "views": 1800000000
+      }
+    },
+    {
+      "challengeId": "26625",
+      "description": "Wow, we're so proud of you!",
+      "name": "#imsoproudofyou",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5878f2cb029ee09c1125f966be91a8a4",
+      "stats": {
+        "views": 53300000
+      }
+    },
+    {
       "challengeId": "1610142076272646",
       "description": "What are you cocinando?",
       "name": "#TikTokComida",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4c490284ddd7d0d19930ce7a9438d0ba",
       "stats": {
-        "views": 725100000
+        "views": 726200000
       }
     },
     {
@@ -771,7 +789,7 @@
       "name": "#herecomestheboy",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4e77bb5b29cca68b8a50cb267211ca61",
       "stats": {
-        "views": 106300000
+        "views": 108500000
       }
     },
     {
@@ -780,7 +798,7 @@
       "name": "#summerinternship",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7f0852e72104b85a0631b2b56160d96d",
       "stats": {
-        "views": 63800000
+        "views": 64700000
       }
     },
     {
@@ -789,7 +807,7 @@
       "name": "#thisopportunity",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8b2f386a4e4c4620998ce0391fd38a3a",
       "stats": {
-        "views": 229400000
+        "views": 231400000
       }
     },
     {
@@ -798,7 +816,7 @@
       "name": "#gooutside",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/105946572f1777d9cfd055f739215c11",
       "stats": {
-        "views": 632000000
+        "views": 633600000
       }
     },
     {
@@ -807,7 +825,7 @@
       "name": "#onvacation",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e5cba7e837480824804e1fcf567b69f7",
       "stats": {
-        "views": 290700000
+        "views": 292600000
       }
     },
     {
@@ -826,24 +844,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b142690440bef75f103b66f20504691b",
       "stats": {
         "views": 2700000000
-      }
-    },
-    {
-      "challengeId": "36297",
-      "description": "The #NBAFinals are officially here, so pull on your jersey, practice your jumper, and show us your love of all things basketball.",
-      "name": "#nbafinals",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2a85b1ca2f559b69a58d4948eab875f8",
-      "stats": {
-        "views": 879400000
-      }
-    },
-    {
-      "challengeId": "1600171688547329",
-      "description": "Grab your headset, press start, and join #GamerTikTok.",
-      "name": "#gamertiktok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3df5f89774603cd0cac590885a58fbbe",
-      "stats": {
-        "views": 1200000000
       }
     }
   ],
@@ -995,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 747400
+        "posts": 747300
       }
     },
     {
