@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 11300000,
-        "likes": 176900000
+        "likes": 177000000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 17800000,
-        "likes": 591600000
+        "likes": 591700000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 19500000,
-        "likes": 822500000
+        "likes": 822600000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 8900000,
-        "likes": 120300000
+        "likes": 120400000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 30800000,
-        "likes": 109200000
+        "likes": 109300000
       }
     },
     {
@@ -387,7 +387,7 @@
       },
       "stats": {
         "followers": 59100000,
-        "likes": 371100000
+        "likes": 371200000
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 62500000,
-        "likes": 775900000
+        "likes": 776000000
       }
     },
     {
@@ -491,7 +491,7 @@
       },
       "stats": {
         "followers": 10100000,
-        "likes": 441600000
+        "likes": 441700000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 11300000,
-        "likes": 659200000
+        "likes": 659300000
       }
     },
     {
@@ -569,7 +569,7 @@
       },
       "stats": {
         "followers": 13700000,
-        "likes": 392300000
+        "likes": 392400000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 14900000,
-        "likes": 363600000
+        "likes": 363700000
       }
     },
     {
@@ -725,7 +725,7 @@
       },
       "stats": {
         "followers": 9900000,
-        "likes": 852500000
+        "likes": 852600000
       }
     },
     {
@@ -751,11 +751,29 @@
       },
       "stats": {
         "followers": 15300000,
-        "likes": 258700000
+        "likes": 259000000
       }
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "43935",
+      "description": "Show us where you're #Exploring.",
+      "name": "#exploring",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7592339dabe2176c020c87a9ace3fda1",
+      "stats": {
+        "views": 620000000
+      }
+    },
+    {
+      "challengeId": "259325",
+      "description": "Whether you're practicing meditation or focusing on self care, here's to all things #Wellness.",
+      "name": "#wellness",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/63c4e32faf5fd682ad2622142378ec23",
+      "stats": {
+        "views": 1600000000
+      }
+    },
     {
       "challengeId": "45070",
       "description": "Catch these #SummerVibes.",
@@ -771,7 +789,7 @@
       "name": "#deeprealization",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0f4c7997b26616906b2e90fdde8681cc",
       "stats": {
-        "views": 167800000
+        "views": 171200000
       }
     },
     {
@@ -789,7 +807,7 @@
       "name": "#meexplaining",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6058afed93007e11e98b2c66a0ba5e0d",
       "stats": {
-        "views": 249600000
+        "views": 252900000
       }
     },
     {
@@ -816,7 +834,7 @@
       "name": "#imsoproudofyou",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5878f2cb029ee09c1125f966be91a8a4",
       "stats": {
-        "views": 197900000
+        "views": 199100000
       }
     },
     {
@@ -825,25 +843,7 @@
       "name": "#TikTokComida",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4c490284ddd7d0d19930ce7a9438d0ba",
       "stats": {
-        "views": 858500000
-      }
-    },
-    {
-      "challengeId": "1605695366875141",
-      "description": "*plays piano instrumental*",
-      "name": "#herecomestheboy",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4e77bb5b29cca68b8a50cb267211ca61",
-      "stats": {
-        "views": 219200000
-      }
-    },
-    {
-      "challengeId": "14455239",
-      "description": "Whether you're sharing tips or just starting your first shift, show us your #SummerInternship.",
-      "name": "#summerinternship",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7f0852e72104b85a0631b2b56160d96d",
-      "stats": {
-        "views": 118400000
+        "views": 859200000
       }
     }
   ],
@@ -870,7 +870,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/faac6d7869ea59561bfc2227d88110e6.mp3"
       },
       "stats": {
-        "posts": 982500
+        "posts": 982400
       }
     },
     {
