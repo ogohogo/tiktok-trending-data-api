@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 31300000,
-        "likes": 119000000
+        "likes": 119200000
       }
     },
     {
@@ -750,19 +750,28 @@
         }
       },
       "stats": {
-        "followers": 688600,
+        "followers": 688700,
         "likes": 1400000
       }
     }
   ],
   "hashtag": [
     {
+      "challengeId": "15464",
+      "description": "Everything #Handmade is better, so show us what you're working on.",
+      "name": "#handmade",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1481533108bf79bffc14568f751a9160",
+      "stats": {
+        "views": 23000000000
+      }
+    },
+    {
       "challengeId": "25501848",
       "description": "The Olympics are underway, so whether it's watching with your family, celebrating with neighbors, or tuning in to root for the world, show us how you're getting in the #OlympicSpirit.",
       "name": "#olympicspirit",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/be3a4b0a32800c53b0a19d20c9740953",
       "stats": {
-        "views": 112000000
+        "views": 115700000
       }
     },
     {
@@ -771,7 +780,7 @@
       "name": "#raiseatoast",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/efdfe7cbc501b389a6f1c9a7bb6c0ab7",
       "stats": {
-        "views": 29000000
+        "views": 30100000
       }
     },
     {
@@ -807,7 +816,7 @@
       "name": "#exploring",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7592339dabe2176c020c87a9ace3fda1",
       "stats": {
-        "views": 832900000
+        "views": 834400000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#deeprealization",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0f4c7997b26616906b2e90fdde8681cc",
       "stats": {
-        "views": 401500000
-      }
-    },
-    {
-      "challengeId": "140592",
-      "description": "We're feeling the love, so whether you're settling in for a long-distance movie night, or delivering a gift for your loved one, show us your #DateNight.",
-      "name": "#datenight",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/12c4a5f2e513601d25f2c0cf05d633a9",
-      "stats": {
-        "views": 6300000000
+        "views": 403000000
       }
     }
   ],
@@ -870,7 +870,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 975900
+        "posts": 975800
       }
     },
     {
@@ -995,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 740400
+        "posts": 740300
       }
     },
     {
