@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 31600000,
-        "likes": 124600000
+        "likes": 124800000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 13900000,
-        "likes": 405000000
+        "likes": 405100000
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 17900000,
-        "likes": 603100000
+        "likes": 603600000
       }
     },
     {
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 9900000,
-        "likes": 139300000
+        "likes": 139400000
       }
     },
     {
@@ -204,8 +204,8 @@
         }
       },
       "stats": {
-        "followers": 19700000,
-        "likes": 834000000
+        "followers": 19800000,
+        "likes": 834100000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 10200000,
-        "likes": 276100000
+        "likes": 276200000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 15300000,
-        "likes": 372400000
+        "likes": 372500000
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 9500000,
-        "likes": 185700000
+        "likes": 185800000
       }
     },
     {
@@ -491,7 +491,7 @@
       },
       "stats": {
         "followers": 8900000,
-        "likes": 461300000
+        "likes": 461400000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 11700000,
-        "likes": 673600000
+        "likes": 673800000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 10000000,
-        "likes": 863100000
+        "likes": 863200000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 10800000,
-        "likes": 503700000
+        "likes": 503800000
       }
     },
     {
@@ -750,8 +750,8 @@
         }
       },
       "stats": {
-        "followers": 6300000,
-        "likes": 333300000
+        "followers": 6400000,
+        "likes": 333500000
       }
     }
   ],
@@ -784,12 +784,21 @@
       }
     },
     {
+      "challengeId": "4212822",
+      "description": "Whether you're hitting thrift stores or putting together your perfect look, show us your #SummerStyle.",
+      "name": "#summerstyle",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8c9cd28ee552c9265b1fa6871a8792bc",
+      "stats": {
+        "views": 216900000
+      }
+    },
+    {
       "challengeId": "25501848",
       "description": "The Olympics are underway, so whether it's watching with your family, celebrating with neighbors, or tuning in to root for the world, show us how you're getting in the #OlympicSpirit.",
       "name": "#olympicspirit",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/be3a4b0a32800c53b0a19d20c9740953",
       "stats": {
-        "views": 292900000
+        "views": 305100000
       }
     },
     {
@@ -798,7 +807,7 @@
       "name": "#raiseatoast",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/efdfe7cbc501b389a6f1c9a7bb6c0ab7",
       "stats": {
-        "views": 62200000
+        "views": 63600000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#exploring",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7592339dabe2176c020c87a9ace3fda1",
       "stats": {
-        "views": 864100000
-      }
-    },
-    {
-      "challengeId": "259325",
-      "description": "Whether you're practicing meditation or focusing on self care, here's to all things #Wellness.",
-      "name": "#wellness",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/63c4e32faf5fd682ad2622142378ec23",
-      "stats": {
-        "views": 1900000000
+        "views": 865300000
       }
     }
   ],
@@ -870,7 +870,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/faac6d7869ea59561bfc2227d88110e6.mp3"
       },
       "stats": {
-        "posts": 974000
+        "posts": 973900
       }
     },
     {
@@ -970,7 +970,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/22edbf1cc1a90a50152172c36f729e8f.mp3"
       },
       "stats": {
-        "posts": 478600
+        "posts": 478500
       }
     },
     {
@@ -1045,7 +1045,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/47e9f8cdb18ebb8def4f611c4ba1c493.m4a"
       },
       "stats": {
-        "posts": 12300000
+        "posts": 12400000
       }
     },
     {

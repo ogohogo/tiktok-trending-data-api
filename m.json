@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 31600000,
-        "likes": 124600000
+        "likes": 124800000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 10300000,
-        "likes": 56600000
+        "likes": 56700000
       }
     },
     {
@@ -698,7 +698,7 @@
         }
       },
       "stats": {
-        "followers": 307500,
+        "followers": 307600,
         "likes": 386600
       }
     },
@@ -750,7 +750,7 @@
         }
       },
       "stats": {
-        "followers": 690600,
+        "followers": 690700,
         "likes": 1400000
       }
     }
@@ -784,12 +784,21 @@
       }
     },
     {
+      "challengeId": "4212822",
+      "description": "Whether you're hitting thrift stores or putting together your perfect look, show us your #SummerStyle.",
+      "name": "#summerstyle",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8c9cd28ee552c9265b1fa6871a8792bc",
+      "stats": {
+        "views": 216800000
+      }
+    },
+    {
       "challengeId": "25501848",
       "description": "The Olympics are underway, so whether it's watching with your family, celebrating with neighbors, or tuning in to root for the world, show us how you're getting in the #OlympicSpirit.",
       "name": "#olympicspirit",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/be3a4b0a32800c53b0a19d20c9740953",
       "stats": {
-        "views": 293400000
+        "views": 304100000
       }
     },
     {
@@ -798,7 +807,7 @@
       "name": "#raiseatoast",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/efdfe7cbc501b389a6f1c9a7bb6c0ab7",
       "stats": {
-        "views": 62200000
+        "views": 63400000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#exploring",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7592339dabe2176c020c87a9ace3fda1",
       "stats": {
-        "views": 864200000
-      }
-    },
-    {
-      "challengeId": "259325",
-      "description": "Whether you're practicing meditation or focusing on self care, here's to all things #Wellness.",
-      "name": "#wellness",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/63c4e32faf5fd682ad2622142378ec23",
-      "stats": {
-        "views": 1900000000
+        "views": 865200000
       }
     }
   ],
@@ -970,7 +970,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/a06db1e9483e48a1ab24a09abe34b473"
       },
       "stats": {
-        "posts": 478600
+        "posts": 478500
       }
     },
     {
@@ -1045,7 +1045,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/94088a3e562a44af8ee16f490f5e529e"
       },
       "stats": {
-        "posts": 12300000
+        "posts": 12400000
       }
     },
     {
