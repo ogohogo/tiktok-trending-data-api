@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 14000000,
-        "likes": 407200000
+        "likes": 407300000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 31700000,
-        "likes": 127400000
+        "likes": 127500000
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 10200000,
-        "likes": 143400000
+        "likes": 143500000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 18000000,
-        "likes": 610200000
+        "likes": 610500000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 11900000,
-        "likes": 188900000
+        "likes": 189000000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 10300000,
-        "likes": 279300000
+        "likes": 279400000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 8600000,
-        "likes": 197500000
+        "likes": 197600000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 9700000,
-        "likes": 188000000
+        "likes": 188100000
       }
     },
     {
@@ -413,7 +413,7 @@
       },
       "stats": {
         "followers": 6400000,
-        "likes": 336600000
+        "likes": 336700000
       }
     },
     {
@@ -439,7 +439,7 @@
       },
       "stats": {
         "followers": 15400000,
-        "likes": 374600000
+        "likes": 374700000
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 11800000,
-        "likes": 680600000
+        "likes": 680700000
       }
     },
     {
@@ -491,7 +491,7 @@
       },
       "stats": {
         "followers": 7600000,
-        "likes": 571700000
+        "likes": 571800000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 9000000,
-        "likes": 463300000
+        "likes": 463400000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 16100000,
-        "likes": 270000000
+        "likes": 270100000
       }
     },
     {
@@ -757,12 +757,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1501468",
+      "description": "It's time for a #Tarot reading.",
+      "name": "#tarot",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/30ad6907cb1caf9ca3f17f16bcdd3432",
+      "stats": {
+        "views": 10000000000
+      }
+    },
+    {
+      "challengeId": "1610460096854021",
+      "description": "Here's to all the #ParentsOfTikTok.",
+      "name": "#parentsoftiktok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77e7b88c661e6ffb4713f8c40cefbb45",
+      "stats": {
+        "views": 7500000000
+      }
+    },
+    {
       "challengeId": "1630351058370566",
       "description": "Relax, take a moment, and enjoy #SelfCareTikTok.",
       "name": "#selfcaretiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/60d5832b93ce385edc3c1b4f81ba9ac4",
       "stats": {
-        "views": 203600000
+        "views": 205300000
       }
     },
     {
@@ -798,7 +816,7 @@
       "name": "#summerstyle",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8c9cd28ee552c9265b1fa6871a8792bc",
       "stats": {
-        "views": 226400000
+        "views": 226800000
       }
     },
     {
@@ -807,7 +825,7 @@
       "name": "#olympicspirit",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/be3a4b0a32800c53b0a19d20c9740953",
       "stats": {
-        "views": 836700000
+        "views": 860100000
       }
     },
     {
@@ -816,7 +834,7 @@
       "name": "#raiseatoast",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/efdfe7cbc501b389a6f1c9a7bb6c0ab7",
       "stats": {
-        "views": 95500000
+        "views": 96300000
       }
     },
     {
@@ -826,24 +844,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/35ad41833ccfe2679dd97d277d772321",
       "stats": {
         "views": 3600000000
-      }
-    },
-    {
-      "challengeId": "456806",
-      "description": "We want to see all of your #Tutorials.",
-      "name": "#tutorials",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e244fcea7f0e6b6da3814036f2c38009",
-      "stats": {
-        "views": 15600000000
-      }
-    },
-    {
-      "challengeId": "70509662",
-      "description": "From small shops to filling packages in your garage, here's to each and every #SmallBusinessOwner.",
-      "name": "#smallbusinessowner",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b6897133282041d2f3f29866d159de9b",
-      "stats": {
-        "views": 2900000000
       }
     }
   ],
@@ -870,7 +870,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/faac6d7869ea59561bfc2227d88110e6.mp3"
       },
       "stats": {
-        "posts": 971500
+        "posts": 971400
       }
     },
     {
