@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 15700000,
-        "likes": 71300000
+        "likes": 71400000
       }
     },
     {
@@ -698,8 +698,8 @@
         }
       },
       "stats": {
-        "followers": 310600,
-        "likes": 420500
+        "followers": 310700,
+        "likes": 420600
       }
     },
     {
@@ -757,12 +757,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1501468",
+      "description": "It's time for a #Tarot reading.",
+      "name": "#tarot",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/30ad6907cb1caf9ca3f17f16bcdd3432",
+      "stats": {
+        "views": 10000000000
+      }
+    },
+    {
+      "challengeId": "1610460096854021",
+      "description": "Here's to all the #ParentsOfTikTok.",
+      "name": "#parentsoftiktok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77e7b88c661e6ffb4713f8c40cefbb45",
+      "stats": {
+        "views": 7500000000
+      }
+    },
+    {
       "challengeId": "1630351058370566",
       "description": "Relax, take a moment, and enjoy #SelfCareTikTok.",
       "name": "#selfcaretiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/60d5832b93ce385edc3c1b4f81ba9ac4",
       "stats": {
-        "views": 202900000
+        "views": 203700000
       }
     },
     {
@@ -798,7 +816,7 @@
       "name": "#summerstyle",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8c9cd28ee552c9265b1fa6871a8792bc",
       "stats": {
-        "views": 226200000
+        "views": 226400000
       }
     },
     {
@@ -807,7 +825,7 @@
       "name": "#olympicspirit",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/be3a4b0a32800c53b0a19d20c9740953",
       "stats": {
-        "views": 827100000
+        "views": 838400000
       }
     },
     {
@@ -816,7 +834,7 @@
       "name": "#raiseatoast",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/efdfe7cbc501b389a6f1c9a7bb6c0ab7",
       "stats": {
-        "views": 95200000
+        "views": 95500000
       }
     },
     {
@@ -826,24 +844,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/35ad41833ccfe2679dd97d277d772321",
       "stats": {
         "views": 3600000000
-      }
-    },
-    {
-      "challengeId": "456806",
-      "description": "We want to see all of your #Tutorials.",
-      "name": "#tutorials",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e244fcea7f0e6b6da3814036f2c38009",
-      "stats": {
-        "views": 15600000000
-      }
-    },
-    {
-      "challengeId": "70509662",
-      "description": "From small shops to filling packages in your garage, here's to each and every #SmallBusinessOwner.",
-      "name": "#smallbusinessowner",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b6897133282041d2f3f29866d159de9b",
-      "stats": {
-        "views": 2900000000
       }
     }
   ],
@@ -970,7 +970,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/a06db1e9483e48a1ab24a09abe34b473"
       },
       "stats": {
-        "posts": 478200
+        "posts": 478100
       }
     },
     {
@@ -1020,7 +1020,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/b6210191f1854b7c9157d5d1e2e5fe77"
       },
       "stats": {
-        "posts": 561900
+        "posts": 561800
       }
     },
     {
