@@ -74,7 +74,7 @@
         }
       },
       "stats": {
-        "followers": 24900000,
+        "followers": 25000000,
         "likes": 125300000
       }
     },
@@ -490,7 +490,7 @@
         }
       },
       "stats": {
-        "followers": 14200000,
+        "followers": 14300000,
         "likes": 56200000
       }
     },
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 10500000,
-        "likes": 59800000
+        "likes": 59900000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 312100,
-        "likes": 422200
+        "likes": 422300
       }
     },
     {
@@ -757,6 +757,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "158359",
+      "description": "Take us along for a day #OnTheJob.",
+      "name": "#onthejob",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d59de886ec87aa461b633db0171460e6",
+      "stats": {
+        "views": 131900000
+      }
+    },
+    {
       "challengeId": "1501468",
       "description": "It's time for a #Tarot reading.",
       "name": "#tarot",
@@ -780,7 +789,7 @@
       "name": "#selfcaretiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/60d5832b93ce385edc3c1b4f81ba9ac4",
       "stats": {
-        "views": 241100000
+        "views": 243400000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#summerstyle",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8c9cd28ee552c9265b1fa6871a8792bc",
       "stats": {
-        "views": 239000000
+        "views": 239600000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#raiseatoast",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/efdfe7cbc501b389a6f1c9a7bb6c0ab7",
       "stats": {
-        "views": 113600000
-      }
-    },
-    {
-      "challengeId": "1613053631533078",
-      "description": "Whether you love gaming or ship your favorite TV and Movie characters, we're celebrating all the fandoms on TikTok with #TikTokFanFest. So pull out your best cosplay, put the finishing touches on your fan art, and show us what you stan. Claim sweet rewards from some of your favorite gaming brands: https://vm.tiktok.com/am7v6a/",
-      "name": "#tiktokfanfest",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/35ad41833ccfe2679dd97d277d772321",
-      "stats": {
-        "views": 3600000000
+        "views": 114700000
       }
     }
   ],
@@ -870,7 +870,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 969900
+        "posts": 969800
       }
     },
     {
@@ -970,7 +970,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/a06db1e9483e48a1ab24a09abe34b473"
       },
       "stats": {
-        "posts": 477900
+        "posts": 477800
       }
     },
     {
@@ -995,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 736900
+        "posts": 736800
       }
     },
     {
@@ -1020,7 +1020,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/b6210191f1854b7c9157d5d1e2e5fe77"
       },
       "stats": {
-        "posts": 561700
+        "posts": 561600
       }
     },
     {
