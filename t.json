@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 18200000,
-        "likes": 621700000
+        "likes": 621900000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 10700000,
-        "likes": 152200000
+        "likes": 152300000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 19900000,
-        "likes": 841300000
+        "likes": 841400000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 12100000,
-        "likes": 695200000
+        "likes": 695300000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 14000000,
-        "likes": 410600000
+        "likes": 410700000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 8500000,
-        "likes": 170900000
+        "likes": 171000000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 10500000,
-        "likes": 286300000
+        "likes": 286400000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 8800000,
-        "likes": 202100000
+        "likes": 202200000
       }
     },
     {
@@ -569,7 +569,7 @@
       },
       "stats": {
         "followers": 10000000,
-        "likes": 869700000
+        "likes": 869800000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 10900000,
-        "likes": 512400000
+        "likes": 512500000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 7600000,
-        "likes": 575900000
+        "likes": 576000000
       }
     },
     {
@@ -757,12 +757,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "582479",
+      "description": "We only have three moods, and that's it.",
+      "name": "#3moods",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b86427bec3e681ac706520ae79961677",
+      "stats": {
+        "views": 15900000
+      }
+    },
+    {
+      "challengeId": "185887",
+      "description": "Whether you're heading on a hike or just exploring your garden, show us what makes you a #NatureLover.",
+      "name": "#naturelover",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bb07bbef243495941bceac5c3ab1198c",
+      "stats": {
+        "views": 1800000000
+      }
+    },
+    {
       "challengeId": "1601789690102789",
       "description": "You've seen the videos, so try it yourself and give us your own #FrozenHoney review.",
       "name": "#frozenhoney",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fd1e1a765e0ec6fc1479243979dd291a",
       "stats": {
-        "views": 187600000
+        "views": 191000000
       }
     },
     {
@@ -771,7 +789,7 @@
       "name": "#onthejob",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d59de886ec87aa461b633db0171460e6",
       "stats": {
-        "views": 276100000
+        "views": 277700000
       }
     },
     {
@@ -798,7 +816,7 @@
       "name": "#selfcaretiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/60d5832b93ce385edc3c1b4f81ba9ac4",
       "stats": {
-        "views": 313000000
+        "views": 313900000
       }
     },
     {
@@ -826,24 +844,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1481533108bf79bffc14568f751a9160",
       "stats": {
         "views": 23700000000
-      }
-    },
-    {
-      "challengeId": "4212822",
-      "description": "Whether you're hitting thrift stores or putting together your perfect look, show us your #SummerStyle.",
-      "name": "#summerstyle",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8c9cd28ee552c9265b1fa6871a8792bc",
-      "stats": {
-        "views": 269100000
-      }
-    },
-    {
-      "challengeId": "25501848",
-      "description": "The Olympics are underway, so whether it's watching with your family, celebrating with neighbors, or tuning in to root for the world, show us how you're getting in the #OlympicSpirit.",
-      "name": "#olympicspirit",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/be3a4b0a32800c53b0a19d20c9740953",
-      "stats": {
-        "views": 1900000000
       }
     }
   ],
@@ -995,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 734800
+        "posts": 734700
       }
     },
     {
