@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 11400000,
-        "likes": 40000000
+        "likes": 40100000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 11500000,
-        "likes": 77700000
+        "likes": 77800000
       }
     },
     {
@@ -757,6 +757,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "89601452",
+      "description": "You might not be competing for a gold medal, but that doesn't mean you don't deserve one. Show us those everyday skills that put you on the podium with #EverydayOlympics.",
+      "name": "#everydayolympics",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/324a0b76d8e831b133f5237918301305",
+      "stats": {
+        "views": 55900000
+      }
+    },
+    {
+      "challengeId": "10126",
+      "description": "These are #FriendshipGoals.",
+      "name": "#friendshipgoals",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d7f4b87ca5a3a21dbf706512fe137e36",
+      "stats": {
+        "views": 11000000000
+      }
+    },
+    {
       "challengeId": "75501",
       "description": "From rising and shining to getting ready for the late shift, we want to see your #WorkLife.",
       "name": "#worklife",
@@ -771,7 +789,7 @@
       "name": "#3moods",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b86427bec3e681ac706520ae79961677",
       "stats": {
-        "views": 94100000
+        "views": 95300000
       }
     },
     {
@@ -789,7 +807,7 @@
       "name": "#frozenhoney",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fd1e1a765e0ec6fc1479243979dd291a",
       "stats": {
-        "views": 368200000
+        "views": 370600000
       }
     },
     {
@@ -798,7 +816,7 @@
       "name": "#onthejob",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d59de886ec87aa461b633db0171460e6",
       "stats": {
-        "views": 360900000
+        "views": 361900000
       }
     },
     {
@@ -825,25 +843,7 @@
       "name": "#selfcaretiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/60d5832b93ce385edc3c1b4f81ba9ac4",
       "stats": {
-        "views": 357300000
-      }
-    },
-    {
-      "challengeId": "28380910",
-      "description": "The Olympics are officially here, so whether you're putting on face paint or tuning in to your favorite sport, we want to see how you're celebrating the #TokyoOlympics.",
-      "name": "#tokyoolympics",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/08e0e29a07483f62701c174865ab5792",
-      "stats": {
-        "views": 3500000000
-      }
-    },
-    {
-      "challengeId": "33668",
-      "description": "Show us who you're posing as.",
-      "name": "#pose",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/80eb7fb35d9e1b57b44826ae3daa3a78",
-      "stats": {
-        "views": 5100000000
+        "views": 357900000
       }
     }
   ],
@@ -870,7 +870,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 963200
+        "posts": 963100
       }
     },
     {
