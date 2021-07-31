@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 11600000,
-        "likes": 80200000
+        "likes": 80300000
       }
     },
     {
@@ -757,12 +757,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1637528289875974",
+      "description": "These are #QuestionsIGetAsked.",
+      "name": "#questionsigetasked",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/25ce45bab3d4dc6bb732ca246a72d71c",
+      "stats": {
+        "views": 124000000
+      }
+    },
+    {
+      "challengeId": "5258",
+      "description": "Make sure to stretch and show us your #Yoga practice.",
+      "name": "#yoga",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/629b681742d834b82f685df3664bbd77",
+      "stats": {
+        "views": 8100000000
+      }
+    },
+    {
       "challengeId": "89601452",
       "description": "You might not be competing for a gold medal, but that doesn't mean you don't deserve one. Show us those everyday skills that put you on the podium with #EverydayOlympics.",
       "name": "#everydayolympics",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/324a0b76d8e831b133f5237918301305",
       "stats": {
-        "views": 72700000
+        "views": 73700000
       }
     },
     {
@@ -789,7 +807,7 @@
       "name": "#3moods",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b86427bec3e681ac706520ae79961677",
       "stats": {
-        "views": 124500000
+        "views": 125300000
       }
     },
     {
@@ -807,7 +825,7 @@
       "name": "#frozenhoney",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fd1e1a765e0ec6fc1479243979dd291a",
       "stats": {
-        "views": 447300000
+        "views": 449500000
       }
     },
     {
@@ -816,7 +834,7 @@
       "name": "#onthejob",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d59de886ec87aa461b633db0171460e6",
       "stats": {
-        "views": 396900000
+        "views": 397900000
       }
     },
     {
@@ -826,24 +844,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/30ad6907cb1caf9ca3f17f16bcdd3432",
       "stats": {
         "views": 10300000000
-      }
-    },
-    {
-      "challengeId": "1610460096854021",
-      "description": "Here's to all the #ParentsOfTikTok.",
-      "name": "#parentsoftiktok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77e7b88c661e6ffb4713f8c40cefbb45",
-      "stats": {
-        "views": 7900000000
-      }
-    },
-    {
-      "challengeId": "1630351058370566",
-      "description": "Relax, take a moment, and enjoy #SelfCareTikTok.",
-      "name": "#selfcaretiktok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/60d5832b93ce385edc3c1b4f81ba9ac4",
-      "stats": {
-        "views": 374700000
       }
     }
   ],
@@ -970,7 +970,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/a06db1e9483e48a1ab24a09abe34b473"
       },
       "stats": {
-        "posts": 476400
+        "posts": 476300
       }
     },
     {
