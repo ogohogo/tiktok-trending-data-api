@@ -74,7 +74,7 @@
         }
       },
       "stats": {
-        "followers": 77700000,
+        "followers": 77800000,
         "likes": 1700000000
       }
     },
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 9000000,
-        "likes": 184500000
+        "likes": 184600000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 20300000,
-        "likes": 859300000
+        "likes": 859400000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 11100000,
-        "likes": 534700000
+        "likes": 534800000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 17100000,
-        "likes": 557100000
+        "likes": 557200000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 10200000,
-        "likes": 885200000
+        "likes": 885300000
       }
     },
     {
@@ -777,11 +777,29 @@
       },
       "stats": {
         "followers": 14700000,
-        "likes": 65700000
+        "likes": 65800000
       }
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "1892085",
+      "description": "Let’s go #ToTheSalon.",
+      "name": "#tothesalon",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9c381f9b378df3815402e74561364064",
+      "stats": {
+        "views": 188500000
+      }
+    },
+    {
+      "challengeId": "1604804866115589",
+      "description": "From perfect drinks to delicious burgers, show us your #SummerRecipes.",
+      "name": "#summerrecipes",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/98b89ce35c1b612be7db75751e295215",
+      "stats": {
+        "views": 516600000
+      }
+    },
     {
       "challengeId": "267389",
       "description": "Show us your favorite #ThrowbackSongs.",
@@ -806,7 +824,7 @@
       "name": "#skincaretiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0358fdcdbdf8a8a7b6133d87b4116bb8",
       "stats": {
-        "views": 407900000
+        "views": 408100000
       }
     },
     {
@@ -833,7 +851,7 @@
       "name": "#olympian",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b2c66f8cb3c8b8ea1c5849a82965d5dc",
       "stats": {
-        "views": 272500000
+        "views": 272900000
       }
     },
     {
@@ -842,7 +860,7 @@
       "name": "#learnhow",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a3852b7f81a0c8c459f034f776d888c",
       "stats": {
-        "views": 319900000
+        "views": 321700000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#blackbusinessmonth",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5a920cade3558b4fcbb0d32c7a7cca9b",
       "stats": {
-        "views": 66200000
-      }
-    },
-    {
-      "challengeId": "1637528289875974",
-      "description": "These are #QuestionsIGetAsked.",
-      "name": "#questionsigetasked",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/25ce45bab3d4dc6bb732ca246a72d71c",
-      "stats": {
-        "views": 384700000
-      }
-    },
-    {
-      "challengeId": "5258",
-      "description": "Make sure to stretch and show us your #Yoga practice.",
-      "name": "#yoga",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/629b681742d834b82f685df3664bbd77",
-      "stats": {
-        "views": 8300000000
+        "views": 66300000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 951300
+        "posts": 951200
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 725100
+        "posts": 725000
       }
     },
     {
