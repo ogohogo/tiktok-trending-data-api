@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 3800000,
-        "likes": 77000000
+        "likes": 77200000
       }
     },
     {
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 34500000,
-        "likes": 407800000
+        "likes": 407900000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 20500000,
-        "likes": 868500000
+        "likes": 868700000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 10700000,
-        "likes": 466000000
+        "likes": 466100000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 9200000,
-        "likes": 190400000
+        "likes": 190500000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 13500000,
-        "likes": 366500000
+        "likes": 366600000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 17300000,
-        "likes": 566300000
+        "likes": 566400000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 9600000,
-        "likes": 497500000
+        "likes": 497700000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 13000000,
-        "likes": 748700000
+        "likes": 748900000
       }
     },
     {
@@ -491,7 +491,7 @@
       },
       "stats": {
         "followers": 19100000,
-        "likes": 647600000
+        "likes": 647700000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 10900000,
-        "likes": 406800000
+        "likes": 406900000
       }
     },
     {
@@ -595,7 +595,7 @@
       },
       "stats": {
         "followers": 18000000,
-        "likes": 472800000
+        "likes": 472900000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 12000000,
-        "likes": 177100000
+        "likes": 177200000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 20300000,
-        "likes": 532400000
+        "likes": 532500000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 9600000,
-        "likes": 217800000
+        "likes": 217900000
       }
     },
     {
@@ -783,12 +783,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "71043",
+      "description": "Here’s to all the #Spanglish speakers.",
+      "name": "#spanglish",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a4e6dad3903e5cecb02eb72a516914c6",
+      "stats": {
+        "views": 490600000
+      }
+    },
+    {
       "challengeId": "1651370656501766",
       "description": "Whether it's incredible music, amazing food, or iconic creators, we're celebrating #CaribbeanStories on TikTok.",
       "name": "#caribbeanstories",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/aefa41871a1f6b739bb27c8fb5b4e224",
       "stats": {
-        "views": 58000000
+        "views": 60100000
       }
     },
     {
@@ -806,7 +815,7 @@
       "name": "#cameraroll",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d8822e9eabc62ca2e2c8f02268ca12a2",
       "stats": {
-        "views": 384700000
+        "views": 389500000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#mindfulness",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ceb4c051cbb203b6a016341bc309a0bb",
       "stats": {
-        "views": 551000000
+        "views": 552900000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#womeningames",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/40e177aac47cce0e2c8a617a23e88a4e",
       "stats": {
-        "views": 173000000
+        "views": 174100000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#tothesalon",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/de79bb378aa444fcf44a580c7a38c111",
       "stats": {
-        "views": 425900000
-      }
-    },
-    {
-      "challengeId": "1604804866115589",
-      "description": "From perfect drinks to delicious burgers, show us your #SummerRecipes.",
-      "name": "#summerrecipes",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/98b89ce35c1b612be7db75751e295215",
-      "stats": {
-        "views": 635100000
+        "views": 427000000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 943800
+        "posts": 943700
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 720300
+        "posts": 720200
       }
     },
     {
