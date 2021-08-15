@@ -48,7 +48,7 @@
         }
       },
       "stats": {
-        "followers": 78500000,
+        "followers": 78600000,
         "likes": 1800000000
       }
     },
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 17400000,
-        "likes": 576000000
+        "likes": 576100000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 4600000,
-        "likes": 88000000
+        "likes": 88100000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 13800000,
-        "likes": 375200000
+        "likes": 375300000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 13200000,
-        "likes": 762200000
+        "likes": 762400000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 20700000,
-        "likes": 873600000
+        "likes": 873700000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 13000000,
-        "likes": 718600000
+        "likes": 718700000
       }
     },
     {
@@ -387,7 +387,7 @@
       },
       "stats": {
         "followers": 9700000,
-        "likes": 503800000
+        "likes": 503900000
       }
     },
     {
@@ -413,7 +413,7 @@
       },
       "stats": {
         "followers": 12100000,
-        "likes": 180600000
+        "likes": 180700000
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 10700000,
-        "likes": 468300000
+        "likes": 468400000
       }
     },
     {
@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 9300000,
-        "likes": 193200000
+        "likes": 193300000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 10200000,
-        "likes": 896900000
+        "likes": 897000000
       }
     },
     {
@@ -783,12 +783,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "7629845",
+      "description": "Whether you spend it with friends or family, here's to a perfect #SundayBrunch.",
+      "name": "#sundaybrunch",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/86b5238500fffdadfc488d30aac4f922",
+      "stats": {
+        "views": 53000000
+      }
+    },
+    {
       "challengeId": "31806",
       "description": "Who got you #Smiling like that?",
       "name": "#smiling",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dd9c9077fa48877caaa257465f8b89ba",
       "stats": {
-        "views": 492400000
+        "views": 495400000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#spanglish",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ba18999d40d099d3c1a53c817e0932a2",
       "stats": {
-        "views": 555400000
+        "views": 555800000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#caribbeanstories",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/aefa41871a1f6b739bb27c8fb5b4e224",
       "stats": {
-        "views": 116300000
+        "views": 116900000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#cameraroll",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d8822e9eabc62ca2e2c8f02268ca12a2",
       "stats": {
-        "views": 564000000
+        "views": 565900000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#mindfulness",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ceb4c051cbb203b6a016341bc309a0bb",
       "stats": {
-        "views": 633500000
+        "views": 635000000
       }
     },
     {
@@ -861,15 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1613f134f2705d0a56ae8f2d3be0c906",
       "stats": {
         "views": 1400000000
-      }
-    },
-    {
-      "challengeId": "1622962893630470",
-      "description": "Welcome to #BookTok.",
-      "name": "#booktok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9b82c5c18fcec4296596e3fa0d977269",
-      "stats": {
-        "views": 17000000000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 939500
+        "posts": 939400
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 717700
+        "posts": 717600
       }
     },
     {
@@ -1046,7 +1046,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/b6210191f1854b7c9157d5d1e2e5fe77"
       },
       "stats": {
-        "posts": 559100
+        "posts": 559000
       }
     },
     {
