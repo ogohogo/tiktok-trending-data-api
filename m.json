@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 7300000,
-        "likes": 16200000
+        "likes": 16300000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 12300000,
-        "likes": 90600000
+        "likes": 90700000
       }
     },
     {
@@ -698,7 +698,7 @@
         }
       },
       "stats": {
-        "followers": 329600,
+        "followers": 329700,
         "likes": 423900
       }
     },
@@ -757,12 +757,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1673752434471941",
+      "description": "August is National Black Business Month and we're celebrating all of the incredible black-owned businesses on TikTok. From mom and pop stops to new startups, here's to all the businesses that are the lifeblood of our communities.",
+      "name": "#blackbusinessmonth",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5a920cade3558b4fcbb0d32c7a7cca9b",
+      "stats": {
+        "views": 95800000
+      }
+    },
+    {
       "challengeId": "7629845",
       "description": "Whether you spend it with friends or family, here's to a perfect #SundayBrunch.",
       "name": "#sundaybrunch",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/86b5238500fffdadfc488d30aac4f922",
       "stats": {
-        "views": 80600000
+        "views": 82100000
       }
     },
     {
@@ -771,7 +780,7 @@
       "name": "#smiling",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dd9c9077fa48877caaa257465f8b89ba",
       "stats": {
-        "views": 565700000
+        "views": 567800000
       }
     },
     {
@@ -798,7 +807,7 @@
       "name": "#spanglish",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ba18999d40d099d3c1a53c817e0932a2",
       "stats": {
-        "views": 567000000
+        "views": 567400000
       }
     },
     {
@@ -807,7 +816,7 @@
       "name": "#caribbeanstories",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/aefa41871a1f6b739bb27c8fb5b4e224",
       "stats": {
-        "views": 128600000
+        "views": 129000000
       }
     },
     {
@@ -825,7 +834,7 @@
       "name": "#cameraroll",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d8822e9eabc62ca2e2c8f02268ca12a2",
       "stats": {
-        "views": 599400000
+        "views": 600600000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#mindfulness",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ceb4c051cbb203b6a016341bc309a0bb",
       "stats": {
-        "views": 659000000
-      }
-    },
-    {
-      "challengeId": "1209843",
-      "description": "August 9th is International Day of the World's Indigenous Peoples, and we're putting the spotlight on the incredible cultures, languages and traditions from around the world. Take time to connect with incredible creators and support the rights of the world's indigenous population.",
-      "name": "#indigenousday",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1613f134f2705d0a56ae8f2d3be0c906",
-      "stats": {
-        "views": 1400000000
+        "views": 659800000
       }
     }
   ],
@@ -870,7 +870,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 938200
+        "posts": 938100
       }
     },
     {
