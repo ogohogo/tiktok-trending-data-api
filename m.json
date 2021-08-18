@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 32600000,
-        "likes": 140200000
+        "likes": 140300000
       }
     },
     {
@@ -698,7 +698,7 @@
         }
       },
       "stats": {
-        "followers": 330900,
+        "followers": 331000,
         "likes": 423900
       }
     },
@@ -725,7 +725,7 @@
       },
       "stats": {
         "followers": 7500000,
-        "likes": 57500000
+        "likes": 57600000
       }
     },
     {
@@ -757,12 +757,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "217145",
+      "description": "This week kicks off #ElectronicMusic Month on TikTok, and we're celebrating our incredible community of artists, DJs, producers, and fans. So whether you're working on a new track or sharing your favorite playlist, plug in the aux and celebrate.",
+      "name": "#electronicmusic",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bd48f959c495392dfd7ea6b00d1be577",
+      "stats": {
+        "views": 288500000
+      }
+    },
+    {
       "challengeId": "1592860465368070",
       "description": "Whether you're on the couch or on the go, show us your love of all things #ConsoleGaming.",
       "name": "#consolegaming",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b6a0bbd648b3d2c5d0becee1836868ed",
       "stats": {
-        "views": 668700000
+        "views": 670300000
       }
     },
     {
@@ -771,7 +780,7 @@
       "name": "#thriftwithme",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a388b30f0f0d17e79da6c992db446010",
       "stats": {
-        "views": 203300000
+        "views": 204000000
       }
     },
     {
@@ -780,7 +789,7 @@
       "name": "#blackbusinessmonth",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5a920cade3558b4fcbb0d32c7a7cca9b",
       "stats": {
-        "views": 114500000
+        "views": 115100000
       }
     },
     {
@@ -789,7 +798,7 @@
       "name": "#sundaybrunch",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/86b5238500fffdadfc488d30aac4f922",
       "stats": {
-        "views": 129600000
+        "views": 130200000
       }
     },
     {
@@ -798,7 +807,7 @@
       "name": "#smiling",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dd9c9077fa48877caaa257465f8b89ba",
       "stats": {
-        "views": 671300000
+        "views": 673300000
       }
     },
     {
@@ -825,7 +834,7 @@
       "name": "#spanglish",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ba18999d40d099d3c1a53c817e0932a2",
       "stats": {
-        "views": 588800000
+        "views": 589300000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#caribbeanstories",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/aefa41871a1f6b739bb27c8fb5b4e224",
       "stats": {
-        "views": 139200000
-      }
-    },
-    {
-      "challengeId": "616436",
-      "description": "Whether you’re animating, sketching, or just experimenting, here’s to all the digital artists on TikTok.",
-      "name": "#digitalart",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/30845f145992df247b485d6798d8b858",
-      "stats": {
-        "views": 10900000000
+        "views": 139400000
       }
     }
   ],
@@ -870,7 +870,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 935300
+        "posts": 935200
       }
     },
     {
@@ -970,7 +970,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/a06db1e9483e48a1ab24a09abe34b473"
       },
       "stats": {
-        "posts": 470900
+        "posts": 470800
       }
     },
     {
