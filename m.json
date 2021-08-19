@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 25900000,
-        "likes": 399200000
+        "likes": 399300000
       }
     },
     {
@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 25300000,
-        "likes": 126800000
+        "likes": 126900000
       }
     },
     {
@@ -387,7 +387,7 @@
       },
       "stats": {
         "followers": 7000000,
-        "likes": 41400000
+        "likes": 41500000
       }
     },
     {
@@ -757,12 +757,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "6505124",
+      "description": "The Paralympics are almost here and we're putting the spotlight on iconic athletes and our incredible community of people with disabilities. Here's to breaking down barriers, ending stigmas, and raising #DisabilityAwareness together.",
+      "name": "#disabilityawareness",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/28c6bb8ef6819fa2786126bf79703de0",
+      "stats": {
+        "views": 485500000
+      }
+    },
+    {
+      "challengeId": "410574",
+      "description": "The Biggest Event of the Summer is finally here, so climb the turnbuckle, pose for the cameras, and get ready for #SummerSlam with Universal Champion Roman Reigns, John Cena, and the entire WWE Universe.",
+      "name": "#summerslam",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ff75e5ee1aa823f6085008cda9b634d8",
+      "stats": {
+        "views": 113600000
+      }
+    },
+    {
       "challengeId": "217145",
       "description": "This week kicks off #ElectronicMusic Month on TikTok, and we're celebrating our incredible community of artists, DJs, producers, and fans. So whether you're working on a new track or sharing your favorite playlist, plug in the aux and celebrate.",
       "name": "#electronicmusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bd48f959c495392dfd7ea6b00d1be577",
       "stats": {
-        "views": 348800000
+        "views": 350100000
       }
     },
     {
@@ -771,7 +789,7 @@
       "name": "#consolegaming",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b6a0bbd648b3d2c5d0becee1836868ed",
       "stats": {
-        "views": 709100000
+        "views": 710700000
       }
     },
     {
@@ -780,7 +798,7 @@
       "name": "#thriftwithme",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a388b30f0f0d17e79da6c992db446010",
       "stats": {
-        "views": 220200000
+        "views": 220700000
       }
     },
     {
@@ -789,7 +807,7 @@
       "name": "#blackbusinessmonth",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5a920cade3558b4fcbb0d32c7a7cca9b",
       "stats": {
-        "views": 125600000
+        "views": 125900000
       }
     },
     {
@@ -798,7 +816,7 @@
       "name": "#sundaybrunch",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/86b5238500fffdadfc488d30aac4f922",
       "stats": {
-        "views": 143100000
+        "views": 143500000
       }
     },
     {
@@ -807,7 +825,7 @@
       "name": "#smiling",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dd9c9077fa48877caaa257465f8b89ba",
       "stats": {
-        "views": 725500000
+        "views": 727500000
       }
     },
     {
@@ -826,24 +844,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dc84b8666707287285289b76af7bb79c",
       "stats": {
         "views": 4400000000
-      }
-    },
-    {
-      "challengeId": "71043",
-      "description": "Here’s to all the #Spanglish speakers.",
-      "name": "#spanglish",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ba18999d40d099d3c1a53c817e0932a2",
-      "stats": {
-        "views": 598500000
-      }
-    },
-    {
-      "challengeId": "1651370656501766",
-      "description": "Whether it's incredible music, amazing food, or iconic creators, we're celebrating #CaribbeanStories on TikTok.",
-      "name": "#caribbeanstories",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/aefa41871a1f6b739bb27c8fb5b4e224",
-      "stats": {
-        "views": 145900000
       }
     }
   ],
@@ -870,7 +870,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 933900
+        "posts": 933800
       }
     },
     {
@@ -995,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 714300
+        "posts": 714200
       }
     },
     {
