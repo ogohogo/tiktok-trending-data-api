@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 16600000,
-        "likes": 79600000
+        "likes": 79700000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 12400000,
-        "likes": 91600000
+        "likes": 91700000
       }
     },
     {
@@ -698,7 +698,7 @@
         }
       },
       "stats": {
-        "followers": 332100,
+        "followers": 332200,
         "likes": 424000
       }
     },
@@ -750,19 +750,37 @@
         }
       },
       "stats": {
-        "followers": 715200,
+        "followers": 715100,
         "likes": 1400000
       }
     }
   ],
   "hashtag": [
     {
+      "challengeId": "18804",
+      "description": "Class is back in session.",
+      "name": "#collegelife",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/83a691923bbf66f9e0b3be9a62fbf705",
+      "stats": {
+        "views": 4500000000
+      }
+    },
+    {
+      "challengeId": "5656710",
+      "description": "Whether you know your star sign or you're already getting ready for Mercury in Retrograde, we're here for all things #Astrology.",
+      "name": "#astrology",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b77f3b80040bfe07764327aac116d712",
+      "stats": {
+        "views": 23600000000
+      }
+    },
+    {
       "challengeId": "6505124",
       "description": "パラリンピックがいよいよ開幕します。TikTokはアスリート、そして障がい者コミュニティへスポットライトを当てます。障がいを取り払い、差別や偏見を終わらせ、一緒に障がいへの認知（#DisabilityAwareness）を高めましょう。",
       "name": "#disabilityawareness",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/28c6bb8ef6819fa2786126bf79703de0",
       "stats": {
-        "views": 496700000
+        "views": 497600000
       }
     },
     {
@@ -771,7 +789,7 @@
       "name": "#summerslam",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/72427593ab31d5190b0c280b328f10d0",
       "stats": {
-        "views": 129600000
+        "views": 130700000
       }
     },
     {
@@ -780,7 +798,7 @@
       "name": "#electronicmusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bd48f959c495392dfd7ea6b00d1be577",
       "stats": {
-        "views": 381400000
+        "views": 382700000
       }
     },
     {
@@ -789,7 +807,7 @@
       "name": "#consolegaming",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b6a0bbd648b3d2c5d0becee1836868ed",
       "stats": {
-        "views": 742100000
+        "views": 743600000
       }
     },
     {
@@ -798,7 +816,7 @@
       "name": "#thriftwithme",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a388b30f0f0d17e79da6c992db446010",
       "stats": {
-        "views": 234000000
+        "views": 234500000
       }
     },
     {
@@ -807,7 +825,7 @@
       "name": "#blackbusinessmonth",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5a920cade3558b4fcbb0d32c7a7cca9b",
       "stats": {
-        "views": 133100000
+        "views": 133400000
       }
     },
     {
@@ -816,7 +834,7 @@
       "name": "#sundaybrunch",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/86b5238500fffdadfc488d30aac4f922",
       "stats": {
-        "views": 153700000
+        "views": 154100000
       }
     },
     {
@@ -825,25 +843,7 @@
       "name": "#smiling",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dd9c9077fa48877caaa257465f8b89ba",
       "stats": {
-        "views": 772900000
-      }
-    },
-    {
-      "challengeId": "217141",
-      "description": "Press the gas and get moving.",
-      "name": "#carlover",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/35ae992d5ebbffd86a995fef5db6c0ba",
-      "stats": {
-        "views": 3300000000
-      }
-    },
-    {
-      "challengeId": "183891",
-      "description": "Black cats, broken mirrors and cracks on the ground. Friday the 13th is here, so plan accordingly.",
-      "name": "#fridaythe13th",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dc84b8666707287285289b76af7bb79c",
-      "stats": {
-        "views": 4400000000
+        "views": 774800000
       }
     }
   ],
@@ -995,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 713500
+        "posts": 713400
       }
     },
     {
