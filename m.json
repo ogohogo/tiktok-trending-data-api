@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 16900000,
-        "likes": 81500000
+        "likes": 81600000
       }
     },
     {
@@ -750,19 +750,28 @@
         }
       },
       "stats": {
-        "followers": 716600,
+        "followers": 716700,
         "likes": 1400000
       }
     }
   ],
   "hashtag": [
     {
+      "challengeId": "1671582962728965",
+      "description": "It's the love story you've been waiting for.",
+      "name": "#swifttok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f53a518c2d8e66e4a85a03f44b46fd6d",
+      "stats": {
+        "views": 1000000000
+      }
+    },
+    {
       "challengeId": "1675955558532102",
       "description": "Whether it's restocking or cleaning, organize your life with #OrganizingTikTok.",
       "name": "#organizingtiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c8a581d9fc3b333ded48109cdba5ea32",
       "stats": {
-        "views": 865000000
+        "views": 865900000
       }
     },
     {
@@ -771,7 +780,7 @@
       "name": "#youngerself",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1a374b36de34cc151512f3092627e121",
       "stats": {
-        "views": 195700000
+        "views": 197900000
       }
     },
     {
@@ -780,7 +789,7 @@
       "name": "#summerstories",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/24b2a8c01fb4fce42d66a6993dbdb70b",
       "stats": {
-        "views": 76300000
+        "views": 77900000
       }
     },
     {
@@ -807,7 +816,7 @@
       "name": "#disabilityawareness",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/28c6bb8ef6819fa2786126bf79703de0",
       "stats": {
-        "views": 541600000
+        "views": 542000000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#summerslam",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/72427593ab31d5190b0c280b328f10d0",
       "stats": {
-        "views": 207300000
+        "views": 208300000
       }
     },
     {
@@ -825,7 +834,7 @@
       "name": "#electronicmusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bd48f959c495392dfd7ea6b00d1be577",
       "stats": {
-        "views": 436700000
+        "views": 437300000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#consolegaming",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b6a0bbd648b3d2c5d0becee1836868ed",
       "stats": {
-        "views": 813700000
-      }
-    },
-    {
-      "challengeId": "1596555807419398",
-      "description": "Dig through the racks and show us what you find.",
-      "name": "#thriftwithme",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a388b30f0f0d17e79da6c992db446010",
-      "stats": {
-        "views": 259400000
+        "views": 814600000
       }
     }
   ],
