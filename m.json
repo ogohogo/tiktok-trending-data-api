@@ -757,12 +757,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1662822085251078",
+      "description": "Here's to all the #LatinxCreatives pushing boundaries and defining their own stories. Whether you're a musician, artist, designer, or culture creator, apply to our #LatinxCreatives program from 8/26-9/8/21 at TikTok.com/LatinxCreatives.",
+      "name": "#latinxcreatives",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/307dc8681a59f24be40177cf8f01c50c",
+      "stats": {
+        "views": 1200000
+      }
+    },
+    {
       "challengeId": "20888006",
       "description": "Whether it's a historic epic or how something is made, we want to hear each and every #OriginStory. Just be sure to start at the beginning!",
       "name": "#originstory",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/db036646d92b55c42e9735a621b403c7",
       "stats": {
-        "views": 116300000
+        "views": 118000000
       }
     },
     {
@@ -771,7 +780,7 @@
       "name": "#youdontknow",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b6a22d363b5a4942bc3cc1e374931d66",
       "stats": {
-        "views": 185800000
+        "views": 187100000
       }
     },
     {
@@ -780,7 +789,7 @@
       "name": "#hesallthat",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8dce63ec8c4e4e09d31c1ea11bffbb1e",
       "stats": {
-        "views": 312400000
+        "views": 318100000
       }
     },
     {
@@ -798,7 +807,7 @@
       "name": "#womensequality",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/97553f15dcb973f8034c93b583ae2503",
       "stats": {
-        "views": 72300000
+        "views": 72900000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#sciencetok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/733b90e2fbf8425492d73afe90842d32",
       "stats": {
-        "views": 322200000
+        "views": 322800000
       }
     },
     {
@@ -825,7 +834,7 @@
       "name": "#pov",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a8fd39b231ed4a24dc0781967c4b3ecf",
       "stats": {
-        "views": 354000000000
+        "views": 354100000000
       }
     },
     {
@@ -835,15 +844,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f53a518c2d8e66e4a85a03f44b46fd6d",
       "stats": {
         "views": 1300000000
-      }
-    },
-    {
-      "challengeId": "1675955558532102",
-      "description": "Whether it's restocking or cleaning, organize your life with #OrganizingTikTok.",
-      "name": "#organizingtiktok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c8a581d9fc3b333ded48109cdba5ea32",
-      "stats": {
-        "views": 1000000000
       }
     }
   ],
@@ -870,7 +870,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 920400
+        "posts": 920300
       }
     },
     {
@@ -995,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 706600
+        "posts": 706500
       }
     },
     {
