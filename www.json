@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 33100000,
-        "likes": 147000000
+        "likes": 147300000
       }
     },
     {
@@ -724,7 +724,7 @@
         }
       },
       "stats": {
-        "followers": 338000,
+        "followers": 338100,
         "likes": 424300
       }
     },
@@ -783,6 +783,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "14104",
+      "description": "Calling all #Coffee lovers! Whether it's whipped or from a french press, show us your favorites.",
+      "name": "#coffee",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d7dc27badbd7a2855bfda931d5664d44",
+      "stats": {
+        "views": 17800000000
+      }
+    },
+    {
       "challengeId": "1621354782236677",
       "description": "Here's to all the artists on TikTok.",
       "name": "#arttok",
@@ -797,7 +806,7 @@
       "name": "#dormtour",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f334c8c5cd38b9968f678857b1566162",
       "stats": {
-        "views": 56200000
+        "views": 56800000
       }
     },
     {
@@ -806,7 +815,7 @@
       "name": "#latinxcreatives",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/307dc8681a59f24be40177cf8f01c50c",
       "stats": {
-        "views": 77200000
+        "views": 77600000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#originstory",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/db036646d92b55c42e9735a621b403c7",
       "stats": {
-        "views": 188800000
+        "views": 189900000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#youdontknow",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b6a22d363b5a4942bc3cc1e374931d66",
       "stats": {
-        "views": 250000000
+        "views": 250900000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#hesallthat",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8dce63ec8c4e4e09d31c1ea11bffbb1e",
       "stats": {
-        "views": 554400000
+        "views": 558200000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#womensequality",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/97553f15dcb973f8034c93b583ae2503",
       "stats": {
-        "views": 96200000
+        "views": 96700000
       }
     },
     {
@@ -861,15 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fca273fb8e0fc562ae2c3e2382d0cf9d",
       "stats": {
         "views": 4600000000
-      }
-    },
-    {
-      "challengeId": "1642939781880834",
-      "description": "Celebrate all things science with #ScienceTok.",
-      "name": "#sciencetok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/733b90e2fbf8425492d73afe90842d32",
-      "stats": {
-        "views": 362200000
       }
     }
   ],
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 705100
+        "posts": 705000
       }
     },
     {
