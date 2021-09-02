@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 33300000,
-        "likes": 151100000
+        "likes": 151200000
       }
     },
     {
@@ -783,6 +783,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "634779",
+      "description": "Whether you're getting ready for draft day or sketching out your squad, we're here for all things #FantasyFootball.",
+      "name": "#fantasyfootball",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a5323660256ed8041b35a6cf824ca0e6",
+      "stats": {
+        "views": 1100000000
+      }
+    },
+    {
       "challengeId": "5425",
       "description": "Whether it's your favorite #Remix or a mashup you can't resist, we want to see your best.",
       "name": "#remix",
@@ -797,7 +806,7 @@
       "name": "#goodsoup",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8dac43220b249830e2576cb59abecaaa",
       "stats": {
-        "views": 149800000
+        "views": 151400000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#dormtour",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f334c8c5cd38b9968f678857b1566162",
       "stats": {
-        "views": 87100000
+        "views": 87700000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#latinxcreatives",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/307dc8681a59f24be40177cf8f01c50c",
       "stats": {
-        "views": 96500000
+        "views": 97000000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#originstory",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/db036646d92b55c42e9735a621b403c7",
       "stats": {
-        "views": 237400000
+        "views": 238100000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#youdontknow",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b6a22d363b5a4942bc3cc1e374931d66",
       "stats": {
-        "views": 295600000
+        "views": 296400000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#hesallthat",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8dce63ec8c4e4e09d31c1ea11bffbb1e",
       "stats": {
-        "views": 721000000
-      }
-    },
-    {
-      "challengeId": "1587543376171009",
-      "description": "Woof!",
-      "name": "#dogsoftiktok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/858a7b59bc98a503a9a9e6bad8518570",
-      "stats": {
-        "views": 80800000000
+        "views": 723600000
       }
     }
   ],
