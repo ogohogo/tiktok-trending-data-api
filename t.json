@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 15500000,
-        "likes": 469300000
+        "likes": 469400000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 13700000,
-        "likes": 223300000
+        "likes": 223400000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 14500000,
-        "likes": 844900000
+        "likes": 845200000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 11900000,
-        "likes": 348000000
+        "likes": 348100000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 14500000,
-        "likes": 912700000
+        "likes": 912800000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 21400000,
-        "likes": 909100000
+        "likes": 909200000
       }
     },
     {
@@ -413,7 +413,7 @@
       },
       "stats": {
         "followers": 11100000,
-        "likes": 488400000
+        "likes": 488500000
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 20400000,
-        "likes": 683000000
+        "likes": 683100000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 15100000,
-        "likes": 417500000
+        "likes": 417600000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 20100000,
-        "likes": 675900000
+        "likes": 676000000
       }
     },
     {
@@ -725,7 +725,7 @@
       },
       "stats": {
         "followers": 3900000,
-        "likes": 118600000
+        "likes": 118800000
       }
     },
     {
@@ -777,18 +777,36 @@
       },
       "stats": {
         "followers": 11400000,
-        "likes": 427100000
+        "likes": 427200000
       }
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "24753",
+      "description": "Whether you're celebrating the long weekend or looking into the history of the holiday, here's to all things #LaborDay.",
+      "name": "#laborday",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a38209759ffebb2865fe81d7d9c3038d",
+      "stats": {
+        "views": 245800000
+      }
+    },
+    {
+      "challengeId": "7412920",
+      "description": "What did you do this summer?",
+      "name": "#summerrecap",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/45f3a259dbb2a683c916daba91169e5e",
+      "stats": {
+        "views": 218400000
+      }
+    },
     {
       "challengeId": "1611130935322629",
       "description": "This is #SpanishTikTok.",
       "name": "#spanishtiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/54775532a0f6b6eaccc54b355b464289",
       "stats": {
-        "views": 679400000
+        "views": 680500000
       }
     },
     {
@@ -797,7 +815,7 @@
       "name": "#clonephotos",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a6eb06f88cf5ccef794464a5334b512a",
       "stats": {
-        "views": 68800000
+        "views": 69500000
       }
     },
     {
@@ -815,7 +833,7 @@
       "name": "#hbcupride",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8a3a1a4028a2bcb7c7ebe5c5cbf79e04",
       "stats": {
-        "views": 37600000
+        "views": 38000000
       }
     },
     {
@@ -824,7 +842,7 @@
       "name": "#allithinkaboutisyou",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0981c64215501ca329f651a298aface3",
       "stats": {
-        "views": 122100000
+        "views": 123200000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#goodsoup",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8dac43220b249830e2576cb59abecaaa",
       "stats": {
-        "views": 366600000
-      }
-    },
-    {
-      "challengeId": "14104",
-      "description": "Calling all #Coffee lovers! Whether it's whipped or from a french press, show us your favorites.",
-      "name": "#coffee",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d7dc27badbd7a2855bfda931d5664d44",
-      "stats": {
-        "views": 18200000000
-      }
-    },
-    {
-      "challengeId": "1621354782236677",
-      "description": "Here's to all the artists on TikTok.",
-      "name": "#arttok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/967f0027564bb1e067838fb6eb4c98d2",
-      "stats": {
-        "views": 2600000000
+        "views": 368700000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 909900
+        "posts": 909800
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 700200
+        "posts": 700100
       }
     },
     {
