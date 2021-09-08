@@ -783,6 +783,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1676908208746501",
+      "description": "Fashion Month is finally here, and we're putting the spotlight on all things fashion on TikTok. So whether you're walking the runway, showing us your best looks, or finding your own aesthetic, join us for #TikTokFashionMonth.",
+      "name": "#tiktokfashionmonth",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8ea856e1e07611f4e7bac918b0249c41",
+      "stats": {
+        "views": 5900000000
+      }
+    },
+    {
+      "challengeId": "7736977",
+      "description": "Who doesn't love #BerriesAndCream?",
+      "name": "#berriesandcream",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/400aaae265e2782d683a3eef7437d85e",
+      "stats": {
+        "views": 126100000
+      }
+    },
+    {
       "challengeId": "81901242",
       "description": "Halloween might still be a few weeks away, but #Spooktember is officially here. Whether it's spooky scary skeletons or pumpkin patches, show us how you're getting ready for Halloween.",
       "name": "#spooktember",
@@ -797,7 +815,7 @@
       "name": "#laborday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a38209759ffebb2865fe81d7d9c3038d",
       "stats": {
-        "views": 412100000
+        "views": 414600000
       }
     },
     {
@@ -806,7 +824,7 @@
       "name": "#summerrecap",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/45f3a259dbb2a683c916daba91169e5e",
       "stats": {
-        "views": 275600000
+        "views": 277000000
       }
     },
     {
@@ -815,7 +833,7 @@
       "name": "#spanishtiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/54775532a0f6b6eaccc54b355b464289",
       "stats": {
-        "views": 730300000
+        "views": 731200000
       }
     },
     {
@@ -824,7 +842,7 @@
       "name": "#clonephotos",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a6eb06f88cf5ccef794464a5334b512a",
       "stats": {
-        "views": 87900000
+        "views": 88100000
       }
     },
     {
@@ -842,7 +860,7 @@
       "name": "#hbcupride",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8a3a1a4028a2bcb7c7ebe5c5cbf79e04",
       "stats": {
-        "views": 49000000
+        "views": 49200000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#allithinkaboutisyou",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0981c64215501ca329f651a298aface3",
       "stats": {
-        "views": 160200000
-      }
-    },
-    {
-      "challengeId": "634779",
-      "description": "Whether you're getting ready for draft day or sketching out your squad, we're here for all things #FantasyFootball.",
-      "name": "#fantasyfootball",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a5323660256ed8041b35a6cf824ca0e6",
-      "stats": {
-        "views": 1200000000
-      }
-    },
-    {
-      "challengeId": "5425",
-      "description": "Whether it's your favorite #Remix or a mashup you can't resist, we want to see your best.",
-      "name": "#remix",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b970b44510dcafa1ff70e0f1eb6bbbb2",
-      "stats": {
-        "views": 12300000000
+        "views": 160800000
       }
     }
   ],
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 698800
+        "posts": 698700
       }
     },
     {
