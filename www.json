@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 12400000,
-        "likes": 58600000
+        "likes": 58700000
       }
     },
     {
@@ -516,7 +516,7 @@
         }
       },
       "stats": {
-        "followers": 15900000,
+        "followers": 16000000,
         "likes": 64300000
       }
     },
@@ -792,12 +792,21 @@
       }
     },
     {
+      "challengeId": "30607875",
+      "description": "The NFL season is officially here and we're getting ready for kickoff. So finalize your fantasy team, pull on your jersey, and get ready to hit the gridiron.",
+      "name": "#nflkickoff",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3ba526914110a9c2574bacfb72c7ab3a",
+      "stats": {
+        "views": 5900000
+      }
+    },
+    {
       "challengeId": "7736977",
       "description": "Who doesn't love #BerriesAndCream?",
       "name": "#berriesandcream",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/400aaae265e2782d683a3eef7437d85e",
       "stats": {
-        "views": 153800000
+        "views": 155200000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#laborday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a38209759ffebb2865fe81d7d9c3038d",
       "stats": {
-        "views": 461200000
+        "views": 463900000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#summerrecap",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/45f3a259dbb2a683c916daba91169e5e",
       "stats": {
-        "views": 304700000
+        "views": 305800000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#spanishtiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/54775532a0f6b6eaccc54b355b464289",
       "stats": {
-        "views": 747000000
+        "views": 747700000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#clonephotos",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a6eb06f88cf5ccef794464a5334b512a",
       "stats": {
-        "views": 93500000
+        "views": 93700000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#hbcupride",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8a3a1a4028a2bcb7c7ebe5c5cbf79e04",
       "stats": {
-        "views": 54000000
-      }
-    },
-    {
-      "challengeId": "1596892",
-      "description": "Sometimes all we think about is you.",
-      "name": "#allithinkaboutisyou",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0981c64215501ca329f651a298aface3",
-      "stats": {
-        "views": 176300000
+        "views": 54100000
       }
     }
   ],
