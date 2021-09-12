@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 21100000,
-        "likes": 698400000
+        "likes": 698500000
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 34100000,
-        "likes": 165700000
+        "likes": 165900000
       }
     },
     {
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 14700000,
-        "likes": 864400000
+        "likes": 864500000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 14100000,
-        "likes": 233700000
+        "likes": 233800000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 11300000,
-        "likes": 494000000
+        "likes": 494100000
       }
     },
     {
@@ -387,7 +387,7 @@
       },
       "stats": {
         "followers": 14600000,
-        "likes": 252400000
+        "likes": 252500000
       }
     },
     {
@@ -439,7 +439,7 @@
       },
       "stats": {
         "followers": 5500000,
-        "likes": 178500000
+        "likes": 178700000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 22300000,
-        "likes": 478200000
+        "likes": 478300000
       }
     },
     {
@@ -569,7 +569,7 @@
       },
       "stats": {
         "followers": 11100000,
-        "likes": 469800000
+        "likes": 469900000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 10500000,
-        "likes": 938300000
+        "likes": 938400000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 9600000,
-        "likes": 208400000
+        "likes": 208500000
       }
     },
     {
@@ -783,12 +783,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "291718",
+      "description": "Whether you're stanning your favorite artist or remembering iconic moments, celebrate all things #VMAs on TikTok.",
+      "name": "#vmas",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4c9c7942228082358786e49a64ce5170",
+      "stats": {
+        "views": 437900000
+      }
+    },
+    {
+      "challengeId": "30533381",
+      "description": "Grab your headset, press start, and show us those #GamingVibes.",
+      "name": "#gamingvibes",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b02601cb5b10abd28a40120a581cc687",
+      "stats": {
+        "views": 18400000
+      }
+    },
+    {
       "challengeId": "965462",
       "description": "What does it mean?",
       "name": "#whatdoesitmean",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0cf6bec69e041db19db8affecc888467",
       "stats": {
-        "views": 165000000
+        "views": 168700000
       }
     },
     {
@@ -797,7 +815,7 @@
       "name": "#makeupinspo",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e38e4502c2f9a2e4c4e7278d97e51fa9",
       "stats": {
-        "views": 222800000
+        "views": 224200000
       }
     },
     {
@@ -824,7 +842,7 @@
       "name": "#nflkickoff",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3ba526914110a9c2574bacfb72c7ab3a",
       "stats": {
-        "views": 38700000
+        "views": 39200000
       }
     },
     {
@@ -833,7 +851,7 @@
       "name": "#berriesandcream",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/400aaae265e2782d683a3eef7437d85e",
       "stats": {
-        "views": 229300000
+        "views": 230700000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#laborday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a38209759ffebb2865fe81d7d9c3038d",
       "stats": {
-        "views": 554600000
-      }
-    },
-    {
-      "challengeId": "7412920",
-      "description": "What did you do this summer?",
-      "name": "#summerrecap",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/45f3a259dbb2a683c916daba91169e5e",
-      "stats": {
-        "views": 389800000
-      }
-    },
-    {
-      "challengeId": "1611130935322629",
-      "description": "This is #SpanishTikTok.",
-      "name": "#spanishtiktok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/54775532a0f6b6eaccc54b355b464289",
-      "stats": {
-        "views": 799100000
+        "views": 555400000
       }
     }
   ],
@@ -996,7 +996,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/a06db1e9483e48a1ab24a09abe34b473"
       },
       "stats": {
-        "posts": 465200
+        "posts": 465100
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 696000
+        "posts": 695900
       }
     },
     {

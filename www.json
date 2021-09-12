@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 34100000,
-        "likes": 165700000
+        "likes": 165900000
       }
     },
     {
@@ -783,12 +783,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "291718",
+      "description": "Whether you're stanning your favorite artist or remembering iconic moments, celebrate all things #VMAs on TikTok.",
+      "name": "#vmas",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4c9c7942228082358786e49a64ce5170",
+      "stats": {
+        "views": 437400000
+      }
+    },
+    {
+      "challengeId": "30533381",
+      "description": "Grab your headset, press start, and show us those #GamingVibes.",
+      "name": "#gamingvibes",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b02601cb5b10abd28a40120a581cc687",
+      "stats": {
+        "views": 18400000
+      }
+    },
+    {
       "challengeId": "965462",
       "description": "What does it mean?",
       "name": "#whatdoesitmean",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0cf6bec69e041db19db8affecc888467",
       "stats": {
-        "views": 164800000
+        "views": 168100000
       }
     },
     {
@@ -797,7 +815,7 @@
       "name": "#makeupinspo",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e38e4502c2f9a2e4c4e7278d97e51fa9",
       "stats": {
-        "views": 222700000
+        "views": 224000000
       }
     },
     {
@@ -824,7 +842,7 @@
       "name": "#nflkickoff",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3ba526914110a9c2574bacfb72c7ab3a",
       "stats": {
-        "views": 38700000
+        "views": 39100000
       }
     },
     {
@@ -833,7 +851,7 @@
       "name": "#berriesandcream",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/400aaae265e2782d683a3eef7437d85e",
       "stats": {
-        "views": 229100000
+        "views": 230400000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#laborday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a38209759ffebb2865fe81d7d9c3038d",
       "stats": {
-        "views": 554700000
-      }
-    },
-    {
-      "challengeId": "7412920",
-      "description": "What did you do this summer?",
-      "name": "#summerrecap",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/45f3a259dbb2a683c916daba91169e5e",
-      "stats": {
-        "views": 389700000
-      }
-    },
-    {
-      "challengeId": "1611130935322629",
-      "description": "This is #SpanishTikTok.",
-      "name": "#spanishtiktok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/54775532a0f6b6eaccc54b355b464289",
-      "stats": {
-        "views": 799000000
+        "views": 555400000
       }
     }
   ],
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 696000
+        "posts": 695900
       }
     },
     {
