@@ -100,7 +100,7 @@
         }
       },
       "stats": {
-        "followers": 34300000,
+        "followers": 34400000,
         "likes": 169000000
       }
     },
@@ -783,12 +783,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1692988365393925",
+      "description": "Broadway is back! Whether you're a theater kid at heart, or just can't stop listening to your favorite showtunes, come celebrate the long-awaited return of Broadway with TikTok and be sure to tune in as shows, singers and actors go LIVE on TikTok.",
+      "name": "#broadwayisback",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6546220b4a670479230e28124273e924",
+      "stats": {
+        "views": 15600000
+      }
+    },
+    {
+      "challengeId": "342040",
+      "description": "We want to see #TheBaby.",
+      "name": "#thebaby",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/62e265d6ce7e39afcc27ed611ac029af",
+      "stats": {
+        "views": 81100000
+      }
+    },
+    {
       "challengeId": "72123449",
       "description": "Class is in session, and it's a perfect time to celebrate our incredible LGBTQ+ community. We're partnering with the It Gets Better Project to launch this year's #Queerbook, so whether it's encouraging words you could've used growing up, or the kind of advice you'd share with friends, share your best &quot;senior quote&quot; for the entire LGBTQ+ family. Learn more by visiting https://itgetsbetter.org/blog/queerbook-2022/",
       "name": "#queerbook",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a5e3762e7ce86f18c8723ec244aa2547",
       "stats": {
-        "views": 66800000
+        "views": 67100000
       }
     },
     {
@@ -815,7 +833,7 @@
       "name": "#gamingvibes",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b02601cb5b10abd28a40120a581cc687",
       "stats": {
-        "views": 124600000
+        "views": 125500000
       }
     },
     {
@@ -824,7 +842,7 @@
       "name": "#whatdoesitmean",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0cf6bec69e041db19db8affecc888467",
       "stats": {
-        "views": 295400000
+        "views": 297500000
       }
     },
     {
@@ -833,7 +851,7 @@
       "name": "#makeupinspo",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e38e4502c2f9a2e4c4e7278d97e51fa9",
       "stats": {
-        "views": 422000000
+        "views": 422600000
       }
     },
     {
@@ -852,24 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8ea856e1e07611f4e7bac918b0249c41",
       "stats": {
         "views": 6200000000
-      }
-    },
-    {
-      "challengeId": "30607875",
-      "description": "The NFL season is officially here and we're getting ready for kickoff. So finalize your fantasy team, pull on your jersey, and get ready to hit the gridiron.",
-      "name": "#nflkickoff",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3ba526914110a9c2574bacfb72c7ab3a",
-      "stats": {
-        "views": 80000000
-      }
-    },
-    {
-      "challengeId": "7736977",
-      "description": "Who doesn't love #BerriesAndCream?",
-      "name": "#berriesandcream",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/400aaae265e2782d683a3eef7437d85e",
-      "stats": {
-        "views": 285500000
       }
     }
   ],
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 694700
+        "posts": 694600
       }
     },
     {
