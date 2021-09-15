@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 61800000,
-        "likes": 387800000
+        "likes": 387900000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 34400000,
-        "likes": 169900000
+        "likes": 170000000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 13300000,
-        "likes": 112000000
+        "likes": 112100000
       }
     },
     {
@@ -783,12 +783,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1709632892156950",
+      "description": "Latinx Heritage Month is here and we're putting the spotlight on our community of incredible creators on TikTok. This month, and every month, we’re #LatinxCreated. So get involved and we’ll keep creando, juntos.",
+      "name": "#latinxcreated",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
+      "stats": {
+        "views": 45600000
+      }
+    },
+    {
       "challengeId": "1692988365393925",
       "description": "Broadway is back! Whether you're a theater kid at heart, or just can't stop listening to your favorite showtunes, come celebrate the long-awaited return of Broadway with TikTok and be sure to tune in as shows, singers and actors go LIVE on TikTok.",
       "name": "#broadwayisback",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6546220b4a670479230e28124273e924",
       "stats": {
-        "views": 31700000
+        "views": 32900000
       }
     },
     {
@@ -797,7 +806,7 @@
       "name": "#thebaby",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/62e265d6ce7e39afcc27ed611ac029af",
       "stats": {
-        "views": 92000000
+        "views": 93000000
       }
     },
     {
@@ -806,7 +815,7 @@
       "name": "#queerbook",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a5e3762e7ce86f18c8723ec244aa2547",
       "stats": {
-        "views": 72800000
+        "views": 73000000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#gamingvibes",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b02601cb5b10abd28a40120a581cc687",
       "stats": {
-        "views": 143100000
+        "views": 143900000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#whatdoesitmean",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0cf6bec69e041db19db8affecc888467",
       "stats": {
-        "views": 345400000
+        "views": 347600000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#makeupinspo",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e38e4502c2f9a2e4c4e7278d97e51fa9",
       "stats": {
-        "views": 436600000
+        "views": 437200000
       }
     },
     {
@@ -861,15 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/cc565040e4371f4146564179d3cd4fcd",
       "stats": {
         "views": 18500000000
-      }
-    },
-    {
-      "challengeId": "1676908208746501",
-      "description": "Fashion Month is finally here, and we're putting the spotlight on all things fashion on TikTok. So whether you're walking the runway, showing us your best looks, or finding your own aesthetic, join us for #TikTokFashionMonth.",
-      "name": "#tiktokfashionmonth",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8ea856e1e07611f4e7bac918b0249c41",
-      "stats": {
-        "views": 6300000000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 899500
+        "posts": 899400
       }
     },
     {
