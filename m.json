@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 34600000,
-        "likes": 171200000
+        "likes": 171300000
       }
     },
     {
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 22500000,
-        "likes": 79300000
+        "likes": 79400000
       }
     },
     {
@@ -204,7 +204,7 @@
         }
       },
       "stats": {
-        "followers": 40000000,
+        "followers": 40100000,
         "likes": 216100000
       }
     },
@@ -792,12 +792,21 @@
       }
     },
     {
+      "challengeId": "1601336200518658",
+      "description": "Here's to all the #CatsOfTikTok.",
+      "name": "#catsoftiktok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dab6b58475bf29165953b72b4d7db65a",
+      "stats": {
+        "views": 72200000000
+      }
+    },
+    {
       "challengeId": "1709632892156950",
       "description": "Latinx Heritage Month is here and we're putting the spotlight on our community of incredible creators on TikTok. This month, and every month, we’re #LatinxCreated. So get involved and we’ll keep creando, juntos.",
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 72000000
+        "views": 73400000
       }
     },
     {
@@ -806,7 +815,7 @@
       "name": "#broadwayisback",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6546220b4a670479230e28124273e924",
       "stats": {
-        "views": 63400000
+        "views": 64800000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#thebaby",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/62e265d6ce7e39afcc27ed611ac029af",
       "stats": {
-        "views": 133600000
+        "views": 135000000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#queerbook",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a5e3762e7ce86f18c8723ec244aa2547",
       "stats": {
-        "views": 80300000
+        "views": 80600000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#gamingvibes",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b02601cb5b10abd28a40120a581cc687",
       "stats": {
-        "views": 160700000
+        "views": 161400000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#whatdoesitmean",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0cf6bec69e041db19db8affecc888467",
       "stats": {
-        "views": 410500000
-      }
-    },
-    {
-      "challengeId": "651226",
-      "description": "Need some #MakeupInspo? Start here with these incredible looks.",
-      "name": "#makeupinspo",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e38e4502c2f9a2e4c4e7278d97e51fa9",
-      "stats": {
-        "views": 451400000
+        "views": 412900000
       }
     }
   ],
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 693400
+        "posts": 693300
       }
     },
     {
@@ -1071,7 +1071,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/29d87760bb97466680a1ab2355e34cdd"
       },
       "stats": {
-        "posts": 14800000
+        "posts": 14900000
       }
     },
     {
