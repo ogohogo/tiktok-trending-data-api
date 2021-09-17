@@ -152,7 +152,7 @@
         }
       },
       "stats": {
-        "followers": 22500000,
+        "followers": 22600000,
         "likes": 80000000
       }
     },
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 40100000,
-        "likes": 216200000
+        "likes": 216300000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 19000000,
-        "likes": 91200000
+        "likes": 91300000
       }
     },
     {
@@ -516,7 +516,7 @@
         }
       },
       "stats": {
-        "followers": 16300000,
+        "followers": 16400000,
         "likes": 66900000
       }
     },
@@ -750,7 +750,7 @@
         }
       },
       "stats": {
-        "followers": 7800000,
+        "followers": 7900000,
         "likes": 64000000
       }
     },
@@ -788,7 +788,7 @@
       "name": "#latinmusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d8b41b436c889d25581db6f03ede083a",
       "stats": {
-        "views": 262200000
+        "views": 262500000
       }
     },
     {
@@ -824,7 +824,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 99100000
+        "views": 101000000
       }
     },
     {
@@ -833,7 +833,7 @@
       "name": "#broadwayisback",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6546220b4a670479230e28124273e924",
       "stats": {
-        "views": 87400000
+        "views": 88600000
       }
     },
     {
@@ -842,7 +842,7 @@
       "name": "#thebaby",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/62e265d6ce7e39afcc27ed611ac029af",
       "stats": {
-        "views": 163200000
+        "views": 165400000
       }
     },
     {
@@ -851,7 +851,7 @@
       "name": "#queerbook",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a5e3762e7ce86f18c8723ec244aa2547",
       "stats": {
-        "views": 85300000
+        "views": 85600000
       }
     },
     {
@@ -928,16 +928,16 @@
       "musicId": "6807966889273346822",
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/26e5d9cfaec1469c940e5760b67f2c63~c5_100x100.jpeg",
-          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/26e5d9cfaec1469c940e5760b67f2c63~c5_300x300.jpeg",
-          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/26e5d9cfaec1469c940e5760b67f2c63~c5_720x720.jpeg",
-          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/26e5d9cfaec1469c940e5760b67f2c63~c5_1080x1080.jpeg"
+          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-i-0000/1bc9ccdb71024095b7ef22a9271cf1e7.jpeg",
+          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/1bc9ccdb71024095b7ef22a9271cf1e7.jpeg",
+          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/1bc9ccdb71024095b7ef22a9271cf1e7.jpeg",
+          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-i-0000/1bc9ccdb71024095b7ef22a9271cf1e7.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/26e5d9cfaec1469c940e5760b67f2c63~c5_100x100.webp",
-          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/26e5d9cfaec1469c940e5760b67f2c63~c5_300x300.webp",
-          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/26e5d9cfaec1469c940e5760b67f2c63~c5_720x720.webp",
-          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/26e5d9cfaec1469c940e5760b67f2c63~c5_1080x1080.webp"
+          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-i-0000/1bc9ccdb71024095b7ef22a9271cf1e7.webp",
+          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/1bc9ccdb71024095b7ef22a9271cf1e7.webp",
+          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/1bc9ccdb71024095b7ef22a9271cf1e7.webp",
+          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-i-0000/1bc9ccdb71024095b7ef22a9271cf1e7.webp"
         }
       },
       "musicInfo": {
@@ -996,7 +996,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/a06db1e9483e48a1ab24a09abe34b473"
       },
       "stats": {
-        "posts": 464300
+        "posts": 464200
       }
     },
     {
