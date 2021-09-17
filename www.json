@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 34700000,
-        "likes": 172200000
+        "likes": 172300000
       }
     },
     {
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 22500000,
-        "likes": 79900000
+        "likes": 80000000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 13400000,
-        "likes": 113100000
+        "likes": 113200000
       }
     },
     {
@@ -783,6 +783,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "38888",
+      "description": "Whether you're a rockera, reggaeton lover, o prefieres some vintage classics, we're here for all things #LatinMusic.",
+      "name": "#latinmusic",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d8b41b436c889d25581db6f03ede083a",
+      "stats": {
+        "views": 262100000
+      }
+    },
+    {
+      "challengeId": "5906171",
+      "description": "For all the industry babies.",
+      "name": "#montero",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/856c9ba82955e69e0b8df04aabc6da81",
+      "stats": {
+        "views": 1600000000
+      }
+    },
+    {
       "challengeId": "106728",
       "description": "We could all use a bit of kindness, so whether it's doing something for a friend or supporting your family, #BeKind. We're partnering with Lady Gaga's Born This Way Foundation to celebrate our community and the ways in which we support one another, so throughout this month, show your commitment and help build a kinder, braver world where everyone can be their authentic selves.",
       "name": "#bekind",
@@ -806,7 +824,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 95600000
+        "views": 97200000
       }
     },
     {
@@ -815,7 +833,7 @@
       "name": "#broadwayisback",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6546220b4a670479230e28124273e924",
       "stats": {
-        "views": 85400000
+        "views": 86200000
       }
     },
     {
@@ -824,7 +842,7 @@
       "name": "#thebaby",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/62e265d6ce7e39afcc27ed611ac029af",
       "stats": {
-        "views": 159500000
+        "views": 161100000
       }
     },
     {
@@ -833,7 +851,7 @@
       "name": "#queerbook",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a5e3762e7ce86f18c8723ec244aa2547",
       "stats": {
-        "views": 84900000
+        "views": 85100000
       }
     },
     {
@@ -852,24 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4c9c7942228082358786e49a64ce5170",
       "stats": {
         "views": 1500000000
-      }
-    },
-    {
-      "challengeId": "30533381",
-      "description": "Grab your headset, press start, and show us those #GamingVibes.",
-      "name": "#gamingvibes",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b02601cb5b10abd28a40120a581cc687",
-      "stats": {
-        "views": 172200000
-      }
-    },
-    {
-      "challengeId": "965462",
-      "description": "What does it mean?",
-      "name": "#whatdoesitmean",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0cf6bec69e041db19db8affecc888467",
-      "stats": {
-        "views": 448600000
       }
     }
   ],
