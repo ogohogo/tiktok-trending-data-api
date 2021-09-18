@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 7800000,
-        "likes": 38200000
+        "likes": 38300000
       }
     },
     {
@@ -783,21 +783,21 @@
   ],
   "hashtag": [
     {
-      "challengeId": "38888",
-      "description": "Whether you're a rockera, reggaeton lover, o prefieres some vintage classics, we're here for all things #LatinMusic.",
-      "name": "#latinmusic",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d8b41b436c889d25581db6f03ede083a",
-      "stats": {
-        "views": 277600000
-      }
-    },
-    {
       "challengeId": "15227780",
       "description": "Whether it's a perfect recipe or a new product, we're here for all things #PlantBased.",
       "name": "#plantbased",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7ec25833982b4b79a169d9b555c13f30",
       "stats": {
         "views": 1600000000
+      }
+    },
+    {
+      "challengeId": "38888",
+      "description": "Whether you're a rockera, reggaeton lover, o prefieres some vintage classics, we're here for all things #LatinMusic.",
+      "name": "#latinmusic",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d8b41b436c889d25581db6f03ede083a",
+      "stats": {
+        "views": 279100000
       }
     },
     {
@@ -833,7 +833,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 137900000
+        "views": 142800000
       }
     },
     {
@@ -842,7 +842,7 @@
       "name": "#broadwayisback",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6546220b4a670479230e28124273e924",
       "stats": {
-        "views": 105400000
+        "views": 106600000
       }
     },
     {
@@ -851,7 +851,7 @@
       "name": "#thebaby",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/62e265d6ce7e39afcc27ed611ac029af",
       "stats": {
-        "views": 198000000
+        "views": 200500000
       }
     },
     {
@@ -860,7 +860,7 @@
       "name": "#queerbook",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a5e3762e7ce86f18c8723ec244aa2547",
       "stats": {
-        "views": 89100000
+        "views": 89200000
       }
     },
     {
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 895900
+        "posts": 895800
       }
     },
     {
