@@ -783,6 +783,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1621382854945957",
+      "description": "Take a seat and study with TikTok.",
+      "name": "#studytok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a798d1c6a6a13450345ea6e8b2215d65",
+      "stats": {
+        "views": 1500000000
+      }
+    },
+    {
       "challengeId": "15227780",
       "description": "Whether it's a perfect recipe or a new product, we're here for all things #PlantBased.",
       "name": "#plantbased",
@@ -797,7 +806,7 @@
       "name": "#latinmusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d8b41b436c889d25581db6f03ede083a",
       "stats": {
-        "views": 293800000
+        "views": 294200000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 179200000
+        "views": 179700000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#broadwayisback",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6546220b4a670479230e28124273e924",
       "stats": {
-        "views": 116700000
+        "views": 117000000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#thebaby",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/62e265d6ce7e39afcc27ed611ac029af",
       "stats": {
-        "views": 222900000
+        "views": 224100000
       }
     },
     {
@@ -861,15 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a5e3762e7ce86f18c8723ec244aa2547",
       "stats": {
         "views": 91400000
-      }
-    },
-    {
-      "challengeId": "493039",
-      "description": "Kickstart your week with some #MotivationMonday.",
-      "name": "#motivationmonday",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/42e6a1da8e0b8342e9339df22900c2e6",
-      "stats": {
-        "views": 5100000000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 894800
+        "posts": 894700
       }
     },
     {
