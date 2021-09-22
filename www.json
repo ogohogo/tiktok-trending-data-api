@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 35200000,
-        "likes": 180300000
+        "likes": 180400000
       }
     },
     {
@@ -792,6 +792,15 @@
       }
     },
     {
+      "challengeId": "590280",
+      "description": "Here's to sweater weather, spiced drinks, and falling leaves.",
+      "name": "#hellofall",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9c43d09ab6a7534c58be5c545515539f",
+      "stats": {
+        "views": 5100000000
+      }
+    },
+    {
       "challengeId": "11029722",
       "description": "Whether it’s a surprising fact or an impressive new skill, we want to know what makes you say #TodayILearned.",
       "name": "#todayilearned",
@@ -824,7 +833,7 @@
       "name": "#latinmusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d8b41b436c889d25581db6f03ede083a",
       "stats": {
-        "views": 329800000
+        "views": 330100000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 224900000
-      }
-    },
-    {
-      "challengeId": "1692988365393925",
-      "description": "Broadway is back! Whether you're a theater kid at heart, or just can't stop listening to your favorite showtunes, come celebrate the long-awaited return of Broadway with TikTok and be sure to tune in as shows, singers and actors go LIVE on TikTok.",
-      "name": "#broadwayisback",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6546220b4a670479230e28124273e924",
-      "stats": {
-        "views": 137700000
+        "views": 225400000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 891300
+        "posts": 891200
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 689400
+        "posts": 689300
       }
     },
     {
