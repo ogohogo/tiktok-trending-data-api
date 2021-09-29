@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 24400000,
-        "likes": 813900000
+        "likes": 814100000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 2900000,
-        "likes": 109100000
+        "likes": 109200000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 15100000,
-        "likes": 615900000
+        "likes": 616000000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 10300000,
-        "likes": 369300000
+        "likes": 369400000
       }
     },
     {
@@ -413,7 +413,7 @@
       },
       "stats": {
         "followers": 16100000,
-        "likes": 494100000
+        "likes": 494200000
       }
     },
     {
@@ -439,7 +439,7 @@
       },
       "stats": {
         "followers": 18900000,
-        "likes": 654300000
+        "likes": 654400000
       }
     },
     {
@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 10700000,
-        "likes": 968900000
+        "likes": 969000000
       }
     },
     {
@@ -569,7 +569,7 @@
       },
       "stats": {
         "followers": 15300000,
-        "likes": 908600000
+        "likes": 908700000
       }
     },
     {
@@ -595,7 +595,7 @@
       },
       "stats": {
         "followers": 14700000,
-        "likes": 930700000
+        "likes": 930800000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 2000000,
-        "likes": 34300000
+        "likes": 34600000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 6600000,
-        "likes": 221400000
+        "likes": 221500000
       }
     },
     {
@@ -725,7 +725,7 @@
       },
       "stats": {
         "followers": 9800000,
-        "likes": 783300000
+        "likes": 783400000
       }
     },
     {
@@ -751,7 +751,7 @@
       },
       "stats": {
         "followers": 10300000,
-        "likes": 226000000
+        "likes": 226100000
       }
     },
     {
@@ -792,12 +792,21 @@
       }
     },
     {
+      "challengeId": "1600803950053377",
+      "description": "The spookiest time of the year is officially here, so show us how you're celebrating Halloween on TikTok.",
+      "name": "#tiktokhalloween",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1a8fadee6b54e786ead44fa71184efcf",
+      "stats": {
+        "views": 60800000
+      }
+    },
+    {
       "challengeId": "16538",
       "description": "How are we supposed to #LiveLaughLove in these conditions?",
       "name": "#livelaughlove",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a9c9e0785301140af64a042e1e2c213a",
       "stats": {
-        "views": 581700000
+        "views": 583700000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#imobsessed",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6b00e9cb5c6b8a6677f351fd1008fd90",
       "stats": {
-        "views": 859400000
+        "views": 861100000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#popculture",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d4239d16e2a2c22d9a9264f8baa851ec",
       "stats": {
-        "views": 962100000
+        "views": 962900000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 344300000
+        "views": 344800000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#latinxbusiness",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7228478d831beb2a1062dfab1908c5f7",
       "stats": {
-        "views": 121200000
+        "views": 121500000
       }
     },
     {
@@ -861,15 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9c43d09ab6a7534c58be5c545515539f",
       "stats": {
         "views": 5500000000
-      }
-    },
-    {
-      "challengeId": "1676908208746501",
-      "description": "Fashion Month is finally here, and we're putting the spotlight on all things fashion on TikTok. So whether you're walking the runway, showing us your best looks, or finding your own aesthetic, join us for #TikTokFashionMonth.",
-      "name": "#tiktokfashionmonth",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8ea856e1e07611f4e7bac918b0249c41",
-      "stats": {
-        "views": 6800000000
       }
     }
   ],
