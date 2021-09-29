@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 24400000,
-        "likes": 814300000
+        "likes": 814400000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 2900000,
-        "likes": 109300000
+        "likes": 109500000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 15200000,
-        "likes": 616200000
+        "likes": 616400000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 15900000,
-        "likes": 278100000
+        "likes": 278200000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 28200000,
-        "likes": 403200000
+        "likes": 403300000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 10300000,
-        "likes": 369500000
+        "likes": 369600000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 15200000,
-        "likes": 263200000
+        "likes": 263500000
       }
     },
     {
@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 10700000,
-        "likes": 969100000
+        "likes": 969200000
       }
     },
     {
@@ -595,7 +595,7 @@
       },
       "stats": {
         "followers": 14700000,
-        "likes": 930900000
+        "likes": 931100000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 2000000,
-        "likes": 34900000
+        "likes": 35200000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 6600000,
-        "likes": 221700000
+        "likes": 221900000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 17500000,
-        "likes": 284900000
+        "likes": 285000000
       }
     },
     {
@@ -725,7 +725,7 @@
       },
       "stats": {
         "followers": 9800000,
-        "likes": 783400000
+        "likes": 783500000
       }
     },
     {
@@ -751,7 +751,7 @@
       },
       "stats": {
         "followers": 10300000,
-        "likes": 226200000
+        "likes": 226300000
       }
     },
     {
@@ -783,6 +783,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1600803950053377",
+      "description": "The spookiest time of the year is officially here, so show us how you're celebrating Halloween on TikTok.",
+      "name": "#tiktokhalloween",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1a8fadee6b54e786ead44fa71184efcf",
+      "stats": {
+        "views": 61200000
+      }
+    },
+    {
       "challengeId": "12744",
       "description": "The #NBA season is just around the corner, so whether you're trying out our new NBA AR filter, rating your team's offseason, or practicing your skills on the court, show us how you're getting ready!",
       "name": "#nba",
@@ -792,21 +801,12 @@
       }
     },
     {
-      "challengeId": "1600803950053377",
-      "description": "The spookiest time of the year is officially here, so show us how you're celebrating Halloween on TikTok.",
-      "name": "#tiktokhalloween",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1a8fadee6b54e786ead44fa71184efcf",
-      "stats": {
-        "views": 61000000
-      }
-    },
-    {
       "challengeId": "16538",
       "description": "How are we supposed to #LiveLaughLove in these conditions?",
       "name": "#livelaughlove",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a9c9e0785301140af64a042e1e2c213a",
       "stats": {
-        "views": 586300000
+        "views": 588800000
       }
     },
     {
@@ -824,7 +824,7 @@
       "name": "#imobsessed",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6b00e9cb5c6b8a6677f351fd1008fd90",
       "stats": {
-        "views": 863300000
+        "views": 865600000
       }
     },
     {
@@ -842,7 +842,7 @@
       "name": "#popculture",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d4239d16e2a2c22d9a9264f8baa851ec",
       "stats": {
-        "views": 964100000
+        "views": 965300000
       }
     },
     {
@@ -851,7 +851,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 345500000
+        "views": 346200000
       }
     },
     {
@@ -860,7 +860,7 @@
       "name": "#latinxbusiness",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7228478d831beb2a1062dfab1908c5f7",
       "stats": {
-        "views": 121900000
+        "views": 122300000
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 684800
+        "posts": 684700
       }
     },
     {
