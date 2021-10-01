@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 16600000,
-        "likes": 68000000
+        "likes": 68100000
       }
     },
     {
@@ -776,12 +776,30 @@
         }
       },
       "stats": {
-        "followers": 724700,
+        "followers": 724800,
         "likes": 1400000
       }
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "1620988433995781",
+      "description": "October is LGBTQ+ History Month, so whether it's reflecting on moments that shaped the community, remembering trailblazers who made a difference or celebrating the strides we've made, let's look back at the impact of the queer community.",
+      "name": "#lgbtqhistory",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/62c37138d1cfe5718dca3bc1d25cb427",
+      "stats": {
+        "views": 228300000
+      }
+    },
+    {
+      "challengeId": "1663697787531269",
+      "description": "Show us your version of #SalmonRice.",
+      "name": "#salmonrice",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4065ddaad2db10fa70bacce12c0503ce",
+      "stats": {
+        "views": 75500000
+      }
+    },
     {
       "challengeId": "63345",
       "description": "What's your story?",
@@ -806,7 +824,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 386500000
+        "views": 387500000
       }
     },
     {
@@ -815,7 +833,7 @@
       "name": "#tiktokhalloween",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1a8fadee6b54e786ead44fa71184efcf",
       "stats": {
-        "views": 150100000
+        "views": 152000000
       }
     },
     {
@@ -824,7 +842,7 @@
       "name": "#nba",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9c022815e8629e932d431e14f6f6eeae",
       "stats": {
-        "views": 45300000000
+        "views": 45400000000
       }
     },
     {
@@ -833,7 +851,7 @@
       "name": "#livelaughlove",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a9c9e0785301140af64a042e1e2c213a",
       "stats": {
-        "views": 668100000
+        "views": 669700000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#imobsessed",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6b00e9cb5c6b8a6677f351fd1008fd90",
       "stats": {
-        "views": 939100000
-      }
-    },
-    {
-      "challengeId": "1615568545612806",
-      "description": "Whether you're hitting the gym or hitting the trails, welcome to #FitnessTikTok.",
-      "name": "#fitnesstiktok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/270608feac261a0464eb3202185a8aef",
-      "stats": {
-        "views": 1100000000
-      }
-    },
-    {
-      "challengeId": "619526",
-      "description": "All #PopCulture, all the time.",
-      "name": "#popculture",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d4239d16e2a2c22d9a9264f8baa851ec",
-      "stats": {
-        "views": 998900000
+        "views": 940700000
       }
     }
   ],
