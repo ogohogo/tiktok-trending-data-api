@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 62200000,
-        "likes": 389300000
+        "likes": 389400000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 35800000,
-        "likes": 191100000
+        "likes": 191200000
       }
     },
     {
@@ -783,12 +783,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "38464",
+      "description": "Whether you're getting ready to hit the field, or you're just finding the perfect spot on the couch, show us your #GameDay routine.",
+      "name": "#gameday",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c37ce1bd041b127377536a3ca7b9f590",
+      "stats": {
+        "views": 1200000000
+      }
+    },
+    {
       "challengeId": "1166549",
       "description": "From spooky crafts to Halloween DIY projects, show us your #HalloweenDecor.",
       "name": "#halloweendecor",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5f49f0afa08817f597b9611399b3ec66",
       "stats": {
-        "views": 382700000
+        "views": 385700000
       }
     },
     {
@@ -806,7 +815,7 @@
       "name": "#lgbtqhistory",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/62c37138d1cfe5718dca3bc1d25cb427",
       "stats": {
-        "views": 246600000
+        "views": 246800000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#salmonrice",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4065ddaad2db10fa70bacce12c0503ce",
       "stats": {
-        "views": 130200000
+        "views": 131000000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 434000000
+        "views": 434800000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#tiktokhalloween",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1a8fadee6b54e786ead44fa71184efcf",
       "stats": {
-        "views": 246500000
+        "views": 248100000
       }
     },
     {
@@ -861,15 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9c022815e8629e932d431e14f6f6eeae",
       "stats": {
         "views": 45600000000
-      }
-    },
-    {
-      "challengeId": "16538",
-      "description": "How are we supposed to #LiveLaughLove in these conditions?",
-      "name": "#livelaughlove",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a9c9e0785301140af64a042e1e2c213a",
-      "stats": {
-        "views": 724600000
       }
     }
   ],
@@ -1046,7 +1046,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/b6210191f1854b7c9157d5d1e2e5fe77"
       },
       "stats": {
-        "posts": 552600
+        "posts": 552500
       }
     },
     {
