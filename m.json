@@ -595,7 +595,7 @@
       },
       "stats": {
         "followers": 3200000,
-        "likes": 27600000
+        "likes": 27700000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 13700000,
-        "likes": 116200000
+        "likes": 116300000
       }
     },
     {
@@ -783,6 +783,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1304501",
+      "description": "Show us how you're #Trabajando con TikTok.",
+      "name": "#trabajando",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9d9a42acb94034e065c816e6b185d616",
+      "stats": {
+        "views": 883300000
+      }
+    },
+    {
+      "challengeId": "39238",
+      "description": "Here's to all the photographers on TikTok.",
+      "name": "#photography",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/740a9c4afc80d38959c94d81e55a277c",
+      "stats": {
+        "views": 22400000000
+      }
+    },
+    {
       "challengeId": "38464",
       "description": "Whether you're getting ready to hit the field, or you're just finding the perfect spot on the couch, show us your #GameDay routine.",
       "name": "#gameday",
@@ -797,7 +815,7 @@
       "name": "#halloweendecor",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5f49f0afa08817f597b9611399b3ec66",
       "stats": {
-        "views": 432600000
+        "views": 434000000
       }
     },
     {
@@ -815,7 +833,7 @@
       "name": "#lgbtqhistory",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/62c37138d1cfe5718dca3bc1d25cb427",
       "stats": {
-        "views": 250600000
+        "views": 250700000
       }
     },
     {
@@ -824,7 +842,7 @@
       "name": "#salmonrice",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4065ddaad2db10fa70bacce12c0503ce",
       "stats": {
-        "views": 154500000
+        "views": 155700000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 451000000
-      }
-    },
-    {
-      "challengeId": "1600803950053377",
-      "description": "The spookiest time of the year is officially here, so show us how you're celebrating Halloween on TikTok.",
-      "name": "#tiktokhalloween",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1a8fadee6b54e786ead44fa71184efcf",
-      "stats": {
-        "views": 286100000
-      }
-    },
-    {
-      "challengeId": "12744",
-      "description": "The #NBA season is just around the corner, so whether you're trying out our new NBA AR filter, rating your team's offseason, or practicing your skills on the court, show us how you're getting ready!",
-      "name": "#nba",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9c022815e8629e932d431e14f6f6eeae",
-      "stats": {
-        "views": 45700000000
+        "views": 451500000
       }
     }
   ],

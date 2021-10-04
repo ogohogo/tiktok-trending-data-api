@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 19800000,
-        "likes": 304600000
+        "likes": 304700000
       }
     },
     {
@@ -178,8 +178,8 @@
         }
       },
       "stats": {
-        "followers": 3200000,
-        "likes": 57600000
+        "followers": 3300000,
+        "likes": 57800000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 11100000,
-        "likes": 389000000
+        "likes": 389200000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 5400000,
-        "likes": 123100000
+        "likes": 123200000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 15500000,
-        "likes": 273300000
+        "likes": 273400000
       }
     },
     {
@@ -439,7 +439,7 @@
       },
       "stats": {
         "followers": 10700000,
-        "likes": 978900000
+        "likes": 979000000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 3200000,
-        "likes": 124900000
+        "likes": 125000000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 3500000,
-        "likes": 206100000
+        "likes": 206200000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 6000000,
-        "likes": 172100000
+        "likes": 172200000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 6800000,
-        "likes": 233700000
+        "likes": 233800000
       }
     },
     {
@@ -783,6 +783,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1304501",
+      "description": "Show us how you're #Trabajando con TikTok.",
+      "name": "#trabajando",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9d9a42acb94034e065c816e6b185d616",
+      "stats": {
+        "views": 883200000
+      }
+    },
+    {
+      "challengeId": "39238",
+      "description": "Here's to all the photographers on TikTok.",
+      "name": "#photography",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/740a9c4afc80d38959c94d81e55a277c",
+      "stats": {
+        "views": 22400000000
+      }
+    },
+    {
       "challengeId": "38464",
       "description": "Whether you're getting ready to hit the field, or you're just finding the perfect spot on the couch, show us your #GameDay routine.",
       "name": "#gameday",
@@ -797,7 +815,7 @@
       "name": "#halloweendecor",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5f49f0afa08817f597b9611399b3ec66",
       "stats": {
-        "views": 432600000
+        "views": 433900000
       }
     },
     {
@@ -815,7 +833,7 @@
       "name": "#lgbtqhistory",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/62c37138d1cfe5718dca3bc1d25cb427",
       "stats": {
-        "views": 250600000
+        "views": 250700000
       }
     },
     {
@@ -824,7 +842,7 @@
       "name": "#salmonrice",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4065ddaad2db10fa70bacce12c0503ce",
       "stats": {
-        "views": 154500000
+        "views": 155600000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 451000000
-      }
-    },
-    {
-      "challengeId": "1600803950053377",
-      "description": "The spookiest time of the year is officially here, so show us how you're celebrating Halloween on TikTok.",
-      "name": "#tiktokhalloween",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1a8fadee6b54e786ead44fa71184efcf",
-      "stats": {
-        "views": 286100000
-      }
-    },
-    {
-      "challengeId": "12744",
-      "description": "The #NBA season is just around the corner, so whether you're trying out our new NBA AR filter, rating your team's offseason, or practicing your skills on the court, show us how you're getting ready!",
-      "name": "#nba",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9c022815e8629e932d431e14f6f6eeae",
-      "stats": {
-        "views": 45700000000
+        "views": 451400000
       }
     }
   ],
