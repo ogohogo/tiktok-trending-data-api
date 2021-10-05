@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 35900000,
-        "likes": 193200000
+        "likes": 193300000
       }
     },
     {
@@ -783,12 +783,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "9120378",
+      "description": "Whether you love thrift stores or shopping online, show us your #FashionHaul.",
+      "name": "#fashionhaul",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5ff86adb6fce7d3bd316ba0b053ba16a",
+      "stats": {
+        "views": 225300000
+      }
+    },
+    {
       "challengeId": "1304501",
       "description": "Show us how you're #Trabajando con TikTok.",
       "name": "#trabajando",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9d9a42acb94034e065c816e6b185d616",
       "stats": {
-        "views": 902300000
+        "views": 906000000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#halloweendecor",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5f49f0afa08817f597b9611399b3ec66",
       "stats": {
-        "views": 468400000
+        "views": 470400000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#lgbtqhistory",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/62c37138d1cfe5718dca3bc1d25cb427",
       "stats": {
-        "views": 255200000
+        "views": 255300000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#salmonrice",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4065ddaad2db10fa70bacce12c0503ce",
       "stats": {
-        "views": 184200000
+        "views": 186000000
       }
     },
     {
@@ -861,15 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e4f243406a6f496bb6f4daa8735af00f",
       "stats": {
         "views": 2000000000
-      }
-    },
-    {
-      "challengeId": "1709632892156950",
-      "description": "Latinx Heritage Month is here and we're putting the spotlight on our community of incredible creators on TikTok. This month, and every month, we’re #LatinxCreated. So get involved and we’ll keep creando, juntos.",
-      "name": "#latinxcreated",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
-      "stats": {
-        "views": 468200000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 877400
+        "posts": 877300
       }
     },
     {
