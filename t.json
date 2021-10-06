@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 3900000,
-        "likes": 70400000
+        "likes": 70700000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 15600000,
-        "likes": 630600000
+        "likes": 630800000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 36000000,
-        "likes": 194300000
+        "likes": 194400000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 5500000,
-        "likes": 127000000
+        "likes": 127100000
       }
     },
     {
@@ -413,7 +413,7 @@
       },
       "stats": {
         "followers": 16200000,
-        "likes": 285700000
+        "likes": 285800000
       }
     },
     {
@@ -491,7 +491,7 @@
       },
       "stats": {
         "followers": 14800000,
-        "likes": 937000000
+        "likes": 937100000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 6900000,
-        "likes": 237500000
+        "likes": 237700000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 5700000,
-        "likes": 67200000
+        "likes": 67300000
       }
     },
     {
@@ -725,7 +725,7 @@
       },
       "stats": {
         "followers": 3600000,
-        "likes": 210300000
+        "likes": 210400000
       }
     },
     {
@@ -751,7 +751,7 @@
       },
       "stats": {
         "followers": 3300000,
-        "likes": 129100000
+        "likes": 129200000
       }
     },
     {
@@ -783,12 +783,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "14238",
+      "description": "This is the story about a girl named #Lucky.",
+      "name": "#lucky",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6d502c054e76931e2a0266e55a14823b",
+      "stats": {
+        "views": 7300000000
+      }
+    },
+    {
       "challengeId": "9120378",
       "description": "Whether you love thrift stores or shopping online, show us your #FashionHaul.",
       "name": "#fashionhaul",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5ff86adb6fce7d3bd316ba0b053ba16a",
       "stats": {
-        "views": 243700000
+        "views": 244600000
       }
     },
     {
@@ -797,7 +806,7 @@
       "name": "#trabajando",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9d9a42acb94034e065c816e6b185d616",
       "stats": {
-        "views": 951500000
+        "views": 953000000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#halloweendecor",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5f49f0afa08817f597b9611399b3ec66",
       "stats": {
-        "views": 497700000
+        "views": 499200000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#lgbtqhistory",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/62c37138d1cfe5718dca3bc1d25cb427",
       "stats": {
-        "views": 258600000
+        "views": 258700000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#salmonrice",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4065ddaad2db10fa70bacce12c0503ce",
       "stats": {
-        "views": 207900000
+        "views": 208600000
       }
     },
     {
@@ -861,15 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ae019c45c00ca3c84aa25209675a7064",
       "stats": {
         "views": 3200000000
-      }
-    },
-    {
-      "challengeId": "67063",
-      "description": "Happy #Homecoming!",
-      "name": "#homecoming",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e4f243406a6f496bb6f4daa8735af00f",
-      "stats": {
-        "views": 2000000000
       }
     }
   ],
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 680900
+        "posts": 680800
       }
     },
     {
@@ -1071,7 +1071,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/29d87760bb97466680a1ab2355e34cdd"
       },
       "stats": {
-        "posts": 16000000
+        "posts": 16100000
       }
     },
     {
