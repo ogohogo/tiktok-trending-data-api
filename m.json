@@ -751,7 +751,7 @@
       },
       "stats": {
         "followers": 8000000,
-        "likes": 65400000
+        "likes": 65500000
       }
     },
     {
@@ -788,7 +788,16 @@
       "name": "#ourtable",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4ff1beffa4d95d36100cb008bd74e1f5",
       "stats": {
-        "views": 264200000
+        "views": 266300000
+      }
+    },
+    {
+      "challengeId": "8860",
+      "description": "Grab some candy, pull on a blanket, and get ready for #MovieNight.",
+      "name": "#movienight",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/baeac2da8b810f3f2d5baf8487ac90d4",
+      "stats": {
+        "views": 1300000000
       }
     },
     {
@@ -806,7 +815,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 533500000
+        "views": 534400000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#fashionhaul",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5ff86adb6fce7d3bd316ba0b053ba16a",
       "stats": {
-        "views": 288400000
+        "views": 289000000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#halloweendecor",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5f49f0afa08817f597b9611399b3ec66",
       "stats": {
-        "views": 562100000
-      }
-    },
-    {
-      "challengeId": "5541",
-      "description": "By the way, you're my #BestFriend.",
-      "name": "#bestfriend",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b11e0816d985935a8eff4116b65d8552",
-      "stats": {
-        "views": 42200000000
+        "views": 563100000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 874600
+        "posts": 874500
       }
     },
     {
@@ -996,7 +996,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/a06db1e9483e48a1ab24a09abe34b473"
       },
       "stats": {
-        "posts": 459900
+        "posts": 459800
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 679900
+        "posts": 679800
       }
     },
     {

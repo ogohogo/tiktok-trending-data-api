@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 25000000,
-        "likes": 840200000
+        "likes": 840300000
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 4300000,
-        "likes": 80400000
+        "likes": 80600000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 15700000,
-        "likes": 635100000
+        "likes": 635200000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 5600000,
-        "likes": 130700000
+        "likes": 130800000
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 16300000,
-        "likes": 288700000
+        "likes": 289000000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 5900000,
-        "likes": 70800000
+        "likes": 70900000
       }
     },
     {
@@ -569,7 +569,7 @@
       },
       "stats": {
         "followers": 26200000,
-        "likes": 746400000
+        "likes": 746500000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 10500000,
-        "likes": 233500000
+        "likes": 233600000
       }
     },
     {
@@ -777,7 +777,7 @@
       },
       "stats": {
         "followers": 9900000,
-        "likes": 795900000
+        "likes": 796000000
       }
     }
   ],
@@ -788,7 +788,16 @@
       "name": "#ourtable",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4ff1beffa4d95d36100cb008bd74e1f5",
       "stats": {
-        "views": 264300000
+        "views": 266600000
+      }
+    },
+    {
+      "challengeId": "8860",
+      "description": "Grab some candy, pull on a blanket, and get ready for #MovieNight.",
+      "name": "#movienight",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/baeac2da8b810f3f2d5baf8487ac90d4",
+      "stats": {
+        "views": 1300000000
       }
     },
     {
@@ -806,7 +815,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 533600000
+        "views": 534500000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#fashionhaul",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5ff86adb6fce7d3bd316ba0b053ba16a",
       "stats": {
-        "views": 288500000
+        "views": 289100000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#halloweendecor",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5f49f0afa08817f597b9611399b3ec66",
       "stats": {
-        "views": 562200000
-      }
-    },
-    {
-      "challengeId": "5541",
-      "description": "By the way, you're my #BestFriend.",
-      "name": "#bestfriend",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b11e0816d985935a8eff4116b65d8552",
-      "stats": {
-        "views": 42200000000
+        "views": 563300000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 874600
+        "posts": 874500
       }
     },
     {
@@ -996,7 +996,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/a06db1e9483e48a1ab24a09abe34b473"
       },
       "stats": {
-        "posts": 459900
+        "posts": 459800
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 679900
+        "posts": 679800
       }
     },
     {
@@ -1053,16 +1053,16 @@
       "musicId": "6746993352891189249",
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-i-0000/35eb9d866b2c47d4811132f3c3fa904c.jpeg",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/35eb9d866b2c47d4811132f3c3fa904c.jpeg",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/35eb9d866b2c47d4811132f3c3fa904c.jpeg",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-i-0000/35eb9d866b2c47d4811132f3c3fa904c.jpeg"
+          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/383f5db9f1e44955896da2c8eb7be6ac.jpeg",
+          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/383f5db9f1e44955896da2c8eb7be6ac.jpeg",
+          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/383f5db9f1e44955896da2c8eb7be6ac.jpeg",
+          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/383f5db9f1e44955896da2c8eb7be6ac.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-i-0000/35eb9d866b2c47d4811132f3c3fa904c.webp",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/35eb9d866b2c47d4811132f3c3fa904c.webp",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/35eb9d866b2c47d4811132f3c3fa904c.webp",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-i-0000/35eb9d866b2c47d4811132f3c3fa904c.webp"
+          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/383f5db9f1e44955896da2c8eb7be6ac.webp",
+          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/383f5db9f1e44955896da2c8eb7be6ac.webp",
+          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/383f5db9f1e44955896da2c8eb7be6ac.webp",
+          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/383f5db9f1e44955896da2c8eb7be6ac.webp"
         }
       },
       "musicInfo": {
