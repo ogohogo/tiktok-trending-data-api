@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 25000000,
-        "likes": 840500000
+        "likes": 840600000
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 4300000,
-        "likes": 80900000
+        "likes": 81000000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 15700000,
-        "likes": 635300000
+        "likes": 635400000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 36100000,
-        "likes": 195500000
+        "likes": 195600000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 34600000,
-        "likes": 186100000
+        "likes": 186200000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 5600000,
-        "likes": 131000000
+        "likes": 131100000
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 16300000,
-        "likes": 289400000
+        "likes": 289500000
       }
     },
     {
@@ -491,7 +491,7 @@
       },
       "stats": {
         "followers": 10700000,
-        "likes": 987300000
+        "likes": 987400000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 3700000,
-        "likes": 214500000
+        "likes": 214600000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 7000000,
-        "likes": 241400000
+        "likes": 241500000
       }
     },
     {
@@ -783,12 +783,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "180049",
+      "description": "Whether you're looking up or just clocking in, show us your #POV",
+      "name": "#pov",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4cbd661d71e6e76b01ba68757f3a02da",
+      "stats": {
+        "views": 382800000000
+      }
+    },
+    {
       "challengeId": "23673912",
       "description": "Oh no, #OurTable, it's broken.",
       "name": "#ourtable",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4ff1beffa4d95d36100cb008bd74e1f5",
       "stats": {
-        "views": 271200000
+        "views": 273700000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 536900000
+        "views": 538000000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#fashionhaul",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5ff86adb6fce7d3bd316ba0b053ba16a",
       "stats": {
-        "views": 290400000
+        "views": 291100000
       }
     },
     {
@@ -861,15 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c37ce1bd041b127377536a3ca7b9f590",
       "stats": {
         "views": 1400000000
-      }
-    },
-    {
-      "challengeId": "1166549",
-      "description": "From spooky crafts to Halloween DIY projects, show us your #HalloweenDecor.",
-      "name": "#halloweendecor",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5f49f0afa08817f597b9611399b3ec66",
-      "stats": {
-        "views": 565500000
       }
     }
   ],
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 679800
+        "posts": 679700
       }
     },
     {
