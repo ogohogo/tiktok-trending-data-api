@@ -22,7 +22,7 @@
         }
       },
       "stats": {
-        "followers": 125600000,
+        "followers": 125700000,
         "likes": 9900000000
       }
     },
@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 25100000,
-        "likes": 848000000
+        "likes": 848200000
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 4600000,
-        "likes": 87600000
+        "likes": 87800000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 16000000,
-        "likes": 453900000
+        "likes": 454000000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 16500000,
-        "likes": 292700000
+        "likes": 292800000
       }
     },
     {
@@ -413,7 +413,7 @@
       },
       "stats": {
         "followers": 10700000,
-        "likes": 992500000
+        "likes": 992600000
       }
     },
     {
@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 5500000,
-        "likes": 83200000
+        "likes": 83400000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 18700000,
-        "likes": 359500000
+        "likes": 359600000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 16300000,
-        "likes": 502800000
+        "likes": 502900000
       }
     },
     {
@@ -751,11 +751,20 @@
       },
       "stats": {
         "followers": 11700000,
-        "likes": 667200000
+        "likes": 667300000
       }
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "3256198",
+      "description": "Checking in with one another can make a big difference, so join us and put the focus on #MentalHealthAwareness. Whether it's spending time with friends, putting wellness first, or sharing important resources, join us and build a supportive community where we can end stigmas and have honest conversations about mental health.",
+      "name": "#mentalhealthawareness",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5240b8aaddd46eebdad965486b5f4601",
+      "stats": {
+        "views": 5000000000
+      }
+    },
     {
       "challengeId": "5334",
       "description": "The Halloween season is officially here, so grab your costumes, put out your decor, and celebrate all things, spooky, scary, and fun!",
@@ -798,7 +807,7 @@
       "name": "#ourtable",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4ff1beffa4d95d36100cb008bd74e1f5",
       "stats": {
-        "views": 350800000
+        "views": 351900000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 580100000
+        "views": 580900000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#fashionhaul",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5ff86adb6fce7d3bd316ba0b053ba16a",
       "stats": {
-        "views": 316100000
-      }
-    },
-    {
-      "challengeId": "1304501",
-      "description": "Show us how you're #Trabajando con TikTok.",
-      "name": "#trabajando",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9d9a42acb94034e065c816e6b185d616",
-      "stats": {
-        "views": 1100000000
+        "views": 316500000
       }
     }
   ],
