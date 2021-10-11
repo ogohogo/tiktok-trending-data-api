@@ -594,7 +594,7 @@
         }
       },
       "stats": {
-        "followers": 3200000,
+        "followers": 3300000,
         "likes": 28100000
       }
     },
@@ -725,7 +725,7 @@
       },
       "stats": {
         "followers": 345300,
-        "likes": 425300
+        "likes": 425400
       }
     },
     {
@@ -792,6 +792,15 @@
       }
     },
     {
+      "challengeId": "1175429",
+      "description": "Whether it's sharing your story, showing your support, or spreading acceptance, here's to creating a culture where everyone is free to be their authentic self.",
+      "name": "#comingoutday",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/47fa909569d77ad10b3f93728b54aa5c",
+      "stats": {
+        "views": 27400000
+      }
+    },
+    {
       "challengeId": "5334",
       "description": "The Halloween season is officially here, so grab your costumes, put out your decor, and celebrate all things, spooky, scary, and fun!",
       "name": "#halloween",
@@ -833,7 +842,7 @@
       "name": "#ourtable",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4ff1beffa4d95d36100cb008bd74e1f5",
       "stats": {
-        "views": 379000000
+        "views": 380100000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 706200000
+        "views": 707000000
       }
     },
     {
@@ -861,15 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6d502c054e76931e2a0266e55a14823b",
       "stats": {
         "views": 7500000000
-      }
-    },
-    {
-      "challengeId": "9120378",
-      "description": "Whether you love thrift stores or shopping online, show us your #FashionHaul.",
-      "name": "#fashionhaul",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5ff86adb6fce7d3bd316ba0b053ba16a",
-      "stats": {
-        "views": 324900000
       }
     }
   ],
