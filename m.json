@@ -100,7 +100,7 @@
         }
       },
       "stats": {
-        "followers": 36200000,
+        "followers": 36300000,
         "likes": 197400000
       }
     },
@@ -491,7 +491,7 @@
       },
       "stats": {
         "followers": 12900000,
-        "likes": 49600000
+        "likes": 49700000
       }
     },
     {
@@ -783,12 +783,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1709632892156950",
+      "description": "Latinx Heritage Month is here and we're putting the spotlight on our community of incredible creators on TikTok. This month, and every month, we’re #LatinxCreated. So get involved and we’ll keep creando, juntos.",
+      "name": "#latinxcreated",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
+      "stats": {
+        "views": 758000000
+      }
+    },
+    {
+      "challengeId": "1620595800050694",
+      "description": "Whether you’re watching plenty of fan theories or just trying to find the perfect dalgona recipe, we’re here for all things #SquidGame.",
+      "name": "#squidgame",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/02f531f6811cd657c67d065555806c46",
+      "stats": {
+        "views": 37200000000
+      }
+    },
+    {
       "challengeId": "836800",
       "description": "Whether it's a vintage classic or a brand new release, pull out your swag, share your clips, and show us your #FavoriteGame.",
       "name": "#favoritegame",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f225bdbd9b321ac1147f861c68af9c5c",
       "stats": {
-        "views": 52600000
+        "views": 54400000
       }
     },
     {
@@ -806,7 +824,7 @@
       "name": "#comingoutday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/47fa909569d77ad10b3f93728b54aa5c",
       "stats": {
-        "views": 75200000
+        "views": 76100000
       }
     },
     {
@@ -842,7 +860,7 @@
       "name": "#pov",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4cbd661d71e6e76b01ba68757f3a02da",
       "stats": {
-        "views": 386500000000
+        "views": 386600000000
       }
     },
     {
@@ -852,24 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/baeac2da8b810f3f2d5baf8487ac90d4",
       "stats": {
         "views": 1400000000
-      }
-    },
-    {
-      "challengeId": "23673912",
-      "description": "Oh no, #OurTable, it's broken.",
-      "name": "#ourtable",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4ff1beffa4d95d36100cb008bd74e1f5",
-      "stats": {
-        "views": 425400000
-      }
-    },
-    {
-      "challengeId": "55918",
-      "description": "Here's to practicing #Meditation each and every day.",
-      "name": "#meditation",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8dd1fb66b4d92c25583c6eb9bc890fb9",
-      "stats": {
-        "views": 2200000000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 869100
+        "posts": 869000
       }
     },
     {
@@ -1046,7 +1046,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/b6210191f1854b7c9157d5d1e2e5fe77"
       },
       "stats": {
-        "posts": 552400
+        "posts": 552500
       }
     },
     {
