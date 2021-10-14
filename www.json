@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 36300000,
-        "likes": 198100000
+        "likes": 198200000
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 12900000,
-        "likes": 61300000
+        "likes": 61400000
       }
     },
     {
@@ -783,12 +783,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1688621449681926",
+      "description": "The NHL is back, so whether you're hitting the ice, aiming top shelf, or just practicing your calls, show us how you're getting ready for hockey season with #NHLFaceOff.",
+      "name": "#NHLFaceOff",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/617c6efcea36528d7cb46e966ef4db88",
+      "stats": {
+        "views": 3800000000
+      }
+    },
+    {
+      "challengeId": "2845027",
+      "description": "You know #ItsYourGirl!",
+      "name": "#itsyourgirl",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/946a4ee443cbaab208508d9ed77a52f4",
+      "stats": {
+        "views": 62800000
+      }
+    },
+    {
       "challengeId": "1709632892156950",
       "description": "Latinx Heritage Month is here and we're putting the spotlight on our community of incredible creators on TikTok. This month, and every month, we’re #LatinxCreated. So get involved and we’ll keep creando, juntos.",
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 792600000
+        "views": 793900000
       }
     },
     {
@@ -806,7 +824,7 @@
       "name": "#favoritegame",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f225bdbd9b321ac1147f861c68af9c5c",
       "stats": {
-        "views": 87000000
+        "views": 88100000
       }
     },
     {
@@ -824,7 +842,7 @@
       "name": "#comingoutday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/47fa909569d77ad10b3f93728b54aa5c",
       "stats": {
-        "views": 89100000
+        "views": 89400000
       }
     },
     {
@@ -852,24 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a7b81b1d48d02edd5f61b43dfee21c51",
       "stats": {
         "views": 2200000000
-      }
-    },
-    {
-      "challengeId": "180049",
-      "description": "Screenshot those texts and show us your #POV!",
-      "name": "#pov",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4cbd661d71e6e76b01ba68757f3a02da",
-      "stats": {
-        "views": 387300000000
-      }
-    },
-    {
-      "challengeId": "8860",
-      "description": "Grab some candy, pull on a blanket, and get ready for #MovieNight.",
-      "name": "#movienight",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/baeac2da8b810f3f2d5baf8487ac90d4",
-      "stats": {
-        "views": 1400000000
       }
     }
   ],
