@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 13000000,
-        "likes": 62900000
+        "likes": 63000000
       }
     },
     {
@@ -491,7 +491,7 @@
       },
       "stats": {
         "followers": 12900000,
-        "likes": 51200000
+        "likes": 51300000
       }
     },
     {
@@ -783,6 +783,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "777950",
+      "description": "What's your #HalloweenCostume this year?",
+      "name": "#halloweencostume",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/41fd5ee503b60bbf34cbdc9f5d7ac24c",
+      "stats": {
+        "views": 1700000000
+      }
+    },
+    {
       "challengeId": "1688621449681926",
       "description": "The NHL is back, so whether you're hitting the ice, aiming top shelf, or just practicing your calls, show us how you're getting ready for hockey season with #NHLFaceOff.",
       "name": "#NHLFaceOff",
@@ -797,7 +806,7 @@
       "name": "#itsyourgirl",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/946a4ee443cbaab208508d9ed77a52f4",
       "stats": {
-        "views": 116400000
+        "views": 118000000
       }
     },
     {
@@ -806,7 +815,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 821700000
+        "views": 822600000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#squidgame",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/02f531f6811cd657c67d065555806c46",
       "stats": {
-        "views": 39300000000
+        "views": 39400000000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#favoritegame",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f225bdbd9b321ac1147f861c68af9c5c",
       "stats": {
-        "views": 115600000
+        "views": 117000000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#comingoutday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/47fa909569d77ad10b3f93728b54aa5c",
       "stats": {
-        "views": 96800000
+        "views": 97100000
       }
     },
     {
@@ -861,15 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0f4c728ad0b8a8b373c167a3e137272a",
       "stats": {
         "views": 47100000000
-      }
-    },
-    {
-      "challengeId": "1652932075585541",
-      "description": "Here's to each and every small business.",
-      "name": "#smallbusinesstiktok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a7b81b1d48d02edd5f61b43dfee21c51",
-      "stats": {
-        "views": 2300000000
       }
     }
   ],
@@ -996,7 +996,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/a06db1e9483e48a1ab24a09abe34b473"
       },
       "stats": {
-        "posts": 458300
+        "posts": 458200
       }
     },
     {
