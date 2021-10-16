@@ -724,7 +724,7 @@
         }
       },
       "stats": {
-        "followers": 346000,
+        "followers": 346100,
         "likes": 425400
       }
     },
@@ -776,19 +776,19 @@
         }
       },
       "stats": {
-        "followers": 729000,
+        "followers": 729100,
         "likes": 1400000
       }
     }
   ],
   "hashtag": [
     {
-      "challengeId": "777950",
-      "description": "What's your #HalloweenCostume this year?",
-      "name": "#halloweencostume",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/41fd5ee503b60bbf34cbdc9f5d7ac24c",
+      "challengeId": "991949",
+      "description": "Are you ready to rock? Whether you're practicing the perfect riff, living a punk rock lifestyle, or putting on a record, show us how you're celebrating #Rocktober.",
+      "name": "#rocktober",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5ed28e4c67fd97acef3514ec770e6199",
       "stats": {
-        "views": 1800000000
+        "views": 1500000000
       }
     },
     {
@@ -797,7 +797,16 @@
       "name": "#nobones",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a1bf0bb9e8004905fb1395c6cfdc54f5",
       "stats": {
-        "views": 59300000
+        "views": 60700000
+      }
+    },
+    {
+      "challengeId": "777950",
+      "description": "What's your #HalloweenCostume this year?",
+      "name": "#halloweencostume",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/41fd5ee503b60bbf34cbdc9f5d7ac24c",
+      "stats": {
+        "views": 1800000000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#itsyourgirl",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/946a4ee443cbaab208508d9ed77a52f4",
       "stats": {
-        "views": 157700000
+        "views": 160200000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 847900000
+        "views": 849000000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#squidgame",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/02f531f6811cd657c67d065555806c46",
       "stats": {
-        "views": 40500000000
+        "views": 40600000000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#favoritegame",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f225bdbd9b321ac1147f861c68af9c5c",
       "stats": {
-        "views": 149400000
+        "views": 150900000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#comingoutday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/47fa909569d77ad10b3f93728b54aa5c",
       "stats": {
-        "views": 105000000
-      }
-    },
-    {
-      "challengeId": "3256198",
-      "description": "Checking in with one another can make a big difference, so join us and put the focus on #MentalHealthAwareness. Whether it's spending time with friends, putting wellness first, or sharing important resources, join us and build a supportive community where we can end stigmas and have honest conversations about mental health.",
-      "name": "#mentalhealthawareness",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5240b8aaddd46eebdad965486b5f4601",
-      "stats": {
-        "views": 5300000000
+        "views": 105500000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 863200
+        "posts": 863100
       }
     },
     {
@@ -1046,7 +1046,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/b6210191f1854b7c9157d5d1e2e5fe77"
       },
       "stats": {
-        "posts": 564500
+        "posts": 565300
       }
     },
     {
