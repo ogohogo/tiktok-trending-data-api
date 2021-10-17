@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 13200000,
-        "likes": 64000000
+        "likes": 64100000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 41000000,
-        "likes": 220200000
+        "likes": 220300000
       }
     },
     {
@@ -724,7 +724,7 @@
         }
       },
       "stats": {
-        "followers": 346200,
+        "followers": 346300,
         "likes": 425500
       }
     },
@@ -783,6 +783,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "6629232",
+      "description": "Share the chisme because we're here for all things telenovelas, whether you have a favorite show or your life is full of drama.",
+      "name": "#telenovelas",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/43246fb138aab561048cb145b130d3ae",
+      "stats": {
+        "views": 2100000000
+      }
+    },
+    {
       "challengeId": "991949",
       "description": "Are you ready to rock? Whether you're practicing the perfect riff, living a punk rock lifestyle, or putting on a record, show us how you're celebrating #Rocktober.",
       "name": "#rocktober",
@@ -797,7 +806,7 @@
       "name": "#asmr",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7c4cf9585eea82ad9dd2dbc122cf7df6",
       "stats": {
-        "views": 193100000000
+        "views": 193200000000
       }
     },
     {
@@ -806,7 +815,7 @@
       "name": "#nobones",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a1bf0bb9e8004905fb1395c6cfdc54f5",
       "stats": {
-        "views": 100600000
+        "views": 104700000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#itsyourgirl",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/946a4ee443cbaab208508d9ed77a52f4",
       "stats": {
-        "views": 195700000
+        "views": 198100000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 868600000
+        "views": 869700000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#squidgame",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/02f531f6811cd657c67d065555806c46",
       "stats": {
-        "views": 41600000000
+        "views": 41700000000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#favoritegame",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f225bdbd9b321ac1147f861c68af9c5c",
       "stats": {
-        "views": 174600000
-      }
-    },
-    {
-      "challengeId": "1209843",
-      "description": "October 11th is Indigenous Peoples Day, and we're putting the spotlight on the incredible cultures, languages and achievements of Native American people. From incredible creators reaching new heights, to artists sharing their vision, support our community and celebrate #IndigenousDay.",
-      "name": "#indigenousday",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/be8d78a496513630ddbf0c9d0252f07f",
-      "stats": {
-        "views": 1500000000
+        "views": 175900000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 862000
+        "posts": 861900
       }
     },
     {
@@ -1046,7 +1046,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/b6210191f1854b7c9157d5d1e2e5fe77"
       },
       "stats": {
-        "posts": 578100
+        "posts": 579200
       }
     },
     {
