@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 62300000,
-        "likes": 392200000
+        "likes": 392300000
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 13200000,
-        "likes": 64700000
+        "likes": 64800000
       }
     },
     {
@@ -783,6 +783,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "778363",
+      "description": "Do you like #ScaryStories? Pick up the phone and use our new Scream text-to-speech feature to add a spooky touch.",
+      "name": "#scarystories",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9a145abafd8d1d2dff44a4982c57a88f",
+      "stats": {
+        "views": 6300000000
+      }
+    },
+    {
+      "challengeId": "1604791864655873",
+      "description": "Here's to the entire #FashionTikTok community.",
+      "name": "#fashiontiktok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f27868ad530fa2ea484b8c624256c2b8",
+      "stats": {
+        "views": 5500000000
+      }
+    },
+    {
       "challengeId": "6629232",
       "description": "Share the chisme because we're here for all things telenovelas, whether you have a favorite show or your life is full of drama.",
       "name": "#telenovelas",
@@ -815,7 +833,7 @@
       "name": "#nobones",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a1bf0bb9e8004905fb1395c6cfdc54f5",
       "stats": {
-        "views": 140800000
+        "views": 142400000
       }
     },
     {
@@ -842,7 +860,7 @@
       "name": "#itsyourgirl",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/946a4ee443cbaab208508d9ed77a52f4",
       "stats": {
-        "views": 221000000
+        "views": 221900000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 883600000
-      }
-    },
-    {
-      "challengeId": "1620595800050694",
-      "description": "Whether you’re watching plenty of fan theories or just trying to find the perfect dalgona recipe, we’re here for all things #SquidGame.",
-      "name": "#squidgame",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/02f531f6811cd657c67d065555806c46",
-      "stats": {
-        "views": 42500000000
-      }
-    },
-    {
-      "challengeId": "836800",
-      "description": "Whether it's a vintage classic or a brand new release, pull out your swag, share your clips, and show us your #FavoriteGame.",
-      "name": "#favoritegame",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f225bdbd9b321ac1147f861c68af9c5c",
-      "stats": {
-        "views": 188600000
+        "views": 884000000
       }
     }
   ],
@@ -1046,7 +1046,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/b6210191f1854b7c9157d5d1e2e5fe77"
       },
       "stats": {
-        "posts": 586400
+        "posts": 586800
       }
     },
     {

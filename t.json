@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 25500000,
-        "likes": 868000000
+        "likes": 868100000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 4100000,
-        "likes": 178800000
+        "likes": 178900000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 5400000,
-        "likes": 115700000
+        "likes": 115800000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 10000000,
-        "likes": 819100000
+        "likes": 819200000
       }
     },
     {
@@ -387,7 +387,7 @@
       },
       "stats": {
         "followers": 16400000,
-        "likes": 299300000
+        "likes": 299500000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 16200000,
-        "likes": 650600000
+        "likes": 650800000
       }
     },
     {
@@ -569,7 +569,7 @@
       },
       "stats": {
         "followers": 15800000,
-        "likes": 950500000
+        "likes": 950600000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 20300000,
-        "likes": 340500000
+        "likes": 340600000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 12100000,
-        "likes": 461400000
+        "likes": 461500000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 7300000,
-        "likes": 261000000
+        "likes": 261100000
       }
     },
     {
@@ -777,11 +777,29 @@
       },
       "stats": {
         "followers": 8200000,
-        "likes": 459300000
+        "likes": 459400000
       }
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "778363",
+      "description": "Do you like #ScaryStories? Pick up the phone and use our new Scream text-to-speech feature to add a spooky touch.",
+      "name": "#scarystories",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9a145abafd8d1d2dff44a4982c57a88f",
+      "stats": {
+        "views": 6300000000
+      }
+    },
+    {
+      "challengeId": "1604791864655873",
+      "description": "Here's to the entire #FashionTikTok community.",
+      "name": "#fashiontiktok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f27868ad530fa2ea484b8c624256c2b8",
+      "stats": {
+        "views": 5500000000
+      }
+    },
     {
       "challengeId": "6629232",
       "description": "Share the chisme because we're here for all things telenovelas, whether you have a favorite show or your life is full of drama.",
@@ -815,7 +833,7 @@
       "name": "#nobones",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a1bf0bb9e8004905fb1395c6cfdc54f5",
       "stats": {
-        "views": 140900000
+        "views": 142600000
       }
     },
     {
@@ -842,7 +860,7 @@
       "name": "#itsyourgirl",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/946a4ee443cbaab208508d9ed77a52f4",
       "stats": {
-        "views": 221100000
+        "views": 222100000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 883600000
-      }
-    },
-    {
-      "challengeId": "1620595800050694",
-      "description": "Whether you’re watching plenty of fan theories or just trying to find the perfect dalgona recipe, we’re here for all things #SquidGame.",
-      "name": "#squidgame",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/02f531f6811cd657c67d065555806c46",
-      "stats": {
-        "views": 42500000000
-      }
-    },
-    {
-      "challengeId": "836800",
-      "description": "Whether it's a vintage classic or a brand new release, pull out your swag, share your clips, and show us your #FavoriteGame.",
-      "name": "#favoritegame",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f225bdbd9b321ac1147f861c68af9c5c",
-      "stats": {
-        "views": 188700000
+        "views": 884100000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 861000
+        "posts": 860900
       }
     },
     {
@@ -1046,7 +1046,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/b6210191f1854b7c9157d5d1e2e5fe77"
       },
       "stats": {
-        "posts": 586400
+        "posts": 586800
       }
     },
     {
