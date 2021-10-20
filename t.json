@@ -100,7 +100,7 @@
         }
       },
       "stats": {
-        "followers": 25500000,
+        "followers": 25600000,
         "likes": 870300000
       }
     },
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 12000000,
-        "likes": 529900000
+        "likes": 530000000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 26700000,
-        "likes": 263900000
+        "likes": 264000000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 4200000,
-        "likes": 184600000
+        "likes": 184800000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 5500000,
-        "likes": 121900000
+        "likes": 122000000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 16700000,
-        "likes": 304500000
+        "likes": 304600000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 16300000,
-        "likes": 655400000
+        "likes": 655600000
       }
     },
     {
@@ -491,7 +491,7 @@
       },
       "stats": {
         "followers": 8300000,
-        "likes": 466800000
+        "likes": 466900000
       }
     },
     {
@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 13000000,
-        "likes": 242100000
+        "likes": 242200000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 21800000,
-        "likes": 587100000
+        "likes": 587200000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 10800000,
-        "likes": 243700000
+        "likes": 243800000
       }
     },
     {
@@ -751,7 +751,7 @@
       },
       "stats": {
         "followers": 7400000,
-        "likes": 264700000
+        "likes": 264800000
       }
     },
     {
@@ -783,12 +783,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1647573996872710",
+      "description": "International Pronouns Day is here, so let's educate one another on the importance of respecting everyone's identity and personal pronouns.",
+      "name": "#pronounsday",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d52350153c4e9247daf015360289ae8a",
+      "stats": {
+        "views": 33000000
+      }
+    },
+    {
+      "challengeId": "1235",
+      "description": "The Beatles are officially on TikTok! Whether you're still celebrating British bands, touring Abbey Road, or just looking Across the Universe, join the community and show your appreciation for one of the greatest bands in history.",
+      "name": "#thebeatles",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8c3fad1d7b42be141a5ff18bb08251a6",
+      "stats": {
+        "views": 840600000
+      }
+    },
+    {
       "challengeId": "16232619",
       "description": "Follow this step-by-step: #AsiNoMas.",
       "name": "#asinomas",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/23e624119477841a172bdb4cb129b493",
       "stats": {
-        "views": 76000000
+        "views": 76600000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#nobones",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a1bf0bb9e8004905fb1395c6cfdc54f5",
       "stats": {
-        "views": 241800000
-      }
-    },
-    {
-      "challengeId": "777950",
-      "description": "What's your #HalloweenCostume this year?",
-      "name": "#halloweencostume",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/41fd5ee503b60bbf34cbdc9f5d7ac24c",
-      "stats": {
-        "views": 2100000000
-      }
-    },
-    {
-      "challengeId": "1688621449681926",
-      "description": "The NHL is back, so whether you're hitting the ice, aiming top shelf, or just practicing your calls, show us how you're getting ready for hockey season with #NHLFaceOff.",
-      "name": "#NHLFaceOff",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/617c6efcea36528d7cb46e966ef4db88",
-      "stats": {
-        "views": 3900000000
+        "views": 244200000
       }
     }
   ],
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 672600
+        "posts": 672500
       }
     },
     {
@@ -1046,7 +1046,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/b6210191f1854b7c9157d5d1e2e5fe77"
       },
       "stats": {
-        "posts": 597600
+        "posts": 597700
       }
     },
     {
