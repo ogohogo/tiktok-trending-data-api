@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 14700000,
-        "likes": 484200000
+        "likes": 484700000
       }
     },
     {
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 16800000,
-        "likes": 662900000
+        "likes": 663100000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 19100000,
-        "likes": 372100000
+        "likes": 372200000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 21300000,
-        "likes": 715400000
+        "likes": 715500000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 5700000,
-        "likes": 129600000
+        "likes": 129700000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 16700000,
-        "likes": 307600000
+        "likes": 307800000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 4300000,
-        "likes": 189000000
+        "likes": 189100000
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 10100000,
-        "likes": 825500000
+        "likes": 825600000
       }
     },
     {
@@ -491,7 +491,7 @@
       },
       "stats": {
         "followers": 8300000,
-        "likes": 471700000
+        "likes": 471800000
       }
     },
     {
@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 19300000,
-        "likes": 554600000
+        "likes": 554700000
       }
     },
     {
@@ -595,7 +595,7 @@
       },
       "stats": {
         "followers": 10800000,
-        "likes": 245500000
+        "likes": 245600000
       }
     },
     {
@@ -725,7 +725,7 @@
       },
       "stats": {
         "followers": 7400000,
-        "likes": 267900000
+        "likes": 268000000
       }
     },
     {
@@ -777,18 +777,27 @@
       },
       "stats": {
         "followers": 4300000,
-        "likes": 246900000
+        "likes": 247000000
       }
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "1675776",
+      "description": "From decadent snacks to bags of candy, show us your #HalloweenTreats.",
+      "name": "#halloweentreats",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d12c701be625e83c0d1fa5ebc27de879",
+      "stats": {
+        "views": 123300000
+      }
+    },
     {
       "challengeId": "686993",
       "description": "Spirit Day is here and this year GLAAD is highlighting media that counters the dangerous effects of bullying. Whether it's sharing when you first saw yourself represented in media, standing with LGBTQ youth, or celebrating your favorite creators, join us as we partner with GLAAD, and send a message to friends, family, and your community that they'll always be supported, just as they are.",
       "name": "#spiritday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b1ae60058c1051d24bc43fa136b4f7aa",
       "stats": {
-        "views": 145800000
+        "views": 146600000
       }
     },
     {
@@ -797,7 +806,7 @@
       "name": "#imaphotographer",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/55d4abaffbe3cfd5e82e2338c7f3adb1",
       "stats": {
-        "views": 25400000
+        "views": 26100000
       }
     },
     {
@@ -806,7 +815,7 @@
       "name": "#pronounsday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d52350153c4e9247daf015360289ae8a",
       "stats": {
-        "views": 64500000
+        "views": 65000000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#thebeatles",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8c3fad1d7b42be141a5ff18bb08251a6",
       "stats": {
-        "views": 866800000
+        "views": 867400000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#asinomas",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/23e624119477841a172bdb4cb129b493",
       "stats": {
-        "views": 99200000
+        "views": 99700000
       }
     },
     {
@@ -861,15 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/43246fb138aab561048cb145b130d3ae",
       "stats": {
         "views": 2200000000
-      }
-    },
-    {
-      "challengeId": "991949",
-      "description": "Are you ready to rock? Whether you're practicing the perfect riff, living a punk rock lifestyle, or putting on a record, show us how you're celebrating #Rocktober.",
-      "name": "#rocktober",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5ed28e4c67fd97acef3514ec770e6199",
-      "stats": {
-        "views": 1700000000
       }
     }
   ],

@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 27200000,
-        "likes": 425300000
+        "likes": 425400000
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 13500000,
-        "likes": 69200000
+        "likes": 69300000
       }
     },
     {
@@ -152,7 +152,7 @@
         }
       },
       "stats": {
-        "followers": 22800000,
+        "followers": 22900000,
         "likes": 82300000
       }
     },
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 2500000,
-        "likes": 6800000
+        "likes": 6900000
       }
     },
     {
@@ -783,12 +783,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1675776",
+      "description": "From decadent snacks to bags of candy, show us your #HalloweenTreats.",
+      "name": "#halloweentreats",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d12c701be625e83c0d1fa5ebc27de879",
+      "stats": {
+        "views": 123200000
+      }
+    },
+    {
       "challengeId": "686993",
       "description": "Spirit Day is here and this year GLAAD is highlighting media that counters the dangerous effects of bullying. Whether it's sharing when you first saw yourself represented in media, standing with LGBTQ youth, or celebrating your favorite creators, join us as we partner with GLAAD, and send a message to friends, family, and your community that they'll always be supported, just as they are.",
       "name": "#spiritday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b1ae60058c1051d24bc43fa136b4f7aa",
       "stats": {
-        "views": 145600000
+        "views": 146400000
       }
     },
     {
@@ -797,7 +806,7 @@
       "name": "#imaphotographer",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/55d4abaffbe3cfd5e82e2338c7f3adb1",
       "stats": {
-        "views": 25300000
+        "views": 25900000
       }
     },
     {
@@ -806,7 +815,7 @@
       "name": "#pronounsday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d52350153c4e9247daf015360289ae8a",
       "stats": {
-        "views": 64500000
+        "views": 64900000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#thebeatles",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8c3fad1d7b42be141a5ff18bb08251a6",
       "stats": {
-        "views": 866700000
+        "views": 867200000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#asinomas",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/23e624119477841a172bdb4cb129b493",
       "stats": {
-        "views": 99200000
+        "views": 99600000
       }
     },
     {
@@ -861,15 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/43246fb138aab561048cb145b130d3ae",
       "stats": {
         "views": 2200000000
-      }
-    },
-    {
-      "challengeId": "991949",
-      "description": "Are you ready to rock? Whether you're practicing the perfect riff, living a punk rock lifestyle, or putting on a record, show us how you're celebrating #Rocktober.",
-      "name": "#rocktober",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5ed28e4c67fd97acef3514ec770e6199",
-      "stats": {
-        "views": 1700000000
       }
     }
   ],
