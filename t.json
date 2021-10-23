@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 34600000,
-        "likes": 706300000
+        "likes": 706600000
       }
     },
     {
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 17100000,
-        "likes": 666800000
+        "likes": 667000000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 5800000,
-        "likes": 132500000
+        "likes": 132600000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 16800000,
-        "likes": 309500000
+        "likes": 309600000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 19100000,
-        "likes": 372600000
+        "likes": 372700000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 8300000,
-        "likes": 474600000
+        "likes": 474700000
       }
     },
     {
@@ -413,7 +413,7 @@
       },
       "stats": {
         "followers": 4300000,
-        "likes": 190700000
+        "likes": 190800000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 36500000,
-        "likes": 439700000
+        "likes": 439900000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 7400000,
-        "likes": 270500000
+        "likes": 270600000
       }
     },
     {
@@ -783,12 +783,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "136459",
+      "description": "Show us those moments where you're so happy, even if it's just for a second.",
+      "name": "#imsohappy",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/45fada0767af3e745b0ceabdc6f22ef1",
+      "stats": {
+        "views": 134200000
+      }
+    },
+    {
+      "challengeId": "12758358",
+      "description": "Whether it's your latest achievement or a flawless win, show us your best #GamingClips.",
+      "name": "#gamingclips",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b089077ef787ba347dbfe306bb5537a3",
+      "stats": {
+        "views": 1500000000
+      }
+    },
+    {
       "challengeId": "1675776",
       "description": "From decadent snacks to bags of candy, show us your #HalloweenTreats.",
       "name": "#halloweentreats",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d12c701be625e83c0d1fa5ebc27de879",
       "stats": {
-        "views": 159600000
+        "views": 162100000
       }
     },
     {
@@ -797,7 +815,7 @@
       "name": "#spiritday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b1ae60058c1051d24bc43fa136b4f7aa",
       "stats": {
-        "views": 165100000
+        "views": 165900000
       }
     },
     {
@@ -806,7 +824,7 @@
       "name": "#imaphotographer",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/55d4abaffbe3cfd5e82e2338c7f3adb1",
       "stats": {
-        "views": 47900000
+        "views": 49000000
       }
     },
     {
@@ -815,7 +833,7 @@
       "name": "#pronounsday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d52350153c4e9247daf015360289ae8a",
       "stats": {
-        "views": 73300000
+        "views": 73600000
       }
     },
     {
@@ -824,7 +842,7 @@
       "name": "#thebeatles",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8c3fad1d7b42be141a5ff18bb08251a6",
       "stats": {
-        "views": 876000000
+        "views": 876400000
       }
     },
     {
@@ -833,7 +851,7 @@
       "name": "#asinomas",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/23e624119477841a172bdb4cb129b493",
       "stats": {
-        "views": 107300000
+        "views": 107500000
       }
     },
     {
@@ -852,24 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9a145abafd8d1d2dff44a4982c57a88f",
       "stats": {
         "views": 6600000000
-      }
-    },
-    {
-      "challengeId": "1604791864655873",
-      "description": "Here's to the entire #FashionTikTok community.",
-      "name": "#fashiontiktok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f27868ad530fa2ea484b8c624256c2b8",
-      "stats": {
-        "views": 5700000000
-      }
-    },
-    {
-      "challengeId": "6629232",
-      "description": "Share the chisme because we're here for all things telenovelas, whether you have a favorite show or your life is full of drama.",
-      "name": "#telenovelas",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/43246fb138aab561048cb145b130d3ae",
-      "stats": {
-        "views": 2200000000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 856800
+        "posts": 856700
       }
     },
     {
