@@ -22,7 +22,7 @@
         }
       },
       "stats": {
-        "followers": 126700000,
+        "followers": 126800000,
         "likes": 10000000000
       }
     },
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 36900000,
-        "likes": 445200000
+        "likes": 445300000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 6000000,
-        "likes": 144000000
+        "likes": 144100000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 19300000,
-        "likes": 380100000
+        "likes": 380200000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 21400000,
-        "likes": 719400000
+        "likes": 719500000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 8400000,
-        "likes": 482200000
+        "likes": 482300000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 10100000,
-        "likes": 835100000
+        "likes": 835200000
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 7600000,
-        "likes": 278100000
+        "likes": 278200000
       }
     },
     {
@@ -569,7 +569,7 @@
       },
       "stats": {
         "followers": 36600000,
-        "likes": 205300000
+        "likes": 205400000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 4500000,
-        "likes": 258300000
+        "likes": 258400000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 25700000,
-        "likes": 876100000
+        "likes": 876200000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 4400000,
-        "likes": 195200000
+        "likes": 195300000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 3800000,
-        "likes": 37700000
+        "likes": 37800000
       }
     },
     {
@@ -777,7 +777,7 @@
       },
       "stats": {
         "followers": 19200000,
-        "likes": 681800000
+        "likes": 682100000
       }
     }
   ],
@@ -788,7 +788,16 @@
       "name": "#climateaction",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b32b8fd3bba5952fc43c50197ed28ae2",
       "stats": {
-        "views": 85000000
+        "views": 86700000
+      }
+    },
+    {
+      "challengeId": "1680098975601665",
+      "description": "Whether you're an undiscovered singer or a dancer looking for a big break, we're searching for the next big thing in music - and we want to see your audition. Show us your talent and tell us why you're #NextInMusic! Be sure to use #Contest and read the official rules here: https://m.tiktok.com/magic/eco/runtime/release/61771444ef08f103243ab7c5?appType=muse",
+      "name": "#nextinmusic",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/417021e203de2f08da891a31dcc1f41d",
+      "stats": {
+        "views": 8200000
       }
     },
     {
@@ -806,7 +815,7 @@
       "name": "#imsohappy",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/45fada0767af3e745b0ceabdc6f22ef1",
       "stats": {
-        "views": 309800000
+        "views": 311900000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#halloweentreats",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d12c701be625e83c0d1fa5ebc27de879",
       "stats": {
-        "views": 274300000
+        "views": 275200000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#spiritday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b1ae60058c1051d24bc43fa136b4f7aa",
       "stats": {
-        "views": 207200000
+        "views": 207500000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#imaphotographer",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/55d4abaffbe3cfd5e82e2338c7f3adb1",
       "stats": {
-        "views": 88600000
+        "views": 89000000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#pronounsday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d52350153c4e9247daf015360289ae8a",
       "stats": {
-        "views": 95900000
+        "views": 96100000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#thebeatles",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8c3fad1d7b42be141a5ff18bb08251a6",
       "stats": {
-        "views": 901200000
-      }
-    },
-    {
-      "challengeId": "16232619",
-      "description": "Follow this step-by-step: #AsiNoMas.",
-      "name": "#asinomas",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/23e624119477841a172bdb4cb129b493",
-      "stats": {
-        "views": 242300000
+        "views": 901500000
       }
     }
   ],
