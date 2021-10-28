@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 36600000,
-        "likes": 208400000
+        "likes": 208500000
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 24100000,
-        "likes": 103800000
+        "likes": 103900000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 8400000,
-        "likes": 63900000
+        "likes": 64000000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 62400000,
-        "likes": 393900000
+        "likes": 394000000
       }
     },
     {
@@ -757,6 +757,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "963274",
+      "description": "You never know when #TheSnail will find you.",
+      "name": "#thesnail",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0669ab41ead67200fdc582d6df47785f",
+      "stats": {
+        "views": 229700000
+      }
+    },
+    {
       "challengeId": "1613234579980293",
       "description": "Turn off the lights and pull up your covers: #HorrorTok is here.",
       "name": "#horrortok",
@@ -771,7 +780,7 @@
       "name": "#youredone",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/833a2b0adad3252b8613d01d5a215981",
       "stats": {
-        "views": 128500000
+        "views": 131400000
       }
     },
     {
@@ -789,7 +798,7 @@
       "name": "#nextinmusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/417021e203de2f08da891a31dcc1f41d",
       "stats": {
-        "views": 67200000
+        "views": 68200000
       }
     },
     {
@@ -798,7 +807,7 @@
       "name": "#climateaction",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b32b8fd3bba5952fc43c50197ed28ae2",
       "stats": {
-        "views": 174600000
+        "views": 176300000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#imsohappy",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/45fada0767af3e745b0ceabdc6f22ef1",
       "stats": {
-        "views": 400600000
+        "views": 402900000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#halloweentreats",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d12c701be625e83c0d1fa5ebc27de879",
       "stats": {
-        "views": 326900000
-      }
-    },
-    {
-      "challengeId": "686993",
-      "description": "Spirit Day is here and this year GLAAD is highlighting media that counters the dangerous effects of bullying. Whether it's sharing when you first saw yourself represented in media, standing with LGBTQ youth, or celebrating your favorite creators, join us as we partner with GLAAD, and send a message to friends, family, and your community that they'll always be supported, just as they are.",
-      "name": "#spiritday",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b1ae60058c1051d24bc43fa136b4f7aa",
-      "stats": {
-        "views": 221000000
+        "views": 328300000
       }
     }
   ],
@@ -852,16 +852,16 @@
       "musicId": "6808287098886424577",
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-i-0000/abb04f991047411f818c8971c9ab2f89.jpeg",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/abb04f991047411f818c8971c9ab2f89.jpeg",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/abb04f991047411f818c8971c9ab2f89.jpeg",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-i-0000/abb04f991047411f818c8971c9ab2f89.jpeg"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/2a9778d4185541a9bba0471973fc6ae5~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/2a9778d4185541a9bba0471973fc6ae5~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/2a9778d4185541a9bba0471973fc6ae5~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/2a9778d4185541a9bba0471973fc6ae5~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-i-0000/abb04f991047411f818c8971c9ab2f89.webp",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/abb04f991047411f818c8971c9ab2f89.webp",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/abb04f991047411f818c8971c9ab2f89.webp",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-i-0000/abb04f991047411f818c8971c9ab2f89.webp"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/2a9778d4185541a9bba0471973fc6ae5~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/2a9778d4185541a9bba0471973fc6ae5~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/2a9778d4185541a9bba0471973fc6ae5~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/2a9778d4185541a9bba0471973fc6ae5~c5_1080x1080.webp"
         }
       },
       "musicInfo": {
@@ -870,7 +870,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 851600
+        "posts": 851500
       }
     },
     {
