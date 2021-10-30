@@ -35,16 +35,16 @@
       "verified": true,
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_100x100.jpeg",
-          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_300x300.jpeg",
-          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_720x720.jpeg",
-          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_1080x1080.jpeg"
+          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_100x100.jpeg",
+          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_300x300.jpeg",
+          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_720x720.jpeg",
+          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_100x100.webp",
-          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_300x300.webp",
-          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_720x720.webp",
-          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_1080x1080.webp"
+          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_100x100.webp",
+          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_300x300.webp",
+          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_720x720.webp",
+          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_1080x1080.webp"
         }
       },
       "stats": {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 19300000,
-        "likes": 687200000
+        "likes": 687500000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 6200000,
-        "likes": 153700000
+        "likes": 153900000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 17900000,
-        "likes": 680300000
+        "likes": 680400000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 4700000,
-        "likes": 273900000
+        "likes": 274000000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 10200000,
-        "likes": 843500000
+        "likes": 843600000
       }
     },
     {
@@ -413,7 +413,7 @@
       },
       "stats": {
         "followers": 11000000,
-        "likes": 252400000
+        "likes": 252500000
       }
     },
     {
@@ -491,7 +491,7 @@
       },
       "stats": {
         "followers": 7700000,
-        "likes": 284300000
+        "likes": 284400000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 22200000,
-        "likes": 962000000
+        "likes": 962100000
       }
     },
     {
@@ -725,7 +725,7 @@
       },
       "stats": {
         "followers": 8500000,
-        "likes": 487400000
+        "likes": 487500000
       }
     },
     {
@@ -783,6 +783,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1065343",
+      "description": "From DIY costumes, to horrifically fashionable styles, show us your #HalloweenLook.",
+      "name": "#halloweenlook",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5e25eda3c2d201fe069b929a50946418",
+      "stats": {
+        "views": 7200000000
+      }
+    },
+    {
+      "challengeId": "59572237",
+      "description": "Use our new #Horrify Creative Effect and add a horrifyingly spooky touch to your videos.",
+      "name": "#horrify",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4fa4b5da1661a0fe2e3e21677d1b24fd",
+      "stats": {
+        "views": 15200000
+      }
+    },
+    {
       "challengeId": "191401",
       "description": "Incredible transformations and terrifying looks. We're here for the #SFXMakeup.",
       "name": "#sfxmakeup",
@@ -792,21 +810,12 @@
       }
     },
     {
-      "challengeId": "59572237",
-      "description": "Use our new #Horrify Creative Effect and add a horrifyingly spooky touch to your videos.",
-      "name": "#horrify",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4fa4b5da1661a0fe2e3e21677d1b24fd",
-      "stats": {
-        "views": 14600000
-      }
-    },
-    {
       "challengeId": "963274",
       "description": "You never know when #TheSnail will find you.",
       "name": "#thesnail",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0669ab41ead67200fdc582d6df47785f",
       "stats": {
-        "views": 290700000
+        "views": 292100000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#youredone",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/833a2b0adad3252b8613d01d5a215981",
       "stats": {
-        "views": 258100000
+        "views": 260800000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#nextinmusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/417021e203de2f08da891a31dcc1f41d",
       "stats": {
-        "views": 106200000
+        "views": 107000000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#climateaction",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b32b8fd3bba5952fc43c50197ed28ae2",
       "stats": {
-        "views": 236500000
+        "views": 238000000
       }
     },
     {
@@ -861,15 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6bd858c4f8b07288728ab01baf85a727",
       "stats": {
         "views": 3000000000
-      }
-    },
-    {
-      "challengeId": "136459",
-      "description": "Show us those moments where you're so happy, even if it's just for a second.",
-      "name": "#imsohappy",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/45fada0767af3e745b0ceabdc6f22ef1",
-      "stats": {
-        "views": 494100000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 849700
+        "posts": 849600
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 666600
+        "posts": 666500
       }
     },
     {

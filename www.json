@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 13900000,
-        "likes": 73000000
+        "likes": 73100000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 27300000,
-        "likes": 427900000
+        "likes": 428000000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 13100000,
-        "likes": 53600000
+        "likes": 53700000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 6000000,
-        "likes": 43000000
+        "likes": 43300000
       }
     },
     {
@@ -620,7 +620,7 @@
         }
       },
       "stats": {
-        "followers": 861100,
+        "followers": 861200,
         "likes": 1300000
       }
     },
@@ -757,6 +757,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1065343",
+      "description": "From DIY costumes, to horrifically fashionable styles, show us your #HalloweenLook.",
+      "name": "#halloweenlook",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5e25eda3c2d201fe069b929a50946418",
+      "stats": {
+        "views": 7200000000
+      }
+    },
+    {
+      "challengeId": "59572237",
+      "description": "Use our new #Horrify Creative Effect and add a horrifyingly spooky touch to your videos.",
+      "name": "#horrify",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4fa4b5da1661a0fe2e3e21677d1b24fd",
+      "stats": {
+        "views": 15100000
+      }
+    },
+    {
       "challengeId": "191401",
       "description": "Incredible transformations and terrifying looks. We're here for the #SFXMakeup.",
       "name": "#sfxmakeup",
@@ -766,21 +784,12 @@
       }
     },
     {
-      "challengeId": "59572237",
-      "description": "Use our new #Horrify Creative Effect and add a horrifyingly spooky touch to your videos.",
-      "name": "#horrify",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4fa4b5da1661a0fe2e3e21677d1b24fd",
-      "stats": {
-        "views": 14600000
-      }
-    },
-    {
       "challengeId": "963274",
       "description": "You never know when #TheSnail will find you.",
       "name": "#thesnail",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0669ab41ead67200fdc582d6df47785f",
       "stats": {
-        "views": 290700000
+        "views": 291900000
       }
     },
     {
@@ -798,7 +807,7 @@
       "name": "#youredone",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/833a2b0adad3252b8613d01d5a215981",
       "stats": {
-        "views": 258100000
+        "views": 260500000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#nextinmusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/417021e203de2f08da891a31dcc1f41d",
       "stats": {
-        "views": 106200000
+        "views": 106900000
       }
     },
     {
@@ -825,7 +834,7 @@
       "name": "#climateaction",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b32b8fd3bba5952fc43c50197ed28ae2",
       "stats": {
-        "views": 236500000
+        "views": 237800000
       }
     },
     {
@@ -835,15 +844,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6bd858c4f8b07288728ab01baf85a727",
       "stats": {
         "views": 3000000000
-      }
-    },
-    {
-      "challengeId": "136459",
-      "description": "Show us those moments where you're so happy, even if it's just for a second.",
-      "name": "#imsohappy",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/45fada0767af3e745b0ceabdc6f22ef1",
-      "stats": {
-        "views": 494000000
       }
     }
   ],
@@ -870,7 +870,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 849700
+        "posts": 849600
       }
     },
     {
@@ -995,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 666600
+        "posts": 666500
       }
     },
     {
