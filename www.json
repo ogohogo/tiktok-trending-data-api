@@ -22,7 +22,7 @@
         }
       },
       "stats": {
-        "followers": 50300000,
+        "followers": 50400000,
         "likes": 1100000000
       }
     },
@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 42100000,
-        "likes": 231400000
+        "likes": 231500000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 24500000,
-        "likes": 105300000
+        "likes": 105400000
       }
     },
     {
@@ -620,7 +620,7 @@
         }
       },
       "stats": {
-        "followers": 863400,
+        "followers": 863500,
         "likes": 1300000
       }
     },
@@ -757,6 +757,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "457289",
+      "description": "Happy Halloween!",
+      "name": "#happyhalloween",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1bc34100e042a2fe1ba495df132997f6",
+      "stats": {
+        "views": 7200000000
+      }
+    },
+    {
       "challengeId": "1065343",
       "description": "From DIY costumes, to horrifically fashionable styles, show us your #HalloweenLook.",
       "name": "#halloweenlook",
@@ -771,7 +780,7 @@
       "name": "#horrify",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4fa4b5da1661a0fe2e3e21677d1b24fd",
       "stats": {
-        "views": 51800000
+        "views": 55000000
       }
     },
     {
@@ -789,7 +798,7 @@
       "name": "#thesnail",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0669ab41ead67200fdc582d6df47785f",
       "stats": {
-        "views": 311700000
+        "views": 312900000
       }
     },
     {
@@ -807,7 +816,7 @@
       "name": "#youredone",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/833a2b0adad3252b8613d01d5a215981",
       "stats": {
-        "views": 303200000
+        "views": 305500000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#worldseries",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/044db37b7e2f9d045ebf0f048336c92f",
       "stats": {
-        "views": 3900000000
+        "views": 4000000000
       }
     },
     {
@@ -825,7 +834,7 @@
       "name": "#nextinmusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/417021e203de2f08da891a31dcc1f41d",
       "stats": {
-        "views": 119700000
+        "views": 120400000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#climateaction",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b32b8fd3bba5952fc43c50197ed28ae2",
       "stats": {
-        "views": 255500000
-      }
-    },
-    {
-      "challengeId": "261874",
-      "description": "Calling all DIYers! Show us what makes you #Crafty.",
-      "name": "#crafty",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6bd858c4f8b07288728ab01baf85a727",
-      "stats": {
-        "views": 3000000000
+        "views": 256500000
       }
     }
   ],
@@ -870,7 +870,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 848600
+        "posts": 848500
       }
     },
     {
@@ -970,7 +970,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/a06db1e9483e48a1ab24a09abe34b473"
       },
       "stats": {
-        "posts": 454500
+        "posts": 454400
       }
     },
     {
