@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 24500000,
-        "likes": 105500000
+        "likes": 105600000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 8600000,
-        "likes": 66200000
+        "likes": 66400000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 17100000,
-        "likes": 71900000
+        "likes": 72000000
       }
     },
     {
@@ -757,6 +757,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "72009033",
+      "description": "This month and every month we're celebrating our inspiring Native and Indigenous communities on TikTok. From creators who educate and push for change, to small business owners making a difference, and artists spreading the culture, here's to celebrating together as one #NativeFamily.",
+      "name": "#nativefamily",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/85f7a24263b30e6e45b529c14815730c",
+      "stats": {
+        "views": 131000000
+      }
+    },
+    {
       "challengeId": "457289",
       "description": "Happy Halloween!",
       "name": "#happyhalloween",
@@ -780,7 +789,7 @@
       "name": "#horrify",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4fa4b5da1661a0fe2e3e21677d1b24fd",
       "stats": {
-        "views": 98800000
+        "views": 100500000
       }
     },
     {
@@ -798,7 +807,7 @@
       "name": "#thesnail",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0669ab41ead67200fdc582d6df47785f",
       "stats": {
-        "views": 326100000
+        "views": 326600000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#youredone",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/833a2b0adad3252b8613d01d5a215981",
       "stats": {
-        "views": 332500000
+        "views": 333600000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#nextinmusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/417021e203de2f08da891a31dcc1f41d",
       "stats": {
-        "views": 129500000
-      }
-    },
-    {
-      "challengeId": "1624793552434182",
-      "description": "The climate crisis is here, and it's up to each of us to call for change. Tell us how the climate crisis affects your life by joining UN Climate Change's call for #ClimateAction and an ambitious outcome at COP26. Let's work together to create a future that is better for all.",
-      "name": "#climateaction",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b32b8fd3bba5952fc43c50197ed28ae2",
-      "stats": {
-        "views": 267600000
+        "views": 129800000
       }
     }
   ],
