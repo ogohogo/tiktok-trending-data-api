@@ -35,16 +35,16 @@
       "verified": true,
       "avatar": {
         "jpeg": {
-          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_100x100.jpeg",
-          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_300x300.jpeg",
-          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_720x720.jpeg",
-          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_1080x1080.jpeg"
+          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_100x100.webp",
-          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_300x300.webp",
-          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_720x720.webp",
-          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_1080x1080.webp"
+          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ce8b2f6756694b49cdeca23cb88ac34d~c5_1080x1080.webp"
         }
       },
       "stats": {
@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 17000000,
-        "likes": 551500000
+        "likes": 551800000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 19800000,
-        "likes": 396700000
+        "likes": 396800000
       }
     },
     {
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 19400000,
-        "likes": 698900000
+        "likes": 699100000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 10200000,
-        "likes": 851300000
+        "likes": 851400000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 6400000,
-        "likes": 160700000
+        "likes": 160900000
       }
     },
     {
@@ -308,8 +308,8 @@
         }
       },
       "stats": {
-        "followers": 4800000,
-        "likes": 280400000
+        "followers": 4900000,
+        "likes": 280500000
       }
     },
     {
@@ -413,7 +413,7 @@
       },
       "stats": {
         "followers": 11000000,
-        "likes": 254200000
+        "likes": 254300000
       }
     },
     {
@@ -439,7 +439,7 @@
       },
       "stats": {
         "followers": 18100000,
-        "likes": 682900000
+        "likes": 683000000
       }
     },
     {
@@ -569,7 +569,7 @@
       },
       "stats": {
         "followers": 21500000,
-        "likes": 722000000
+        "likes": 722100000
       }
     },
     {
@@ -594,7 +594,7 @@
         }
       },
       "stats": {
-        "followers": 19700000,
+        "followers": 19800000,
         "likes": 1300000000
       }
     },
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 7700000,
-        "likes": 287400000
+        "likes": 287500000
       }
     },
     {
@@ -751,7 +751,7 @@
       },
       "stats": {
         "followers": 16000000,
-        "likes": 978300000
+        "likes": 978400000
       }
     },
     {
@@ -777,7 +777,7 @@
       },
       "stats": {
         "followers": 8300000,
-        "likes": 225000000
+        "likes": 225100000
       }
     }
   ],
@@ -788,7 +788,7 @@
       "name": "#nativefamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/85f7a24263b30e6e45b529c14815730c",
       "stats": {
-        "views": 131600000
+        "views": 131900000
       }
     },
     {
@@ -797,7 +797,7 @@
       "name": "#diadelosmuertos",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d46eb30d583b629676700fc7880ae349",
       "stats": {
-        "views": 291600000
+        "views": 292300000
       }
     },
     {
@@ -824,7 +824,7 @@
       "name": "#horrify",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4fa4b5da1661a0fe2e3e21677d1b24fd",
       "stats": {
-        "views": 111500000
+        "views": 113500000
       }
     },
     {
@@ -842,7 +842,7 @@
       "name": "#thesnail",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0669ab41ead67200fdc582d6df47785f",
       "stats": {
-        "views": 330500000
+        "views": 331300000
       }
     },
     {
@@ -860,7 +860,7 @@
       "name": "#youredone",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/833a2b0adad3252b8613d01d5a215981",
       "stats": {
-        "views": 343200000
+        "views": 345100000
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 665300
+        "posts": 665200
       }
     },
     {
