@@ -48,7 +48,7 @@
         }
       },
       "stats": {
-        "followers": 36700000,
+        "followers": 36500000,
         "likes": 210400000
       }
     },
@@ -74,7 +74,7 @@
         }
       },
       "stats": {
-        "followers": 24500000,
+        "followers": 24300000,
         "likes": 105600000
       }
     },
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 8600000,
-        "likes": 66600000
+        "likes": 66700000
       }
     },
     {
@@ -230,7 +230,7 @@
         }
       },
       "stats": {
-        "followers": 62400000,
+        "followers": 62200000,
         "likes": 394500000
       }
     },
@@ -334,7 +334,7 @@
         }
       },
       "stats": {
-        "followers": 13900000,
+        "followers": 13700000,
         "likes": 119200000
       }
     },
@@ -594,7 +594,7 @@
         }
       },
       "stats": {
-        "followers": 865400,
+        "followers": 865500,
         "likes": 1300000
       }
     },
@@ -762,7 +762,16 @@
       "name": "#nativefamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/85f7a24263b30e6e45b529c14815730c",
       "stats": {
-        "views": 131000000
+        "views": 131100000
+      }
+    },
+    {
+      "challengeId": "1428194",
+      "description": "¡Feliz Día de los Muertos!",
+      "name": "#diadelosmuertos",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d46eb30d583b629676700fc7880ae349",
+      "stats": {
+        "views": 289300000
       }
     },
     {
@@ -771,7 +780,7 @@
       "name": "#happyhalloween",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1bc34100e042a2fe1ba495df132997f6",
       "stats": {
-        "views": 7500000000
+        "views": 7600000000
       }
     },
     {
@@ -789,7 +798,7 @@
       "name": "#horrify",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4fa4b5da1661a0fe2e3e21677d1b24fd",
       "stats": {
-        "views": 102500000
+        "views": 104600000
       }
     },
     {
@@ -807,7 +816,7 @@
       "name": "#thesnail",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0669ab41ead67200fdc582d6df47785f",
       "stats": {
-        "views": 327100000
+        "views": 327800000
       }
     },
     {
@@ -825,7 +834,7 @@
       "name": "#youredone",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/833a2b0adad3252b8613d01d5a215981",
       "stats": {
-        "views": 334900000
+        "views": 336500000
       }
     },
     {
@@ -835,15 +844,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/044db37b7e2f9d045ebf0f048336c92f",
       "stats": {
         "views": 4000000000
-      }
-    },
-    {
-      "challengeId": "1680098975601665",
-      "description": "Whether you're an undiscovered singer or a dancer looking for a big break, we're searching for the next big thing in music - and we want to see your audition. Show us your talent and tell us why you're #NextInMusic! Be sure to use #Contest and read the official rules here: https://m.tiktok.com/magic/eco/runtime/release/61771444ef08f103243ab7c5?appType=muse",
-      "name": "#nextinmusic",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/417021e203de2f08da891a31dcc1f41d",
-      "stats": {
-        "views": 130100000
       }
     }
   ],
@@ -970,7 +970,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/a06db1e9483e48a1ab24a09abe34b473"
       },
       "stats": {
-        "posts": 454300
+        "posts": 454200
       }
     },
     {
@@ -1020,7 +1020,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/b6210191f1854b7c9157d5d1e2e5fe77"
       },
       "stats": {
-        "posts": 608000
+        "posts": 608100
       }
     },
     {
