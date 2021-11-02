@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 19400000,
-        "likes": 700900000
+        "likes": 701000000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 4900000,
-        "likes": 283100000
+        "likes": 283200000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 6500000,
-        "likes": 163200000
+        "likes": 163300000
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 11000000,
-        "likes": 254900000
+        "likes": 255000000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 7700000,
-        "likes": 288600000
+        "likes": 288700000
       }
     },
     {
@@ -777,18 +777,27 @@
       },
       "stats": {
         "followers": 8300000,
-        "likes": 226100000
+        "likes": 226200000
       }
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "725615",
+      "description": "Whether you're celebrating your favorite series, or just writing about an incredible AU, check in for all things #FanFiction.",
+      "name": "#fanfiction",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3330f9f831e10a5e1921d174460dc2b2",
+      "stats": {
+        "views": 1800000000
+      }
+    },
     {
       "challengeId": "72009033",
       "description": "This month and every month we're celebrating our inspiring Native and Indigenous communities on TikTok. From creators who educate and push for change, to small business owners making a difference, and artists spreading the culture, here's to celebrating together as one #NativeFamily.",
       "name": "#nativefamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/85f7a24263b30e6e45b529c14815730c",
       "stats": {
-        "views": 140000000
+        "views": 140300000
       }
     },
     {
@@ -797,7 +806,7 @@
       "name": "#diadelosmuertos",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d46eb30d583b629676700fc7880ae349",
       "stats": {
-        "views": 307500000
+        "views": 308300000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#horrify",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4fa4b5da1661a0fe2e3e21677d1b24fd",
       "stats": {
-        "views": 141200000
+        "views": 142300000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#thesnail",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0669ab41ead67200fdc582d6df47785f",
       "stats": {
-        "views": 345800000
+        "views": 346600000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#youredone",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/833a2b0adad3252b8613d01d5a215981",
       "stats": {
-        "views": 371300000
-      }
-    },
-    {
-      "challengeId": "240332",
-      "description": "October baseball is in full swing and the World Series is officially here. So pull on a jersey, grab your glove, and show us how you're celebrating all things baseball, and be sure to watch the World Series on Fox.",
-      "name": "#worldseries",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/044db37b7e2f9d045ebf0f048336c92f",
-      "stats": {
-        "views": 4000000000
+        "views": 372600000
       }
     }
   ],
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 664900
+        "posts": 664800
       }
     },
     {
