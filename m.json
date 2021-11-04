@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 36700000,
-        "likes": 211000000
+        "likes": 211100000
       }
     },
     {
@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 8800000,
-        "likes": 71100000
+        "likes": 71200000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 27400000,
-        "likes": 430000000
+        "likes": 430100000
       }
     },
     {
@@ -757,6 +757,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1941639",
+      "description": "Happy Diwali!",
+      "name": "#diwali",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1ffc882643ad9d7e6af266f62709600b",
+      "stats": {
+        "views": 2000000000
+      }
+    },
+    {
       "challengeId": "5605696",
       "description": "We're celebrating R&amp;B music all month long, so whether you're building a perfect playlist, listening to the classics, or working on original music, catch these #RnBVibes.",
       "name": "#rnbvibes",
@@ -789,7 +798,7 @@
       "name": "#nativefamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/85f7a24263b30e6e45b529c14815730c",
       "stats": {
-        "views": 156800000
+        "views": 157000000
       }
     },
     {
@@ -798,7 +807,7 @@
       "name": "#diadelosmuertos",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d46eb30d583b629676700fc7880ae349",
       "stats": {
-        "views": 352900000
+        "views": 353500000
       }
     },
     {
@@ -825,7 +834,7 @@
       "name": "#horrify",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4fa4b5da1661a0fe2e3e21677d1b24fd",
       "stats": {
-        "views": 187800000
+        "views": 188400000
       }
     },
     {
@@ -835,15 +844,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6b3b7c873648e03d1f71f8855b93f434",
       "stats": {
         "views": 8900000000
-      }
-    },
-    {
-      "challengeId": "963274",
-      "description": "You never know when #TheSnail will find you.",
-      "name": "#thesnail",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0669ab41ead67200fdc582d6df47785f",
-      "stats": {
-        "views": 378100000
       }
     }
   ],
