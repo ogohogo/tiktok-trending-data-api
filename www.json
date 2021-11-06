@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 14200000,
-        "likes": 124300000
+        "likes": 124400000
       }
     },
     {
@@ -1002,16 +1002,16 @@
       "musicId": "6754420279457565445",
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2102/8059383cc61649e584c9f75fcbc29c5f.jpeg",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/8059383cc61649e584c9f75fcbc29c5f.jpeg",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/8059383cc61649e584c9f75fcbc29c5f.jpeg",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2102/8059383cc61649e584c9f75fcbc29c5f.jpeg"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/108329f3b2784a8e8c8d2aeb32350b29~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/108329f3b2784a8e8c8d2aeb32350b29~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/108329f3b2784a8e8c8d2aeb32350b29~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/108329f3b2784a8e8c8d2aeb32350b29~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2102/8059383cc61649e584c9f75fcbc29c5f.webp",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/8059383cc61649e584c9f75fcbc29c5f.webp",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/8059383cc61649e584c9f75fcbc29c5f.webp",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2102/8059383cc61649e584c9f75fcbc29c5f.webp"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/108329f3b2784a8e8c8d2aeb32350b29~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/108329f3b2784a8e8c8d2aeb32350b29~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/108329f3b2784a8e8c8d2aeb32350b29~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/108329f3b2784a8e8c8d2aeb32350b29~c5_1080x1080.webp"
         }
       },
       "musicInfo": {
