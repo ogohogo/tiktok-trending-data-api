@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 28000000,
-        "likes": 437200000
+        "likes": 437500000
       }
     },
     {
@@ -646,7 +646,7 @@
         }
       },
       "stats": {
-        "followers": 876600,
+        "followers": 876700,
         "likes": 1300000
       }
     },
@@ -757,6 +757,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1064589",
+      "description": "Whether you're a DIYer or working on decor for the holidays, we're here for all things #ArtsAndCrafts.",
+      "name": "#artsandcrafts",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f1c20c505d22bc46a0c703593fb58901",
+      "stats": {
+        "views": 511500000
+      }
+    },
+    {
       "challengeId": "19289",
       "description": "We're here for all things #Relationships.",
       "name": "#relationships",
@@ -825,7 +834,7 @@
       "name": "#nativefamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/85f7a24263b30e6e45b529c14815730c",
       "stats": {
-        "views": 170400000
+        "views": 170600000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#diadelosmuertos",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d46eb30d583b629676700fc7880ae349",
       "stats": {
-        "views": 380000000
-      }
-    },
-    {
-      "challengeId": "457289",
-      "description": "Happy Halloween!",
-      "name": "#happyhalloween",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1bc34100e042a2fe1ba495df132997f6",
-      "stats": {
-        "views": 8300000000
+        "views": 380300000
       }
     }
   ],
@@ -1020,7 +1020,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/b6210191f1854b7c9157d5d1e2e5fe77"
       },
       "stats": {
-        "posts": 607400
+        "posts": 607300
       }
     },
     {

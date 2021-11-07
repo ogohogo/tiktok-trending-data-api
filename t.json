@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 18000000,
-        "likes": 337400000
+        "likes": 337500000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 6900000,
-        "likes": 177700000
+        "likes": 177800000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 5200000,
-        "likes": 298600000
+        "likes": 298700000
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 22300000,
-        "likes": 971400000
+        "likes": 971500000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 13200000,
-        "likes": 424200000
+        "likes": 424300000
       }
     },
     {
@@ -569,7 +569,7 @@
       },
       "stats": {
         "followers": 5900000,
-        "likes": 227100000
+        "likes": 227200000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 14200000,
-        "likes": 247400000
+        "likes": 247500000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 16100000,
-        "likes": 989600000
+        "likes": 989700000
       }
     },
     {
@@ -725,7 +725,7 @@
       },
       "stats": {
         "followers": 12300000,
-        "likes": 698800000
+        "likes": 698900000
       }
     },
     {
@@ -751,7 +751,7 @@
       },
       "stats": {
         "followers": 8000000,
-        "likes": 297300000
+        "likes": 297500000
       }
     },
     {
@@ -782,6 +782,15 @@
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "1064589",
+      "description": "Whether you're a DIYer or working on decor for the holidays, we're here for all things #ArtsAndCrafts.",
+      "name": "#artsandcrafts",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f1c20c505d22bc46a0c703593fb58901",
+      "stats": {
+        "views": 511400000
+      }
+    },
     {
       "challengeId": "19289",
       "description": "We're here for all things #Relationships.",
@@ -851,7 +860,7 @@
       "name": "#nativefamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/85f7a24263b30e6e45b529c14815730c",
       "stats": {
-        "views": 170400000
+        "views": 170500000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#diadelosmuertos",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d46eb30d583b629676700fc7880ae349",
       "stats": {
-        "views": 380000000
-      }
-    },
-    {
-      "challengeId": "457289",
-      "description": "Happy Halloween!",
-      "name": "#happyhalloween",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1bc34100e042a2fe1ba495df132997f6",
-      "stats": {
-        "views": 8300000000
+        "views": 380300000
       }
     }
   ],
