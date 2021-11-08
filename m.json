@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 28500000,
-        "likes": 441100000
+        "likes": 441300000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 36800000,
-        "likes": 212200000
+        "likes": 212300000
       }
     },
     {
@@ -672,7 +672,7 @@
         }
       },
       "stats": {
-        "followers": 878200,
+        "followers": 878300,
         "likes": 1300000
       }
     },
@@ -757,12 +757,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1671956332583942",
+      "description": "Whether you love science, technology, engineering or mathematics, here's to the entire #STEMTok community.",
+      "name": "#stemtok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f8acab1e14c3e70abd0602fe88ebe616",
+      "stats": {
+        "views": 36100000
+      }
+    },
+    {
       "challengeId": "1064589",
       "description": "Whether you're a DIYer or working on decor for the holidays, we're here for all things #ArtsAndCrafts.",
       "name": "#artsandcrafts",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f1c20c505d22bc46a0c703593fb58901",
       "stats": {
-        "views": 541600000
+        "views": 543300000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#nativefamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/85f7a24263b30e6e45b529c14815730c",
       "stats": {
-        "views": 174100000
-      }
-    },
-    {
-      "challengeId": "1428194",
-      "description": "¡Feliz Día de los Muertos!",
-      "name": "#diadelosmuertos",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d46eb30d583b629676700fc7880ae349",
-      "stats": {
-        "views": 386000000
+        "views": 174200000
       }
     }
   ],
