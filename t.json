@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 28800000,
-        "likes": 443200000
+        "likes": 443300000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 18200000,
-        "likes": 341400000
+        "likes": 341500000
       }
     },
     {
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 16800000,
-        "likes": 534600000
+        "likes": 534700000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 7000000,
-        "likes": 184300000
+        "likes": 184500000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 5300000,
-        "likes": 304200000
+        "likes": 304400000
       }
     },
     {
@@ -413,7 +413,7 @@
       },
       "stats": {
         "followers": 13200000,
-        "likes": 426100000
+        "likes": 426200000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 14300000,
-        "likes": 251800000
+        "likes": 251900000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 8100000,
-        "likes": 300200000
+        "likes": 300300000
       }
     },
     {
@@ -725,7 +725,7 @@
       },
       "stats": {
         "followers": 6000000,
-        "likes": 230100000
+        "likes": 230200000
       }
     },
     {
@@ -777,18 +777,36 @@
       },
       "stats": {
         "followers": 12200000,
-        "likes": 543300000
+        "likes": 543400000
       }
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "1669631748746245",
+      "description": "From local shops to brand new start-ups pushing innovation, we're putting the spotlight on each and every #NativeOwnedBusiness. Show your support and tell us how your local businesses make a difference in your community.",
+      "name": "#nativeownedbusiness",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1f33833aaa07c783581c3ecc80691800",
+      "stats": {
+        "views": 6100000
+      }
+    },
+    {
+      "challengeId": "1655304719036422",
+      "description": "Start cleaning with #CleaningTikTok.",
+      "name": "#cleaningtiktok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fa21b344428966821118d8d0cded8775",
+      "stats": {
+        "views": 11900000000
+      }
+    },
     {
       "challengeId": "1671956332583942",
       "description": "Whether you love science, technology, engineering or mathematics, here's to the entire #STEMTok community.",
       "name": "#stemtok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f8acab1e14c3e70abd0602fe88ebe616",
       "stats": {
-        "views": 67600000
+        "views": 70300000
       }
     },
     {
@@ -797,7 +815,7 @@
       "name": "#artsandcrafts",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b53167e72b3ba416598097e5b4078fd3",
       "stats": {
-        "views": 581000000
+        "views": 582600000
       }
     },
     {
@@ -853,24 +871,6 @@
       "stats": {
         "views": 14000000000
       }
-    },
-    {
-      "challengeId": "725615",
-      "description": "Whether you're celebrating your favorite series, or just writing about an incredible AU, check in for all things #FanFiction.",
-      "name": "#fanfiction",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3330f9f831e10a5e1921d174460dc2b2",
-      "stats": {
-        "views": 2000000000
-      }
-    },
-    {
-      "challengeId": "72009033",
-      "description": "This month and every month we're celebrating our inspiring Native and Indigenous communities on TikTok. From creators who educate and push for change, to small business owners making a difference, and artists spreading the culture, here's to celebrating together as one #NativeFamily.",
-      "name": "#nativefamily",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/85f7a24263b30e6e45b529c14815730c",
-      "stats": {
-        "views": 177700000
-      }
     }
   ],
   "music": [
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 841900
+        "posts": 841800
       }
     },
     {
@@ -996,7 +996,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/a06db1e9483e48a1ab24a09abe34b473"
       },
       "stats": {
-        "posts": 452600
+        "posts": 452500
       }
     },
     {
@@ -1046,7 +1046,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/b6210191f1854b7c9157d5d1e2e5fe77"
       },
       "stats": {
-        "posts": 607000
+        "posts": 607100
       }
     },
     {
