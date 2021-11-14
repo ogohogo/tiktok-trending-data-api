@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 8300000,
-        "likes": 344600000
+        "likes": 344700000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 12600000,
-        "likes": 340100000
+        "likes": 340300000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 8900000,
-        "likes": 159000000
+        "likes": 159100000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 7200000,
-        "likes": 195000000
+        "likes": 195100000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 5500000,
-        "likes": 320300000
+        "likes": 320500000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 23300000,
-        "likes": 507400000
+        "likes": 507500000
       }
     },
     {
@@ -439,7 +439,7 @@
       },
       "stats": {
         "followers": 14600000,
-        "likes": 267800000
+        "likes": 268100000
       }
     },
     {
@@ -491,7 +491,7 @@
       },
       "stats": {
         "followers": 10300000,
-        "likes": 875600000
+        "likes": 875700000
       }
     },
     {
@@ -595,7 +595,7 @@
       },
       "stats": {
         "followers": 62800000,
-        "likes": 400200000
+        "likes": 400300000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 4900000,
-        "likes": 231100000
+        "likes": 231300000
       }
     },
     {
@@ -751,7 +751,7 @@
       },
       "stats": {
         "followers": 12400000,
-        "likes": 666600000
+        "likes": 666700000
       }
     },
     {
@@ -783,6 +783,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "8049970",
+      "description": "What's your #SundayRoutine?",
+      "name": "#sundayroutine",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6ac8bb4315fa3646a1a15c74f136305d",
+      "stats": {
+        "views": 124800000
+      }
+    },
+    {
       "challengeId": "34858714",
       "description": "Whether it's flipping through magazines, following your favorite creators, or thrifting for a unique look, show us where you get your #StyleInspo.",
       "name": "#styleinspo",
@@ -806,7 +815,7 @@
       "name": "#veteransday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/20f5567133168d47ce5607a7d33943ea",
       "stats": {
-        "views": 344800000
+        "views": 345600000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#shopwithme",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/82ddb08d739f9d1f22f112ffc567a1ad",
       "stats": {
-        "views": 633100000
+        "views": 634600000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#nativeownedbusiness",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7e376f4d384e36a2c9f561c8354f53c1",
       "stats": {
-        "views": 27800000
+        "views": 27900000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#stemtok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f8acab1e14c3e70abd0602fe88ebe616",
       "stats": {
-        "views": 209300000
+        "views": 209800000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#artsandcrafts",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b53167e72b3ba416598097e5b4078fd3",
       "stats": {
-        "views": 685600000
-      }
-    },
-    {
-      "challengeId": "19289",
-      "description": "We're here for all things #Relationships.",
-      "name": "#relationships",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c1d1a1dd30adf735b92874ed30f77b07",
-      "stats": {
-        "views": 12900000000
+        "views": 686400000
       }
     }
   ],
