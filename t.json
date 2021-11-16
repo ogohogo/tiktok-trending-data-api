@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 8200000,
-        "likes": 75400000
+        "likes": 75500000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 63200000,
-        "likes": 405200000
+        "likes": 405500000
       }
     },
     {
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 8500000,
-        "likes": 348600000
+        "likes": 348700000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 9000000,
-        "likes": 161800000
+        "likes": 161900000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 5600000,
-        "likes": 327200000
+        "likes": 327400000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 12800000,
-        "likes": 344100000
+        "likes": 344300000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 7300000,
-        "likes": 200500000
+        "likes": 200900000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 14700000,
-        "likes": 274100000
+        "likes": 274300000
       }
     },
     {
@@ -413,7 +413,7 @@
       },
       "stats": {
         "followers": 12900000,
-        "likes": 290800000
+        "likes": 290900000
       }
     },
     {
@@ -439,7 +439,7 @@
       },
       "stats": {
         "followers": 5000000,
-        "likes": 242200000
+        "likes": 242400000
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 18700000,
-        "likes": 351500000
+        "likes": 351600000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 20400000,
-        "likes": 412900000
+        "likes": 413200000
       }
     },
     {
@@ -569,7 +569,7 @@
       },
       "stats": {
         "followers": 10300000,
-        "likes": 879200000
+        "likes": 879700000
       }
     },
     {
@@ -595,7 +595,7 @@
       },
       "stats": {
         "followers": 18900000,
-        "likes": 701900000
+        "likes": 702000000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 12400000,
-        "likes": 669400000
+        "likes": 668600000
       }
     },
     {
@@ -725,7 +725,7 @@
       },
       "stats": {
         "followers": 20500000,
-        "likes": 293200000
+        "likes": 293300000
       }
     },
     {
@@ -783,12 +783,12 @@
   ],
   "hashtag": [
     {
-      "challengeId": "33148708",
-      "description": "Whether you're putting on a headset and competing for titles, or hanging out with friends and family and playing online, show us everything you love about #CompetitiveGaming.",
-      "name": "#competitivegaming",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/19cd366b9dea851a397ef7df0d7382cd",
+      "challengeId": "72009033",
+      "description": "This month and every month we're celebrating our inspiring Native and Indigenous communities on TikTok. From creators who educate and push for change, to small business owners making a difference, and artists spreading the culture, here's to celebrating together as one #NativeFamily.",
+      "name": "#nativefamily",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/85f7a24263b30e6e45b529c14815730c",
       "stats": {
-        "views": 474400000
+        "views": 228700000
       }
     },
     {
@@ -797,7 +797,16 @@
       "name": "#youtoo",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/aa76d640d7dba1eca703d50705081027",
       "stats": {
-        "views": 90700000
+        "views": 92400000
+      }
+    },
+    {
+      "challengeId": "33148708",
+      "description": "Whether you're putting on a headset and competing for titles, or hanging out with friends and family and playing online, show us everything you love about #CompetitiveGaming.",
+      "name": "#competitivegaming",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/19cd366b9dea851a397ef7df0d7382cd",
+      "stats": {
+        "views": 478400000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#sundayroutine",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6ac8bb4315fa3646a1a15c74f136305d",
       "stats": {
-        "views": 229900000
+        "views": 232800000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#veteransday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/20f5567133168d47ce5607a7d33943ea",
       "stats": {
-        "views": 365600000
+        "views": 366200000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#shopwithme",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/82ddb08d739f9d1f22f112ffc567a1ad",
       "stats": {
-        "views": 699600000
+        "views": 701900000
       }
     },
     {
@@ -861,15 +870,6 @@
       "avatar": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/89a824cff13e72efa3dc58d746d98cd5",
       "stats": {
         "views": 9600000000
-      }
-    },
-    {
-      "challengeId": "1669631748746245",
-      "description": "From local shops to brand new start-ups pushing innovation, we're putting the spotlight on each and every #NativeOwnedBusiness. Show your support and tell us how your local businesses make a difference in your community.",
-      "name": "#nativeownedbusiness",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7e376f4d384e36a2c9f561c8354f53c1",
-      "stats": {
-        "views": 34300000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 837100
+        "posts": 837000
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 660300
+        "posts": 660200
       }
     },
     {
@@ -1046,7 +1046,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/b6210191f1854b7c9157d5d1e2e5fe77"
       },
       "stats": {
-        "posts": 606300
+        "posts": 606200
       }
     },
     {
