@@ -22,7 +22,7 @@
         }
       },
       "stats": {
-        "followers": 8200000,
+        "followers": 8300000,
         "likes": 76200000
       }
     },
@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 63300000,
-        "likes": 406400000
+        "likes": 406500000
       }
     },
     {
@@ -529,16 +529,16 @@
       "verified": true,
       "avatar": {
         "jpeg": {
-          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29b227e6747e763d78087cce191ca3ff~c5_100x100.jpeg",
-          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29b227e6747e763d78087cce191ca3ff~c5_300x300.jpeg",
-          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29b227e6747e763d78087cce191ca3ff~c5_720x720.jpeg",
-          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29b227e6747e763d78087cce191ca3ff~c5_1080x1080.jpeg"
+          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29b227e6747e763d78087cce191ca3ff~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29b227e6747e763d78087cce191ca3ff~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29b227e6747e763d78087cce191ca3ff~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29b227e6747e763d78087cce191ca3ff~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29b227e6747e763d78087cce191ca3ff~c5_100x100.webp",
-          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29b227e6747e763d78087cce191ca3ff~c5_300x300.webp",
-          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29b227e6747e763d78087cce191ca3ff~c5_720x720.webp",
-          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29b227e6747e763d78087cce191ca3ff~c5_1080x1080.webp"
+          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29b227e6747e763d78087cce191ca3ff~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29b227e6747e763d78087cce191ca3ff~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29b227e6747e763d78087cce191ca3ff~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/29b227e6747e763d78087cce191ca3ff~c5_1080x1080.webp"
         }
       },
       "stats": {
@@ -783,12 +783,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1603802535768066",
+      "description": "We're officially celebrating the holidays on TikTok, so whether it's family traditions, holiday parties, or your favorite memories, join us for the #TikTokHolidays.",
+      "name": "#tiktokholidays",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6214281a52c6601245772ebb76332b7e",
+      "stats": {
+        "views": 27900000
+      }
+    },
+    {
+      "challengeId": "792788",
+      "description": "Ohh, what a time to be alive...",
+      "name": "#whatatimetobealive",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/734610ef4b6cf729356aeddd576b0bd0",
+      "stats": {
+        "views": 130700000
+      }
+    },
+    {
       "challengeId": "72009033",
       "description": "This month and every month we're celebrating our inspiring Native and Indigenous communities on TikTok. From creators who educate and push for change, to small business owners making a difference, and artists spreading the culture, here's to celebrating together as one #NativeFamily.",
       "name": "#nativefamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/85f7a24263b30e6e45b529c14815730c",
       "stats": {
-        "views": 232800000
+        "views": 233100000
       }
     },
     {
@@ -797,7 +815,7 @@
       "name": "#youtoo",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/aa76d640d7dba1eca703d50705081027",
       "stats": {
-        "views": 108300000
+        "views": 109300000
       }
     },
     {
@@ -806,7 +824,7 @@
       "name": "#competitivegaming",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/19cd366b9dea851a397ef7df0d7382cd",
       "stats": {
-        "views": 494800000
+        "views": 495600000
       }
     },
     {
@@ -824,7 +842,7 @@
       "name": "#sundayroutine",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6ac8bb4315fa3646a1a15c74f136305d",
       "stats": {
-        "views": 246500000
+        "views": 247300000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#veteransday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/20f5567133168d47ce5607a7d33943ea",
       "stats": {
-        "views": 369200000
-      }
-    },
-    {
-      "challengeId": "13626194",
-      "description": "Head to the store and #ShopWithMe.",
-      "name": "#shopwithme",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/82ddb08d739f9d1f22f112ffc567a1ad",
-      "stats": {
-        "views": 714000000
-      }
-    },
-    {
-      "challengeId": "23495765",
-      "description": "Whether it's a family favorite, or something you've found on TikTok, empieza a cocinar y muéstranos your best #Receta.",
-      "name": "#Receta",
-      "avatar": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/89a824cff13e72efa3dc58d746d98cd5",
-      "stats": {
-        "views": 9700000000
+        "views": 369400000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 838000
+        "posts": 837900
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 660000
+        "posts": 659900
       }
     },
     {
