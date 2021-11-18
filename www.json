@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 8400000,
-        "likes": 81100000
+        "likes": 81300000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 37000000,
-        "likes": 215500000
+        "likes": 215600000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 25200000,
-        "likes": 108800000
+        "likes": 108900000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 1700000,
-        "likes": 15900000
+        "likes": 16100000
       }
     },
     {
@@ -783,12 +783,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "2732790",
+      "description": "Whether you're posing for the cover of GQ, or getting ready for the party of the year, show us your #OnTheCover look.",
+      "name": "#onthecover",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5ad315ffae1954a01ea672fdd417a250",
+      "stats": {
+        "views": 21700000
+      }
+    },
+    {
       "challengeId": "1603802535768066",
       "description": "We're officially celebrating the holidays on TikTok, so whether it's family traditions, holiday parties, or your favorite memories, join us for the #TikTokHolidays.",
       "name": "#tiktokholidays",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/93c28f4e0a6d112319c403c64a57bcf4",
       "stats": {
-        "views": 69400000
+        "views": 72400000
       }
     },
     {
@@ -797,7 +806,7 @@
       "name": "#whatatimetobealive",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/734610ef4b6cf729356aeddd576b0bd0",
       "stats": {
-        "views": 164200000
+        "views": 165700000
       }
     },
     {
@@ -806,7 +815,7 @@
       "name": "#nativefamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/85f7a24263b30e6e45b529c14815730c",
       "stats": {
-        "views": 243300000
+        "views": 244000000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#youtoo",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/aa76d640d7dba1eca703d50705081027",
       "stats": {
-        "views": 142800000
+        "views": 144100000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#competitivegaming",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/19cd366b9dea851a397ef7df0d7382cd",
       "stats": {
-        "views": 515200000
+        "views": 516100000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#sundayroutine",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6ac8bb4315fa3646a1a15c74f136305d",
       "stats": {
-        "views": 265200000
+        "views": 265900000
       }
     },
     {
@@ -861,15 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ca41830bf115dcffbfd1d9a10e52d858",
       "stats": {
         "views": 11800000000
-      }
-    },
-    {
-      "challengeId": "667655",
-      "description": "Honoring veterans.",
-      "name": "#veteransday",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/20f5567133168d47ce5607a7d33943ea",
-      "stats": {
-        "views": 375100000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 837200
+        "posts": 837100
       }
     },
     {
