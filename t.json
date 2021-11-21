@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 8700000,
-        "likes": 86600000
+        "likes": 86700000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 20800000,
-        "likes": 654100000
+        "likes": 654200000
       }
     },
     {
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 5200000,
-        "likes": 256200000
+        "likes": 256400000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 10400000,
-        "likes": 891100000
+        "likes": 891200000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 7500000,
-        "likes": 210500000
+        "likes": 210600000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 19000000,
-        "likes": 359400000
+        "likes": 359500000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 5900000,
-        "likes": 340600000
+        "likes": 340700000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 4100000,
-        "likes": 82900000
+        "likes": 83100000
       }
     },
     {
@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 5300000,
-        "likes": 206800000
+        "likes": 206900000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 11400000,
-        "likes": 265300000
+        "likes": 265400000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 23600000,
-        "likes": 512700000
+        "likes": 512800000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 7700000,
-        "likes": 238000000
+        "likes": 238100000
       }
     },
     {
@@ -757,12 +757,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "26155",
+      "description": "#SelfLove is the best love, so show us how you're taking care of yourself.",
+      "name": "#selflove",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d0d5b58c5cc6d7222aa631ae760a5676",
+      "stats": {
+        "views": 25300000000
+      }
+    },
+    {
       "challengeId": "674096",
       "description": "I am woman, I am fearless...",
       "name": "#iamwoman",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/23ebada8207534d7a6bc01036a5451e0",
       "stats": {
-        "views": 250700000
+        "views": 252600000
       }
     },
     {
@@ -789,7 +798,7 @@
       "name": "#onthecover",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5ad315ffae1954a01ea672fdd417a250",
       "stats": {
-        "views": 91300000
+        "views": 91800000
       }
     },
     {
@@ -807,7 +816,7 @@
       "name": "#tiktokholidays",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/93c28f4e0a6d112319c403c64a57bcf4",
       "stats": {
-        "views": 242300000
+        "views": 244200000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#whatatimetobealive",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/734610ef4b6cf729356aeddd576b0bd0",
       "stats": {
-        "views": 252800000
+        "views": 254000000
       }
     },
     {
@@ -825,7 +834,7 @@
       "name": "#nativefamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/85f7a24263b30e6e45b529c14815730c",
       "stats": {
-        "views": 269100000
+        "views": 269400000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#youtoo",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/aa76d640d7dba1eca703d50705081027",
       "stats": {
-        "views": 191100000
-      }
-    },
-    {
-      "challengeId": "33148708",
-      "description": "Whether you're putting on a headset and competing for titles, or hanging out with friends and family and playing online, show us everything you love about #CompetitiveGaming.",
-      "name": "#competitivegaming",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/19cd366b9dea851a397ef7df0d7382cd",
-      "stats": {
-        "views": 556800000
+        "views": 191500000
       }
     }
   ],
@@ -870,7 +870,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 835600
+        "posts": 835500
       }
     },
     {
