@@ -783,12 +783,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "15545",
+      "description": "Here's to all the material girls.",
+      "name": "#materialgirl",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6703c8b9229fd54509c3a35f35ef4712",
+      "stats": {
+        "views": 236400000
+      }
+    },
+    {
+      "challengeId": "11510",
+      "description": "Whether you're heading home for the holidays, or catching up with loved ones, show us how you're enjoying some #FamilyTime.",
+      "name": "#familytime",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c7f6d5121b339d01cccc2cb6029aa20c",
+      "stats": {
+        "views": 12600000000
+      }
+    },
+    {
       "challengeId": "2438065",
       "description": "What are you #ThankfulFor this year?",
       "name": "#thankfulfor",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/14f02c196767d144259ea883470215d5",
       "stats": {
-        "views": 153100000
+        "views": 161800000
       }
     },
     {
@@ -797,7 +815,7 @@
       "name": "#sportstiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/59a24b0fa21a92bc02dd6a4bc033c96b",
       "stats": {
-        "views": 205100000
+        "views": 207900000
       }
     },
     {
@@ -815,7 +833,7 @@
       "name": "#nativefamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/85f7a24263b30e6e45b529c14815730c",
       "stats": {
-        "views": 344800000
+        "views": 345700000
       }
     },
     {
@@ -833,7 +851,7 @@
       "name": "#backintheday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bc170644127525161e1e2dfcbcca5501",
       "stats": {
-        "views": 592800000
+        "views": 594200000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#iamwoman",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/23ebada8207534d7a6bc01036a5451e0",
       "stats": {
-        "views": 586800000
-      }
-    },
-    {
-      "challengeId": "10261",
-      "description": "Delicious meals and perfect treats.",
-      "name": "#yum",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/941b51ff05e5ac1c3a8dfa0fd5a64dce",
-      "stats": {
-        "views": 14800000000
-      }
-    },
-    {
-      "challengeId": "419560",
-      "description": "Show us those #WeekendVibes.\n",
-      "name": "#WeekendVibes",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2aec6f8e125e0a2d95d1307ed230d67e",
-      "stats": {
-        "views": 10300000000
+        "views": 588900000
       }
     }
   ],
@@ -903,16 +903,16 @@
       "musicId": "6812545347835922434",
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-i-0000/8dafbb75373a44069c5da80c97f9e8fd.jpeg",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/8dafbb75373a44069c5da80c97f9e8fd.jpeg",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/8dafbb75373a44069c5da80c97f9e8fd.jpeg",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-i-0000/8dafbb75373a44069c5da80c97f9e8fd.jpeg"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/0cbc8b0524c94c7088ec35a79ccd97f7~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/0cbc8b0524c94c7088ec35a79ccd97f7~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/0cbc8b0524c94c7088ec35a79ccd97f7~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/0cbc8b0524c94c7088ec35a79ccd97f7~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-i-0000/8dafbb75373a44069c5da80c97f9e8fd.webp",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/8dafbb75373a44069c5da80c97f9e8fd.webp",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/8dafbb75373a44069c5da80c97f9e8fd.webp",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-i-0000/8dafbb75373a44069c5da80c97f9e8fd.webp"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/0cbc8b0524c94c7088ec35a79ccd97f7~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/0cbc8b0524c94c7088ec35a79ccd97f7~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/0cbc8b0524c94c7088ec35a79ccd97f7~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/0cbc8b0524c94c7088ec35a79ccd97f7~c5_1080x1080.webp"
         }
       },
       "musicInfo": {
