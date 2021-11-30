@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 2000000,
-        "likes": 22300000
+        "likes": 22400000
       }
     },
     {
@@ -783,6 +783,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1620405117654022",
+      "description": "#GivingSzn is officially underway, and we're partnering with creators, non-profit organizations, and our community to spread goodwill and support our communities. So whether it's supporting good causes LIVE on TikTok, sharing your favorite non-profits, or just checking in on friends and family, join us this #GivingSzn and give back to your community!",
+      "name": "#givingszn",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f1080bd86abea90b7f881c7380d8773f",
+      "stats": {
+        "views": 594500000
+      }
+    },
+    {
       "challengeId": "14567",
       "description": "Ok let's go!",
       "name": "#letsgo",
@@ -806,7 +815,7 @@
       "name": "#hanukkah",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e7f6171b25f88dae1c5b84f60d340615",
       "stats": {
-        "views": 185700000
+        "views": 187100000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#materialgirl",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6703c8b9229fd54509c3a35f35ef4712",
       "stats": {
-        "views": 427900000
+        "views": 429300000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#thankfulfor",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/14f02c196767d144259ea883470215d5",
       "stats": {
-        "views": 461700000
+        "views": 463200000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#sportstiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/59a24b0fa21a92bc02dd6a4bc033c96b",
       "stats": {
-        "views": 322700000
-      }
-    },
-    {
-      "challengeId": "7543",
-      "description": "When your #Bestie says 'call me,' but it's that kind of call.",
-      "name": "#bestie",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bc0ef1837cbb904038564a93a86819c3",
-      "stats": {
-        "views": 17300000000
+        "views": 323500000
       }
     }
   ],
@@ -996,7 +996,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/a06db1e9483e48a1ab24a09abe34b473"
       },
       "stats": {
-        "posts": 452700
+        "posts": 452600
       }
     },
     {
