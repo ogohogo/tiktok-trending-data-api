@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 16600000,
-        "likes": 68800000
+        "likes": 68900000
       }
     },
     {
@@ -217,16 +217,16 @@
       "verified": true,
       "avatar": {
         "jpeg": {
-          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ba62b87117c7dba312e3cae56e002916~c5_100x100.jpeg",
-          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ba62b87117c7dba312e3cae56e002916~c5_300x300.jpeg",
-          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ba62b87117c7dba312e3cae56e002916~c5_720x720.jpeg",
-          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ba62b87117c7dba312e3cae56e002916~c5_1080x1080.jpeg"
+          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ba62b87117c7dba312e3cae56e002916~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ba62b87117c7dba312e3cae56e002916~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ba62b87117c7dba312e3cae56e002916~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ba62b87117c7dba312e3cae56e002916~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ba62b87117c7dba312e3cae56e002916~c5_100x100.webp",
-          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ba62b87117c7dba312e3cae56e002916~c5_300x300.webp",
-          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ba62b87117c7dba312e3cae56e002916~c5_720x720.webp",
-          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ba62b87117c7dba312e3cae56e002916~c5_1080x1080.webp"
+          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ba62b87117c7dba312e3cae56e002916~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ba62b87117c7dba312e3cae56e002916~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ba62b87117c7dba312e3cae56e002916~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/ba62b87117c7dba312e3cae56e002916~c5_1080x1080.webp"
         }
       },
       "stats": {
@@ -783,6 +783,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1677572474686465",
+      "description": "These are the #UnrealisticThings we want for the holidays.",
+      "name": "#unrealisticthings",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e2ca17e6c807f276a3e8e1f40530dd6b",
+      "stats": {
+        "views": 10400000
+      }
+    },
+    {
+      "challengeId": "38293056",
+      "description": "How are you decorating for the holidays?",
+      "name": "#holidaydecor",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b31b580f984e3849c323af39de01b3cc",
+      "stats": {
+        "views": 3500000000
+      }
+    },
+    {
       "challengeId": "3883586",
       "description": "Whether you're hitting the ice, or just braving the cold, we're here for all things #WinterSports.",
       "name": "#wintersports",
@@ -806,7 +824,7 @@
       "name": "#givingszn",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f1080bd86abea90b7f881c7380d8773f",
       "stats": {
-        "views": 751400000
+        "views": 752200000
       }
     },
     {
@@ -833,7 +851,7 @@
       "name": "#hanukkah",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e7f6171b25f88dae1c5b84f60d340615",
       "stats": {
-        "views": 260800000
+        "views": 261500000
       }
     },
     {
@@ -842,7 +860,7 @@
       "name": "#materialgirl",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6703c8b9229fd54509c3a35f35ef4712",
       "stats": {
-        "views": 502300000
+        "views": 503200000
       }
     },
     {
@@ -852,24 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/353c37b08960dbd91d6c47455982a97f",
       "stats": {
         "views": 2800000000
-      }
-    },
-    {
-      "challengeId": "7250",
-      "description": "Whether you're baking the perfect pie or just searching for a recipe, you've come to the right place for all things #Baking.",
-      "name": "#baking",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1aa8a54136dc06390b83508fdd683160",
-      "stats": {
-        "views": 13000000000
-      }
-    },
-    {
-      "challengeId": "11510",
-      "description": "Whether you're heading home for the holidays, or catching up with loved ones, show us how you're enjoying some #FamilyTime.",
-      "name": "#familytime",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c7f6d5121b339d01cccc2cb6029aa20c",
-      "stats": {
-        "views": 12900000000
       }
     }
   ],
