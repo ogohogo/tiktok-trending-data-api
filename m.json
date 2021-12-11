@@ -594,7 +594,7 @@
         }
       },
       "stats": {
-        "followers": 986100,
+        "followers": 986600,
         "likes": 1800000
       }
     },
@@ -783,12 +783,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1680573608662037",
+      "description": "Here's to all the little rockstars.",
+      "name": "#golittlerockstar",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2d118e3bf103862fc139a00fbbc2f70b",
+      "stats": {
+        "views": 119700000
+      }
+    },
+    {
+      "challengeId": "458726",
+      "description": "How do you practice well-being?",
+      "name": "#wellbeing",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7c52c8855e0d1d5f0af9f8489778b581",
+      "stats": {
+        "views": 196700000
+      }
+    },
+    {
       "challengeId": "5917",
       "description": "Whether you're talking about your favorite show, or working on your cosplay, we're here for all things #Anime.",
       "name": "#anime",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/aaf70f43ba46cdff802af209de74f92d",
       "stats": {
-        "views": 619300000000
+        "views": 619400000000
       }
     },
     {
@@ -797,7 +815,7 @@
       "name": "#holidayaesthetic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/cfde7e1f9589026a470024bf3f333a13",
       "stats": {
-        "views": 58000000
+        "views": 59200000
       }
     },
     {
@@ -806,7 +824,7 @@
       "name": "#studywithme",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1ef5adf272fc126c35ea54ad6d510d52",
       "stats": {
-        "views": 2100000000
+        "views": 2200000000
       }
     },
     {
@@ -815,7 +833,7 @@
       "name": "#unlockit",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9a10335920791211a401d7c7b8747e50",
       "stats": {
-        "views": 239200000
+        "views": 240500000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#fashionhistory",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3b27f1c20bb901bc21e054eeee75eb5d",
       "stats": {
-        "views": 447200000
-      }
-    },
-    {
-      "challengeId": "1677572474686465",
-      "description": "These are the #UnrealisticThings we want for the holidays.",
-      "name": "#unrealisticthings",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e2ca17e6c807f276a3e8e1f40530dd6b",
-      "stats": {
-        "views": 158500000
-      }
-    },
-    {
-      "challengeId": "38293056",
-      "description": "How are you decorating for the holidays?",
-      "name": "#holidaydecor",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b31b580f984e3849c323af39de01b3cc",
-      "stats": {
-        "views": 3700000000
+        "views": 447500000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 822700
+        "posts": 822600
       }
     },
     {
