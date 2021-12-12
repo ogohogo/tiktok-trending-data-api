@@ -620,7 +620,7 @@
         }
       },
       "stats": {
-        "followers": 996100,
+        "followers": 996500,
         "likes": 1800000
       }
     },
@@ -783,12 +783,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "83877819",
+      "description": "Remembering Vicente Fernández.",
+      "name": "#VicenteFernandez",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/512c055a7c712fefa680b723fba19d87",
+      "stats": {
+        "views": 451600000
+      }
+    },
+    {
       "challengeId": "1671517446069253",
       "description": "Look back at the past year with our new Q&amp;A feature and rewind, commemorate, and celebrate 2021. Get involved and #AskOnTikTok!",
       "name": "#askontiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bef69fc87c0eb6d7ece2d7de9e6e2165",
       "stats": {
-        "views": 525600000
+        "views": 531300000
       }
     },
     {
@@ -806,7 +815,7 @@
       "name": "#golittlerockstar",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2d118e3bf103862fc139a00fbbc2f70b",
       "stats": {
-        "views": 273300000
+        "views": 282500000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#wellbeing",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7c52c8855e0d1d5f0af9f8489778b581",
       "stats": {
-        "views": 214600000
+        "views": 215800000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#holidayaesthetic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/cfde7e1f9589026a470024bf3f333a13",
       "stats": {
-        "views": 84400000
+        "views": 85600000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#unlockit",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9a10335920791211a401d7c7b8747e50",
       "stats": {
-        "views": 276300000
+        "views": 278000000
       }
     },
     {
@@ -861,15 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e0ea3edcd8373aaf7ba87c5f4fea82f2",
       "stats": {
         "views": 2000000000
-      }
-    },
-    {
-      "challengeId": "2549053",
-      "description": "It's that time of the year... From winter classics to seasonal covers, we're here for all things #HolidayMusic.",
-      "name": "#holidaymusic",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a38787faa246577ee05908c02c86632c",
-      "stats": {
-        "views": 4100000000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 821400
+        "posts": 821300
       }
     },
     {
