@@ -22,7 +22,7 @@
         }
       },
       "stats": {
-        "followers": 63900000,
+        "followers": 64200000,
         "likes": 416100000
       }
     },
@@ -100,7 +100,7 @@
         }
       },
       "stats": {
-        "followers": 37200000,
+        "followers": 37400000,
         "likes": 222000000
       }
     },
@@ -204,7 +204,7 @@
         }
       },
       "stats": {
-        "followers": 25800000,
+        "followers": 26000000,
         "likes": 113300000
       }
     },
@@ -783,12 +783,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1622962893630470",
+      "description": "Welcome to #BookTok. What are you reading?",
+      "name": "#BookTok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4e95b3a3dac0535f5e845d4584bd9e7a",
+      "stats": {
+        "views": 30200000000
+      }
+    },
+    {
       "challengeId": "1620405117654022",
       "description": "#GivingSzn is officially underway, and we're partnering with creators, non-profit organizations, and our community to spread goodwill and support our communities. So whether it's supporting good causes LIVE on TikTok, sharing your favorite non-profits, or just checking in on friends and family, join us this #GivingSzn and give back to your community!",
       "name": "#givingszn",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f1080bd86abea90b7f881c7380d8773f",
       "stats": {
-        "views": 996700000
+        "views": 997600000
       }
     },
     {
@@ -797,7 +806,7 @@
       "name": "#tiempoenfamilia",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9438aeb3301020addc2299d3ce9c5f6d",
       "stats": {
-        "views": 62900000
+        "views": 63000000
       }
     },
     {
@@ -806,7 +815,7 @@
       "name": "#okperfect",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/24015f8fa4434f5fca9b6aefc84bfc2f",
       "stats": {
-        "views": 55100000
+        "views": 55600000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#askontiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bef69fc87c0eb6d7ece2d7de9e6e2165",
       "stats": {
-        "views": 925000000
+        "views": 929600000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#golittlerockstar",
       "avatar": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/c25655321bc0f905d00ce0b3cde17590",
       "stats": {
-        "views": 731000000
+        "views": 734600000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#wellbeing",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7c52c8855e0d1d5f0af9f8489778b581",
       "stats": {
-        "views": 274000000
-      }
-    },
-    {
-      "challengeId": "5917",
-      "description": "Whether you're talking about your favorite show, or working on your cosplay, we're here for all things #Anime.",
-      "name": "#anime",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/aaf70f43ba46cdff802af209de74f92d",
-      "stats": {
-        "views": 624600000000
+        "views": 274500000
       }
     }
   ],
