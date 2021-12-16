@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 23800000,
-        "likes": 732800000
+        "likes": 733000000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 6800000,
-        "likes": 400300000
+        "likes": 400400000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 5600000,
-        "likes": 301400000
+        "likes": 301500000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 10600000,
-        "likes": 933000000
+        "likes": 933100000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 20200000,
-        "likes": 388900000
+        "likes": 389000000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 6500000,
-        "likes": 313800000
+        "likes": 314000000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 12700000,
-        "likes": 568700000
+        "likes": 568800000
       }
     },
     {
@@ -503,16 +503,16 @@
       "verified": true,
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/810d77fc9602d09fc819f73472ef7377~c5_100x100.jpeg",
-          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/810d77fc9602d09fc819f73472ef7377~c5_300x300.jpeg",
-          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/810d77fc9602d09fc819f73472ef7377~c5_720x720.jpeg",
-          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/810d77fc9602d09fc819f73472ef7377~c5_1080x1080.jpeg"
+          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/810d77fc9602d09fc819f73472ef7377~c5_100x100.jpeg",
+          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/810d77fc9602d09fc819f73472ef7377~c5_300x300.jpeg",
+          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/810d77fc9602d09fc819f73472ef7377~c5_720x720.jpeg",
+          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/810d77fc9602d09fc819f73472ef7377~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/810d77fc9602d09fc819f73472ef7377~c5_100x100.webp",
-          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/810d77fc9602d09fc819f73472ef7377~c5_300x300.webp",
-          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/810d77fc9602d09fc819f73472ef7377~c5_720x720.webp",
-          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/810d77fc9602d09fc819f73472ef7377~c5_1080x1080.webp"
+          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/810d77fc9602d09fc819f73472ef7377~c5_100x100.webp",
+          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/810d77fc9602d09fc819f73472ef7377~c5_300x300.webp",
+          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/810d77fc9602d09fc819f73472ef7377~c5_720x720.webp",
+          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/810d77fc9602d09fc819f73472ef7377~c5_1080x1080.webp"
         }
       },
       "stats": {
@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 11500000,
-        "likes": 268100000
+        "likes": 268200000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 4200000,
-        "likes": 58100000
+        "likes": 58200000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 8900000,
-        "likes": 233100000
+        "likes": 233200000
       }
     },
     {
@@ -751,7 +751,7 @@
       },
       "stats": {
         "followers": 7200000,
-        "likes": 115600000
+        "likes": 115700000
       }
     },
     {
@@ -783,6 +783,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "5656710",
+      "description": "Look towards the future because we're here for all things #Astrology.",
+      "name": "#astrology",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bf661c3ae9a38d8a7d1c8a3ee8e4625a",
+      "stats": {
+        "views": 29100000000
+      }
+    },
+    {
+      "challengeId": "563964",
+      "description": "Whether it's the perfect snack or a delicious dinner, show us your #ComfortFood.",
+      "name": "#comfortfood",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d16752ff2a0298f3edac686cd4fdf7fa",
+      "stats": {
+        "views": 4600000000
+      }
+    },
+    {
       "challengeId": "1622962893630470",
       "description": "Welcome to #BookTok. What are you reading?",
       "name": "#booktok",
@@ -797,7 +815,7 @@
       "name": "#tiempoenfamilia",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9438aeb3301020addc2299d3ce9c5f6d",
       "stats": {
-        "views": 67300000
+        "views": 67600000
       }
     },
     {
@@ -815,7 +833,7 @@
       "name": "#okperfect",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/24015f8fa4434f5fca9b6aefc84bfc2f",
       "stats": {
-        "views": 84400000
+        "views": 85400000
       }
     },
     {
@@ -853,24 +871,6 @@
       "stats": {
         "views": 8000000000
       }
-    },
-    {
-      "challengeId": "1680573608662037",
-      "description": "Here's to all the little rockstars.",
-      "name": "#golittlerockstar",
-      "avatar": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/c25655321bc0f905d00ce0b3cde17590",
-      "stats": {
-        "views": 872500000
-      }
-    },
-    {
-      "challengeId": "458726",
-      "description": "How do you practice well-being?",
-      "name": "#wellbeing",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7c52c8855e0d1d5f0af9f8489778b581",
-      "stats": {
-        "views": 292200000
-      }
     }
   ],
   "music": [
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 818300
+        "posts": 818200
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 650600
+        "posts": 650500
       }
     },
     {
