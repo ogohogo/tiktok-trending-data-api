@@ -35,16 +35,16 @@
       "verified": true,
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7fa4701b2fc3f37320eb8808412a663b~c5_100x100.jpeg",
-          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7fa4701b2fc3f37320eb8808412a663b~c5_300x300.jpeg",
-          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7fa4701b2fc3f37320eb8808412a663b~c5_720x720.jpeg",
-          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7fa4701b2fc3f37320eb8808412a663b~c5_1080x1080.jpeg"
+          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7fa4701b2fc3f37320eb8808412a663b~c5_100x100.jpeg",
+          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7fa4701b2fc3f37320eb8808412a663b~c5_300x300.jpeg",
+          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7fa4701b2fc3f37320eb8808412a663b~c5_720x720.jpeg",
+          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7fa4701b2fc3f37320eb8808412a663b~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7fa4701b2fc3f37320eb8808412a663b~c5_100x100.webp",
-          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7fa4701b2fc3f37320eb8808412a663b~c5_300x300.webp",
-          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7fa4701b2fc3f37320eb8808412a663b~c5_720x720.webp",
-          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7fa4701b2fc3f37320eb8808412a663b~c5_1080x1080.webp"
+          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7fa4701b2fc3f37320eb8808412a663b~c5_100x100.webp",
+          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7fa4701b2fc3f37320eb8808412a663b~c5_300x300.webp",
+          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7fa4701b2fc3f37320eb8808412a663b~c5_720x720.webp",
+          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7fa4701b2fc3f37320eb8808412a663b~c5_1080x1080.webp"
         }
       },
       "stats": {
@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 23800000,
-        "likes": 734200000
+        "likes": 734400000
       }
     },
     {
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 21300000,
-        "likes": 444300000
+        "likes": 444400000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 6900000,
-        "likes": 401400000
+        "likes": 401600000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 5600000,
-        "likes": 302800000
+        "likes": 303000000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 10700000,
-        "likes": 933500000
+        "likes": 933700000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 8100000,
-        "likes": 255300000
+        "likes": 255400000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 20200000,
-        "likes": 389500000
+        "likes": 389600000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 6500000,
-        "likes": 315400000
+        "likes": 315600000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 12700000,
-        "likes": 568900000
+        "likes": 569000000
       }
     },
     {
@@ -387,7 +387,7 @@
       },
       "stats": {
         "followers": 11800000,
-        "likes": 281900000
+        "likes": 282000000
       }
     },
     {
@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 11500000,
-        "likes": 268500000
+        "likes": 268600000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 4200000,
-        "likes": 58700000
+        "likes": 58800000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 8900000,
-        "likes": 233300000
+        "likes": 233400000
       }
     },
     {
@@ -751,7 +751,7 @@
       },
       "stats": {
         "followers": 7200000,
-        "likes": 116000000
+        "likes": 116100000
       }
     },
     {
@@ -777,7 +777,7 @@
       },
       "stats": {
         "followers": 16100000,
-        "likes": 443700000
+        "likes": 443800000
       }
     }
   ],
@@ -815,7 +815,7 @@
       "name": "#tiempoenfamilia",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9438aeb3301020addc2299d3ce9c5f6d",
       "stats": {
-        "views": 69600000
+        "views": 70000000
       }
     },
     {
@@ -833,7 +833,7 @@
       "name": "#okperfect",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/24015f8fa4434f5fca9b6aefc84bfc2f",
       "stats": {
-        "views": 93900000
+        "views": 95800000
       }
     },
     {
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 825400
+        "posts": 825300
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 655700
+        "posts": 655600
       }
     },
     {
