@@ -74,7 +74,7 @@
         }
       },
       "stats": {
-        "followers": 64000000,
+        "followers": 64200000,
         "likes": 417000000
       }
     },
@@ -126,7 +126,7 @@
         }
       },
       "stats": {
-        "followers": 37200000,
+        "followers": 37400000,
         "likes": 222200000
       }
     },
@@ -204,7 +204,7 @@
         }
       },
       "stats": {
-        "followers": 25900000,
+        "followers": 26100000,
         "likes": 113600000
       }
     },
@@ -783,12 +783,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1608887325435909",
+      "description": "Here's to all the #ArtistsOfTikTok.",
+      "name": "#artistsoftiktok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/523ad18479ac4dfc384c56fad6e8b48a",
+      "stats": {
+        "views": 15600000000
+      }
+    },
+    {
       "challengeId": "1184937",
       "description": "Need to learn how to wrap gifts? Start here.",
       "name": "#giftwrapping",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7ef5a79a31e5077e4166d88a91cf842c",
       "stats": {
-        "views": 644200000
+        "views": 646200000
       }
     },
     {
@@ -797,7 +806,7 @@
       "name": "#winteroutfit",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6067c5e17789532d2a945bd669151e49",
       "stats": {
-        "views": 235300000
+        "views": 236300000
       }
     },
     {
@@ -806,7 +815,7 @@
       "name": "#2021recap",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7e488318aa8ef41b9fa2f2fb51d9ca11",
       "stats": {
-        "views": 204300000
+        "views": 207200000
       }
     },
     {
@@ -815,7 +824,7 @@
       "name": "#diytiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/80b5065c12b19e11bbef052dc1d74e15",
       "stats": {
-        "views": 484800000
+        "views": 485800000
       }
     },
     {
@@ -860,16 +869,7 @@
       "name": "#tiempoenfamilia",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9438aeb3301020addc2299d3ce9c5f6d",
       "stats": {
-        "views": 87100000
-      }
-    },
-    {
-      "challengeId": "1620405117654022",
-      "description": "#GivingSzn is officially underway, and we're partnering with creators, non-profit organizations, and our community to spread goodwill and support our communities. So whether it's supporting good causes LIVE on TikTok, sharing your favorite non-profits, or just checking in on friends and family, join us this #GivingSzn and give back to your community!",
-      "name": "#givingszn",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f1080bd86abea90b7f881c7380d8773f",
-      "stats": {
-        "views": 1200000000
+        "views": 87300000
       }
     }
   ],
@@ -1046,7 +1046,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/b6210191f1854b7c9157d5d1e2e5fe77"
       },
       "stats": {
-        "posts": 600900
+        "posts": 600800
       }
     },
     {
