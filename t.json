@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 10900000,
-        "likes": 967500000
+        "likes": 967600000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 6100000,
-        "likes": 364500000
+        "likes": 364700000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 10100000,
-        "likes": 391700000
+        "likes": 391800000
       }
     },
     {
@@ -387,7 +387,7 @@
       },
       "stats": {
         "followers": 7100000,
-        "likes": 354700000
+        "likes": 354800000
       }
     },
     {
@@ -439,7 +439,7 @@
       },
       "stats": {
         "followers": 21700000,
-        "likes": 453000000
+        "likes": 453100000
       }
     },
     {
@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 7300000,
-        "likes": 428000000
+        "likes": 428100000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 17700000,
-        "likes": 579700000
+        "likes": 579800000
       }
     },
     {
@@ -783,6 +783,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1613431309176854",
+      "description": "We need some style inspo, so show us your fit.",
+      "name": "#fitcheck",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/078829e5915c2cdbd22377aff4fcf207",
+      "stats": {
+        "views": 8200000000
+      }
+    },
+    {
       "challengeId": "1601336200518658",
       "description": "Meow.",
       "name": "#catsoftiktok",
@@ -797,7 +806,7 @@
       "name": "#selfcaretips",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d4681b1196f737a77182ed83898a955b",
       "stats": {
-        "views": 148200000
+        "views": 149300000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#kwanzaa",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3654e09124aadc7c4fda12e13c782ca1",
       "stats": {
-        "views": 104400000
+        "views": 104500000
       }
     },
     {
@@ -842,7 +851,7 @@
       "name": "#areyounewhere",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1cbbd104fb5368fc400af0702627e213",
       "stats": {
-        "views": 247100000
+        "views": 249100000
       }
     },
     {
@@ -861,15 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bee82ec3c9d04a68a3e9d2f02c34b606",
       "stats": {
         "views": 7400000000
-      }
-    },
-    {
-      "challengeId": "13540851",
-      "description": "Here's to all the #Millennials of TikTok.",
-      "name": "#millennials",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c0acc18dae0ba02063212b38243f9353",
-      "stats": {
-        "views": 1400000000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 811900
+        "posts": 811800
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 647000
+        "posts": 646900
       }
     },
     {
@@ -1046,7 +1046,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/b6210191f1854b7c9157d5d1e2e5fe77"
       },
       "stats": {
-        "posts": 597700
+        "posts": 597600
       }
     },
     {
