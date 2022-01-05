@@ -783,12 +783,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "103593",
+      "description": "We gotta put ourselves first!",
+      "name": "#putmefirst",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c66aadd4dd2aaeea1fdbb787e32b490b",
+      "stats": {
+        "views": 18100000
+      }
+    },
+    {
+      "challengeId": "1618938325795845",
+      "description": "Get ready to hit the gym with #GymTok.",
+      "name": "#gymtok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/86c27a63949d11e8e0aa7c818c2cf5c1",
+      "stats": {
+        "views": 22400000000
+      }
+    },
+    {
       "challengeId": "75616881",
       "description": "El amor propio is key, so show us you spend your #TiempoParaMi.",
       "name": "#tiempoparami",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ccf1088bb3dee88b6a1ac6cf364f0af1",
       "stats": {
-        "views": 111500000
+        "views": 112400000
       }
     },
     {
@@ -797,7 +815,7 @@
       "name": "#whatsgoingon",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6da3827f595f328e9b73d29d9519d0a1",
       "stats": {
-        "views": 755400000
+        "views": 758900000
       }
     },
     {
@@ -815,7 +833,7 @@
       "name": "#mustbenice",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/48202d7d5b7821b1766067b7ce7caedd",
       "stats": {
-        "views": 353400000
+        "views": 356300000
       }
     },
     {
@@ -853,24 +871,6 @@
       "stats": {
         "views": 8500000000
       }
-    },
-    {
-      "challengeId": "1601336200518658",
-      "description": "Meow.",
-      "name": "#catsoftiktok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d5911122191f91835be8f8c2069cbcce",
-      "stats": {
-        "views": 94600000000
-      }
-    },
-    {
-      "challengeId": "1620964758293509",
-      "description": "Self care is key, so show us how you prioritize yourself.",
-      "name": "#selfcaretips",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d4681b1196f737a77182ed83898a955b",
-      "stats": {
-        "views": 249300000
-      }
     }
   ],
   "music": [
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 806000
+        "posts": 805900
       }
     },
     {
