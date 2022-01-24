@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 14200000,
-        "likes": 565200000
+        "likes": 565300000
       }
     },
     {
@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 4600000,
-        "likes": 243200000
+        "likes": 243300000
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 9300000,
-        "likes": 448200000
+        "likes": 448300000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 6800000,
-        "likes": 480200000
+        "likes": 480400000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 9200000,
-        "likes": 320900000
+        "likes": 321000000
       }
     },
     {
@@ -477,21 +477,21 @@
       "verified": true,
       "avatar": {
         "jpeg": {
-          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f18ec89c68489fc334dc75748efa755b~c5_100x100.jpeg",
-          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f18ec89c68489fc334dc75748efa755b~c5_300x300.jpeg",
-          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f18ec89c68489fc334dc75748efa755b~c5_720x720.jpeg",
-          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f18ec89c68489fc334dc75748efa755b~c5_1080x1080.jpeg"
+          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f18ec89c68489fc334dc75748efa755b~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f18ec89c68489fc334dc75748efa755b~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f18ec89c68489fc334dc75748efa755b~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f18ec89c68489fc334dc75748efa755b~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f18ec89c68489fc334dc75748efa755b~c5_100x100.webp",
-          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f18ec89c68489fc334dc75748efa755b~c5_300x300.webp",
-          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f18ec89c68489fc334dc75748efa755b~c5_720x720.webp",
-          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f18ec89c68489fc334dc75748efa755b~c5_1080x1080.webp"
+          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f18ec89c68489fc334dc75748efa755b~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f18ec89c68489fc334dc75748efa755b~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f18ec89c68489fc334dc75748efa755b~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f18ec89c68489fc334dc75748efa755b~c5_1080x1080.webp"
         }
       },
       "stats": {
         "followers": 9600000,
-        "likes": 492200000
+        "likes": 492300000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 8500000,
-        "likes": 278300000
+        "likes": 278400000
       }
     },
     {
@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 8000000,
-        "likes": 466000000
+        "likes": 466100000
       }
     },
     {
@@ -569,7 +569,7 @@
       },
       "stats": {
         "followers": 12400000,
-        "likes": 558500000
+        "likes": 558600000
       }
     },
     {
@@ -595,7 +595,7 @@
       },
       "stats": {
         "followers": 20100000,
-        "likes": 761500000
+        "likes": 761600000
       }
     },
     {
@@ -725,7 +725,7 @@
       },
       "stats": {
         "followers": 13100000,
-        "likes": 591400000
+        "likes": 591500000
       }
     },
     {
@@ -783,12 +783,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "518978",
+      "description": "Which teacher made the biggest difference in your life? We're teaming up with the It Gets Better Project to get the word out about an incredible campaign to support LGBTQ+ students and celebrate our best educators. So tell us all about your #FavoriteTeacher and make a difference!",
+      "name": "#favoriteteacher",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/216c5f9cdd081d0280b999372c5f43c8.png",
+      "stats": {
+        "views": 25300000
+      }
+    },
+    {
+      "challengeId": "5394",
+      "description": "Show us #HowTo.",
+      "name": "#howto",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/98eea3d5b45c50a4ba6a744b5005d51a.png",
+      "stats": {
+        "views": 43100000000
+      }
+    },
+    {
       "challengeId": "129259",
       "description": "What's this? Ok, we like it, #Picasso.",
       "name": "#picasso",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2d90366138d0307684574777ef4a16ef.png",
       "stats": {
-        "views": 313400000
+        "views": 315000000
       }
     },
     {
@@ -806,7 +824,7 @@
       "name": "#xgames",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9a8167a6437aca37111be15d0fbe9f3e",
       "stats": {
-        "views": 964600000
+        "views": 965900000
       }
     },
     {
@@ -824,7 +842,7 @@
       "name": "#conservation",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/35288c6396756d5b59c6ef8a68307a41",
       "stats": {
-        "views": 683300000
+        "views": 683800000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#mlkday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8b89709cde7cf9f14fb7b9eb1c235d46",
       "stats": {
-        "views": 610800000
-      }
-    },
-    {
-      "challengeId": "3286622",
-      "description": "We know something you will never know...",
-      "name": "#iknowsomethingyoudont",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a933cd0b2e6fa80502d56e62bf54add1",
-      "stats": {
-        "views": 388400000
-      }
-    },
-    {
-      "challengeId": "9553565",
-      "description": "Whether you're grabbing a guitar, sitting at a piano or just singing acapella, unplug and show us your best #AcousticCovers.",
-      "name": "#acousticcovers",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/119ad8b235b74f1efaca609822e62f23",
-      "stats": {
-        "views": 3000000000
+        "views": 611100000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/96e5719bf58940a9aca0430af32ece88"
       },
       "stats": {
-        "posts": 22400
+        "posts": 22500
       }
     },
     {
@@ -921,7 +921,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/cefdb7bd2504497bae43546abbb2f66e"
       },
       "stats": {
-        "posts": 273300
+        "posts": 274300
       }
     },
     {
@@ -946,7 +946,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/a61b49b690e14440afde27cb07469b7f"
       },
       "stats": {
-        "posts": 382900
+        "posts": 385500
       }
     },
     {
@@ -971,7 +971,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/5271ae13c82e457cab0aa3372c356b12"
       },
       "stats": {
-        "posts": 48100
+        "posts": 48200
       }
     },
     {
@@ -996,7 +996,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/a6605e83568f442e92ba791d81627d06"
       },
       "stats": {
-        "posts": 303500
+        "posts": 303800
       }
     },
     {
@@ -1071,7 +1071,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/ce3f5435d28e4eaaa07bf8df5514da43"
       },
       "stats": {
-        "posts": 358800
+        "posts": 359100
       }
     },
     {
