@@ -387,7 +387,7 @@
       },
       "stats": {
         "followers": 18200000,
-        "likes": 77000000
+        "likes": 77100000
       }
     },
     {
@@ -792,12 +792,21 @@
       }
     },
     {
+      "challengeId": "20484369",
+      "description": "Whether you're upcycling fashion, or finding your own style, show us what you've #Thrifted.",
+      "name": "#thrifted",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/28c789507fe2c71663e1ce0163a35aca.png",
+      "stats": {
+        "views": 4700000000
+      }
+    },
+    {
       "challengeId": "5729276",
       "description": "The Olympics are officially here, so whether you're rooting for your favorite athletes or watching incredible competitions, show us how you're celebrating the #WinterOlympics.",
       "name": "#winterolympics",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/35a87edce236579b2eb10013ba95d697.jpeg",
       "stats": {
-        "views": 174100000
+        "views": 176900000
       }
     },
     {
@@ -806,7 +815,7 @@
       "name": "#womeninsports",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/84cf4721cf6294deea521c2ebf5cf366.jpeg",
       "stats": {
-        "views": 684100000
+        "views": 684700000
       }
     },
     {
@@ -862,15 +871,6 @@
       "stats": {
         "views": 172800000000
       }
-    },
-    {
-      "challengeId": "5046273",
-      "description": "Whether you're hitting the trails or hitting the gym, show us your #WorkoutRoutine.",
-      "name": "#workoutroutine",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/949128c32a5233a20cfec5c03ef942a9.jpeg",
-      "stats": {
-        "views": 2100000000
-      }
     }
   ],
   "music": [
@@ -921,7 +921,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/51ea42c601754121b9cc06f946da887a"
       },
       "stats": {
-        "posts": 339200
+        "posts": 340200
       }
     },
     {
@@ -946,7 +946,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/915af361f034435e8e2510dfe91105cc"
       },
       "stats": {
-        "posts": 215300
+        "posts": 215900
       }
     },
     {
@@ -971,7 +971,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7a9284253cf347688bf8b1446f04cbf1"
       },
       "stats": {
-        "posts": 351400
+        "posts": 351600
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/d3a2c069de674da0be805a1fbc0d4cdc"
       },
       "stats": {
-        "posts": 288900
+        "posts": 289400
       }
     },
     {
@@ -1071,7 +1071,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7adb677f991d452f9f555f1b646a3899"
       },
       "stats": {
-        "posts": 570100
+        "posts": 571000
       }
     },
     {
