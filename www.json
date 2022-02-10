@@ -48,8 +48,8 @@
         }
       },
       "stats": {
-        "followers": 50100000,
-        "likes": 281500000
+        "followers": 50200000,
+        "likes": 281600000
       }
     },
     {
@@ -74,7 +74,7 @@
         }
       },
       "stats": {
-        "followers": 65900000,
+        "followers": 65700000,
         "likes": 433000000
       }
     },
@@ -152,8 +152,8 @@
         }
       },
       "stats": {
-        "followers": 28700000,
-        "likes": 127100000
+        "followers": 28600000,
+        "likes": 127600000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 12700000,
-        "likes": 83000000
+        "likes": 83100000
       }
     },
     {
@@ -399,16 +399,16 @@
       "verified": true,
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg",
-          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_300x300.jpeg",
-          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_720x720.jpeg",
-          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_1080x1080.jpeg"
+          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.jpeg",
+          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_300x300.jpeg",
+          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_720x720.jpeg",
+          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.webp",
-          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_300x300.webp",
-          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_720x720.webp",
-          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_1080x1080.webp"
+          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_100x100.webp",
+          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_300x300.webp",
+          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_720x720.webp",
+          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6c903a71a15a684dd2973b8fadef42e8~c5_1080x1080.webp"
         }
       },
       "stats": {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 18200000,
-        "likes": 71800000
+        "likes": 72000000
       }
     },
     {
@@ -783,12 +783,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1656994196176901",
+      "description": "The Super Bowl kicks off on Sunday, and TikTok is celebrating in a big way. So pull out your barbecue, put on some face paint, and tune in to the official NFL Super Bowl LVI Pre-Game, LIVE on TikTok.",
+      "name": "#tiktoktailgate",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c68eedaf5434d495b42f842a409a6216.jpeg",
+      "stats": {
+        "views": 751800000
+      }
+    },
+    {
       "challengeId": "89581475",
       "description": "You might not be competing for a medal, but that doesn't mean you're not an Olympian. Show us those skills that make you an #EverydayOlympian.",
       "name": "#everydayolympian",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a8896f15ae1d827ad50c80ba7fa7b6a4.jpeg",
       "stats": {
-        "views": 58200000
+        "views": 59800000
       }
     },
     {
@@ -824,7 +833,7 @@
       "name": "#askteamusa",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/943fd469a49270f9292a3a25e9cf7151.jpeg",
       "stats": {
-        "views": 36200000
+        "views": 36700000
       }
     },
     {
@@ -833,7 +842,7 @@
       "name": "#blackmusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a576990bf98c6e864cb411066b50d612.png",
       "stats": {
-        "views": 671100000
+        "views": 671900000
       }
     },
     {
@@ -851,7 +860,7 @@
       "name": "#corememories",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/81d531e4d7c8fb7e874dedaa9c305e1c.png",
       "stats": {
-        "views": 581000000
+        "views": 583500000
       }
     },
     {
@@ -861,15 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c4768af725e09f5f509fa492b4786b74.png",
       "stats": {
         "views": 89400000000
-      }
-    },
-    {
-      "challengeId": "140592",
-      "description": "We're all about love, so whether you're settling in for a movie night, or cooking the perfect candlelit dinner, show us your #DateNight.",
-      "name": "#datenight",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/aab8f0ca0d34b29c6c9e557b122dfd83.png",
-      "stats": {
-        "views": 9300000000
       }
     }
   ],
@@ -946,7 +946,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/51ea42c601754121b9cc06f946da887a"
       },
       "stats": {
-        "posts": 438400
+        "posts": 438700
       }
     },
     {
@@ -971,7 +971,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/915af361f034435e8e2510dfe91105cc"
       },
       "stats": {
-        "posts": 260700
+        "posts": 260800
       }
     },
     {
@@ -996,7 +996,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7a9284253cf347688bf8b1446f04cbf1"
       },
       "stats": {
-        "posts": 378500
+        "posts": 378700
       }
     },
     {
@@ -1046,7 +1046,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/d3a2c069de674da0be805a1fbc0d4cdc"
       },
       "stats": {
-        "posts": 333500
+        "posts": 333800
       }
     },
     {
@@ -1096,7 +1096,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7fc19a441f3d4a669b0fedc7cb834fdf"
       },
       "stats": {
-        "posts": 658200
+        "posts": 658700
       }
     },
     {
