@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 14000000,
-        "likes": 74500000
+        "likes": 74600000
       }
     },
     {
@@ -737,16 +737,16 @@
       "verified": true,
       "avatar": {
         "jpeg": {
-          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg",
-          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_300x300.jpeg",
-          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_720x720.jpeg",
-          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_1080x1080.jpeg"
+          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.webp",
-          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_300x300.webp",
-          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_720x720.webp",
-          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_1080x1080.webp"
+          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5926d532c8f9134c9382a95d0e237b45~c5_1080x1080.webp"
         }
       },
       "stats": {
@@ -757,12 +757,12 @@
   ],
   "hashtag": [
     {
-      "challengeId": "1586912301807618",
-      "description": "We grow from our history and look to what's next. From industry-defining creators, to innovators doing it all, celebrate our community inspiring on and off TikTok. This is #BlackTikTok.",
-      "name": "#blacktiktok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/32b6d64e184dbdb8e72c1032857cc1d6.jpeg",
+      "challengeId": "1408491",
+      "description": "Show us your #Maquilaje",
+      "name": "#maquillaje",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/78d33f4d0538b4fd5599d20131ad96df.jpeg",
       "stats": {
-        "views": 10100000000
+        "views": 17400000000
       }
     },
     {
@@ -772,6 +772,15 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5c476fb0dc5268bcd57bde31fe723aa6.png",
       "stats": {
         "views": 1800000000
+      }
+    },
+    {
+      "challengeId": "1586912301807618",
+      "description": "We grow from our history and look to what's next. From industry-defining creators, to innovators doing it all, celebrate our community inspiring on and off TikTok. This is #BlackTikTok.",
+      "name": "#blacktiktok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/32b6d64e184dbdb8e72c1032857cc1d6.jpeg",
+      "stats": {
+        "views": 10100000000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#fashionforyou",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/01f43a92d82a43cccc21d20c62b53922.png",
       "stats": {
-        "views": 279000000
+        "views": 279800000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#tiktoktailgate",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c68eedaf5434d495b42f842a409a6216.jpeg",
       "stats": {
-        "views": 984700000
-      }
-    },
-    {
-      "challengeId": "1658190559256582",
-      "description": "Whether you're hitting the high notes for an emotional ballad, or jamming along to your favorite breakup song, pull out your mics and instruments and show us your best #LoveSongCovers.",
-      "name": "#lovesongcovers",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/b4b947213b3e508177dc11b09402b131.png",
-      "stats": {
-        "views": 1500000000
+        "views": 985000000
       }
     }
   ],
@@ -870,7 +870,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8b12f2f332854d2d9ceb8468227d0847"
       },
       "stats": {
-        "posts": 37200
+        "posts": 37600
       }
     },
     {
@@ -895,7 +895,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/026c7ec5ed224d0684619c6c316471c0"
       },
       "stats": {
-        "posts": 73100
+        "posts": 73500
       }
     },
     {
@@ -970,7 +970,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/51ea42c601754121b9cc06f946da887a"
       },
       "stats": {
-        "posts": 532500
+        "posts": 532800
       }
     },
     {
@@ -995,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/915af361f034435e8e2510dfe91105cc"
       },
       "stats": {
-        "posts": 283600
+        "posts": 283700
       }
     },
     {
@@ -1020,7 +1020,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7a9284253cf347688bf8b1446f04cbf1"
       },
       "stats": {
-        "posts": 398800
+        "posts": 398900
       }
     },
     {
@@ -1070,7 +1070,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/d3a2c069de674da0be805a1fbc0d4cdc"
       },
       "stats": {
-        "posts": 374400
+        "posts": 374600
       }
     },
     {
