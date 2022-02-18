@@ -74,7 +74,7 @@
         }
       },
       "stats": {
-        "followers": 30200000,
+        "followers": 30000000,
         "likes": 136700000
       }
     },
@@ -100,7 +100,7 @@
         }
       },
       "stats": {
-        "followers": 66200000,
+        "followers": 66000000,
         "likes": 436600000
       }
     },
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 14800000,
-        "likes": 65200000
+        "likes": 65300000
       }
     },
     {
@@ -834,7 +834,7 @@
       "name": "#fashionforyou",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/01f43a92d82a43cccc21d20c62b53922.png",
       "stats": {
-        "views": 313200000
+        "views": 313600000
       }
     },
     {
@@ -870,7 +870,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/c2e4dbaf635b4bee9d1032a9fda0691c"
       },
       "stats": {
-        "posts": 616400
+        "posts": 619000
       }
     },
     {
@@ -920,7 +920,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/026c7ec5ed224d0684619c6c316471c0"
       },
       "stats": {
-        "posts": 100000
+        "posts": 100100
       }
     },
     {
@@ -1045,7 +1045,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7a9284253cf347688bf8b1446f04cbf1"
       },
       "stats": {
-        "posts": 404100
+        "posts": 404200
       }
     },
     {
@@ -1095,7 +1095,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/d3a2c069de674da0be805a1fbc0d4cdc"
       },
       "stats": {
-        "posts": 381100
+        "posts": 381200
       }
     }
   ]
