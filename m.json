@@ -9,21 +9,21 @@
       "verified": true,
       "avatar": {
         "jpeg": {
-          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg",
-          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_300x300.jpeg",
-          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_720x720.jpeg",
-          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_1080x1080.jpeg"
+          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.webp",
-          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_300x300.webp",
-          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_720x720.webp",
-          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_1080x1080.webp"
+          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_1080x1080.webp"
         }
       },
       "stats": {
         "followers": 15400000,
-        "likes": 98300000
+        "likes": 98400000
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 17300000,
-        "likes": 91400000
+        "likes": 91500000
       }
     },
     {
@@ -464,7 +464,7 @@
         }
       },
       "stats": {
-        "followers": 7100000,
+        "followers": 7200000,
         "likes": 20200000
       }
     },
@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 23500000,
-        "likes": 86900000
+        "likes": 87000000
       }
     },
     {
@@ -757,12 +757,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1691486517280774",
+      "description": "We stand alongside our community against racism, xenophobia and violent acts against Asian communities. Together we can #StopAsianHate.",
+      "name": "#stopasianhate",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/df437ab21a0e1b19f056e03a1060f973.png",
+      "stats": {
+        "views": 1700000000
+      }
+    },
+    {
       "challengeId": "31011076",
       "description": "Whether you're thrifting for the perfect look or going for something couture, fashion is fashion. So whatever aesthetic you embrace, join the community and show us your style. Here's some #FashionForYou.",
       "name": "#fashionforyou",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/01f43a92d82a43cccc21d20c62b53922.png",
       "stats": {
-        "views": 708000000
+        "views": 709000000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#fitnesstok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fae9ca0f044a8181ce8d658e31e9861d.png",
       "stats": {
-        "views": 568400000
+        "views": 569200000
       }
     },
     {
@@ -835,15 +844,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e573bc3eb3d78f3d4f28b830c4b69a5c.jpeg",
       "stats": {
         "views": 8700000000
-      }
-    },
-    {
-      "challengeId": "5183700",
-      "description": "Sometimes you just have to #TreatYourself.",
-      "name": "#treatyourself",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/42c64b254aff3ebfcf2edff291733409.jpeg",
-      "stats": {
-        "views": 960400000
       }
     }
   ],
@@ -870,7 +870,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/1de1f9fae2d74986b60bc778451b18c5"
       },
       "stats": {
-        "posts": 587800
+        "posts": 588200
       }
     },
     {
@@ -895,7 +895,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/6c2bab70ba744ac29edb95bd5420e34c"
       },
       "stats": {
-        "posts": 125100
+        "posts": 125500
       }
     },
     {
@@ -970,7 +970,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8b12f2f332854d2d9ceb8468227d0847"
       },
       "stats": {
-        "posts": 82900
+        "posts": 83000
       }
     },
     {
@@ -995,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/026c7ec5ed224d0684619c6c316471c0"
       },
       "stats": {
-        "posts": 388800
+        "posts": 388900
       }
     },
     {
@@ -1070,7 +1070,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/51ea42c601754121b9cc06f946da887a"
       },
       "stats": {
-        "posts": 656100
+        "posts": 656200
       }
     },
     {
