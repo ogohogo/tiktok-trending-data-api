@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 18200000,
-        "likes": 94900000
+        "likes": 95000000
       }
     },
     {
@@ -152,7 +152,7 @@
         }
       },
       "stats": {
-        "followers": 66500000,
+        "followers": 66300000,
         "likes": 439300000
       }
     },
@@ -204,8 +204,8 @@
         }
       },
       "stats": {
-        "followers": 31300000,
-        "likes": 143300000
+        "followers": 31100000,
+        "likes": 143400000
       }
     },
     {
@@ -256,7 +256,7 @@
         }
       },
       "stats": {
-        "followers": 3000000,
+        "followers": 2900000,
         "likes": 48400000
       }
     },
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 5500000,
-        "likes": 16500000
+        "likes": 16600000
       }
     },
     {
@@ -724,7 +724,7 @@
         }
       },
       "stats": {
-        "followers": 608200,
+        "followers": 608300,
         "likes": 4100000
       }
     },
@@ -771,7 +771,7 @@
       "name": "#dinnerrecipe",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a5ab5bdf5830f0a95635dd49dca58e5a.png",
       "stats": {
-        "views": 399100000
+        "views": 399700000
       }
     },
     {
@@ -780,7 +780,7 @@
       "name": "#womeningaming",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/757de44ba45825e4855f9e735c5e89cb.jpeg",
       "stats": {
-        "views": 82800000
+        "views": 83400000
       }
     },
     {
@@ -789,7 +789,7 @@
       "name": "#doorsvswheels",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/03877d6aeef5f0e92c41cdbfb09444c4.png",
       "stats": {
-        "views": 110400000
+        "views": 111900000
       }
     },
     {
@@ -798,7 +798,7 @@
       "name": "#womeninmusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1799e73d4ef84413143bfee69bf2acce.png",
       "stats": {
-        "views": 255200000
+        "views": 256000000
       }
     },
     {
@@ -843,7 +843,7 @@
       "name": "#justababy",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1fa70851d74402c4ec91d9d3037ab1c5.jpeg",
       "stats": {
-        "views": 384600000
+        "views": 385400000
       }
     }
   ],
@@ -852,97 +852,97 @@
       "musicId": "7059436057242307374",
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/672d3087d6074da8bae91b1e9404b656.jpeg",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/672d3087d6074da8bae91b1e9404b656.jpeg",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/672d3087d6074da8bae91b1e9404b656.jpeg",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/672d3087d6074da8bae91b1e9404b656.jpeg"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/672d3087d6074da8bae91b1e9404b656~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/672d3087d6074da8bae91b1e9404b656~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/672d3087d6074da8bae91b1e9404b656~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/672d3087d6074da8bae91b1e9404b656~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/672d3087d6074da8bae91b1e9404b656.webp",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/672d3087d6074da8bae91b1e9404b656.webp",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/672d3087d6074da8bae91b1e9404b656.webp",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/672d3087d6074da8bae91b1e9404b656.webp"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/672d3087d6074da8bae91b1e9404b656~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/672d3087d6074da8bae91b1e9404b656~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/672d3087d6074da8bae91b1e9404b656~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/672d3087d6074da8bae91b1e9404b656~c5_1080x1080.webp"
         }
       },
       "musicInfo": {
         "author": "iayze",
         "title": "556 (Green Tip)",
-        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/7b8003e54f484dde94442fbe1baadd73"
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7b8003e54f484dde94442fbe1baadd73"
       },
       "stats": {
-        "posts": 381100
+        "posts": 383700
       }
     },
     {
       "musicId": "6729959230851254274",
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/c0afa4f7fcb048e3828faf98843b5127.jpeg",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/c0afa4f7fcb048e3828faf98843b5127.jpeg",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/c0afa4f7fcb048e3828faf98843b5127.jpeg",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/c0afa4f7fcb048e3828faf98843b5127.jpeg"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/c0afa4f7fcb048e3828faf98843b5127~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/c0afa4f7fcb048e3828faf98843b5127~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/c0afa4f7fcb048e3828faf98843b5127~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/c0afa4f7fcb048e3828faf98843b5127~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/c0afa4f7fcb048e3828faf98843b5127.webp",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/c0afa4f7fcb048e3828faf98843b5127.webp",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/c0afa4f7fcb048e3828faf98843b5127.webp",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/c0afa4f7fcb048e3828faf98843b5127.webp"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/c0afa4f7fcb048e3828faf98843b5127~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/c0afa4f7fcb048e3828faf98843b5127~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/c0afa4f7fcb048e3828faf98843b5127~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/c0afa4f7fcb048e3828faf98843b5127~c5_1080x1080.webp"
         }
       },
       "musicInfo": {
         "author": "Louis Prima",
         "title": "Che La Luna",
-        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/1de1f9fae2d74986b60bc778451b18c5"
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/1de1f9fae2d74986b60bc778451b18c5"
       },
       "stats": {
-        "posts": 643100
+        "posts": 643400
       }
     },
     {
       "musicId": "7059988234704521217",
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/c050137e41154f839206cbc0b7865f70.jpeg",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/c050137e41154f839206cbc0b7865f70.jpeg",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/c050137e41154f839206cbc0b7865f70.jpeg",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/c050137e41154f839206cbc0b7865f70.jpeg"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/c050137e41154f839206cbc0b7865f70~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/c050137e41154f839206cbc0b7865f70~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/c050137e41154f839206cbc0b7865f70~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/c050137e41154f839206cbc0b7865f70~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/c050137e41154f839206cbc0b7865f70.webp",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/c050137e41154f839206cbc0b7865f70.webp",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/c050137e41154f839206cbc0b7865f70.webp",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/c050137e41154f839206cbc0b7865f70.webp"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/c050137e41154f839206cbc0b7865f70~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/c050137e41154f839206cbc0b7865f70~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/c050137e41154f839206cbc0b7865f70~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/c050137e41154f839206cbc0b7865f70~c5_1080x1080.webp"
         }
       },
       "musicInfo": {
         "author": "Machine Gun Kelly & WILLOW",
         "title": "emo girl",
-        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/6c2bab70ba744ac29edb95bd5420e34c"
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/6c2bab70ba744ac29edb95bd5420e34c"
       },
       "stats": {
-        "posts": 260800
+        "posts": 262700
       }
     },
     {
       "musicId": "6740248251825391617",
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/7f724d3a33ca4a239b67b2f7fece6158.jpeg",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/7f724d3a33ca4a239b67b2f7fece6158.jpeg",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/7f724d3a33ca4a239b67b2f7fece6158.jpeg",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/7f724d3a33ca4a239b67b2f7fece6158.jpeg"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/7f724d3a33ca4a239b67b2f7fece6158~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/7f724d3a33ca4a239b67b2f7fece6158~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/7f724d3a33ca4a239b67b2f7fece6158~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/7f724d3a33ca4a239b67b2f7fece6158~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/7f724d3a33ca4a239b67b2f7fece6158.webp",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/7f724d3a33ca4a239b67b2f7fece6158.webp",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/7f724d3a33ca4a239b67b2f7fece6158.webp",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/7f724d3a33ca4a239b67b2f7fece6158.webp"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/7f724d3a33ca4a239b67b2f7fece6158~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/7f724d3a33ca4a239b67b2f7fece6158~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/7f724d3a33ca4a239b67b2f7fece6158~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/7f724d3a33ca4a239b67b2f7fece6158~c5_1080x1080.webp"
         }
       },
       "musicInfo": {
         "author": "Labrinth",
         "title": "Forever",
-        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/76620b22fa6148fc8a0f236baff8f4b8"
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/76620b22fa6148fc8a0f236baff8f4b8"
       },
       "stats": {
         "posts": 2700000
@@ -952,22 +952,22 @@
       "musicId": "96169040",
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/b2c36127ed3744359f02fba591998d4f.jpeg",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/b2c36127ed3744359f02fba591998d4f.jpeg",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/b2c36127ed3744359f02fba591998d4f.jpeg",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/b2c36127ed3744359f02fba591998d4f.jpeg"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/b2c36127ed3744359f02fba591998d4f~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/b2c36127ed3744359f02fba591998d4f~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/b2c36127ed3744359f02fba591998d4f~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/b2c36127ed3744359f02fba591998d4f~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/b2c36127ed3744359f02fba591998d4f.webp",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/b2c36127ed3744359f02fba591998d4f.webp",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/b2c36127ed3744359f02fba591998d4f.webp",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/b2c36127ed3744359f02fba591998d4f.webp"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/b2c36127ed3744359f02fba591998d4f~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/b2c36127ed3744359f02fba591998d4f~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/b2c36127ed3744359f02fba591998d4f~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/b2c36127ed3744359f02fba591998d4f~c5_1080x1080.webp"
         }
       },
       "musicInfo": {
         "author": "Madonna",
         "title": "Material Girl",
-        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/c2e4dbaf635b4bee9d1032a9fda0691c"
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/c2e4dbaf635b4bee9d1032a9fda0691c"
       },
       "stats": {
         "posts": 1400000
@@ -977,47 +977,47 @@
       "musicId": "7062901992292780847",
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/5b6299b78ba54bebbabda485e89c6aa6.jpeg",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/5b6299b78ba54bebbabda485e89c6aa6.jpeg",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/5b6299b78ba54bebbabda485e89c6aa6.jpeg",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/5b6299b78ba54bebbabda485e89c6aa6.jpeg"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/5b6299b78ba54bebbabda485e89c6aa6~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/5b6299b78ba54bebbabda485e89c6aa6~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/5b6299b78ba54bebbabda485e89c6aa6~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/5b6299b78ba54bebbabda485e89c6aa6~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/5b6299b78ba54bebbabda485e89c6aa6.webp",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/5b6299b78ba54bebbabda485e89c6aa6.webp",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/5b6299b78ba54bebbabda485e89c6aa6.webp",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/5b6299b78ba54bebbabda485e89c6aa6.webp"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/5b6299b78ba54bebbabda485e89c6aa6~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/5b6299b78ba54bebbabda485e89c6aa6~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/5b6299b78ba54bebbabda485e89c6aa6~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/5b6299b78ba54bebbabda485e89c6aa6~c5_1080x1080.webp"
         }
       },
       "musicInfo": {
         "author": "Phoebe Bridgers",
         "title": "Motion Sickness",
-        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/8b12f2f332854d2d9ceb8468227d0847"
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8b12f2f332854d2d9ceb8468227d0847"
       },
       "stats": {
-        "posts": 87300
+        "posts": 87400
       }
     },
     {
       "musicId": "244299071803244544",
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-i-0000/0313920ef1c04aaead94ca4d9479a41b.jpeg",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/0313920ef1c04aaead94ca4d9479a41b.jpeg",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/0313920ef1c04aaead94ca4d9479a41b.jpeg",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-i-0000/0313920ef1c04aaead94ca4d9479a41b.jpeg"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/80cd5e04fd2847e1aadee31f78530337~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/80cd5e04fd2847e1aadee31f78530337~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/80cd5e04fd2847e1aadee31f78530337~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/80cd5e04fd2847e1aadee31f78530337~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-i-0000/0313920ef1c04aaead94ca4d9479a41b.webp",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/0313920ef1c04aaead94ca4d9479a41b.webp",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/0313920ef1c04aaead94ca4d9479a41b.webp",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-i-0000/0313920ef1c04aaead94ca4d9479a41b.webp"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/80cd5e04fd2847e1aadee31f78530337~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/80cd5e04fd2847e1aadee31f78530337~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/80cd5e04fd2847e1aadee31f78530337~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/80cd5e04fd2847e1aadee31f78530337~c5_1080x1080.webp"
         }
       },
       "musicInfo": {
         "author": "DJ Khaled",
         "title": "Major Bag Alert (feat. Migos)",
-        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/026c7ec5ed224d0684619c6c316471c0"
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/026c7ec5ed224d0684619c6c316471c0"
       },
       "stats": {
         "posts": 403200
@@ -1027,22 +1027,22 @@
       "musicId": "6997999797663714054",
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/6bcc960464484deba6b8ca95ddec25d3.jpeg",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/6bcc960464484deba6b8ca95ddec25d3.jpeg",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/6bcc960464484deba6b8ca95ddec25d3.jpeg",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/6bcc960464484deba6b8ca95ddec25d3.jpeg"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/6bcc960464484deba6b8ca95ddec25d3~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/6bcc960464484deba6b8ca95ddec25d3~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/6bcc960464484deba6b8ca95ddec25d3~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/6bcc960464484deba6b8ca95ddec25d3~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/6bcc960464484deba6b8ca95ddec25d3.webp",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/6bcc960464484deba6b8ca95ddec25d3.webp",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/6bcc960464484deba6b8ca95ddec25d3.webp",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/6bcc960464484deba6b8ca95ddec25d3.webp"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/6bcc960464484deba6b8ca95ddec25d3~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/6bcc960464484deba6b8ca95ddec25d3~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/6bcc960464484deba6b8ca95ddec25d3~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/6bcc960464484deba6b8ca95ddec25d3~c5_1080x1080.webp"
         }
       },
       "musicInfo": {
         "author": "Yung Lean",
         "title": "Ginseng Strip 2002",
-        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/5ade54a6f6864033a9d0ab842f777605"
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/5ade54a6f6864033a9d0ab842f777605"
       },
       "stats": {
         "posts": 12700000
@@ -1052,22 +1052,22 @@
       "musicId": "6702010411413145602",
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/acedf11ad9294ec78ef097e1c16ddf83.jpeg",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/acedf11ad9294ec78ef097e1c16ddf83.jpeg",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/acedf11ad9294ec78ef097e1c16ddf83.jpeg",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/acedf11ad9294ec78ef097e1c16ddf83.jpeg"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/acedf11ad9294ec78ef097e1c16ddf83~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/acedf11ad9294ec78ef097e1c16ddf83~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/acedf11ad9294ec78ef097e1c16ddf83~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/acedf11ad9294ec78ef097e1c16ddf83~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/acedf11ad9294ec78ef097e1c16ddf83.webp",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/acedf11ad9294ec78ef097e1c16ddf83.webp",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/acedf11ad9294ec78ef097e1c16ddf83.webp",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/acedf11ad9294ec78ef097e1c16ddf83.webp"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/acedf11ad9294ec78ef097e1c16ddf83~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/acedf11ad9294ec78ef097e1c16ddf83~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/acedf11ad9294ec78ef097e1c16ddf83~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/acedf11ad9294ec78ef097e1c16ddf83~c5_1080x1080.webp"
         }
       },
       "musicInfo": {
         "author": "Vitamin String Quartet",
         "title": "Howl's Moving Castle - Merry-Go-Round of Life",
-        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/bbc7ac43728240848074cb5de742c0c2"
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/bbc7ac43728240848074cb5de742c0c2"
       },
       "stats": {
         "posts": 1900000
@@ -1077,25 +1077,25 @@
       "musicId": "7052051267685927727",
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/1769c346bed6474bb27cd9baf69e553c.jpeg",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/1769c346bed6474bb27cd9baf69e553c.jpeg",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/1769c346bed6474bb27cd9baf69e553c.jpeg",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/1769c346bed6474bb27cd9baf69e553c.jpeg"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/1769c346bed6474bb27cd9baf69e553c~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/1769c346bed6474bb27cd9baf69e553c~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/1769c346bed6474bb27cd9baf69e553c~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/1769c346bed6474bb27cd9baf69e553c~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/1769c346bed6474bb27cd9baf69e553c.webp",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/1769c346bed6474bb27cd9baf69e553c.webp",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/1769c346bed6474bb27cd9baf69e553c.webp",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/1769c346bed6474bb27cd9baf69e553c.webp"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/1769c346bed6474bb27cd9baf69e553c~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/1769c346bed6474bb27cd9baf69e553c~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/1769c346bed6474bb27cd9baf69e553c~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/1769c346bed6474bb27cd9baf69e553c~c5_1080x1080.webp"
         }
       },
       "musicInfo": {
         "author": "Lauri Garcia",
         "title": "Miel",
-        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/51ea42c601754121b9cc06f946da887a"
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/51ea42c601754121b9cc06f946da887a"
       },
       "stats": {
-        "posts": 685500
+        "posts": 685700
       }
     }
   ]
