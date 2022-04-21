@@ -22,8 +22,8 @@
         }
       },
       "stats": {
-        "followers": 38800000,
-        "likes": 263300000
+        "followers": 38900000,
+        "likes": 263600000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 3800000,
-        "likes": 25200000
+        "likes": 25300000
       }
     },
     {
@@ -672,7 +672,7 @@
         }
       },
       "stats": {
-        "followers": 465600,
+        "followers": 465900,
         "likes": 2900000
       }
     },
@@ -731,12 +731,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "43236723",
+      "description": "Celebrate Earth Week by creating your own #NatureDocumentary! Whether it's sharing the majesty of pets, or the drama of the great outdoors, join PBS Nature and TikTok to celebrate all things nature!",
+      "name": "#naturedocumentary",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f802656c4bf7b645148b3755960434aa.png",
+      "stats": {
+        "views": 28600000
+      }
+    },
+    {
+      "challengeId": "14104",
+      "description": "Drink up!",
+      "name": "#coffee",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9a350c87dd83d0a57e6172cf0ed56f88.png",
+      "stats": {
+        "views": 28000000000
+      }
+    },
+    {
       "challengeId": "1672373566214149",
       "description": "We stan a style icon.",
       "name": "#ArabStreetFashion",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f4f97ea2322c01405bb3813b46871744.png",
       "stats": {
-        "views": 199000000
+        "views": 199300000
       }
     },
     {
@@ -763,7 +781,7 @@
       "name": "#SustainableBeauty",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c0a73ce66ec122224021bc43428cf0b1.png",
       "stats": {
-        "views": 65200000
+        "views": 65700000
       }
     },
     {
@@ -801,24 +819,6 @@
       "stats": {
         "views": 8200000000
       }
-    },
-    {
-      "challengeId": "4245066",
-      "description": "Happy Passover!",
-      "name": "#passover",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0545e485eff4772e9dbf3c953e9c04c6.jpeg",
-      "stats": {
-        "views": 533000000
-      }
-    },
-    {
-      "challengeId": "1603828529424386",
-      "description": "Cute pics, dinner dates, and more. Here's to the all the couples on TikTok.",
-      "name": "#couplestiktok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/bc43b89fed5808107f6ecfc274f36a90.jpeg",
-      "stats": {
-        "views": 11100000000
-      }
     }
   ],
   "music": [
@@ -844,7 +844,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8778f5f2662c4af0b5c7617741f129c9"
       },
       "stats": {
-        "posts": 42000
+        "posts": 42200
       }
     },
     {
@@ -869,7 +869,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7cfa31eaa83b47acb299e21a304d3639"
       },
       "stats": {
-        "posts": 161800
+        "posts": 162400
       }
     },
     {
@@ -1019,7 +1019,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7d580b1816cc428f9e64b0f346a7971a"
       },
       "stats": {
-        "posts": 175300
+        "posts": 175500
       }
     },
     {
