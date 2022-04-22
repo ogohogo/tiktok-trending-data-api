@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 39000000,
-        "likes": 266200000
+        "likes": 266300000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 33600000,
-        "likes": 161800000
+        "likes": 161900000
       }
     },
     {
@@ -646,7 +646,7 @@
         }
       },
       "stats": {
-        "followers": 471500,
+        "followers": 471700,
         "likes": 3000000
       }
     },
@@ -731,12 +731,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "18031",
+      "description": "Earth Day is here, and we're celebrating the planet we call home. So whether it's recycling tips or sharing conservation efforts around the world, show us how you're supporting our planet.",
+      "name": "#earthday",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/de2d0070a79e59749c135f47fc1edeb7.jpeg",
+      "stats": {
+        "views": 5100000000
+      }
+    },
+    {
+      "challengeId": "1657799988148225",
+      "description": "From epic quests to essential tips, here's to all things #GenshinImpact.",
+      "name": "#genshinimpact",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/37198fae28fb0191a47e40ddc7e4150d.png",
+      "stats": {
+        "views": 66400000000
+      }
+    },
+    {
       "challengeId": "43236723",
       "description": "Celebrate Earth Week by creating your own #NatureDocumentary! Whether it's sharing the majesty of pets, or the drama of the great outdoors, join PBS Nature and TikTok to celebrate all things nature!",
       "name": "#naturedocumentary",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f802656c4bf7b645148b3755960434aa.png",
       "stats": {
-        "views": 47700000
+        "views": 48900000
       }
     },
     {
@@ -754,7 +772,7 @@
       "name": "#ArabStreetFashion",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f4f97ea2322c01405bb3813b46871744.png",
       "stats": {
-        "views": 210100000
+        "views": 210600000
       }
     },
     {
@@ -781,7 +799,7 @@
       "name": "#SustainableBeauty",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c0a73ce66ec122224021bc43428cf0b1.png",
       "stats": {
-        "views": 77100000
+        "views": 77600000
       }
     },
     {
@@ -800,24 +818,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f98b0ad0e1e8fee1ed5dbd15e1ef150f.jpeg",
       "stats": {
         "views": 74600000000
-      }
-    },
-    {
-      "challengeId": "15126",
-      "description": "Whether it’s a day trip, a weekend away or a holiday, show us how you’re #Camping!",
-      "name": "#camping",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/439a2c29c87554a8dcf56369f68bc153.png",
-      "stats": {
-        "views": 7300000000
-      }
-    },
-    {
-      "challengeId": "3958603",
-      "description": "Show us your #OutfitInspo.",
-      "name": "#outfitinspo",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ec93bbe0188e6609dc64634b3191c216.jpeg",
-      "stats": {
-        "views": 8300000000
       }
     }
   ],
@@ -844,7 +844,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8778f5f2662c4af0b5c7617741f129c9"
       },
       "stats": {
-        "posts": 51100
+        "posts": 51400
       }
     },
     {
@@ -869,7 +869,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7cfa31eaa83b47acb299e21a304d3639"
       },
       "stats": {
-        "posts": 181900
+        "posts": 182700
       }
     },
     {
@@ -894,7 +894,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/1866528bec9c479d8dc11ab17162af2f"
       },
       "stats": {
-        "posts": 419800
+        "posts": 420300
       }
     },
     {
@@ -969,7 +969,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/694532c1342843779578dc859056d658"
       },
       "stats": {
-        "posts": 337200
+        "posts": 337300
       }
     },
     {
@@ -994,7 +994,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/a7ac14e3658340eb8a54bac83aee0fc9"
       },
       "stats": {
-        "posts": 251900
+        "posts": 252000
       }
     },
     {
@@ -1019,7 +1019,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7d580b1816cc428f9e64b0f346a7971a"
       },
       "stats": {
-        "posts": 185800
+        "posts": 186300
       }
     },
     {
@@ -1044,7 +1044,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/a9dc60e62f334229af15a0b1650029ff"
       },
       "stats": {
-        "posts": 2500000
+        "posts": 2600000
       }
     },
     {
