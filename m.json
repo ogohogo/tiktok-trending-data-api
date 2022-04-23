@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 39100000,
-        "likes": 267500000
+        "likes": 267600000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 17100000,
-        "likes": 121300000
+        "likes": 121400000
       }
     },
     {
@@ -620,7 +620,7 @@
         }
       },
       "stats": {
-        "followers": 483100,
+        "followers": 483400,
         "likes": 3100000
       }
     },
@@ -731,6 +731,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1662721768357894",
+      "description": "Whether you're enseñando español to a friend, or pasando tiempo with family, here's to #SpanglishTikTok.",
+      "name": "#spanglishtiktok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e73d19a4f0600fc8a9b49b9e3ff8d388.png",
+      "stats": {
+        "views": 39700000
+      }
+    },
+    {
+      "challengeId": "1598183468378114",
+      "description": "From road trips to traveling overseas here's to everything #TravelTikTok.",
+      "name": "#traveltiktok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9d5bdc53d5151706a48dbc15099e887d.png",
+      "stats": {
+        "views": 6400000000
+      }
+    },
+    {
       "challengeId": "18031",
       "description": "Earth Day is here, and we're celebrating the planet we call home. So whether it's recycling tips or sharing conservation efforts around the world, show us how you're supporting our planet.",
       "name": "#earthday",
@@ -754,7 +772,7 @@
       "name": "#naturedocumentary",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f802656c4bf7b645148b3755960434aa.png",
       "stats": {
-        "views": 66200000
+        "views": 66800000
       }
     },
     {
@@ -772,7 +790,7 @@
       "name": "#ArabStreetFashion",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f4f97ea2322c01405bb3813b46871744.png",
       "stats": {
-        "views": 218000000
+        "views": 218300000
       }
     },
     {
@@ -799,25 +817,7 @@
       "name": "#SustainableBeauty",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c0a73ce66ec122224021bc43428cf0b1.png",
       "stats": {
-        "views": 85300000
-      }
-    },
-    {
-      "challengeId": "1621354782236677",
-      "description": "Grab your supplies because it's time for #ArtTok.",
-      "name": "#arttok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0d740a9f1057e1e2ede54fac28ff1818.png",
-      "stats": {
-        "views": 7700000000
-      }
-    },
-    {
-      "challengeId": "12744",
-      "description": "The NBA Playoffs are officially here, so practice your form, pull on a jersey, and get ready to celebrate the best in the #NBA.",
-      "name": "#NBA",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f98b0ad0e1e8fee1ed5dbd15e1ef150f.jpeg",
-      "stats": {
-        "views": 74800000000
+        "views": 85600000
       }
     }
   ],
@@ -844,7 +844,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8778f5f2662c4af0b5c7617741f129c9"
       },
       "stats": {
-        "posts": 57400
+        "posts": 57500
       }
     },
     {
@@ -869,7 +869,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7cfa31eaa83b47acb299e21a304d3639"
       },
       "stats": {
-        "posts": 202600
+        "posts": 203400
       }
     },
     {
@@ -894,7 +894,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/1866528bec9c479d8dc11ab17162af2f"
       },
       "stats": {
-        "posts": 430200
+        "posts": 430500
       }
     },
     {
@@ -944,7 +944,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/ad7aa7548b76485ca9bd378091a56554"
       },
       "stats": {
-        "posts": 53400
+        "posts": 53500
       }
     },
     {
@@ -994,7 +994,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/a7ac14e3658340eb8a54bac83aee0fc9"
       },
       "stats": {
-        "posts": 254200
+        "posts": 254300
       }
     },
     {
@@ -1019,7 +1019,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7d580b1816cc428f9e64b0f346a7971a"
       },
       "stats": {
-        "posts": 194200
+        "posts": 194500
       }
     },
     {
