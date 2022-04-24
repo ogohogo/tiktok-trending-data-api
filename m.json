@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 39200000,
-        "likes": 272700000
+        "likes": 273200000
       }
     },
     {
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 24000000,
-        "likes": 94000000
+        "likes": 94100000
       }
     },
     {
@@ -620,7 +620,7 @@
         }
       },
       "stats": {
-        "followers": 488800,
+        "followers": 489000,
         "likes": 3200000
       }
     },
@@ -731,12 +731,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "10133652",
+      "description": "Welcome to #CarTok.",
+      "name": "#cartok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9c81cdbd62ae540f6b4855d6e020ff9f.jpeg",
+      "stats": {
+        "views": 17300000000
+      }
+    },
+    {
+      "challengeId": "3611815",
+      "description": "Grab your mic and show us your #Podcast.",
+      "name": "#podcast",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d0e1c793a1e033bf84e3d6dc4d9a3718.jpeg",
+      "stats": {
+        "views": 23400000000
+      }
+    },
+    {
       "challengeId": "1662721768357894",
       "description": "Whether you're enseñando español to a friend, or pasando tiempo with family, here's to #SpanglishTikTok.",
       "name": "#spanglishtiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e73d19a4f0600fc8a9b49b9e3ff8d388.png",
       "stats": {
-        "views": 46500000
+        "views": 46800000
       }
     },
     {
@@ -772,7 +790,7 @@
       "name": "#naturedocumentary",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f802656c4bf7b645148b3755960434aa.png",
       "stats": {
-        "views": 79900000
+        "views": 80400000
       }
     },
     {
@@ -781,7 +799,7 @@
       "name": "#coffee",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9a350c87dd83d0a57e6172cf0ed56f88.png",
       "stats": {
-        "views": 28200000000
+        "views": 28300000000
       }
     },
     {
@@ -790,7 +808,7 @@
       "name": "#ArabStreetFashion",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f4f97ea2322c01405bb3813b46871744.png",
       "stats": {
-        "views": 223000000
+        "views": 223100000
       }
     },
     {
@@ -800,24 +818,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fc20bdca0050860198b36d3aafe696f7.jpeg",
       "stats": {
         "views": 1800000000
-      }
-    },
-    {
-      "challengeId": "7842",
-      "description": "Show us your #NailArt",
-      "name": "#nailart",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d0430052bbe1f41f834224d31c7b1edf.jpeg",
-      "stats": {
-        "views": 22900000000
-      }
-    },
-    {
-      "challengeId": "1650878995914757",
-      "description": "Here's your roadmap to environmentally-friendly tips that can make all the difference.",
-      "name": "#SustainableBeauty",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/c0a73ce66ec122224021bc43428cf0b1.png",
-      "stats": {
-        "views": 92900000
       }
     }
   ],
@@ -844,7 +844,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8778f5f2662c4af0b5c7617741f129c9"
       },
       "stats": {
-        "posts": 62600
+        "posts": 62800
       }
     },
     {
@@ -869,7 +869,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7cfa31eaa83b47acb299e21a304d3639"
       },
       "stats": {
-        "posts": 224300
+        "posts": 225200
       }
     },
     {
@@ -894,7 +894,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/1866528bec9c479d8dc11ab17162af2f"
       },
       "stats": {
-        "posts": 440400
+        "posts": 440800
       }
     },
     {
@@ -969,7 +969,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/694532c1342843779578dc859056d658"
       },
       "stats": {
-        "posts": 339400
+        "posts": 339500
       }
     },
     {
@@ -1019,7 +1019,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7d580b1816cc428f9e64b0f346a7971a"
       },
       "stats": {
-        "posts": 201100
+        "posts": 201400
       }
     },
     {
