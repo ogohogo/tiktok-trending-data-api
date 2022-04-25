@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 16100000,
-        "likes": 747300000
+        "likes": 747400000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 21400000,
-        "likes": 828300000
+        "likes": 828400000
       }
     },
     {
@@ -751,11 +751,20 @@
       },
       "stats": {
         "followers": 7200000,
-        "likes": 126500000
+        "likes": 126600000
       }
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "1479818",
+      "description": "Whether it's an everyday life hack or a pro-tip everyone needs to know, show us your #TipsAndTricks.",
+      "name": "#tipsandtricks",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f6182d76d6035edd6c3ab5ca02500aee.jpeg",
+      "stats": {
+        "views": 16300000000
+      }
+    },
     {
       "challengeId": "10133652",
       "description": "Welcome to #CarTok.",
@@ -780,7 +789,7 @@
       "name": "#spanglishtiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e73d19a4f0600fc8a9b49b9e3ff8d388.png",
       "stats": {
-        "views": 53500000
+        "views": 53700000
       }
     },
     {
@@ -807,7 +816,7 @@
       "name": "#genshinimpact",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/37198fae28fb0191a47e40ddc7e4150d.png",
       "stats": {
-        "views": 66900000000
+        "views": 67000000000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#naturedocumentary",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f802656c4bf7b645148b3755960434aa.png",
       "stats": {
-        "views": 92500000
+        "views": 92900000
       }
     },
     {
@@ -834,20 +843,36 @@
       "name": "#ArabStreetFashion",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f4f97ea2322c01405bb3813b46871744.png",
       "stats": {
-        "views": 227500000
-      }
-    },
-    {
-      "challengeId": "56901",
-      "description": "Whether you're performing on stage or heading to a festival, here's to all things #LiveMusic.",
-      "name": "#livemusic",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fc20bdca0050860198b36d3aafe696f7.jpeg",
-      "stats": {
-        "views": 1900000000
+        "views": 227700000
       }
     }
   ],
   "music": [
+    {
+      "musicId": "7080712382540647173",
+      "avatar": {
+        "jpeg": {
+          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/cad121901fce4386a4395234ac3edfa8.jpeg",
+          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/cad121901fce4386a4395234ac3edfa8.jpeg",
+          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/cad121901fce4386a4395234ac3edfa8.jpeg",
+          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/cad121901fce4386a4395234ac3edfa8.jpeg"
+        },
+        "webp": {
+          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/cad121901fce4386a4395234ac3edfa8.webp",
+          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/cad121901fce4386a4395234ac3edfa8.webp",
+          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/cad121901fce4386a4395234ac3edfa8.webp",
+          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/cad121901fce4386a4395234ac3edfa8.webp"
+        }
+      },
+      "musicInfo": {
+        "author": "Akintoye",
+        "title": "Pizzazz",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/8d7589f3e3c0468e845b5c2e08adb209"
+      },
+      "stats": {
+        "posts": 214500
+      }
+    },
     {
       "musicId": "6817757662952818689",
       "avatar": {
@@ -870,7 +895,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/8778f5f2662c4af0b5c7617741f129c9"
       },
       "stats": {
-        "posts": 68200
+        "posts": 68400
       }
     },
     {
@@ -895,7 +920,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/7cfa31eaa83b47acb299e21a304d3639"
       },
       "stats": {
-        "posts": 249500
+        "posts": 250300
       }
     },
     {
@@ -920,7 +945,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/1866528bec9c479d8dc11ab17162af2f"
       },
       "stats": {
-        "posts": 449500
+        "posts": 449600
       }
     },
     {
@@ -970,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/ad7aa7548b76485ca9bd378091a56554"
       },
       "stats": {
-        "posts": 56400
+        "posts": 56500
       }
     },
     {
@@ -1045,7 +1070,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/7d580b1816cc428f9e64b0f346a7971a"
       },
       "stats": {
-        "posts": 207700
+        "posts": 208000
       }
     },
     {
@@ -1071,31 +1096,6 @@
       },
       "stats": {
         "posts": 2600000
-      }
-    },
-    {
-      "musicId": "7063288214429108226",
-      "avatar": {
-        "jpeg": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/223e1aaff1ff4c168e6b731e1241b924.jpeg",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/223e1aaff1ff4c168e6b731e1241b924.jpeg",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/223e1aaff1ff4c168e6b731e1241b924.jpeg",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/223e1aaff1ff4c168e6b731e1241b924.jpeg"
-        },
-        "webp": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/223e1aaff1ff4c168e6b731e1241b924.webp",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/223e1aaff1ff4c168e6b731e1241b924.webp",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/223e1aaff1ff4c168e6b731e1241b924.webp",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/223e1aaff1ff4c168e6b731e1241b924.webp"
-        }
-      },
-      "musicInfo": {
-        "author": "4*TOWN (From Disney and Pixar’s Turning Red)",
-        "title": "Nobody Like U - From \"Turning Red\"/Chorus",
-        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/81b89729cd4d43aab64578d9cbfd6cfb"
-      },
-      "stats": {
-        "posts": 1000000
       }
     }
   ]
