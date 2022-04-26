@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 39400000,
-        "likes": 278900000
+        "likes": 279000000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 9900000,
-        "likes": 232900000
+        "likes": 233100000
       }
     },
     {
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 26700000,
-        "likes": 559900000
+        "likes": 560000000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 11800000,
-        "likes": 757000000
+        "likes": 757100000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 21900000,
-        "likes": 848100000
+        "likes": 848200000
       }
     },
     {
@@ -387,7 +387,7 @@
       },
       "stats": {
         "followers": 20400000,
-        "likes": 692500000
+        "likes": 692600000
       }
     },
     {
@@ -413,7 +413,7 @@
       },
       "stats": {
         "followers": 39100000,
-        "likes": 494800000
+        "likes": 494900000
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 5800000,
-        "likes": 204700000
+        "likes": 204800000
       }
     },
     {
@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 9700000,
-        "likes": 351600000
+        "likes": 351700000
       }
     },
     {
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 5800000,
-        "likes": 504000000
+        "likes": 504100000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 21400000,
-        "likes": 828800000
+        "likes": 828900000
       }
     },
     {
@@ -757,6 +757,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "118721",
+      "description": "Catch these immaculate vibes.",
+      "name": "#afrobeats",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6dd8e7536cac8c09a6f9222d72d03369.jpeg",
+      "stats": {
+        "views": 1500000000
+      }
+    },
+    {
       "challengeId": "1479818",
       "description": "Whether it's an everyday life hack or a pro-tip everyone needs to know, show us your #TipsAndTricks.",
       "name": "#tipsandtricks",
@@ -789,7 +798,7 @@
       "name": "#spanglishtiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e73d19a4f0600fc8a9b49b9e3ff8d388.png",
       "stats": {
-        "views": 58300000
+        "views": 58400000
       }
     },
     {
@@ -825,7 +834,7 @@
       "name": "#naturedocumentary",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f802656c4bf7b645148b3755960434aa.png",
       "stats": {
-        "views": 101900000
+        "views": 102300000
       }
     },
     {
@@ -836,18 +845,34 @@
       "stats": {
         "views": 28400000000
       }
-    },
-    {
-      "challengeId": "1672373566214149",
-      "description": "We stan a style icon.",
-      "name": "#ArabStreetFashion",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f4f97ea2322c01405bb3813b46871744.png",
-      "stats": {
-        "views": 230300000
-      }
     }
   ],
   "music": [
+    {
+      "musicId": "7022942508997004038",
+      "avatar": {
+        "jpeg": {
+          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/fdd493df29a64b7692cbd141b4990be4.jpeg",
+          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/fdd493df29a64b7692cbd141b4990be4.jpeg",
+          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/fdd493df29a64b7692cbd141b4990be4.jpeg",
+          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/fdd493df29a64b7692cbd141b4990be4.jpeg"
+        },
+        "webp": {
+          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/fdd493df29a64b7692cbd141b4990be4.webp",
+          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/fdd493df29a64b7692cbd141b4990be4.webp",
+          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/fdd493df29a64b7692cbd141b4990be4.webp",
+          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/fdd493df29a64b7692cbd141b4990be4.webp"
+        }
+      },
+      "musicInfo": {
+        "author": "TIN",
+        "title": "Ticking",
+        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3fe6e3030e68461183385daba3a7d346"
+      },
+      "stats": {
+        "posts": 22500
+      }
+    },
     {
       "musicId": "7080712382540647173",
       "avatar": {
@@ -870,7 +895,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/8d7589f3e3c0468e845b5c2e08adb209"
       },
       "stats": {
-        "posts": 225700
+        "posts": 226000
       }
     },
     {
@@ -895,7 +920,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/8778f5f2662c4af0b5c7617741f129c9"
       },
       "stats": {
-        "posts": 75400
+        "posts": 75600
       }
     },
     {
@@ -920,7 +945,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/7cfa31eaa83b47acb299e21a304d3639"
       },
       "stats": {
-        "posts": 272900
+        "posts": 273700
       }
     },
     {
@@ -945,7 +970,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/1866528bec9c479d8dc11ab17162af2f"
       },
       "stats": {
-        "posts": 456100
+        "posts": 456300
       }
     },
     {
@@ -995,7 +1020,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/ad7aa7548b76485ca9bd378091a56554"
       },
       "stats": {
-        "posts": 57600
+        "posts": 57700
       }
     },
     {
@@ -1045,7 +1070,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/a7ac14e3658340eb8a54bac83aee0fc9"
       },
       "stats": {
-        "posts": 260600
+        "posts": 260700
       }
     },
     {
@@ -1070,32 +1095,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/7d580b1816cc428f9e64b0f346a7971a"
       },
       "stats": {
-        "posts": 214800
-      }
-    },
-    {
-      "musicId": "6795407744489752577",
-      "avatar": {
-        "jpeg": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/768bbffb86804242a5f52cc437e87d9f.jpeg",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/768bbffb86804242a5f52cc437e87d9f.jpeg",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/768bbffb86804242a5f52cc437e87d9f.jpeg",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/768bbffb86804242a5f52cc437e87d9f.jpeg"
-        },
-        "webp": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/768bbffb86804242a5f52cc437e87d9f.webp",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/768bbffb86804242a5f52cc437e87d9f.webp",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/768bbffb86804242a5f52cc437e87d9f.webp",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2774/768bbffb86804242a5f52cc437e87d9f.webp"
-        }
-      },
-      "musicInfo": {
-        "author": "Pharrell Williams",
-        "title": "Just a Cloud Away",
-        "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/a9dc60e62f334229af15a0b1650029ff"
-      },
-      "stats": {
-        "posts": 2600000
+        "posts": 215100
       }
     }
   ]
