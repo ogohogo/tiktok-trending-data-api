@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 32000000,
-        "likes": 482200000
+        "likes": 482300000
       }
     },
     {
@@ -491,7 +491,7 @@
       },
       "stats": {
         "followers": 19900000,
-        "likes": 80600000
+        "likes": 80700000
       }
     },
     {
@@ -672,7 +672,7 @@
         }
       },
       "stats": {
-        "followers": 494900,
+        "followers": 495000,
         "likes": 3200000
       }
     },
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 20300000,
-        "likes": 102700000
+        "likes": 102800000
       }
     },
     {
@@ -730,6 +730,24 @@
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "616436",
+      "description": "Show us your #DigitalArt!",
+      "name": "#digitalart",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/eaaa2c988225c697b6e59ec6dbdfaced.png",
+      "stats": {
+        "views": 19700000000
+      }
+    },
+    {
+      "challengeId": "1063143",
+      "description": "We love romance, so here's to all things love.",
+      "name": "#romcom",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/99108df03a108c1b2308df38f2006572.png",
+      "stats": {
+        "views": 824600000
+      }
+    },
     {
       "challengeId": "118721",
       "description": "Catch these immaculate vibes.",
@@ -772,7 +790,7 @@
       "name": "#spanglishtiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e73d19a4f0600fc8a9b49b9e3ff8d388.png",
       "stats": {
-        "views": 68500000
+        "views": 68900000
       }
     },
     {
@@ -800,24 +818,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/37198fae28fb0191a47e40ddc7e4150d.png",
       "stats": {
         "views": 67300000000
-      }
-    },
-    {
-      "challengeId": "43236723",
-      "description": "Celebrate Earth Week by creating your own #NatureDocumentary! Whether it's sharing the majesty of pets, or the drama of the great outdoors, join PBS Nature and TikTok to celebrate all things nature!",
-      "name": "#naturedocumentary",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f802656c4bf7b645148b3755960434aa.png",
-      "stats": {
-        "views": 111800000
-      }
-    },
-    {
-      "challengeId": "14104",
-      "description": "Drink up!",
-      "name": "#coffee",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9a350c87dd83d0a57e6172cf0ed56f88.png",
-      "stats": {
-        "views": 28400000000
       }
     }
   ],
@@ -869,7 +869,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8d7589f3e3c0468e845b5c2e08adb209"
       },
       "stats": {
-        "posts": 236700
+        "posts": 237000
       }
     },
     {
@@ -894,7 +894,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8778f5f2662c4af0b5c7617741f129c9"
       },
       "stats": {
-        "posts": 81900
+        "posts": 82100
       }
     },
     {
@@ -919,7 +919,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7cfa31eaa83b47acb299e21a304d3639"
       },
       "stats": {
-        "posts": 294200
+        "posts": 294900
       }
     },
     {
@@ -944,7 +944,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/1866528bec9c479d8dc11ab17162af2f"
       },
       "stats": {
-        "posts": 462000
+        "posts": 462200
       }
     },
     {
@@ -1044,7 +1044,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/a7ac14e3658340eb8a54bac83aee0fc9"
       },
       "stats": {
-        "posts": 262600
+        "posts": 262700
       }
     },
     {
@@ -1069,7 +1069,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7d580b1816cc428f9e64b0f346a7971a"
       },
       "stats": {
-        "posts": 221100
+        "posts": 221300
       }
     }
   ]
