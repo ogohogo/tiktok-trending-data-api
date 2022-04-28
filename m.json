@@ -387,7 +387,7 @@
       },
       "stats": {
         "followers": 15600000,
-        "likes": 153000000
+        "likes": 153100000
       }
     },
     {
@@ -698,7 +698,7 @@
         }
       },
       "stats": {
-        "followers": 496700,
+        "followers": 496800,
         "likes": 3200000
       }
     },
@@ -731,6 +731,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "8369480",
+      "description": "Whether you're heading to Las Vegas or just running a mock draft, check in here to see all the action from the #NFLDraft.",
+      "name": "#nfldraft",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f2c342b8f8c15a3099c53de6dc2aaa37.jpeg",
+      "stats": {
+        "views": 1000000000
+      }
+    },
+    {
+      "challengeId": "94663",
+      "description": "Show us those before and afters.",
+      "name": "#beforeandafter",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4179b0db431b60035b5466ec4d8397b8.png",
+      "stats": {
+        "views": 15500000000
+      }
+    },
+    {
       "challengeId": "616436",
       "description": "Show us your #DigitalArt!",
       "name": "#digitalart",
@@ -745,7 +763,7 @@
       "name": "#romcom",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/99108df03a108c1b2308df38f2006572.png",
       "stats": {
-        "views": 846600000
+        "views": 847700000
       }
     },
     {
@@ -790,7 +808,7 @@
       "name": "#spanglishtiktok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e73d19a4f0600fc8a9b49b9e3ff8d388.png",
       "stats": {
-        "views": 81900000
+        "views": 82500000
       }
     },
     {
@@ -800,24 +818,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9d5bdc53d5151706a48dbc15099e887d.png",
       "stats": {
         "views": 6700000000
-      }
-    },
-    {
-      "challengeId": "18031",
-      "description": "Earth Day is here, and we're celebrating the planet we call home. So whether it's recycling tips or sharing conservation efforts around the world, show us how you're supporting our planet.",
-      "name": "#earthday",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/de2d0070a79e59749c135f47fc1edeb7.jpeg",
-      "stats": {
-        "views": 5600000000
-      }
-    },
-    {
-      "challengeId": "1657799988148225",
-      "description": "From epic quests to essential tips, here's to all things #GenshinImpact.",
-      "name": "#genshinimpact",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/37198fae28fb0191a47e40ddc7e4150d.png",
-      "stats": {
-        "views": 67500000000
       }
     }
   ],
@@ -844,7 +844,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3fe6e3030e68461183385daba3a7d346"
       },
       "stats": {
-        "posts": 25600
+        "posts": 25700
       }
     },
     {
@@ -869,7 +869,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8d7589f3e3c0468e845b5c2e08adb209"
       },
       "stats": {
-        "posts": 247500
+        "posts": 247800
       }
     },
     {
@@ -894,7 +894,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8778f5f2662c4af0b5c7617741f129c9"
       },
       "stats": {
-        "posts": 88000
+        "posts": 88200
       }
     },
     {
@@ -919,7 +919,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7cfa31eaa83b47acb299e21a304d3639"
       },
       "stats": {
-        "posts": 316000
+        "posts": 316800
       }
     },
     {
@@ -944,7 +944,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/1866528bec9c479d8dc11ab17162af2f"
       },
       "stats": {
-        "posts": 466700
+        "posts": 466900
       }
     },
     {
@@ -994,7 +994,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/ad7aa7548b76485ca9bd378091a56554"
       },
       "stats": {
-        "posts": 60200
+        "posts": 60300
       }
     },
     {
@@ -1044,7 +1044,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/a7ac14e3658340eb8a54bac83aee0fc9"
       },
       "stats": {
-        "posts": 264200
+        "posts": 264300
       }
     },
     {
@@ -1069,7 +1069,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7d580b1816cc428f9e64b0f346a7971a"
       },
       "stats": {
-        "posts": 226600
+        "posts": 226800
       }
     }
   ]
