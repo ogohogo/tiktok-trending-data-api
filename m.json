@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 39600000,
-        "likes": 282500000
+        "likes": 282600000
       }
     },
     {
@@ -724,12 +724,30 @@
         }
       },
       "stats": {
-        "followers": 499000,
+        "followers": 499100,
         "likes": 3300000
       }
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "1617319982244870",
+      "description": "It's the TikTok Food Festival, and we're celebrating all things #foodtok, from the viral recipes that got us cooking, to the tastemakers we watched on repeat. Check out the Food Fest Hub to discover more:  https://tinyurl.com/4phjapwj",
+      "name": "#foodtok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1b1b04bc683aa28afc7a9d90423c566e.jpeg",
+      "stats": {
+        "views": 18100000000
+      }
+    },
+    {
+      "challengeId": "6114",
+      "description": "Whether it's hair care or sharing your latest routine, we're here for all things #Hairstyle.",
+      "name": "#hairstyle",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/41b02ee81990cf285d972402794995d8.png",
+      "stats": {
+        "views": 53900000000
+      }
+    },
     {
       "challengeId": "8369480",
       "description": "Whether you're heading to Las Vegas or just running a mock draft, check in here to see all the action from the #NFLDraft.",
@@ -763,7 +781,7 @@
       "name": "#romcom",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/99108df03a108c1b2308df38f2006572.png",
       "stats": {
-        "views": 877600000
+        "views": 878800000
       }
     },
     {
@@ -800,24 +818,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d0e1c793a1e033bf84e3d6dc4d9a3718.jpeg",
       "stats": {
         "views": 23900000000
-      }
-    },
-    {
-      "challengeId": "1662721768357894",
-      "description": "Whether you're enseñando español to a friend, or pasando tiempo with family, here's to #SpanglishTikTok.",
-      "name": "#spanglishtiktok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e73d19a4f0600fc8a9b49b9e3ff8d388.png",
-      "stats": {
-        "views": 95900000
-      }
-    },
-    {
-      "challengeId": "1598183468378114",
-      "description": "From road trips to traveling overseas here's to everything #TravelTikTok.",
-      "name": "#traveltiktok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9d5bdc53d5151706a48dbc15099e887d.png",
-      "stats": {
-        "views": 6700000000
       }
     }
   ],
@@ -869,7 +869,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8d7589f3e3c0468e845b5c2e08adb209"
       },
       "stats": {
-        "posts": 257300
+        "posts": 257600
       }
     },
     {
@@ -894,7 +894,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8778f5f2662c4af0b5c7617741f129c9"
       },
       "stats": {
-        "posts": 93600
+        "posts": 93800
       }
     },
     {
@@ -919,7 +919,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7cfa31eaa83b47acb299e21a304d3639"
       },
       "stats": {
-        "posts": 337000
+        "posts": 337700
       }
     },
     {
@@ -944,7 +944,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/1866528bec9c479d8dc11ab17162af2f"
       },
       "stats": {
-        "posts": 471200
+        "posts": 471300
       }
     },
     {
@@ -1019,7 +1019,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/694532c1342843779578dc859056d658"
       },
       "stats": {
-        "posts": 344700
+        "posts": 344800
       }
     },
     {
@@ -1044,7 +1044,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/a7ac14e3658340eb8a54bac83aee0fc9"
       },
       "stats": {
-        "posts": 266100
+        "posts": 266200
       }
     },
     {
@@ -1069,7 +1069,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7d580b1816cc428f9e64b0f346a7971a"
       },
       "stats": {
-        "posts": 231500
+        "posts": 231700
       }
     }
   ]
