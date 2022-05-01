@@ -698,7 +698,7 @@
         }
       },
       "stats": {
-        "followers": 502500,
+        "followers": 502600,
         "likes": 3300000
       }
     },
@@ -731,6 +731,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1667694652328966",
+      "description": "From small business owners, to designers, chefs, and artists, celebrate Asian and Pacific Islander Heritage Month on TikTok today and every day.",
+      "name": "#apifamily",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0708e9d4e9d1cc83d7c0b4e5b3c4e819.jpeg",
+      "stats": {
+        "views": 77500000
+      }
+    },
+    {
+      "challengeId": "3256198",
+      "description": "Mental health comes first, so let's come together as a community to end stigmas and ensure that everyone has the resources and support they need. From checking in on one another, to sharing our own personal journeys, here's to #MentalHealthAwareness and a world where everyone has a support system to thrive.",
+      "name": "#MentalHealthAwareness",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0cb3b4dbdde638b41a23d5c933871389.png",
+      "stats": {
+        "views": 9000000000
+      }
+    },
+    {
       "challengeId": "1592238930108417",
       "description": "From small business owners to cooks and style icons, here's to our thriving community of creators creating culture around the world. Here's to #ArabTikTok.",
       "name": "#ArabTikTok",
@@ -745,7 +763,7 @@
       "name": "#noonecanstopme",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e8d2a718f76a80f5777c090a4986a7de.png",
       "stats": {
-        "views": 69700000
+        "views": 71300000
       }
     },
     {
@@ -799,25 +817,7 @@
       "name": "#romcom",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/99108df03a108c1b2308df38f2006572.png",
       "stats": {
-        "views": 929100000
-      }
-    },
-    {
-      "challengeId": "118721",
-      "description": "Catch these immaculate vibes.",
-      "name": "#afrobeats",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6dd8e7536cac8c09a6f9222d72d03369.jpeg",
-      "stats": {
-        "views": 1600000000
-      }
-    },
-    {
-      "challengeId": "1479818",
-      "description": "Whether it's an everyday life hack or a pro-tip everyone needs to know, show us your #TipsAndTricks.",
-      "name": "#tipsandtricks",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f6182d76d6035edd6c3ab5ca02500aee.jpeg",
-      "stats": {
-        "views": 16900000000
+        "views": 929900000
       }
     }
   ],
@@ -869,7 +869,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8d7589f3e3c0468e845b5c2e08adb209"
       },
       "stats": {
-        "posts": 280900
+        "posts": 281200
       }
     },
     {
@@ -894,7 +894,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8778f5f2662c4af0b5c7617741f129c9"
       },
       "stats": {
-        "posts": 102200
+        "posts": 102400
       }
     },
     {
@@ -919,7 +919,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7cfa31eaa83b47acb299e21a304d3639"
       },
       "stats": {
-        "posts": 379900
+        "posts": 380600
       }
     },
     {
@@ -944,7 +944,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/1866528bec9c479d8dc11ab17162af2f"
       },
       "stats": {
-        "posts": 481800
+        "posts": 481900
       }
     },
     {
@@ -1044,7 +1044,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/a7ac14e3658340eb8a54bac83aee0fc9"
       },
       "stats": {
-        "posts": 269900
+        "posts": 270000
       }
     },
     {
@@ -1069,7 +1069,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7d580b1816cc428f9e64b0f346a7971a"
       },
       "stats": {
-        "posts": 238900
+        "posts": 239100
       }
     }
   ]
