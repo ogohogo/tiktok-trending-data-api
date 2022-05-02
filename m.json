@@ -594,7 +594,7 @@
         }
       },
       "stats": {
-        "followers": 542900,
+        "followers": 543800,
         "likes": 4100000
       }
     },
@@ -731,12 +731,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "12843775",
+      "description": "Incredible looks, iconic fashion. Experience the #MetGala on TikTok.",
+      "name": "#metgala",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1748ce6414cbb24f5316fa9c1ba97345.jpeg",
+      "stats": {
+        "views": 4200000000
+      }
+    },
+    {
+      "challengeId": "43883",
+      "description": "Ooh, #ThisIsMySong!",
+      "name": "#thisismysong",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5dce7d9665cb2641d027619b8e465645.png",
+      "stats": {
+        "views": 48000000
+      }
+    },
+    {
       "challengeId": "1667694652328966",
       "description": "From small business owners, to designers, chefs, and artists, celebrate Asian and Pacific Islander Heritage Month on TikTok today and every day.",
       "name": "#apifamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0708e9d4e9d1cc83d7c0b4e5b3c4e819.jpeg",
       "stats": {
-        "views": 171700000
+        "views": 172400000
       }
     },
     {
@@ -763,7 +781,7 @@
       "name": "#noonecanstopme",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e8d2a718f76a80f5777c090a4986a7de.png",
       "stats": {
-        "views": 121100000
+        "views": 123100000
       }
     },
     {
@@ -800,24 +818,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4179b0db431b60035b5466ec4d8397b8.png",
       "stats": {
         "views": 15800000000
-      }
-    },
-    {
-      "challengeId": "616436",
-      "description": "Show us your #DigitalArt!",
-      "name": "#digitalart",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/eaaa2c988225c697b6e59ec6dbdfaced.png",
-      "stats": {
-        "views": 20000000000
-      }
-    },
-    {
-      "challengeId": "1063143",
-      "description": "We love romance, so here's to all things love.",
-      "name": "#romcom",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/99108df03a108c1b2308df38f2006572.png",
-      "stats": {
-        "views": 947200000
       }
     }
   ],
@@ -869,7 +869,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8d7589f3e3c0468e845b5c2e08adb209"
       },
       "stats": {
-        "posts": 291300
+        "posts": 291600
       }
     },
     {
@@ -894,7 +894,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8778f5f2662c4af0b5c7617741f129c9"
       },
       "stats": {
-        "posts": 106100
+        "posts": 106300
       }
     },
     {
@@ -919,7 +919,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7cfa31eaa83b47acb299e21a304d3639"
       },
       "stats": {
-        "posts": 401200
+        "posts": 401900
       }
     },
     {
@@ -944,7 +944,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/1866528bec9c479d8dc11ab17162af2f"
       },
       "stats": {
-        "posts": 485600
+        "posts": 485700
       }
     },
     {
@@ -994,7 +994,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/ad7aa7548b76485ca9bd378091a56554"
       },
       "stats": {
-        "posts": 67300
+        "posts": 67400
       }
     },
     {
@@ -1069,7 +1069,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7d580b1816cc428f9e64b0f346a7971a"
       },
       "stats": {
-        "posts": 242600
+        "posts": 242800
       }
     }
   ]
