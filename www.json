@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 39800000,
-        "likes": 287500000
+        "likes": 287700000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 33900000,
-        "likes": 164200000
+        "likes": 164300000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 15700000,
-        "likes": 153700000
+        "likes": 153800000
       }
     },
     {
@@ -568,7 +568,7 @@
         }
       },
       "stats": {
-        "followers": 550600,
+        "followers": 550800,
         "likes": 4200000
       }
     },
@@ -731,12 +731,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1607493519937537",
+      "description": "Here's to all the #TeachersOfTikTok.",
+      "name": "#teachersoftiktok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/78925cf0efe2f0dd9f059692d04dfd27.png",
+      "stats": {
+        "views": 25700000000
+      }
+    },
+    {
       "challengeId": "12843775",
       "description": "Incredible looks, iconic fashion. Experience the #MetGala on TikTok.",
       "name": "#metgala",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1748ce6414cbb24f5316fa9c1ba97345.jpeg",
       "stats": {
-        "views": 4900000000
+        "views": 5000000000
       }
     },
     {
@@ -745,7 +754,7 @@
       "name": "#thisismysong",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5dce7d9665cb2641d027619b8e465645.png",
       "stats": {
-        "views": 69800000
+        "views": 70900000
       }
     },
     {
@@ -754,7 +763,7 @@
       "name": "#apifamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0708e9d4e9d1cc83d7c0b4e5b3c4e819.jpeg",
       "stats": {
-        "views": 189100000
+        "views": 189500000
       }
     },
     {
@@ -781,7 +790,7 @@
       "name": "#noonecanstopme",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e8d2a718f76a80f5777c090a4986a7de.png",
       "stats": {
-        "views": 160300000
+        "views": 161700000
       }
     },
     {
@@ -799,7 +808,7 @@
       "name": "#hairstyle",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/41b02ee81990cf285d972402794995d8.png",
       "stats": {
-        "views": 54400000000
+        "views": 54500000000
       }
     },
     {
@@ -809,15 +818,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f2c342b8f8c15a3099c53de6dc2aaa37.jpeg",
       "stats": {
         "views": 1400000000
-      }
-    },
-    {
-      "challengeId": "94663",
-      "description": "Show us those before and afters.",
-      "name": "#beforeandafter",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4179b0db431b60035b5466ec4d8397b8.png",
-      "stats": {
-        "views": 15900000000
       }
     }
   ],
@@ -841,7 +841,7 @@
       "musicInfo": {
         "author": "TIN",
         "title": "Ticking",
-        "playUrl": "h"
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3fe6e3030e68461183385daba3a7d346"
       },
       "stats": {
         "posts": 30500
@@ -866,10 +866,10 @@
       "musicInfo": {
         "author": "Akintoye",
         "title": "Pizzazz",
-        "playUrl": "h"
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8d7589f3e3c0468e845b5c2e08adb209"
       },
       "stats": {
-        "posts": 299900
+        "posts": 300200
       }
     },
     {
@@ -891,10 +891,10 @@
       "musicInfo": {
         "author": "Jazz Background Vibes",
         "title": "Summer Background Jazz",
-        "playUrl": "h"
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8778f5f2662c4af0b5c7617741f129c9"
       },
       "stats": {
-        "posts": 109900
+        "posts": 110100
       }
     },
     {
@@ -916,10 +916,10 @@
       "musicInfo": {
         "author": "Jack Harlow",
         "title": "First Class",
-        "playUrl": "h"
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7cfa31eaa83b47acb299e21a304d3639"
       },
       "stats": {
-        "posts": 422400
+        "posts": 423100
       }
     },
     {
@@ -941,10 +941,10 @@
       "musicInfo": {
         "author": "Pilo Tejeda",
         "title": "Sopa de Caracol (Re-Master 2022)",
-        "playUrl": "h"
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/1866528bec9c479d8dc11ab17162af2f"
       },
       "stats": {
-        "posts": 488600
+        "posts": 488700
       }
     },
     {
@@ -966,7 +966,7 @@
       "musicInfo": {
         "author": "Harry Styles",
         "title": "As It Was",
-        "playUrl": "h"
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/e1711e8dc2054a62b8fa2550c5e6d0f3"
       },
       "stats": {
         "posts": 1600000
@@ -991,10 +991,10 @@
       "musicInfo": {
         "author": "LIL GLOCK 420",
         "title": "FASHION",
-        "playUrl": "h"
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/ad7aa7548b76485ca9bd378091a56554"
       },
       "stats": {
-        "posts": 69800
+        "posts": 69900
       }
     },
     {
@@ -1016,10 +1016,10 @@
       "musicInfo": {
         "author": "Patsy Cline",
         "title": "Crazy",
-        "playUrl": "h"
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/694532c1342843779578dc859056d658"
       },
       "stats": {
-        "posts": 348500
+        "posts": 348600
       }
     },
     {
@@ -1041,7 +1041,7 @@
       "musicInfo": {
         "author": "AnnenMayKantereit & Giant Rooks",
         "title": "Tom's Diner",
-        "playUrl": "h"
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/a7ac14e3658340eb8a54bac83aee0fc9"
       },
       "stats": {
         "posts": 272400
@@ -1066,10 +1066,10 @@
       "musicInfo": {
         "author": "Keith Whitley",
         "title": "Miami, My Amy",
-        "playUrl": "h"
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7d580b1816cc428f9e64b0f346a7971a"
       },
       "stats": {
-        "posts": 246300
+        "posts": 246400
       }
     }
   ]
