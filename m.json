@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 39900000,
-        "likes": 289500000
+        "likes": 289600000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 15900000,
-        "likes": 79300000
+        "likes": 79400000
       }
     },
     {
@@ -516,7 +516,7 @@
         }
       },
       "stats": {
-        "followers": 553200,
+        "followers": 553300,
         "likes": 4300000
       }
     },
@@ -731,6 +731,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "14953",
+      "description": "Get ready to hit the ice because the #NHL Playoffs are officially here! Grab your stick and show us how you're celebrating all things hockey.",
+      "name": "#NHL",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fe2b7f3c31bc9d27aab804f28f903b42.jpeg",
+      "stats": {
+        "views": 5700000000
+      }
+    },
+    {
+      "challengeId": "2513794",
+      "description": "#StarWarsDay is officially here, so whether you're strapping in to head to a starcruiser, or celebrating in a galaxy not so far away, May the 4th be with you!",
+      "name": "#starwarsday",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6ee0bd76d59a56fe6c46db056498047e",
+      "stats": {
+        "views": 456800000
+      }
+    },
+    {
       "challengeId": "1607493519937537",
       "description": "Here's to all the #TeachersOfTikTok.",
       "name": "#teachersoftiktok",
@@ -754,7 +772,7 @@
       "name": "#thisismysong",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5dce7d9665cb2641d027619b8e465645.png",
       "stats": {
-        "views": 96200000
+        "views": 97200000
       }
     },
     {
@@ -763,7 +781,7 @@
       "name": "#apifamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0708e9d4e9d1cc83d7c0b4e5b3c4e819.jpeg",
       "stats": {
-        "views": 201900000
+        "views": 202500000
       }
     },
     {
@@ -790,7 +808,7 @@
       "name": "#noonecanstopme",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e8d2a718f76a80f5777c090a4986a7de.png",
       "stats": {
-        "views": 204800000
+        "views": 206300000
       }
     },
     {
@@ -800,24 +818,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1b1b04bc683aa28afc7a9d90423c566e.jpeg",
       "stats": {
         "views": 18700000000
-      }
-    },
-    {
-      "challengeId": "6114",
-      "description": "Whether it's hair care or sharing your latest routine, we're here for all things #Hairstyle.",
-      "name": "#hairstyle",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/41b02ee81990cf285d972402794995d8.png",
-      "stats": {
-        "views": 54600000000
-      }
-    },
-    {
-      "challengeId": "8369480",
-      "description": "Whether you're heading to Las Vegas or just running a mock draft, check in here to see all the action from the #NFLDraft.",
-      "name": "#nfldraft",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f2c342b8f8c15a3099c53de6dc2aaa37.jpeg",
-      "stats": {
-        "views": 1500000000
       }
     }
   ],
@@ -869,7 +869,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8d7589f3e3c0468e845b5c2e08adb209"
       },
       "stats": {
-        "posts": 305000
+        "posts": 305100
       }
     },
     {
@@ -894,7 +894,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8778f5f2662c4af0b5c7617741f129c9"
       },
       "stats": {
-        "posts": 113300
+        "posts": 113400
       }
     },
     {
@@ -919,7 +919,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8712eb155ead4a259d0556ce2249f72f"
       },
       "stats": {
-        "posts": 443500
+        "posts": 444200
       }
     },
     {
@@ -944,7 +944,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/1866528bec9c479d8dc11ab17162af2f"
       },
       "stats": {
-        "posts": 491400
+        "posts": 491500
       }
     },
     {
@@ -994,7 +994,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/ad7aa7548b76485ca9bd378091a56554"
       },
       "stats": {
-        "posts": 72800
+        "posts": 73000
       }
     },
     {
@@ -1069,7 +1069,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/7d580b1816cc428f9e64b0f346a7971a"
       },
       "stats": {
-        "posts": 249300
+        "posts": 249400
       }
     }
   ]
