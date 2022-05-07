@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 34000000,
-        "likes": 165600000
+        "likes": 165700000
       }
     },
     {
@@ -542,7 +542,7 @@
         }
       },
       "stats": {
-        "followers": 558400,
+        "followers": 558500,
         "likes": 4400000
       }
     },
@@ -731,6 +731,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1617686924395526",
+      "description": "Whether you're hitting the gym or hitting the trail, work it out with #FitTok.",
+      "name": "#FitTok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/43b7eca6d9af9cc8f425a7626e96a128.jpeg",
+      "stats": {
+        "views": 20300000000
+      }
+    },
+    {
+      "challengeId": "1618848592828422",
+      "description": "Welcome to #Science TikTok.",
+      "name": "#science",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/58ac2a17bc79185baf42ba838a065b30.png",
+      "stats": {
+        "views": 42600000000
+      }
+    },
+    {
       "challengeId": "380862",
       "description": "The WNBA is back and we're getting ready for tip-off on TikTok. So whether it's an epic trick shot, rooting for your team, or supporting your favorite pros, here's to the #WNBA.",
       "name": "#WNBA",
@@ -772,7 +790,7 @@
       "name": "#starwarsday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6ee0bd76d59a56fe6c46db056498047e",
       "stats": {
-        "views": 598800000
+        "views": 600200000
       }
     },
     {
@@ -799,25 +817,7 @@
       "name": "#thisismysong",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5dce7d9665cb2641d027619b8e465645.png",
       "stats": {
-        "views": 145200000
-      }
-    },
-    {
-      "challengeId": "1667694652328966",
-      "description": "From small business owners, to designers, chefs, and artists, celebrate Asian and Pacific Islander Heritage Month on TikTok today and every day.",
-      "name": "#apifamily",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0708e9d4e9d1cc83d7c0b4e5b3c4e819.jpeg",
-      "stats": {
-        "views": 245600000
-      }
-    },
-    {
-      "challengeId": "3256198",
-      "description": "Mental health comes first, so let's come together as a community to end stigmas and ensure that everyone has the resources and support they need. From checking in on one another, to sharing our own personal journeys, here's to #MentalHealthAwareness and a world where everyone has a support system to thrive.",
-      "name": "#MentalHealthAwareness",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0cb3b4dbdde638b41a23d5c933871389.png",
-      "stats": {
-        "views": 9200000000
+        "views": 145800000
       }
     }
   ],
@@ -844,7 +844,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/4e6dd23ccdb843f79956eeeab0c8999f"
       },
       "stats": {
-        "posts": 216800
+        "posts": 217100
       }
     },
     {
@@ -894,7 +894,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8d7589f3e3c0468e845b5c2e08adb209"
       },
       "stats": {
-        "posts": 315700
+        "posts": 315800
       }
     },
     {
@@ -919,7 +919,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8778f5f2662c4af0b5c7617741f129c9"
       },
       "stats": {
-        "posts": 120600
+        "posts": 120700
       }
     },
     {
@@ -944,7 +944,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8712eb155ead4a259d0556ce2249f72f"
       },
       "stats": {
-        "posts": 514200
+        "posts": 514900
       }
     },
     {
@@ -1019,7 +1019,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/ad7aa7548b76485ca9bd378091a56554"
       },
       "stats": {
-        "posts": 82800
+        "posts": 82900
       }
     },
     {
