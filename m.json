@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 40100000,
-        "likes": 293600000
+        "likes": 293700000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 32200000,
-        "likes": 488600000
+        "likes": 488700000
       }
     },
     {
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 52400000,
-        "likes": 298300000
+        "likes": 298400000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 15700000,
-        "likes": 155000000
+        "likes": 155100000
       }
     },
     {
@@ -568,7 +568,7 @@
         }
       },
       "stats": {
-        "followers": 562200,
+        "followers": 562500,
         "likes": 4400000
       }
     },
@@ -731,6 +731,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1667694652328966",
+      "description": "From small business owners, to designers, chefs, and artists, celebrate Asian and Pacific Islander Heritage Month on TikTok today and every day.",
+      "name": "#apifamily",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0708e9d4e9d1cc83d7c0b4e5b3c4e819.jpeg",
+      "stats": {
+        "views": 280500000
+      }
+    },
+    {
       "challengeId": "14368",
       "description": "We're celebrating all things #AmericanIdol on TikTok! Whether you're rooting for your favorite contestant, singing along to 'A Moment Like This,' or getting ready for this season's finale, sing your heart out and be discovered. Watch a new American Idol, LIVE on SUNDAY at 8e/5p on ABC and Stream on Hulu!",
       "name": "#americanidol",
@@ -808,16 +817,7 @@
       "name": "#starwarsday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6ee0bd76d59a56fe6c46db056498047e",
       "stats": {
-        "views": 657800000
-      }
-    },
-    {
-      "challengeId": "1607493519937537",
-      "description": "Here's to all the #TeachersOfTikTok.",
-      "name": "#teachersoftiktok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/78925cf0efe2f0dd9f059692d04dfd27.png",
-      "stats": {
-        "views": 26100000000
+        "views": 658900000
       }
     }
   ],
@@ -844,7 +844,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/62d497a35bcf407598da8ac1d741359b"
       },
       "stats": {
-        "posts": 130800
+        "posts": 132400
       }
     },
     {
@@ -869,7 +869,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/4e6dd23ccdb843f79956eeeab0c8999f"
       },
       "stats": {
-        "posts": 235600
+        "posts": 236000
       }
     },
     {
@@ -919,7 +919,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8d7589f3e3c0468e845b5c2e08adb209"
       },
       "stats": {
-        "posts": 322000
+        "posts": 322100
       }
     },
     {
@@ -944,7 +944,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8778f5f2662c4af0b5c7617741f129c9"
       },
       "stats": {
-        "posts": 124900
+        "posts": 125100
       }
     },
     {
@@ -969,7 +969,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8712eb155ead4a259d0556ce2249f72f"
       },
       "stats": {
-        "posts": 562700
+        "posts": 563600
       }
     },
     {
@@ -1044,7 +1044,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/ad7aa7548b76485ca9bd378091a56554"
       },
       "stats": {
-        "posts": 89500
+        "posts": 89700
       }
     },
     {
