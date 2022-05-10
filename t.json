@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 22500000,
-        "likes": 878300000
+        "likes": 878400000
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 20600000,
-        "likes": 708000000
+        "likes": 708100000
       }
     },
     {
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 12600000,
-        "likes": 444400000
+        "likes": 444500000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 24100000,
-        "likes": 295000000
+        "likes": 295100000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 23700000,
-        "likes": 533300000
+        "likes": 533400000
       }
     },
     {
@@ -386,8 +386,8 @@
         }
       },
       "stats": {
-        "followers": 25000000,
-        "likes": 440400000
+        "followers": 25100000,
+        "likes": 440500000
       }
     },
     {
@@ -569,7 +569,7 @@
       },
       "stats": {
         "followers": 39400000,
-        "likes": 513300000
+        "likes": 513400000
       }
     },
     {
@@ -783,12 +783,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "65866",
+      "description": "Show us how you game with #LetsPlay on TikTok.",
+      "name": "#letsplay",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/037dd72311e3b26055806197009c07a5.jpeg",
+      "stats": {
+        "views": 3500000000
+      }
+    },
+    {
       "challengeId": "1667694652328966",
       "description": "From small business owners, to designers, chefs, and artists, celebrate Asian and Pacific Islander Heritage Month on TikTok today and every day.",
       "name": "#apifamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0708e9d4e9d1cc83d7c0b4e5b3c4e819.jpeg",
       "stats": {
-        "views": 302900000
+        "views": 304800000
       }
     },
     {
@@ -862,15 +871,6 @@
       "stats": {
         "views": 5900000000
       }
-    },
-    {
-      "challengeId": "2513794",
-      "description": "#StarWarsDay is officially here, so whether you're strapping in to head to a starcruiser, or celebrating in a galaxy not so far away, May the 4th be with you!",
-      "name": "#starwarsday",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6ee0bd76d59a56fe6c46db056498047e",
-      "stats": {
-        "views": 676100000
-      }
     }
   ],
   "music": [
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/62d497a35bcf407598da8ac1d741359b"
       },
       "stats": {
-        "posts": 154600
+        "posts": 155900
       }
     },
     {
@@ -921,7 +921,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/4e6dd23ccdb843f79956eeeab0c8999f"
       },
       "stats": {
-        "posts": 241800
+        "posts": 242100
       }
     },
     {
@@ -946,7 +946,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3fe6e3030e68461183385daba3a7d346"
       },
       "stats": {
-        "posts": 35000
+        "posts": 35100
       }
     },
     {
@@ -971,7 +971,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/8d7589f3e3c0468e845b5c2e08adb209"
       },
       "stats": {
-        "posts": 323400
+        "posts": 323500
       }
     },
     {
@@ -996,7 +996,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/8778f5f2662c4af0b5c7617741f129c9"
       },
       "stats": {
-        "posts": 126500
+        "posts": 126600
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/8712eb155ead4a259d0556ce2249f72f"
       },
       "stats": {
-        "posts": 579100
+        "posts": 579900
       }
     },
     {
@@ -1096,7 +1096,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/ad7aa7548b76485ca9bd378091a56554"
       },
       "stats": {
-        "posts": 91300
+        "posts": 91400
       }
     },
     {
