@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 20700000,
-        "likes": 708900000
+        "likes": 709000000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 39400000,
-        "likes": 514800000
+        "likes": 514900000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 12600000,
-        "likes": 445600000
+        "likes": 445700000
       }
     },
     {
@@ -413,7 +413,7 @@
       },
       "stats": {
         "followers": 12000000,
-        "likes": 783700000
+        "likes": 783800000
       }
     },
     {
@@ -439,7 +439,7 @@
       },
       "stats": {
         "followers": 25200000,
-        "likes": 441900000
+        "likes": 442000000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 40200000,
-        "likes": 295500000
+        "likes": 295600000
       }
     },
     {
@@ -543,7 +543,7 @@
       },
       "stats": {
         "followers": 15500000,
-        "likes": 810500000
+        "likes": 810600000
       }
     },
     {
@@ -751,7 +751,7 @@
       },
       "stats": {
         "followers": 6200000,
-        "likes": 541900000
+        "likes": 542000000
       }
     },
     {
@@ -783,6 +783,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "229214",
+      "description": "#SelfCare is key, so share your personal tips for prioritizing yourself.",
+      "name": "#SelfCare",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4e90a5af4b5d458ab66889054d155556.jpeg",
+      "stats": {
+        "views": 21100000000
+      }
+    },
+    {
+      "challengeId": "460811",
+      "description": "What are you #Unboxing?",
+      "name": "#unboxing",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/dd812dc47e09e56b7d27cf3b22667eff.jpeg",
+      "stats": {
+        "views": 34600000000
+      }
+    },
+    {
       "challengeId": "65866",
       "description": "Show us how you game with #LetsPlay on TikTok.",
       "name": "#letsplay",
@@ -797,7 +815,7 @@
       "name": "#apifamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0708e9d4e9d1cc83d7c0b4e5b3c4e819.jpeg",
       "stats": {
-        "views": 343100000
+        "views": 344700000
       }
     },
     {
@@ -853,24 +871,6 @@
       "stats": {
         "views": 1600000000
       }
-    },
-    {
-      "challengeId": "31667995",
-      "description": "Whether it's a local shop or a brand new start-up, here's to each and every #SmallBusiness.",
-      "name": "#SmallBusiness",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1cacd6b7c3f8db3fb582565c51eba464.png",
-      "stats": {
-        "views": 61800000000
-      }
-    },
-    {
-      "challengeId": "14953",
-      "description": "Get ready to hit the ice because the #NHL Playoffs are officially here! Grab your stick and show us how you're celebrating all things hockey.",
-      "name": "#NHL",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fe2b7f3c31bc9d27aab804f28f903b42.jpeg",
-      "stats": {
-        "views": 5900000000
-      }
     }
   ],
   "music": [
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/62d497a35bcf407598da8ac1d741359b"
       },
       "stats": {
-        "posts": 186000
+        "posts": 187000
       }
     },
     {
@@ -921,7 +921,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/4e6dd23ccdb843f79956eeeab0c8999f"
       },
       "stats": {
-        "posts": 248600
+        "posts": 248800
       }
     },
     {
@@ -946,7 +946,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3fe6e3030e68461183385daba3a7d346"
       },
       "stats": {
-        "posts": 35500
+        "posts": 35600
       }
     },
     {
@@ -971,7 +971,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/8d7589f3e3c0468e845b5c2e08adb209"
       },
       "stats": {
-        "posts": 324900
+        "posts": 325000
       }
     },
     {
@@ -996,7 +996,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/8778f5f2662c4af0b5c7617741f129c9"
       },
       "stats": {
-        "posts": 128300
+        "posts": 128400
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/8712eb155ead4a259d0556ce2249f72f"
       },
       "stats": {
-        "posts": 600400
+        "posts": 601100
       }
     },
     {
