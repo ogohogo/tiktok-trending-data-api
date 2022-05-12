@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 40300000,
-        "likes": 296900000
+        "likes": 297200000
       }
     },
     {
@@ -734,7 +734,7 @@
       "challengeId": "229214",
       "description": "#SelfCare is key, so share your personal tips for prioritizing yourself.",
       "name": "#SelfCare",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4e90a5af4b5d458ab66889054d155556.jpeg",
+      "avatar": "https://p16-sg.tiktokcdn.com/obj/tiktok-obj/ed08b5244b11cb94752facb0024e2c8a.png",
       "stats": {
         "views": 21200000000
       }
@@ -763,7 +763,7 @@
       "name": "#apifamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0708e9d4e9d1cc83d7c0b4e5b3c4e819.jpeg",
       "stats": {
-        "views": 381000000
+        "views": 382700000
       }
     },
     {
@@ -823,6 +823,31 @@
   ],
   "music": [
     {
+      "musicId": "6732536571318257666",
+      "avatar": {
+        "jpeg": {
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/34e59ee6d05a42238d50ed37cbcc3d5c~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/34e59ee6d05a42238d50ed37cbcc3d5c~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/34e59ee6d05a42238d50ed37cbcc3d5c~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/34e59ee6d05a42238d50ed37cbcc3d5c~c5_1080x1080.jpeg"
+        },
+        "webp": {
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/34e59ee6d05a42238d50ed37cbcc3d5c~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/34e59ee6d05a42238d50ed37cbcc3d5c~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/34e59ee6d05a42238d50ed37cbcc3d5c~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/34e59ee6d05a42238d50ed37cbcc3d5c~c5_1080x1080.webp"
+        }
+      },
+      "musicInfo": {
+        "author": "Cavendish Music",
+        "title": "Funny Song",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/da56f6ac11374919bbc0e80be23f547f"
+      },
+      "stats": {
+        "posts": 2500000
+      }
+    },
+    {
       "musicId": "7089828122854197249",
       "avatar": {
         "jpeg": {
@@ -844,7 +869,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/62d497a35bcf407598da8ac1d741359b"
       },
       "stats": {
-        "posts": 218900
+        "posts": 220000
       }
     },
     {
@@ -869,7 +894,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/4e6dd23ccdb843f79956eeeab0c8999f"
       },
       "stats": {
-        "posts": 254800
+        "posts": 255000
       }
     },
     {
@@ -919,7 +944,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8d7589f3e3c0468e845b5c2e08adb209"
       },
       "stats": {
-        "posts": 326600
+        "posts": 326700
       }
     },
     {
@@ -969,7 +994,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8712eb155ead4a259d0556ce2249f72f"
       },
       "stats": {
-        "posts": 620800
+        "posts": 621400
       }
     },
     {
@@ -994,7 +1019,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/1866528bec9c479d8dc11ab17162af2f"
       },
       "stats": {
-        "posts": 501900
+        "posts": 501800
       }
     },
     {
@@ -1044,32 +1069,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/ad7aa7548b76485ca9bd378091a56554"
       },
       "stats": {
-        "posts": 95900
-      }
-    },
-    {
-      "musicId": "6791248044907038722",
-      "avatar": {
-        "jpeg": {
-          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/6080826aa4b3453a871fe8abcbd8782c~c5_100x100.jpeg",
-          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/6080826aa4b3453a871fe8abcbd8782c~c5_300x300.jpeg",
-          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/6080826aa4b3453a871fe8abcbd8782c~c5_720x720.jpeg",
-          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/6080826aa4b3453a871fe8abcbd8782c~c5_1080x1080.jpeg"
-        },
-        "webp": {
-          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/6080826aa4b3453a871fe8abcbd8782c~c5_100x100.webp",
-          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/6080826aa4b3453a871fe8abcbd8782c~c5_300x300.webp",
-          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/6080826aa4b3453a871fe8abcbd8782c~c5_720x720.webp",
-          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/6080826aa4b3453a871fe8abcbd8782c~c5_1080x1080.webp"
-        }
-      },
-      "musicInfo": {
-        "author": "Patsy Cline",
-        "title": "Crazy",
-        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/694532c1342843779578dc859056d658"
-      },
-      "stats": {
-        "posts": 354300
+        "posts": 96000
       }
     }
   ]
