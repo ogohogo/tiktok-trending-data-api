@@ -22,8 +22,8 @@
         }
       },
       "stats": {
-        "followers": 40300000,
-        "likes": 299700000
+        "followers": 40400000,
+        "likes": 299900000
       }
     },
     {
@@ -35,16 +35,16 @@
       "verified": true,
       "avatar": {
         "jpeg": {
-          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg",
-          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_300x300.jpeg",
-          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_720x720.jpeg",
-          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_1080x1080.jpeg"
+          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.webp",
-          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_300x300.webp",
-          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_720x720.webp",
-          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_1080x1080.webp"
+          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/cfab710e8842dc77a7014a36ba10ae6b~c5_1080x1080.webp"
         }
       },
       "stats": {
@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 32200000,
-        "likes": 489600000
+        "likes": 489700000
       }
     },
     {
@@ -387,7 +387,7 @@
       },
       "stats": {
         "followers": 19200000,
-        "likes": 84300000
+        "likes": 84400000
       }
     },
     {
@@ -620,7 +620,7 @@
         }
       },
       "stats": {
-        "followers": 570000,
+        "followers": 570100,
         "likes": 4400000
       }
     },
@@ -772,7 +772,7 @@
       "name": "#apifamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0708e9d4e9d1cc83d7c0b4e5b3c4e819.jpeg",
       "stats": {
-        "views": 402200000
+        "views": 405000000
       }
     },
     {
@@ -869,7 +869,7 @@
         "playUrl": "h"
       },
       "stats": {
-        "posts": 245500
+        "posts": 247600
       }
     },
     {
@@ -894,7 +894,7 @@
         "playUrl": "h"
       },
       "stats": {
-        "posts": 258900
+        "posts": 259300
       }
     },
     {
@@ -919,7 +919,7 @@
         "playUrl": "h"
       },
       "stats": {
-        "posts": 36400
+        "posts": 36500
       }
     },
     {
@@ -969,7 +969,7 @@
         "playUrl": "h"
       },
       "stats": {
-        "posts": 131300
+        "posts": 131400
       }
     },
     {
@@ -994,7 +994,7 @@
         "playUrl": "h"
       },
       "stats": {
-        "posts": 634700
+        "posts": 636000
       }
     },
     {
@@ -1019,7 +1019,7 @@
         "playUrl": "h"
       },
       "stats": {
-        "posts": 502400
+        "posts": 502500
       }
     },
     {
@@ -1069,7 +1069,7 @@
         "playUrl": "h"
       },
       "stats": {
-        "posts": 97300
+        "posts": 97400
       }
     }
   ]
