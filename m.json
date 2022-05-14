@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 52400000,
-        "likes": 299400000
+        "likes": 299500000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 19300000,
-        "likes": 85000000
+        "likes": 85100000
       }
     },
     {
@@ -387,7 +387,7 @@
       },
       "stats": {
         "followers": 3300000,
-        "likes": 20400000
+        "likes": 20500000
       }
     },
     {
@@ -620,7 +620,7 @@
         }
       },
       "stats": {
-        "followers": 572000,
+        "followers": 572100,
         "likes": 4500000
       }
     },
@@ -731,12 +731,21 @@
   ],
   "hashtag": [
     {
+      "challengeId": "442816",
+      "description": "Whether it's city pop or surf rock, here's to #JapaneseMusic.",
+      "name": "#japanesemusic",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/682e1d44575b0dfda792eb1a91ca7485.jpeg",
+      "stats": {
+        "views": 63300000
+      }
+    },
+    {
       "challengeId": "50692558",
       "description": "Ok, #WellThatsYou, me on the other hand...",
       "name": "#wellthatsyou",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2290d588ff103a8ded6b7e7ce7852f4d.jpeg",
       "stats": {
-        "views": 44100000
+        "views": 45700000
       }
     },
     {
@@ -790,7 +799,7 @@
       "name": "#apifamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0708e9d4e9d1cc83d7c0b4e5b3c4e819.jpeg",
       "stats": {
-        "views": 422200000
+        "views": 422800000
       }
     },
     {
@@ -810,18 +819,34 @@
       "stats": {
         "views": 8400000000
       }
-    },
-    {
-      "challengeId": "1617686924395526",
-      "description": "Whether you're hitting the gym or hitting the trail, work it out with #FitTok.",
-      "name": "#FitTok",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/43b7eca6d9af9cc8f425a7626e96a128.jpeg",
-      "stats": {
-        "views": 21200000000
-      }
     }
   ],
   "music": [
+    {
+      "musicId": "7094303913528035330",
+      "avatar": {
+        "jpeg": {
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/a6381ccdcc744539889484ae8e5e4194~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/a6381ccdcc744539889484ae8e5e4194~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/a6381ccdcc744539889484ae8e5e4194~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/a6381ccdcc744539889484ae8e5e4194~c5_1080x1080.jpeg"
+        },
+        "webp": {
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/a6381ccdcc744539889484ae8e5e4194~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/a6381ccdcc744539889484ae8e5e4194~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/a6381ccdcc744539889484ae8e5e4194~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/a6381ccdcc744539889484ae8e5e4194~c5_1080x1080.webp"
+        }
+      },
+      "musicInfo": {
+        "author": "Bad Bunny",
+        "title": "Tití Me Preguntó",
+        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8715a8a857b241bb860306c3870bafda"
+      },
+      "stats": {
+        "posts": 54200
+      }
+    },
     {
       "musicId": "6732536571318257666",
       "avatar": {
@@ -869,7 +894,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/62d497a35bcf407598da8ac1d741359b"
       },
       "stats": {
-        "posts": 296100
+        "posts": 298400
       }
     },
     {
@@ -894,7 +919,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/4e6dd23ccdb843f79956eeeab0c8999f"
       },
       "stats": {
-        "posts": 264600
+        "posts": 264800
       }
     },
     {
@@ -994,7 +1019,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8712eb155ead4a259d0556ce2249f72f"
       },
       "stats": {
-        "posts": 659400
+        "posts": 660200
       }
     },
     {
@@ -1045,31 +1070,6 @@
       },
       "stats": {
         "posts": 1800000
-      }
-    },
-    {
-      "musicId": "7078247477602700034",
-      "avatar": {
-        "jpeg": {
-          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/7bc21012e3884a6a962b59e19b23610d~c5_100x100.jpeg",
-          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/7bc21012e3884a6a962b59e19b23610d~c5_300x300.jpeg",
-          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/7bc21012e3884a6a962b59e19b23610d~c5_720x720.jpeg",
-          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/7bc21012e3884a6a962b59e19b23610d~c5_1080x1080.jpeg"
-        },
-        "webp": {
-          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/7bc21012e3884a6a962b59e19b23610d~c5_100x100.webp",
-          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/7bc21012e3884a6a962b59e19b23610d~c5_300x300.webp",
-          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/7bc21012e3884a6a962b59e19b23610d~c5_720x720.webp",
-          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/7bc21012e3884a6a962b59e19b23610d~c5_1080x1080.webp"
-        }
-      },
-      "musicInfo": {
-        "author": "LIL GLOCK 420",
-        "title": "FASHION",
-        "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/ad7aa7548b76485ca9bd378091a56554"
-      },
-      "stats": {
-        "posts": 99700
       }
     }
   ]
