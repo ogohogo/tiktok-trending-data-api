@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 20800000,
-        "likes": 715000000
+        "likes": 715100000
       }
     },
     {
@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 22800000,
-        "likes": 892600000
+        "likes": 892700000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 24300000,
-        "likes": 304500000
+        "likes": 304600000
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 39700000,
-        "likes": 525300000
+        "likes": 525400000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 16300000,
-        "likes": 686100000
+        "likes": 686200000
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 10800000,
-        "likes": 610300000
+        "likes": 610400000
       }
     },
     {
@@ -387,7 +387,7 @@
       },
       "stats": {
         "followers": 12100000,
-        "likes": 743100000
+        "likes": 743200000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 8300000,
-        "likes": 146500000
+        "likes": 146600000
       }
     },
     {
@@ -777,18 +777,36 @@
       },
       "stats": {
         "followers": 24000000,
-        "likes": 740700000
+        "likes": 740800000
       }
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "31638758",
+      "description": "From everything matzah, to kugel, and latkes, we’re here for all things #JewishFood.",
+      "name": "#jewishfood",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ecd4aa548f68127e8c53205aa097772d.jpeg",
+      "stats": {
+        "views": 66900000
+      }
+    },
+    {
+      "challengeId": "1616387242767366",
+      "description": "Whether you're gearing up to hit the field, working in the industry, or just supporting your favorite team, we're celebrating the entire #SportsTikTok community.",
+      "name": "#sportstiktok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0a1bbf9018e580a9ab64bf04d52815b6.png",
+      "stats": {
+        "views": 2100000000
+      }
+    },
     {
       "challengeId": "442816",
       "description": "Whether it's city pop or surf rock, here's to #JapaneseMusic.",
       "name": "#japanesemusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/682e1d44575b0dfda792eb1a91ca7485.jpeg",
       "stats": {
-        "views": 72800000
+        "views": 73500000
       }
     },
     {
@@ -797,7 +815,7 @@
       "name": "#wellthatsyou",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2290d588ff103a8ded6b7e7ce7852f4d.jpeg",
       "stats": {
-        "views": 85000000
+        "views": 86700000
       }
     },
     {
@@ -851,25 +869,7 @@
       "name": "#apifamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0708e9d4e9d1cc83d7c0b4e5b3c4e819.jpeg",
       "stats": {
-        "views": 434200000
-      }
-    },
-    {
-      "challengeId": "14368",
-      "description": "We're celebrating all things #AmericanIdol on TikTok! Whether you're rooting for your favorite contestant, singing along to 'A Moment Like This,' or getting ready for this season's finale, sing your heart out and be discovered. Watch a new American Idol, LIVE on SUNDAY at 8e/5p on ABC and Stream on Hulu!",
-      "name": "#americanidol",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/76d7c6e425614d081dec655db5e33e09.jpeg",
-      "stats": {
-        "views": 1700000000
-      }
-    },
-    {
-      "challengeId": "22326",
-      "description": "Happy #MothersDay!",
-      "name": "#mothersday",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8b94e593c89bf3f9bc8bba28c2140ff8.png",
-      "stats": {
-        "views": 8500000000
+        "views": 434600000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/8715a8a857b241bb860306c3870bafda"
       },
       "stats": {
-        "posts": 69700
+        "posts": 70100
       }
     },
     {
@@ -946,7 +946,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/62d497a35bcf407598da8ac1d741359b"
       },
       "stats": {
-        "posts": 345500
+        "posts": 347500
       }
     },
     {
@@ -971,7 +971,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/4e6dd23ccdb843f79956eeeab0c8999f"
       },
       "stats": {
-        "posts": 269100
+        "posts": 269300
       }
     },
     {
@@ -1046,7 +1046,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/8778f5f2662c4af0b5c7617741f129c9"
       },
       "stats": {
-        "posts": 133800
+        "posts": 133900
       }
     },
     {
@@ -1071,7 +1071,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/8712eb155ead4a259d0556ce2249f72f"
       },
       "stats": {
-        "posts": 679300
+        "posts": 680100
       }
     },
     {
