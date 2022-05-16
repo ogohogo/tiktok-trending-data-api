@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 40500000,
-        "likes": 304800000
+        "likes": 304900000
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 34500000,
-        "likes": 170700000
+        "likes": 170800000
       }
     },
     {
@@ -731,12 +731,30 @@
   ],
   "hashtag": [
     {
+      "challengeId": "1698788616412166",
+      "description": "From local shops to start-ups paving new paths, here's to all the API-owned businesses on TikTok.",
+      "name": "#SpotlightAPI",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f1cded3e730895db9a0cdf82866f7b5c.jpeg",
+      "stats": {
+        "views": 13800000000
+      }
+    },
+    {
+      "challengeId": "39238",
+      "description": "Here's to all the photographers on TikTok. Grab your camera and take a photo.",
+      "name": "#photography",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7f577590c71c1103d1b0e645bf5bd174.jpeg",
+      "stats": {
+        "views": 34800000000
+      }
+    },
+    {
       "challengeId": "31638758",
       "description": "From everything matzah, to kugel, and latkes, we’re here for all things #JewishFood.",
       "name": "#jewishfood",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ecd4aa548f68127e8c53205aa097772d.jpeg",
       "stats": {
-        "views": 73700000
+        "views": 74100000
       }
     },
     {
@@ -754,7 +772,7 @@
       "name": "#japanesemusic",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/682e1d44575b0dfda792eb1a91ca7485.jpeg",
       "stats": {
-        "views": 84200000
+        "views": 85100000
       }
     },
     {
@@ -763,7 +781,7 @@
       "name": "#wellthatsyou",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/2290d588ff103a8ded6b7e7ce7852f4d.jpeg",
       "stats": {
-        "views": 120500000
+        "views": 122300000
       }
     },
     {
@@ -801,24 +819,6 @@
       "stats": {
         "views": 35000000000
       }
-    },
-    {
-      "challengeId": "65866",
-      "description": "Show us how you game with #LetsPlay on TikTok.",
-      "name": "#letsplay",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/037dd72311e3b26055806197009c07a5.jpeg",
-      "stats": {
-        "views": 3700000000
-      }
-    },
-    {
-      "challengeId": "14368",
-      "description": "We're celebrating all things #AmericanIdol on TikTok! Whether you're rooting for your favorite contestant, singing along to 'A Moment Like This,' or getting ready for this season's finale, sing your heart out and be discovered. Watch a new American Idol, LIVE on SUNDAY at 8e/5p on ABC and Stream on Hulu!",
-      "name": "#americanidol",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/76d7c6e425614d081dec655db5e33e09.jpeg",
-      "stats": {
-        "views": 1700000000
-      }
     }
   ],
   "music": [
@@ -844,7 +844,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8715a8a857b241bb860306c3870bafda"
       },
       "stats": {
-        "posts": 85500
+        "posts": 86000
       }
     },
     {
@@ -894,7 +894,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/62d497a35bcf407598da8ac1d741359b"
       },
       "stats": {
-        "posts": 385200
+        "posts": 387100
       }
     },
     {
@@ -919,7 +919,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/4e6dd23ccdb843f79956eeeab0c8999f"
       },
       "stats": {
-        "posts": 273400
+        "posts": 273600
       }
     },
     {
@@ -1019,7 +1019,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8712eb155ead4a259d0556ce2249f72f"
       },
       "stats": {
-        "posts": 697700
+        "posts": 698500
       }
     },
     {
