@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 40200000,
-        "likes": 550800000
+        "likes": 551000000
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "stats": {
         "followers": 12200000,
-        "likes": 757700000
+        "likes": 757900000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 11800000,
-        "likes": 485400000
+        "likes": 485500000
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "stats": {
         "followers": 9200000,
-        "likes": 162000000
+        "likes": 162100000
       }
     },
     {
@@ -387,7 +387,7 @@
       },
       "stats": {
         "followers": 5300000,
-        "likes": 214200000
+        "likes": 214300000
       }
     },
     {
@@ -439,7 +439,7 @@
       },
       "stats": {
         "followers": 24300000,
-        "likes": 749900000
+        "likes": 750000000
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 11000000,
-        "likes": 619300000
+        "likes": 619400000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 14400000,
-        "likes": 418100000
+        "likes": 418200000
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "stats": {
         "followers": 12200000,
-        "likes": 803200000
+        "likes": 803300000
       }
     },
     {
@@ -751,7 +751,7 @@
       },
       "stats": {
         "followers": 8500000,
-        "likes": 890200000
+        "likes": 890300000
       }
     },
     {
@@ -788,7 +788,25 @@
       "name": "#apifamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0708e9d4e9d1cc83d7c0b4e5b3c4e819.jpeg",
       "stats": {
-        "views": 590700000
+        "views": 591200000
+      }
+    },
+    {
+      "challengeId": "1591463963924482",
+      "description": "Here's to all the #PetsOfTikTok.",
+      "name": "#PetsOfTikTok",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/65d5a1c00dec43751209ac65102b830d.jpeg",
+      "stats": {
+        "views": 45000000000
+      }
+    },
+    {
+      "challengeId": "195699",
+      "description": "Whether you love comic books, anime or anything else, show us your best #FanArt.",
+      "name": "#fanart",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/12d1a4ad9506d40d2e2e4af106ddc7c8.png",
+      "stats": {
+        "views": 19200000000
       }
     },
     {
@@ -824,7 +842,7 @@
       "name": "#letstalkmentalhealth",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/ec29150da7bccfe710bbb8238f1e5690.jpeg",
       "stats": {
-        "views": 23300000
+        "views": 23500000
       }
     },
     {
@@ -842,7 +860,7 @@
       "name": "#timepassing",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1d66d137151bafc0d6329f6954df21c8.jpeg",
       "stats": {
-        "views": 124900000
+        "views": 125300000
       }
     },
     {
@@ -852,24 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/d6bca1456928093c75dee6fe9d26cede.png",
       "stats": {
         "views": 6400000000
-      }
-    },
-    {
-      "challengeId": "1698788616412166",
-      "description": "From local shops to start-ups paving new paths, here's to all the API-owned businesses on TikTok.",
-      "name": "#spotlightapi",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/f1cded3e730895db9a0cdf82866f7b5c.jpeg",
-      "stats": {
-        "views": 14000000000
-      }
-    },
-    {
-      "challengeId": "39238",
-      "description": "Here's to all the photographers on TikTok. Grab your camera and take a photo.",
-      "name": "#photography",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/7f577590c71c1103d1b0e645bf5bd174.jpeg",
-      "stats": {
-        "views": 35400000000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3c90776eccfc499db3ac2e46c07b589f"
       },
       "stats": {
-        "posts": 832400
+        "posts": 835000
       }
     },
     {
@@ -946,7 +946,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/8715a8a857b241bb860306c3870bafda"
       },
       "stats": {
-        "posts": 206500
+        "posts": 207600
       }
     },
     {
@@ -996,7 +996,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/62d497a35bcf407598da8ac1d741359b"
       },
       "stats": {
-        "posts": 697100
+        "posts": 699200
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/4e6dd23ccdb843f79956eeeab0c8999f"
       },
       "stats": {
-        "posts": 295800
+        "posts": 295900
       }
     },
     {
@@ -1071,7 +1071,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/8d7589f3e3c0468e845b5c2e08adb209"
       },
       "stats": {
-        "posts": 336300
+        "posts": 336400
       }
     },
     {
@@ -1121,7 +1121,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/8712eb155ead4a259d0556ce2249f72f"
       },
       "stats": {
-        "posts": 791800
+        "posts": 792400
       }
     }
   ]
