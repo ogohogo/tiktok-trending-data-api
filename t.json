@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 12300000,
-        "likes": 767500000
+        "likes": 767600000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 19600000,
-        "likes": 171800000
+        "likes": 171900000
       }
     },
     {
@@ -568,7 +568,7 @@
         }
       },
       "stats": {
-        "followers": 6700000,
+        "followers": 6800000,
         "likes": 268000000
       }
     },
@@ -647,7 +647,7 @@
       },
       "stats": {
         "followers": 5400000,
-        "likes": 222100000
+        "likes": 222200000
       }
     },
     {
@@ -783,6 +783,24 @@
   ],
   "hashtag": [
     {
+      "challengeId": "30170",
+      "description": "Whether you're singing along to the classics, embracing the honky-tonk life, or looking for the perfect song for the summer, here's to all things #CountryMusic.",
+      "name": "#countrymusic",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/48f44542e8a0877b25d33fff5199a1ee.png",
+      "stats": {
+        "views": 8300000000
+      }
+    },
+    {
+      "challengeId": "45070",
+      "description": "Catch these #SummerVibes.",
+      "name": "#summervibes",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/67957cfb5e90448d1a1b9322b82b071b.jpeg",
+      "stats": {
+        "views": 10200000000
+      }
+    },
+    {
       "challengeId": "6192",
       "description": "It's called #Soccer.",
       "name": "#Soccer",
@@ -824,7 +842,7 @@
       "name": "#LearnOnTikTok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fe20d5c3d77e27dd6acc455ba62504b1.jpeg",
       "stats": {
-        "views": 308500000000
+        "views": 308600000000
       }
     },
     {
@@ -833,7 +851,7 @@
       "name": "#apifamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0708e9d4e9d1cc83d7c0b4e5b3c4e819.jpeg",
       "stats": {
-        "views": 717400000
+        "views": 718000000
       }
     },
     {
@@ -852,24 +870,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/12d1a4ad9506d40d2e2e4af106ddc7c8.png",
       "stats": {
         "views": 19300000000
-      }
-    },
-    {
-      "challengeId": "4779",
-      "description": "Head to the great outdoors for all things #Hiking.",
-      "name": "#Hiking",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/a3079e66b51f480ebd39817236f030b5.png",
-      "stats": {
-        "views": 4600000000
-      }
-    },
-    {
-      "challengeId": "18504",
-      "description": "Whether you're enjoying some calming music or practicing an instrument, we're here for all things #ClassicalMusic.",
-      "name": "#classicalmusic",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/251dbc43a33e1d69efc91a8a8fcd54bf.png",
-      "stats": {
-        "views": 1300000000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/9fbc44d5cbf942c59a1d4609835920ff"
       },
       "stats": {
-        "posts": 55200
+        "posts": 55400
       }
     },
     {
@@ -921,7 +921,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/49677750b4734ff1b42fe17177ba4491"
       },
       "stats": {
-        "posts": 36300
+        "posts": 36400
       }
     },
     {
@@ -996,7 +996,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/8715a8a857b241bb860306c3870bafda"
       },
       "stats": {
-        "posts": 307800
+        "posts": 308200
       }
     },
     {
@@ -1046,7 +1046,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/62d497a35bcf407598da8ac1d741359b"
       },
       "stats": {
-        "posts": 953600
+        "posts": 955400
       }
     },
     {
