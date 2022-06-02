@@ -22,8 +22,8 @@
         }
       },
       "stats": {
-        "followers": 41100000,
-        "likes": 317800000
+        "followers": 41200000,
+        "likes": 317900000
       }
     },
     {
@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 19900000,
-        "likes": 173700000
+        "likes": 173800000
       }
     },
     {
@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 20800000,
-        "likes": 100600000
+        "likes": 100700000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 32400000,
-        "likes": 499600000
+        "likes": 499800000
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "stats": {
         "followers": 16300000,
-        "likes": 164100000
+        "likes": 164200000
       }
     },
     {
@@ -161,7 +161,7 @@
       "secUserId": "MS4wLjABAAAAIAXBSn6tARIqrHDAQM32h-AzSL8yqTbXrZE2HlhpxyctXIAxoYUlBfhmqe-jyzVf",
       "id": "@postmalone",
       "name": "Post Malone",
-      "bio": "Twelve Carat Toothache\nthe new album out this Friday, June 3rd",
+      "bio": "Twelve Carat Toothache\nnew album out this Friday, June 3rd",
       "verified": true,
       "avatar": {
         "jpeg": {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 10700000,
-        "likes": 54600000
+        "likes": 54800000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 4200000,
-        "likes": 32900000
+        "likes": 33000000
       }
     },
     {
@@ -542,7 +542,7 @@
         }
       },
       "stats": {
-        "followers": 3300000,
+        "followers": 3400000,
         "likes": 21300000
       }
     },
@@ -799,7 +799,7 @@
       "name": "#DIY",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/39e0bec9d06f7effef7c95b12cbcd723.jpeg",
       "stats": {
-        "views": 175300000000
+        "views": 175400000000
       }
     },
     {
@@ -808,7 +808,7 @@
       "name": "#LearnOnTikTok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fe20d5c3d77e27dd6acc455ba62504b1.jpeg",
       "stats": {
-        "views": 310600000000
+        "views": 310700000000
       }
     },
     {
@@ -817,7 +817,7 @@
       "name": "#apifamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0708e9d4e9d1cc83d7c0b4e5b3c4e819.jpeg",
       "stats": {
-        "views": 776100000
+        "views": 777300000
       }
     }
   ],
@@ -844,7 +844,7 @@
         "playUrl": "h"
       },
       "stats": {
-        "posts": 170400
+        "posts": 170800
       }
     },
     {
@@ -869,7 +869,7 @@
         "playUrl": "h"
       },
       "stats": {
-        "posts": 94200
+        "posts": 95500
       }
     },
     {
@@ -894,7 +894,7 @@
         "playUrl": "h"
       },
       "stats": {
-        "posts": 41100
+        "posts": 41300
       }
     },
     {
@@ -969,7 +969,7 @@
         "playUrl": "h"
       },
       "stats": {
-        "posts": 355200
+        "posts": 356700
       }
     },
     {
@@ -1044,7 +1044,7 @@
         "playUrl": "h"
       },
       "stats": {
-        "posts": 310100
+        "posts": 310200
       }
     },
     {
@@ -1069,7 +1069,7 @@
         "playUrl": "h"
       },
       "stats": {
-        "posts": 41500
+        "posts": 41600
       }
     }
   ]
