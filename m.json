@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 21300000,
-        "likes": 104400000
+        "likes": 104600000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 32400000,
-        "likes": 500400000
+        "likes": 500500000
       }
     },
     {
@@ -161,7 +161,7 @@
       "secUserId": "MS4wLjABAAAAIAXBSn6tARIqrHDAQM32h-AzSL8yqTbXrZE2HlhpxyctXIAxoYUlBfhmqe-jyzVf",
       "id": "@postmalone",
       "name": "Post Malone",
-      "bio": "Twelve Carat Toothache\nnew album out this Friday, June 3rd",
+      "bio": "Twelve Carat Toothache\nnew album out now",
       "verified": true,
       "avatar": {
         "jpeg": {
@@ -817,7 +817,7 @@
       "name": "#apifamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0708e9d4e9d1cc83d7c0b4e5b3c4e819.jpeg",
       "stats": {
-        "views": 792400000
+        "views": 792700000
       }
     }
   ],
@@ -844,7 +844,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/48f9f4c344224dd1b7e4f0a0de278781"
       },
       "stats": {
-        "posts": 173900
+        "posts": 174000
       }
     },
     {
@@ -869,7 +869,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/9fbc44d5cbf942c59a1d4609835920ff"
       },
       "stats": {
-        "posts": 113300
+        "posts": 113800
       }
     },
     {
@@ -894,7 +894,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/49677750b4734ff1b42fe17177ba4491"
       },
       "stats": {
-        "posts": 42700
+        "posts": 42800
       }
     },
     {
@@ -969,7 +969,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8715a8a857b241bb860306c3870bafda"
       },
       "stats": {
-        "posts": 368900
+        "posts": 369200
       }
     },
     {
@@ -1051,16 +1051,16 @@
       "musicId": "7022942508997004038",
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/4f7b799463f141aeaaa3f6d485b925bc~c5_100x100.jpeg",
-          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/4f7b799463f141aeaaa3f6d485b925bc~c5_300x300.jpeg",
-          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/4f7b799463f141aeaaa3f6d485b925bc~c5_720x720.jpeg",
-          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/4f7b799463f141aeaaa3f6d485b925bc~c5_1080x1080.jpeg"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/fdd493df29a64b7692cbd141b4990be4~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/fdd493df29a64b7692cbd141b4990be4~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/fdd493df29a64b7692cbd141b4990be4~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/fdd493df29a64b7692cbd141b4990be4~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/4f7b799463f141aeaaa3f6d485b925bc~c5_100x100.webp",
-          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/4f7b799463f141aeaaa3f6d485b925bc~c5_300x300.webp",
-          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/4f7b799463f141aeaaa3f6d485b925bc~c5_720x720.webp",
-          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/4f7b799463f141aeaaa3f6d485b925bc~c5_1080x1080.webp"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/fdd493df29a64b7692cbd141b4990be4~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/fdd493df29a64b7692cbd141b4990be4~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/fdd493df29a64b7692cbd141b4990be4~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/fdd493df29a64b7692cbd141b4990be4~c5_1080x1080.webp"
         }
       },
       "musicInfo": {
