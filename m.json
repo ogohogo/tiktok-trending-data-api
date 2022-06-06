@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 41200000,
-        "likes": 319100000
+        "likes": 319200000
       }
     },
     {
@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 20100000,
-        "likes": 179700000
+        "likes": 179800000
       }
     },
     {
@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 22500000,
-        "likes": 112000000
+        "likes": 112100000
       }
     },
     {
@@ -152,7 +152,7 @@
         }
       },
       "stats": {
-        "followers": 35400000,
+        "followers": 35500000,
         "likes": 176800000
       }
     },
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 10800000,
-        "likes": 56200000
+        "likes": 56300000
       }
     },
     {
@@ -817,7 +817,7 @@
       "name": "#apifamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0708e9d4e9d1cc83d7c0b4e5b3c4e819.jpeg",
       "stats": {
-        "views": 809100000
+        "views": 809400000
       }
     }
   ],
@@ -844,7 +844,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/48f9f4c344224dd1b7e4f0a0de278781"
       },
       "stats": {
-        "posts": 180700
+        "posts": 180800
       }
     },
     {
@@ -869,7 +869,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/9fbc44d5cbf942c59a1d4609835920ff"
       },
       "stats": {
-        "posts": 149800
+        "posts": 150300
       }
     },
     {
@@ -894,7 +894,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/49677750b4734ff1b42fe17177ba4491"
       },
       "stats": {
-        "posts": 46300
+        "posts": 46400
       }
     },
     {
@@ -969,7 +969,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8715a8a857b241bb860306c3870bafda"
       },
       "stats": {
-        "posts": 401400
+        "posts": 401900
       }
     },
     {
@@ -1001,16 +1001,16 @@
       "musicId": "7089828122854197249",
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/07076ff9f2ae4e0d96c8e48f7d96cecc~c5_100x100.jpeg",
-          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/07076ff9f2ae4e0d96c8e48f7d96cecc~c5_300x300.jpeg",
-          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/07076ff9f2ae4e0d96c8e48f7d96cecc~c5_720x720.jpeg",
-          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/07076ff9f2ae4e0d96c8e48f7d96cecc~c5_1080x1080.jpeg"
+          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2102/100161bb63db4a6aa69e4df408c1bee8.jpeg",
+          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/100161bb63db4a6aa69e4df408c1bee8.jpeg",
+          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/100161bb63db4a6aa69e4df408c1bee8.jpeg",
+          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2102/100161bb63db4a6aa69e4df408c1bee8.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/07076ff9f2ae4e0d96c8e48f7d96cecc~c5_100x100.webp",
-          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/07076ff9f2ae4e0d96c8e48f7d96cecc~c5_300x300.webp",
-          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/07076ff9f2ae4e0d96c8e48f7d96cecc~c5_720x720.webp",
-          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/07076ff9f2ae4e0d96c8e48f7d96cecc~c5_1080x1080.webp"
+          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2102/100161bb63db4a6aa69e4df408c1bee8.webp",
+          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/100161bb63db4a6aa69e4df408c1bee8.webp",
+          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/100161bb63db4a6aa69e4df408c1bee8.webp",
+          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2102/100161bb63db4a6aa69e4df408c1bee8.webp"
         }
       },
       "musicInfo": {
@@ -1044,7 +1044,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/4e6dd23ccdb843f79956eeeab0c8999f"
       },
       "stats": {
-        "posts": 313000
+        "posts": 313100
       }
     },
     {
