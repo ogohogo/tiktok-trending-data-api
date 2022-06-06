@@ -48,7 +48,7 @@
         }
       },
       "stats": {
-        "followers": 20100000,
+        "followers": 20200000,
         "likes": 179800000
       }
     },
@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 22500000,
-        "likes": 112100000
+        "likes": 112200000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 11300000,
-        "likes": 104700000
+        "likes": 104800000
       }
     },
     {
@@ -808,7 +808,7 @@
       "name": "#LearnOnTikTok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fe20d5c3d77e27dd6acc455ba62504b1.jpeg",
       "stats": {
-        "views": 312900000000
+        "views": 313000000000
       }
     },
     {
@@ -817,7 +817,7 @@
       "name": "#apifamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0708e9d4e9d1cc83d7c0b4e5b3c4e819.jpeg",
       "stats": {
-        "views": 809400000
+        "views": 809700000
       }
     }
   ],
@@ -869,7 +869,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/9fbc44d5cbf942c59a1d4609835920ff"
       },
       "stats": {
-        "posts": 150300
+        "posts": 150600
       }
     },
     {
@@ -969,7 +969,7 @@
         "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/8715a8a857b241bb860306c3870bafda"
       },
       "stats": {
-        "posts": 401900
+        "posts": 402200
       }
     },
     {
@@ -1001,16 +1001,16 @@
       "musicId": "7089828122854197249",
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2102/100161bb63db4a6aa69e4df408c1bee8.jpeg",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/100161bb63db4a6aa69e4df408c1bee8.jpeg",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/100161bb63db4a6aa69e4df408c1bee8.jpeg",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2102/100161bb63db4a6aa69e4df408c1bee8.jpeg"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/07076ff9f2ae4e0d96c8e48f7d96cecc~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/07076ff9f2ae4e0d96c8e48f7d96cecc~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/07076ff9f2ae4e0d96c8e48f7d96cecc~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/07076ff9f2ae4e0d96c8e48f7d96cecc~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2102/100161bb63db4a6aa69e4df408c1bee8.webp",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/100161bb63db4a6aa69e4df408c1bee8.webp",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/100161bb63db4a6aa69e4df408c1bee8.webp",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2102/100161bb63db4a6aa69e4df408c1bee8.webp"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/07076ff9f2ae4e0d96c8e48f7d96cecc~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/07076ff9f2ae4e0d96c8e48f7d96cecc~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/07076ff9f2ae4e0d96c8e48f7d96cecc~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/07076ff9f2ae4e0d96c8e48f7d96cecc~c5_1080x1080.webp"
         }
       },
       "musicInfo": {
