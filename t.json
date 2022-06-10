@@ -35,16 +35,16 @@
       "verified": true,
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5919c31d26416a1a795bb264549a3e14~c5_100x100.jpeg",
-          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5919c31d26416a1a795bb264549a3e14~c5_300x300.jpeg",
-          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5919c31d26416a1a795bb264549a3e14~c5_720x720.jpeg",
-          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5919c31d26416a1a795bb264549a3e14~c5_1080x1080.jpeg"
+          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5919c31d26416a1a795bb264549a3e14~c5_100x100.jpeg",
+          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5919c31d26416a1a795bb264549a3e14~c5_300x300.jpeg",
+          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5919c31d26416a1a795bb264549a3e14~c5_720x720.jpeg",
+          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5919c31d26416a1a795bb264549a3e14~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5919c31d26416a1a795bb264549a3e14~c5_100x100.webp",
-          "medium": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5919c31d26416a1a795bb264549a3e14~c5_300x300.webp",
-          "big": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5919c31d26416a1a795bb264549a3e14~c5_720x720.webp",
-          "large": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5919c31d26416a1a795bb264549a3e14~c5_1080x1080.webp"
+          "small": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5919c31d26416a1a795bb264549a3e14~c5_100x100.webp",
+          "medium": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5919c31d26416a1a795bb264549a3e14~c5_300x300.webp",
+          "big": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5919c31d26416a1a795bb264549a3e14~c5_720x720.webp",
+          "large": "https://p19.tiktokcdn-us.com/tos-useast5-avt-0068-tx/5919c31d26416a1a795bb264549a3e14~c5_1080x1080.webp"
         }
       },
       "stats": {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 12500000,
-        "likes": 508600000
+        "likes": 508700000
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 16800000,
-        "likes": 797100000
+        "likes": 797200000
       }
     },
     {
@@ -621,7 +621,7 @@
       },
       "stats": {
         "followers": 13600000,
-        "likes": 316500000
+        "likes": 316600000
       }
     },
     {
@@ -725,7 +725,7 @@
       },
       "stats": {
         "followers": 23800000,
-        "likes": 424000000
+        "likes": 424100000
       }
     },
     {
@@ -751,7 +751,7 @@
       },
       "stats": {
         "followers": 10300000,
-        "likes": 292700000
+        "likes": 292800000
       }
     },
     {
@@ -869,7 +869,7 @@
       "name": "#apifamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0708e9d4e9d1cc83d7c0b4e5b3c4e819.jpeg",
       "stats": {
-        "views": 832200000
+        "views": 832400000
       }
     }
   ],
@@ -896,7 +896,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/48f9f4c344224dd1b7e4f0a0de278781"
       },
       "stats": {
-        "posts": 189000
+        "posts": 189100
       }
     },
     {
@@ -921,7 +921,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/9fbc44d5cbf942c59a1d4609835920ff"
       },
       "stats": {
-        "posts": 203200
+        "posts": 203900
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/8715a8a857b241bb860306c3870bafda"
       },
       "stats": {
-        "posts": 447900
+        "posts": 448500
       }
     },
     {
@@ -1096,7 +1096,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/4e6dd23ccdb843f79956eeeab0c8999f"
       },
       "stats": {
-        "posts": 315500
+        "posts": 315600
       }
     },
     {
