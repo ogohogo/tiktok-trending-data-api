@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 42600000,
-        "likes": 360800000
+        "likes": 360900000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 37000000,
-        "likes": 183100000
+        "likes": 183200000
       }
     },
     {
@@ -843,7 +843,7 @@
         "playUrl": "h"
       },
       "stats": {
-        "posts": 488700
+        "posts": 488800
       }
     },
     {
@@ -868,23 +868,23 @@
         "playUrl": "h"
       },
       "stats": {
-        "posts": 116800
+        "posts": 116900
       }
     },
     {
       "musicId": "6985179435246881541",
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2102/d3873388681b4c96ac65bcab9d737888.jpeg",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/d3873388681b4c96ac65bcab9d737888.jpeg",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/d3873388681b4c96ac65bcab9d737888.jpeg",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2102/d3873388681b4c96ac65bcab9d737888.jpeg"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/b549966243e04da989d91641309d8607~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/b549966243e04da989d91641309d8607~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/b549966243e04da989d91641309d8607~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/b549966243e04da989d91641309d8607~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2102/d3873388681b4c96ac65bcab9d737888.webp",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/d3873388681b4c96ac65bcab9d737888.webp",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/d3873388681b4c96ac65bcab9d737888.webp",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2102/d3873388681b4c96ac65bcab9d737888.webp"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/b549966243e04da989d91641309d8607~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/b549966243e04da989d91641309d8607~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/b549966243e04da989d91641309d8607~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/b549966243e04da989d91641309d8607~c5_1080x1080.webp"
         }
       },
       "musicInfo": {
