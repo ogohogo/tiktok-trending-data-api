@@ -22,8 +22,8 @@
         }
       },
       "stats": {
-        "followers": 56400000,
-        "likes": 350600000
+        "followers": 56500000,
+        "likes": 350800000
       }
     },
     {
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 33400000,
-        "likes": 521100000
+        "likes": 521200000
       }
     },
     {
@@ -439,7 +439,7 @@
       },
       "stats": {
         "followers": 72200000,
-        "likes": 492000000
+        "likes": 492100000
       }
     },
     {
@@ -492,6 +492,32 @@
       "stats": {
         "followers": 20500000,
         "likes": 107000000
+      }
+    },
+    {
+      "userId": "6756702871704192005",
+      "secUserId": "MS4wLjABAAAAIDvnmw4IM9I6Jk7M0up6Fd4JC_OtGgVCwsy0vu51T9CGyxQwGLEmN_QZY1v2TYY5",
+      "id": "@justinbieber",
+      "name": "Justin Bieber",
+      "bio": "HONEST music video out now!",
+      "verified": true,
+      "avatar": {
+        "jpeg": {
+          "small": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_1080x1080.jpeg"
+        },
+        "webp": {
+          "small": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_1080x1080.webp"
+        }
+      },
+      "stats": {
+        "followers": 25800000,
+        "likes": 116100000
       }
     },
     {
@@ -737,7 +763,7 @@
       "name": "#Soccer",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/1704ad8f08e1fe07cac26c22776655fb.jpeg",
       "stats": {
-        "views": 178100000000
+        "views": 178200000000
       }
     },
     {
@@ -773,7 +799,7 @@
       "name": "#apifamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0708e9d4e9d1cc83d7c0b4e5b3c4e819.jpeg",
       "stats": {
-        "views": 956200000
+        "views": 956300000
       }
     },
     {
@@ -782,7 +808,7 @@
       "name": "#PetsOfTikTok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/edceef9195bb64a48bc57effaa63894c.png",
       "stats": {
-        "views": 53600000000
+        "views": 53700000000
       }
     },
     {
