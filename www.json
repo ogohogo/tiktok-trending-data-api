@@ -23,7 +23,7 @@
       },
       "stats": {
         "followers": 56500000,
-        "likes": 351600000
+        "likes": 351700000
       }
     },
     {
@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 42800000,
-        "likes": 367800000
+        "likes": 367900000
       }
     },
     {
@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 26200000,
-        "likes": 239400000
+        "likes": 239500000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 12400000,
-        "likes": 131100000
+        "likes": 131200000
       }
     },
     {
@@ -126,8 +126,8 @@
         }
       },
       "stats": {
-        "followers": 37800000,
-        "likes": 190200000
+        "followers": 37900000,
+        "likes": 190300000
       }
     },
     {
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 33500000,
-        "likes": 521900000
+        "likes": 522200000
       }
     },
     {
@@ -178,7 +178,7 @@
         }
       },
       "stats": {
-        "followers": 13100000,
+        "followers": 13200000,
         "likes": 115300000
       }
     },
@@ -309,7 +309,7 @@
       },
       "stats": {
         "followers": 22800000,
-        "likes": 122200000
+        "likes": 122300000
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "stats": {
         "followers": 12300000,
-        "likes": 83700000
+        "likes": 83800000
       }
     },
     {
@@ -413,7 +413,7 @@
       },
       "stats": {
         "followers": 7100000,
-        "likes": 17500000
+        "likes": 17600000
       }
     },
     {
@@ -492,32 +492,6 @@
       "stats": {
         "followers": 20500000,
         "likes": 107000000
-      }
-    },
-    {
-      "userId": "6756702871704192005",
-      "secUserId": "MS4wLjABAAAAIDvnmw4IM9I6Jk7M0up6Fd4JC_OtGgVCwsy0vu51T9CGyxQwGLEmN_QZY1v2TYY5",
-      "id": "@justinbieber",
-      "name": "Justin Bieber",
-      "bio": "HONEST music video out now!",
-      "verified": true,
-      "avatar": {
-        "jpeg": {
-          "small": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_100x100.jpeg",
-          "medium": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_300x300.jpeg",
-          "big": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_720x720.jpeg",
-          "large": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_1080x1080.jpeg"
-        },
-        "webp": {
-          "small": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_100x100.webp",
-          "medium": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_300x300.webp",
-          "big": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_720x720.webp",
-          "large": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_1080x1080.webp"
-        }
-      },
-      "stats": {
-        "followers": 25800000,
-        "likes": 116100000
       }
     },
     {
@@ -781,7 +755,7 @@
       "name": "#DIY",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/39e0bec9d06f7effef7c95b12cbcd723.jpeg",
       "stats": {
-        "views": 199600000000
+        "views": 199700000000
       }
     },
     {
@@ -799,7 +773,7 @@
       "name": "#apifamily",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0708e9d4e9d1cc83d7c0b4e5b3c4e819.jpeg",
       "stats": {
-        "views": 958100000
+        "views": 958200000
       }
     },
     {
@@ -869,7 +843,7 @@
         "playUrl": "h"
       },
       "stats": {
-        "posts": 497600
+        "posts": 497700
       }
     },
     {
@@ -894,7 +868,7 @@
         "playUrl": "h"
       },
       "stats": {
-        "posts": 127100
+        "posts": 127300
       }
     },
     {
@@ -1044,7 +1018,7 @@
         "playUrl": "h"
       },
       "stats": {
-        "posts": 565100
+        "posts": 565000
       }
     },
     {
@@ -1069,7 +1043,7 @@
         "playUrl": "h"
       },
       "stats": {
-        "posts": 221100
+        "posts": 221000
       }
     }
   ]
