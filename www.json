@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 42800000,
-        "likes": 368200000
+        "likes": 368300000
       }
     },
     {
@@ -74,7 +74,7 @@
         }
       },
       "stats": {
-        "followers": 26200000,
+        "followers": 26300000,
         "likes": 239500000
       }
     },
@@ -153,7 +153,7 @@
       },
       "stats": {
         "followers": 33500000,
-        "likes": 522600000
+        "likes": 522700000
       }
     },
     {
@@ -492,6 +492,32 @@
       "stats": {
         "followers": 20500000,
         "likes": 107000000
+      }
+    },
+    {
+      "userId": "6756702871704192005",
+      "secUserId": "MS4wLjABAAAAIDvnmw4IM9I6Jk7M0up6Fd4JC_OtGgVCwsy0vu51T9CGyxQwGLEmN_QZY1v2TYY5",
+      "id": "@justinbieber",
+      "name": "Justin Bieber",
+      "bio": "HONEST music video out now!",
+      "verified": true,
+      "avatar": {
+        "jpeg": {
+          "small": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_1080x1080.jpeg"
+        },
+        "webp": {
+          "small": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/9df63fea7cb5c82ba03664410cd75b30~c5_1080x1080.webp"
+        }
+      },
+      "stats": {
+        "followers": 25800000,
+        "likes": 116100000
       }
     },
     {
@@ -868,7 +894,7 @@
         "playUrl": "h"
       },
       "stats": {
-        "posts": 127500
+        "posts": 127600
       }
     },
     {
