@@ -22,8 +22,8 @@
         }
       },
       "stats": {
-        "followers": 62300000,
-        "likes": 395600000
+        "followers": 62400000,
+        "likes": 395700000
       }
     },
     {
@@ -49,7 +49,7 @@
       },
       "stats": {
         "followers": 26200000,
-        "likes": 143500000
+        "likes": 143600000
       }
     },
     {
@@ -74,8 +74,8 @@
         }
       },
       "stats": {
-        "followers": 6000000,
-        "likes": 70400000
+        "followers": 6100000,
+        "likes": 70500000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 12400000,
-        "likes": 68600000
+        "likes": 68700000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 13700000,
-        "likes": 107700000
+        "likes": 107900000
       }
     },
     {
@@ -387,7 +387,7 @@
       },
       "stats": {
         "followers": 40600000,
-        "likes": 211500000
+        "likes": 211600000
       }
     },
     {
@@ -439,7 +439,7 @@
       },
       "stats": {
         "followers": 10600000,
-        "likes": 42300000
+        "likes": 42400000
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "stats": {
         "followers": 28500000,
-        "likes": 265300000
+        "likes": 265400000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 1700000,
-        "likes": 11600000
+        "likes": 11700000
       }
     },
     {
@@ -625,6 +625,32 @@
       }
     },
     {
+      "userId": "99320625143398400",
+      "secUserId": "MS4wLjABAAAA4Phu-XhyWURALiNRxHTNIyzQZI5BHic4Resg0s2Eo8KteOmcQsn8xmOtjQrY29xu",
+      "id": "@arianagrande",
+      "name": "arianagrande",
+      "bio": "",
+      "verified": true,
+      "avatar": {
+        "jpeg": {
+          "small": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/6497db3045637cd349c0823835184429~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/6497db3045637cd349c0823835184429~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/6497db3045637cd349c0823835184429~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/6497db3045637cd349c0823835184429~c5_1080x1080.jpeg"
+        },
+        "webp": {
+          "small": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/6497db3045637cd349c0823835184429~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/6497db3045637cd349c0823835184429~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/6497db3045637cd349c0823835184429~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/tos-maliva-avt-0068/6497db3045637cd349c0823835184429~c5_1080x1080.webp"
+        }
+      },
+      "stats": {
+        "followers": 27900000,
+        "likes": 100100000
+      }
+    },
+    {
       "userId": "138635416672317440",
       "secUserId": "MS4wLjABAAAAXGEEfLfwPoycHwYf6qZF3gvYruavdCMGpVvu92V1PnV0f22V1SExGDJIFrpWJY0C",
       "id": "@ladygaga",
@@ -673,7 +699,7 @@
       },
       "stats": {
         "followers": 17000000,
-        "likes": 179800000
+        "likes": 179900000
       }
     },
     {
@@ -762,7 +788,7 @@
       "name": "#PetsOfTikTok",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/edceef9195bb64a48bc57effaa63894c.png",
       "stats": {
-        "views": 60900000000
+        "views": 61000000000
       }
     },
     {
